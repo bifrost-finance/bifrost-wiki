@@ -13,5 +13,3 @@ features:
   details: Empowering developers, based on Bifrost's wallet, mining pool, Dapp, DeFi and other ecosystems will get staking gain from the chain layer. eg. when vToken is borrowed as collateral, its staking income can offset part of the interest and realize low-interest loans.
 footer: Copyright © 2019-2020 Bifrost Network and Contributors
 ---
-
-<<< @/en/CHANGELOG.md
