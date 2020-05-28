@@ -41,8 +41,8 @@ module.exports = {
             text: 'Documentation',
             items: [
               {text: 'Developer', link: 'https://docs.bifrost.codes/developer'},
-              {text: 'Wiki', link: 'https://docs.bifrost.codes/wiki'},
               {text: 'Whitepaper', link: 'https://docs.bifrost.codes/whitepaper'},
+              {text: 'Wiki', link: 'https://docs.bifrost.codes/wiki'},
             ],
           },
           {text: 'GitHub', link: 'https://github.com/bifrost-codes'},
@@ -74,8 +74,8 @@ module.exports = {
             text: '文档',
             items: [
               {text: '开发文档', link: 'https://docs.bifrost.codes/developer'},
-              {text: '帮助文档', link: 'https://docs.bifrost.codes/wiki'},
               {text: '白皮书', link: 'https://docs.bifrost.codes/whitepaper'},
+              {text: '帮助文档', link: 'https://docs.bifrost.codes/wiki'},
             ],
           },
           {text: 'GitHub', link: 'https://github.com/bifrost-codes'},
