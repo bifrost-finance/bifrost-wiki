@@ -12,6 +12,6 @@ branchs:
   - master
 before_install:
 - openssl aes-256-cbc -K $encrypted_40bf1b8382bc_key -iv $encrypted_40bf1b8382bc_iv -in deploy.enc -out ~/.ssh/deploy -d
-- chmod 600 ~/.ssh/deploy
 after_success:
+- chmod 600 ~/.ssh/deploy
 - scp -i ~/.ssh/deploy -o stricthostkeychecking=no -rv .vuepress/dist/* $user@$ip:$webroot
