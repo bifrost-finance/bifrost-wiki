@@ -11,7 +11,7 @@ branchs:
   only:
   - master
 before_install:
-- openssl aes-256-cbc -K $encrypted_b7a9b1a952b3_key -iv $encrypted_b7a9b1a952b3_iv -in id_rsa.pub.enc -out ~/.ssh/id_rsa.pub -d
+- openssl aes-256-cbc -K $encrypted_b7a9b1a952b3_key -iv $encrypted_b7a9b1a952b3_iv -in id_rsa.pub.enc -out ~\/.ssh/id_rsa.pub -d
 - chmod 600 ~/.ssh/id_rsa.pub
 after_success:
 - scp -i ~/.ssh/id_rsa.pub -o stricthostkeychecking=no -rv .vuepress/dist/* $user@$ip:$webroot
