@@ -49,14 +49,93 @@ module.exports = {
         ],
         sidebar: [
           {
-            title: 'Category 1',
+            title: 'Events',
             collapsable: false,
-            sidebarDepth: 0,
+            sidebarDepth: 3,
             children: [
-              ['/en/category-1/page-1.md', 'Page 1'],
+              {
+                title: 'Ongoing',
+                collapsable: false,
+                children: [
+                  {
+                    title: 'Node Event',
+                    collapsable: true,
+                    children: [
+                      ['/en/events/ongoing/node-event-01-xxxxx.md', 'node 01'],
+                    ],
+                  },
+                  {
+                    title: 'AMA Event',
+                    collapsable: true,
+                    children: [
+                      ['/en/events/ongoing/ama-event-01-xxxxx.md', 'ama 01'],
+                      ['/en/events/ongoing/ama-event-02-xxxxx.md', 'ama 02'],
+                    ],
+                  },
+                  {
+                    title: 'Airdrop Event',
+                    collapsable: true,
+                    children: [
+                      ['/en/events/ongoing/airdrop-event-01-xxxxx.md', 'airdrop 01'],
+                    ],
+                  },
+                ],
+              },
+              {
+                title: 'Finished',
+                collapsable: false,
+                children: [
+                  {
+                    title: 'Node Event',
+                    collapsable: true,
+                    children: [
+                    ],
+                  },
+                  {
+                    title: 'AMA Event',
+                    collapsable: true,
+                    children: [
+                      ['/en/events/finished/ama-event-01-xxxxx.md', 'ama 01'],
+                      ['/en/events/finished/ama-event-02-xxxxx.md', 'ama 02'],
+                    ],
+                  },
+                  {
+                    title: 'Airdrop Event',
+                    collapsable: true,
+                    children: [
+                      ['/en/events/finished/airdrop-event-01-xxxxx.md', 'airdrop 01'],
+                    ],
+                  },
+                ],
+              },
             ],
           },
+          {
+            title: 'Contribute',
+            collapsable: false,
+            sidebarDepth: 1,
+            children: [
+              ['/en/contribute/long-term.md', 'Long Term'],
+            ],
+          },
+          {
+            title: 'News',
+            collapsable: false,
+            sidebarDepth: 1,
+            children: [
+              ['/en/news/published.md', 'Published'],
+            ],
+          },
+          {
+            title: 'Help',
+            collapsable: false,
+            sidebarDepth: 1,
+            children: [
+              ['/en/help/faq.md', 'FAQ'],
+            ],
+          }
         ],
+
       },
       '/zh/': {
         selectText: '选择语言',
