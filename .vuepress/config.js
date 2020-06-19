@@ -131,7 +131,6 @@ module.exports = {
                 title: 'Ongoing',
                 collapsable: false,
                 children: [
-                  ['/zh/events/ongoing/event-07.md', '活动7'],
                 ],
               },
               {
