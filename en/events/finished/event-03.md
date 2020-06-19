@@ -1,4 +1,4 @@
-# Asgard 节点激励
+# Asgard 节点激励活动
 经过六个月的开发，Bifrost 迎来了 Asgard 预生产网络的启动。 它将支持 EOS Jungle Testnet 跨链，Token 和 vToken 兑换，SWAP 交易和其他功能。 Asgard 已于5月21日成功上线。 为了激励社区伙伴在 Asgard 上积极运行节点，我们决定根据每个人的节点运行时间分配 5,000 个 BNC。
 
 
