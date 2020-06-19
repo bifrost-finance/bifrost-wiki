@@ -70,6 +70,7 @@ module.exports = {
                   ['/en/events/finished/event-04.md', 'Prize essay'],
                   ['/en/events/finished/event-05.md', 'Polkaworld × Phala x Bifrost'],
                   ['/en/events/finished/event-06.md', 'Liandu x Bifrost'],
+                  ['/en/events/finished/event-08.md', '推特 & Gleam 空投'],
                 ],
               },
             ],
@@ -133,7 +134,6 @@ module.exports = {
                 collapsable: false,
                 children: [
                   ['/zh/events/ongoing/event-07.md', '活动7'],
-                  ['/zh/events/ongoing/event-08.md', '活动8'],
                 ],
               },
               {
