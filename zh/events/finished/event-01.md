@@ -4,10 +4,10 @@
 ***日期：2020/6/2 16：00- 2020/6/6 16：00（UTC+8)*** 
 
 **活动任务**
-- 关注 Bifrost (@bifrost_network) 和 Ankr (@ankr) 推特账号
-- 在此条推特下的评论区 @ 3位好友，[推文](https://twitter.com/bifrost_network/status/1267727916982390784)
-- 转发本条推文，[推文](https://twitter.com/bifrost_network/status/1267727916982390784)
-- 浏览 Bifrost 节点活动页面，[活动链接](https://reward.bifrost.finance/)
+- 关注 Bifrost [推特](https://twitter.com/bifrost_network) 和 Ankr[推特](https://twitter.com/ankr) 账号
+- 在此条[推文](https://twitter.com/bifrost_network/status/1267727916982390784)下的评论区 @ 3位好友
+- 转发本条[推文](https://twitter.com/bifrost_network/status/1267727916982390784)
+- 浏览 Bifrost [节点活动页面](https://reward.bifrost.finance/)
 
 **活动规则**
 - 空投共持续 5 天

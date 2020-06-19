@@ -1,16 +1,20 @@
 ### 推特  MATH  空投 & Gleam  120  KSM  Airdrop
 助力 Bifrost POC2 Testnet 上线，提高海外活动节点参与度，3月24日 Bifrost 举办为期 2 天的推特 $250 MATH 空投以及为期一周的120 KSM Gleam 空投。邀请参与空投的小伙伴们在完成活动任务的同时，能够进一步了解到 Bifrost POC2 测试网的性能。
 
-***日期：MATH 空投：2020/3/24-2020/3/25
-           KSM 空投： 2020/3/25-2020/4/1***
+***日期：***
+
+***MATH 空投：2020/3/24-2020/3/25***
+
+***KSM 空投： 2020/3/25-2020/4/1***
 
 
 **MATH 推特空投：**
+
 **活动任务**
-- 关注 Bifrost、麦子钱包、Polkaworld 和 Polkabase
-- @三位好友
-- 转发该条推特
-- 查看下一个大空投
+- 关注 [Bifrost](https://twitter.com/bifrost_network)、[麦子钱包](https://twitter.com/MathWallet)、[Polkaworld](https://twitter.com/polkaworld_org) 和 [Polkabase](https://twitter.com/Polkabase_com)
+- 在此条[推文](https://twitter.com/bifrost_network/status/1242405288457564160)下@三位好友
+- 转发该条[推文](https://twitter.com/bifrost_network/status/1242405288457564160)
+- 查看下一个[空投](https://medium.com/@bifrost_network/airdrop-attention-to-celebrate-the-launch-of-bifrosts-poc2-testnet-online-ksm-will-airdrop-913cc2645f11)
 
 **活动规则**
 - 推特 MATH 空投共持续 2 天
@@ -31,21 +35,33 @@
 - 绑定正确的 KSM 地址
 
 **参与情况**
+
 活动页PV: 39,761
+
 推特新增：1700+ 人
+
 Telegram 新增：900+ 人
+
 推文转发量：490
+
 推文评论量：514
+
 推文点赞量：466
 
 
 **奖励发放**
+
 MATH 推特空投
+
 活动总奖励：$250 MATH
+
 实际总发放：$250 MATH
+
 奖励发放时间：2020/3/25
+
 第三方空投工具：MathGiveaway
-查询 & 索取空投：https://giveaway.mathwallet.org/#/9Q69AZP28K7RGXHG
+
+查询 & 索取空投，[详情](https://giveaway.mathwallet.org/#/9Q69AZP28K7RGXHG)
 
 |  获奖人   | MATH 数量  |
 |  ----  | ----  |
@@ -57,11 +73,16 @@ MATH 推特空投
 
 
 KSM Gleam 空投
+
 活动总奖励：120 KSM
+
 实际总发放：120 KSM
+
 奖励发放时间：2020/4/1
+
 第三方空投工具：Gleam
-查询 & 索取空投：https://gleam.io/competitions/Mpv9R-120-kusama-giveaway
+
+查询 & 索取空投，[详情](https://gleam.io/competitions/Mpv9R-120-kusama-giveaway)
 
 |  KSM 数量   | KSM 地址  |
 |  ----  | ----  |

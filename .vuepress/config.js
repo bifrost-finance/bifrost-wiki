@@ -146,6 +146,7 @@ module.exports = {
                   ['/zh/events/finished/event-05.md', '测试网 AMA'],
                   ['/zh/events/finished/event-06.md', '链读 AMA'],
                   ['/zh/events/finished/event-08.md', '推特 & Gleam 空投'],
+                  ['/zh/events/finished/event-09.md', 'POC2 早鸟节点'],
                 ],
               },
             ],
