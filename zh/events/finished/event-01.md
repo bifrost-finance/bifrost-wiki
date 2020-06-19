@@ -1,13 +1,13 @@
-# 推特 Kusama 空投 123
+# 推特 Kusama 空投 
 助力 Bifrost Asgard 节点激励活动，提高海外活动节点参与度，6月2日 Bifrost 联合 Ankr 举办为期 5 天的 Kusama 推特空投。邀请参与空投的小伙伴们在完成活动任务的同时，能够进一步了解到 Bifrost 节点的搭建和 EOS Jungle Testnet 测试网跨链、Token 与 vToken 兑换，SWAP 交易等功能。
 
 ***日期：2020/6/2 16：00- 2020/6/6 16：00（UTC+8)*** 
 
 **活动任务**
 - 关注 Bifrost (@bifrost_network) 和 Ankr (@ankr) 推特账号
-- 在此条推特下的评论区 @ 3位好友，推文：https://twitter.com/bifrost_network/status/1267727916982390784
-- 转发本条推文，推文：https://twitter.com/bifrost_network/status/1267727916982390784
-- 浏览 Bifrost 节点活动页面，活动链接：https://reward.bifrost.finance/
+- 在此条推特下的评论区 @ 3位好友，[推文](https://twitter.com/bifrost_network/status/1267727916982390784)
+- 转发本条推文，[推文](https://twitter.com/bifrost_network/status/1267727916982390784)
+- 浏览 Bifrost 节点活动页面，[活动链接](https://reward.bifrost.finance/)
 
 **活动规则**
 - 空投共持续 5 天
@@ -17,10 +17,15 @@
 **参与情况**
 
 推特新增用户：2,751 人
+
 活动推特浏览量：74,040 
+
 节点浏览量：14,800
+
 推文转发量：3,054
+
 推文评论量：3,040
+
 推文点赞量：3,008
 
 
@@ -30,10 +35,10 @@
 实际总发放：50 KSM
 奖励发放时间：2020/6/6
 第三方空投工具：MathGiveaway
-查询 & 索取空投：https://giveaway.mathwallet.org/#/H334ZFZF2YMR9NKT
+查询 & 索取空投 [详情](https://giveaway.mathwallet.org/#/H334ZFZF2YMR9NKT)
 
 |  第一组   | 第二组  | 第三组  | 第四组  | 第五组  |
-|  ----  | ----  |
+|  ----  | ----  | ----  | ----  | ----  |
 | @kryxjung_  | @resenha_2010 | @MaFe_x | @vuongbienthai1 | @Gabrieilincolnm |
 | @ArmeliaMars  | @JasonChacc | @LianRolim | @G93Lopez | @CamilaDrun |
 | @jany_76  | @Fabiogomesfon | @memeselly | @nakarlinana | @BILIEBER17 |
