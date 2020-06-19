@@ -6,8 +6,8 @@ Polkadot 主网发布时间临近，波卡生态中的各平行链项目也逐�
 **活动任务**
 - 成功联入 Bifrost POC-2 测试网
 - 同步区块到最新高度
-- 加入 Bifrost 微信群（微信公众号寻找进群入口）
-- 填写早鸟节点登记表单审核（BNC 于 Bifrost 主网发布后结算）
+- 加入 Bifrost 微信群（[Bifrost公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIyODk1OTIyMw==&scene=124#wechat_redirect)寻找进群入口）
+- 填写早鸟节点登记表单审核
 
 **活动规则**
 - 运行测试网络节点需要保持 5 天的状态

@@ -139,15 +139,40 @@ module.exports = {
                 title: 'Finished',
                 collapsable: false,
                 children: [
-                  ['/zh/events/finished/event-01.md', '推特空投'],
-                  ['/zh/events/finished/event-02.md', 'HotTalk AMA'],
-                  ['/zh/events/finished/event-03.md', 'Asgard 节点活动'],
-                  ['/zh/events/finished/event-04.md', '有奖征文'],
-                  ['/zh/events/finished/event-05.md', '测试网 AMA'],
-                  ['/zh/events/finished/event-06.md', '波卡圆桌会'],
-                  ['/zh/events/finished/event-08.md', '推特 & Gleam 空投'],
-                  ['/zh/events/finished/event-09.md', 'POC2 早鸟节点'],
-                  ['/zh/events/finished/event-10.md', '链读 AMA'],
+                  {
+                      title: '节点活动',
+                      collapsable: false,
+                      children: [
+                        ['/zh/events/finished/event-03.md', 'Asgard 节点活动'],
+                        ['/zh/events/finished/event-09.md', 'POC2 早鸟节点'],
+                      ],
+                  },
+                  {
+                      title: '空投活动',
+                      collapsable: false,
+                      children: [
+                        ['/zh/events/finished/event-01.md', 'KSM 空投第二期'],
+                        ['/zh/events/finished/event-08.md', 'KSM 空投第一期'],
+                      ],
+                  },
+                  {
+                      title: 'AMA 活动',
+                      collapsable: false,
+                      children: [
+                        ['/zh/events/finished/event-02.md', 'HotTalk X Bifrost（第五期）'],
+                        ['/zh/events/finished/event-05.md', 'Phala X Bifrost（第四期）'],
+                        ['/zh/events/finished/event-06.md', '波卡圆桌会（第三期）'],
+                        ['/zh/events/finished/event-10.md', '链读 X Bifrost（第二期）'],
+                        ['/zh/events/finished/event-11.md', 'Bifrost AMA（第一期）'],
+                      ],
+                  },
+                  {
+                      title: '其他',
+                      collapsable: false,
+                      children: [
+                        ['/zh/events/finished/event-04.md', '有奖征文'],
+                      ],
+                  },
                 ],
               },
             ],
