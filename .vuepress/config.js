@@ -57,7 +57,6 @@ module.exports = {
                 title: 'Ongoing',
                 collapsable: false,
                 children: [
-                  ['/en/events/ongoing/event-07.md', 'Event 7'],
                 ],
               },
               {
