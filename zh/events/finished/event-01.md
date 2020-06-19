@@ -1,4 +1,4 @@
-# 推特 Kusama 空投
+# 推特 Kusama 空投 123
 助力 Bifrost Asgard 节点激励活动，提高海外活动节点参与度，6月2日 Bifrost 联合 Ankr 举办为期 5 天的 Kusama 推特空投。邀请参与空投的小伙伴们在完成活动任务的同时，能够进一步了解到 Bifrost 节点的搭建和 EOS Jungle Testnet 测试网跨链、Token 与 vToken 兑换，SWAP 交易等功能。
 
 ***日期：2020/6/2 16：00- 2020/6/6 16：00（UTC+8)*** 
