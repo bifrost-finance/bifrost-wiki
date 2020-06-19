@@ -7,7 +7,7 @@
 - 关注 Bifrost [推特](https://twitter.com/bifrost_network) 和 Ankr[推特](https://twitter.com/ankr) 账号
 - 在此条[推文](https://twitter.com/bifrost_network/status/1267727916982390784)下的评论区 @ 3位好友
 - 转发本条[推文](https://twitter.com/bifrost_network/status/1267727916982390784)
-- 浏览 Bifrost [节点活动页面](https://reward.bifrost.finance/)
+- 浏览 Bifrost Asgard [节点活动页面](https://reward.bifrost.finance/)
 
 **活动规则**
 - 空投共持续 5 天
@@ -32,9 +32,13 @@
 **奖励发放**
 
 活动总奖励：50 KSM
+
 实际总发放：50 KSM
+
 奖励发放时间：2020/6/6
+
 第三方空投工具：MathGiveaway
+
 查询 & 索取空投 [详情](https://giveaway.mathwallet.org/#/H334ZFZF2YMR9NKT)
 
 |  第一组   | 第二组  | 第三组  | 第四组  | 第五组  |
