@@ -1,4 +1,4 @@
-# Hotbit  ×  Bifrost  AMA  波卡生态 Bifrost，POS 挖矿中的新开拓
+# 波卡生态 Bifrost，POS 挖矿中的新开拓
 不知不觉中，Bifrost 已经参加了 5 期 AMA 线上活动。5月29日，Bifrost 联合创始人 Lurpis 受邀参加了 Hotbit Polkadot 系列对话第三期之波卡生态 Bifrost，POS 挖矿中的新开拓。
 
 ***日期：2020/5/29 16：00（UTC+8)***
