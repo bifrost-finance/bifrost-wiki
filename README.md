@@ -3,7 +3,7 @@ home: true
 heroText: Bifrost Wiki
 tagline: A parachain designed for staking's liquidity
 actionText: Get Started →
-actionLink: /en/events/ongoing/node-event-01-xxxxx.md
+actionLink: /zh/events/ongoing/node-event-01.md
 features:
 - title: Staking Liquidity
   details: You can get Staking income by holding vToken, vToken is freely traded, used, and can be sold back to the original chain assets at any time without waiting for the unstaking time.

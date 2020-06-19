@@ -36,13 +36,13 @@ module.exports = {
           },
         },
         nav: [
-          {text: 'Home', link: 'https://bifrost.codes'},
+          {text: 'Home', link: 'https://bifrost.finance'},
           {
             text: 'Documentation',
             items: [
-              {text: 'Developer', link: 'https://docs.bifrost.codes/developer'},
-              {text: 'Whitepaper', link: 'https://docs.bifrost.codes/whitepaper'},
-              {text: 'Wiki', link: 'https://docs.bifrost.codes/wiki'},
+              {text: 'Developer', link: 'https://docs.bifrost.finance/developer'},
+              {text: 'Whitepaper', link: 'https://docs.bifrost.finance/whitepaper'},
+              {text: 'Wiki', link: 'https://docs.bifrost.finance/wiki'},
             ],
           },
           {text: 'GitHub', link: 'https://github.com/bifrost-codes'},
@@ -57,55 +57,19 @@ module.exports = {
                 title: 'Ongoing',
                 collapsable: false,
                 children: [
-                  {
-                    title: 'Node Event',
-                    collapsable: true,
-                    children: [
-                      ['/en/events/ongoing/node-event-01-xxxxx.md', 'node 01'],
-                    ],
-                  },
-                  {
-                    title: 'AMA Event',
-                    collapsable: true,
-                    children: [
-                      ['/en/events/ongoing/ama-event-01-xxxxx.md', 'ama 01'],
-                      ['/en/events/ongoing/ama-event-02-xxxxx.md', 'ama 02'],
-                    ],
-                  },
-                  {
-                    title: 'Airdrop Event',
-                    collapsable: true,
-                    children: [
-                      ['/en/events/ongoing/airdrop-event-01-xxxxx.md', 'airdrop 01'],
-                    ],
-                  },
+                  ['/en/events/ongoing/event-07.md', 'Event 7'],
                 ],
               },
               {
                 title: 'Finished',
                 collapsable: false,
                 children: [
-                  {
-                    title: 'Node Event',
-                    collapsable: true,
-                    children: [
-                    ],
-                  },
-                  {
-                    title: 'AMA Event',
-                    collapsable: true,
-                    children: [
-                      ['/en/events/finished/ama-event-01-xxxxx.md', 'ama 01'],
-                      ['/en/events/finished/ama-event-02-xxxxx.md', 'ama 02'],
-                    ],
-                  },
-                  {
-                    title: 'Airdrop Event',
-                    collapsable: true,
-                    children: [
-                      ['/en/events/finished/airdrop-event-01-xxxxx.md', 'airdrop 01'],
-                    ],
-                  },
+                  ['/en/events/finished/event-01.md', 'Airdrop Twitter KSM'],
+                  ['/en/events/finished/event-02.md', 'AMA Hotbit x Bifrost'],
+                  ['/en/events/finished/event-03.md', 'Node Bifrost Asgard'],
+                  ['/en/events/finished/event-04.md', 'Prize essay'],
+                  ['/en/events/finished/event-05.md', 'Polkaworld × Phala x Bifrost'],
+                  ['/en/events/finished/event-06.md', 'Liandu x Bifrost'],
                 ],
               },
             ],
@@ -135,7 +99,6 @@ module.exports = {
             ],
           }
         ],
-
       },
       '/zh/': {
         selectText: '选择语言',
@@ -148,26 +111,68 @@ module.exports = {
           },
         },
         nav: [
-          {text: '首页', link: 'https://bifrost.codes'},
+          {text: '首页', link: 'https://bifrost.finance'},
           {
             text: '文档',
             items: [
-              {text: '开发文档', link: 'https://docs.bifrost.codes/developer'},
-              {text: '白皮书', link: 'https://docs.bifrost.codes/whitepaper'},
-              {text: '帮助文档', link: 'https://docs.bifrost.codes/wiki'},
+              {text: '开发文档', link: 'https://docs.bifrost.finance/developer'},
+              {text: '白皮书', link: 'https://docs.bifrost.finance/whitepaper'},
+              {text: '帮助文档', link: 'https://docs.bifrost.finance/wiki'},
             ],
           },
           {text: 'GitHub', link: 'https://github.com/bifrost-codes'},
         ],
         sidebar: [
           {
-            title: '分类一',
+            title: 'Events',
             collapsable: false,
-            sidebarDepth: 0,
+            sidebarDepth: 3,
             children: [
-              ['/zh/category-1/page-1.md', '页面一'],
+              {
+                title: 'Ongoing',
+                collapsable: false,
+                children: [
+                  ['/zh/events/ongoing/event-07.md', '活动7'],
+                ],
+              },
+              {
+                title: 'Finished',
+                collapsable: false,
+                children: [
+                  ['/zh/events/finished/event-01.md', 'Airdrop Twitter KSM'],
+                  ['/zh/events/finished/event-02.md', 'AMA Hotbit x Bifrost'],
+                  ['/zh/events/finished/event-03.md', 'Node Bifrost Asgard'],
+                  ['/zh/events/finished/event-04.md', '有奖征文'],
+                  ['/zh/events/finished/event-05.md', 'Polkaworld × Phala x Bifrost'],
+                  ['/zh/events/finished/event-06.md', '链读 x Bifrost'],
+                ],
+              },
             ],
           },
+          {
+            title: 'Contribute',
+            collapsable: false,
+            sidebarDepth: 1,
+            children: [
+              ['/zh/contribute/long-term.md', 'Long Term'],
+            ],
+          },
+          {
+            title: 'News',
+            collapsable: false,
+            sidebarDepth: 1,
+            children: [
+              ['/zh/news/published.md', 'Published'],
+            ],
+          },
+          {
+            title: 'Help',
+            collapsable: false,
+            sidebarDepth: 1,
+            children: [
+              ['/zh/help/faq.md', 'FAQ'],
+            ],
+          }
         ],
       },
     },
