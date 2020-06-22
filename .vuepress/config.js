@@ -157,6 +157,7 @@ module.exports = {
                       title: 'AMA 活动',
                       collapsable: false,
                       children: [
+                        ['/zh/events/finished/event-12.md', 'Substrate China Day（第六期）'],
                         ['/zh/events/finished/event-02.md', 'HotTalk X Bifrost（第五期）'],
                         ['/zh/events/finished/event-05.md', 'Phala X Bifrost（第四期）'],
                         ['/zh/events/finished/event-06.md', '波卡圆桌会（第三期）'],
