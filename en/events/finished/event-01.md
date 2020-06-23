@@ -41,7 +41,7 @@
 
 查询 & 索取空投 [详情](https://giveaway.mathwallet.org/#/H334ZFZF2YMR9NKT)
 
-| 第一组             | 第二组              | 第三组              | 第四组             | 第五组              |
+| Group One       | Group Two        | Group Three      | Group Four      | Group Five       |
 | --------------- | ---------------- | ---------------- | --------------- | ---------------- |
 | @kryxjung_      | @resenha_2010    | @MaFe_x          | @vuongbienthai1 | @Gabrieilincolnm |
 | @ArmeliaMars    | @JasonChacc      | @LianRolim       | @G93Lopez       | @CamilaDrun      |
