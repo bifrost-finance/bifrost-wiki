@@ -189,7 +189,20 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-              ['/zh/news/published.md', 'Published'],
+              {
+                title: 'AMA 文章',
+                collapsable: false,
+                children: [
+                  ['/zh/news/ama-01.md', 'AMA 问答汇总（第一期）'],
+                ],
+              },
+              {
+                title: '媒体报导',
+                collapsable: false,
+                children: [
+                  ['/zh/news/published.md', 'Published'],
+                ],
+              },
             ],
           },
           {
