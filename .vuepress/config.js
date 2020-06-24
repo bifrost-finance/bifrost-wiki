@@ -211,6 +211,7 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
+              ['/zh/help/tutorials.md', 'Crowdin 注册教程'],
               ['/zh/help/faq.md', 'FAQ'],
             ],
           }
