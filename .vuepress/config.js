@@ -194,6 +194,7 @@ module.exports = {
                 collapsable: false,
                 children: [
                   ['/zh/news/ama-01.md', 'AMA 问答汇总（第一期）'],
+                  ['/zh/news/ama-02.md', 'AMA 问答汇总（第二期）'],
                 ],
               },
               {
