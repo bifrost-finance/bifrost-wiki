@@ -1,12 +1,10 @@
-Staking + DeFi 新玩法 如何兼顾流动性和高收益，Bifrost 首期 AMA
+# Staking + DeFi 新玩法 如何兼顾流动性和高收益，Bifrost 首期 AMA
 
-**主持人：各位小伙伴们大家好，欢迎大家来到 Bifrost 首期线上AMA ，我是主持人虫虫~
+**主持人：各位小伙伴们大家好，欢迎大家来到 Bifrost 首期线上AMA ，我是主持人虫虫~**
 
-历经 5 个月时长的开发准备，Bifrost 逐渐进入大众视野。它从最初的概念走到如今测试网的上线，不断地带给大家惊喜。首期 AMA 的分享嘉宾由 Bifrost 联合创始人&核心开发 Lurpis 带你领略 Bifrost 的精彩世界。本次 Session 分为两个部分，主持人提问和观众自由问答。**
+**历经 5 个月时长的开发准备，Bifrost 逐渐进入大众视野。它从最初的概念走到如今测试网的上线，不断地带给大家惊喜。首期 AMA 的分享嘉宾由 Bifrost 联合创始人&核心开发 Lurpis 带你领略 Bifrost 的精彩世界。本次 Session 分为两个部分，主持人提问和观众自由问答。**
 
-**主持人：那么就先请 Lurpis 给大家简单介绍一下 Bifrost 吧！
-
-1. 主持人：请简单带观众了解一下 Bifrost？**
+**主持人：那么就先请 Lurpis 给大家简单介绍一下 Bifrost 吧！**
 
 大家好，我是 Bifrost 的 Lurpis 今天来给大家分享一下 Bifrost
 
