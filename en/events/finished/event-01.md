@@ -4,7 +4,7 @@ On June 2, Bifrost and Ankr jointly held Kusama Twitter airdrop for 5 days. Invi
 ***日期：2020/6/2 16：00- 2020/6/6 16：00（UTC+8)***
 
 **challenges**
-- 关注 Bifrost [推特](https://twitter.com/bifrost_network) 和 Ankr[推特](https://twitter.com/ankr) 账号
+- Follow Bifrost [ twitter](https://twitter.com/bifrost_network) and Ankr[ twitter ](https://twitter.com/ankr)
 - 在此条[推文](https://twitter.com/bifrost_network/status/1267727916982390784)下的评论区 @ 3位好友
 - 转发本条[推文](https://twitter.com/bifrost_network/status/1267727916982390784)
 - 浏览 Bifrost Asgard [节点活动页面](https://reward.bifrost.finance/)
