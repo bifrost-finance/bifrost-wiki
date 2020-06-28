@@ -4,11 +4,11 @@
 
 **After five months of development preparation, Bifrost gradually entered the public eye. It from the initial concept to today's test network, constantly bring everyone surprises. In the first AMA, Lurpis, co-founder & core developer of Bifrost, will take the wonderful world of Bifrost to you. This session is divided into two parts, the moderator questions and the audience free questions.**
 
-**主持人：那么就先请 Lurpis 给大家简单介绍一下 Bifrost 吧！**
+**Host: firstly, let's welcome Lurpis to make a brief introduction to Bifrost.**
 
-大家好，我是 Bifrost 的 Lurpis 今天来给大家分享一下 Bifrost
+Hi, I'm Lurpis from Bifrost and I'm here to share about Bifrost.
 
-Bifrost 是一个提供 Staking 流动性的跨链网络，用户可以随时将 PoS 币种通过 Bifrost 转接桥兑换成 Bifrost vToken 从而获得 Staking 收益和流动性。比如用户可以将 EOS 兑换成 vEOS，在领取 EOS Staking 收益的同时，还能将 vEOS 随时卖出，赎回成 EOS，同时 vEOS 还可在 DeFi、Dapp、DEX 等多场景下使用，比如使用 vEOS 作为抵押物进行借贷时，其 Staking 收益可抵销部分利息，实现低息借贷。目前在 Polkadot 生态中还有一些其他同样优秀的平行链项目，比如目前在波卡生态中有做稳定币的 Acala，有做游戏生态的 Darwin，这些都是 vToken 使用场景的可能扩展。
+Bifrost is a cross-chain network, which can provide Staking liquidity. Users can exchange PoS token into Bifrost vToken by Bifrost transfer bridge at any time to get Staking income and liquidity. For example, users can exchange EOS into vEOS, and at the same time, they can receive the income from EOS Staking, they can also sell vEOS and redeem EOS at any time. Also, VEOS can be used in DeFi, Dapp, DEX and other scenarios. For example, when using vEOS as collateral for lending, the income from Staking can pay part of the interest and realize low-interest lending. There are other extremely good parachains projects in the Polkadot ecology, such as Acala network, which committed to stablecoin in the Polkadot ecology, and Darwin network, which focus on game ecology. All of they are possible extensions of vToken usage scenarios.
 
 **2. 主持人：那么 vToken 在 Staking 中扮演了一个什么样的角色呢？它是怎样给 Staking 提供流动性的呢？**
 
