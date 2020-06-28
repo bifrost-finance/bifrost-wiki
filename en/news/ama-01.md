@@ -10,31 +10,31 @@ Hi, I'm Lurpis from Bifrost and I'm here to share about Bifrost.
 
 Bifrost is a cross-chain network, which can provide Staking liquidity. Users can exchange PoS token into Bifrost vToken by Bifrost transfer bridge at any time to get Staking income and liquidity. For example, users can exchange EOS into vEOS, and at the same time, they can receive the income from EOS Staking, they can also sell vEOS and redeem EOS at any time. Also, VEOS can be used in DeFi, Dapp, DEX and other scenarios. For example, when using vEOS as collateral for lending, the income from Staking can pay part of the interest and realize low-interest lending. There are other extremely good parachains projects in the Polkadot ecology, such as Acala network, which committed to stablecoin in the Polkadot ecology, and Darwin network, which focus on game ecology. All of they are possible extensions of vToken usage scenarios.
 
-**2. 主持人：那么 vToken 在 Staking 中扮演了一个什么样的角色呢？它是怎样给 Staking 提供流动性的呢？**
+**2. Host: so what, what role does vToken play in staking? How does it provide liquidity for Staking?**
 
-首先 vToken 是用来提供 Staking 流动性的通用资产，比如拿 KSM 举例当用户直接做给节点提名时，在提名状态的 KSM 是不能交易的，如果打算卖出 KSM，那么至少需要等待 7 天的赎回时间，如果期间遇到行情短期暴跌时，那么用户只能束手无策，看着资产贬值，而通过 Bifrost 做 Staking，可以根据兑换率获得 vKSM，那么当遇到行情短期暴跌时，直接卖出 vKSM 就可以了。除此之外 vKSM 还能随意转让，交易，玩 Dapp，甚至当作 DeFi 的抵押物，或者借贷给他人，获得 Staking 和 借贷的双重收益。
+First, vToken is a sort of general token used to provide Staking liquidity. Take KSM for example, when the user votes directly to the node the KSM in the nomination state will be locked. If you want to sell the KSM, you need to wait at least 7 days of redemption. If a short-term collapse occurs during the redemption period, users can do nothing but watch their assets depreciate. But through the Bifrost Staking, user can obtain vKSM according to the exchange rate. When the market short-term collapsed, vKSM can be sold directly. In addition, vKSM can also transfer, trade, use it in Dapp at will, even use it as security in DeFi, or lend it to others for the double benefit of Staking and lending.
 
-**3. 主持人：明白了，简单来说，做 Staking 的原币种还是可以继续接受 Staking 收益的，而置换的 vtoken 却可以代替原币种继续参与到市场行为中进行交易或投资。那么如何获得 vToken ？获得的方式是怎样的？**
+**3. Host: got it. Simply speaking, the original token can continue to accept the income from Staking, while the replaced vToken can replace the original token to continue to participate in the market behavior for trading or investment. So how do we get vToken? How can we get it?**
 
-vToken 获取大体上分两种方式，
+There are basically two ways to get vToken.
 
-1、通过 Bifrost 兑换合约，使用 Token 根据当时汇率直接兑换成 vToken， 2、因为是一个通用的资产协议通过交易市场购买，用户可以去支持的交易所直接购买 vToken，也是可以获得 Staking 收益的，于此同时，为了降低门槛，我们也会提供类似闪兑的交易功能。 Bifrost-app 预计于 4.15 上线测试版，用户可以通过 Telegram BOT 领取 Bifrost 测试网的 KSM 和 DOT 代币，然后在 Bifrost-app 中体验兑换、交易、收益等功能。
+1, through the Bifrost exchange contract, Token can converted into vToken directly according to the exchange rate at that time. 2, Because vToken is a general assets agreement that can be traded on the market, users can go to the exchange to purchase vToken directly, also can receive the income from Staking. Besides, in order to reduce the threshold, we will also provide functions similar to swap. Bifrost-App is expected to be launched as a beta version on April 15. Users can receive KSM and DOT tokens of Bifrost test network from Telegram BOT, and then experience the exchange, trading and revenue functions in Bifrost-App.
 
-**4. 主持人：在了解到 vToken 的获取方式后，您可以跟我们说说 vToken 的收益怎么样吗？收益来源于哪里？它的价值会体现在哪里？**
+**4. Host: After knowing the way of vToken acquisition, can you tell us about the benefits of vToken? Where does the revenue come from? Where will it be valuable?**
 
-从收益上来说，也分为两部分，第一部分保底收益取决于该公链的 Staking 规则，如 KSM 目前提名年化率为 20%，那么 vKSM 也至少会是 20% 的年化收益，第二部分收益则来自对 Bifrost Staking Pool 投票权的竞价，不同节点愿意支付更高的溢价来购买提名权，那么相对应用户的 Staking 收益甚至会超出 KSM 设置的 20% 收益。
+In terms of benefits, also divided into two parts, the first part guaranteed income depends on the Staking rules of the public blockchain, such as the KSM currently nominated annualised rate of 20%, then vKSM will be at least 20% annualized returns, the second part of the proceeds from the competition for the right to vote for Bifrost Staking Pool, different nodes are willing to pay a higher premium for nomination, then corresponds to the user's Staking gains even beyond KSM.
 
-与此同时，Bifrost Staking Pool 的提名竞价会使服务优质但是票数不高的小节点有机会与巨鲸节点进行抗衡，使 PoS 网络更加去中心化，更加安全。
+Meanwhile, the nomination bidding of Bifrost Staking Pool will give small nodes with good service but few votes a chance to compete with super nodes, making PoS network more decentralized and safer.
 
-**5. 听完您对 vToken 的解说后，觉得 vToken 的确带给了 Staking 更好的流动性体验，也希望vToken 能有更多的应用场景。那么之前也有提到 Bifrost 是波卡的一条平行链，可以简单跟说说平行链是什么呢？**
+**5. After listening to your explanation of vToken, I think vToken does bring better liquidity to Staking, and I also hope vToken can be used in more scenarios. As mentioned earlier, Bifrost is a parachains of Polkadot, and can you talk a little bit about what parachains is?**
 
-平行链其实就是波卡中继上的应用，只是都是业务互相独立的公链，但跟普通公链不同的是，平行链之间的数据是可以互通的，还一种特殊的平行链叫做转接桥，转接桥的作用是将其他 Blockchain 桥接进入波卡网络中来，使平行链和其他公链也能实现互通。就像 Bifrost 正在做 EOS 转接桥，是希望将 EOS 能够桥接进入波卡生态当中，获得 EOS Staking 流动性的同时，让 EOS 用户可以体验到波卡生态中的其他平行链应用。
+Parachains is applications of Polkadot relay network, independent of each other is business chain. But different from other common public blockchain, data can be exchanged between parachains. There is a special kind of parachains called transfer bridge. The function of the transfer bridge is to connect other blockchain bridges into the Polkadot network, so that the parachains and other public chains can also achieve interoperability. Just like the EOS transfer bridge being done by Bifrost, we hope to transfer EOS into Polkadot ecology. user both can get mobility of EOS Staking, and let EOS users experience other parachains applications in Polkadot ecology.
 
-**6. 主持人：原来如此，最近我们也有看到一些小伙伴们一直都在期待波卡主网上线，能简单跟大家聊聊波卡的主网上线吗？**
+**6. Host: I see. Recently, we have seen some friends who have been looking forward to the launch of the mainnet of Polkadot.**
 
-波卡的主网上线预计在 2020 年的六月份，但是在波卡主网上线之前，已经预先发布了预生产网络 Kusama，Kusama 是一个时间周期快于波卡 4 倍的开放网络，并且将独立于波卡永久的运行下去，绝大多数波卡的逻辑都会在 Kusama 上可以被验证，对于想要接入波卡生态的团队来说，从 Kusama 开始是一个不错的选择。Bifrost 也将在接入波卡之前提前接入 Kusama 网络，支持  vKSM 的兑换。
+It is expected that the launch of the mainnet of Polkadot in 2020 in June, but before this, Kusama had been released as a test network, which is a time period fast Polkadot four times the open network. Independent of Polkadot, KSM will permanent run, the vast majority of Polkadot logic can be verified on the Kusama, teams who want to be part of the Polkadot ecological，starting from the Kusama is a good choice. Bifrost will access to Kusama network before access to Polkadot and will also support vKSM exchange.
 
-**7. 主持人：第七个问题，对于波卡主网上线前需要进行卡槽拍卖的程序，请 Lurpis 为大家简单做个介绍，这里也想了解到 Bifrost 为此做了哪些努力呢？**
+**7. Host: Seventh, I would like to ask Lurpis to give you a brief introduction to the process of card slot auction before the launch of the mainnet of Polkadot. What efforts has Bifrost made?**
 
 波卡主网上线后，预计开放平行链卡槽的拍卖，每半年举行一次，据我们所知，一开始的卡槽数量并不会很多，需要卡槽的平行链团队需要锁定 DOT 来参与卡槽 6 - 24 个月使用权的竞拍。同时 Bifrost 会在平行链竞拍前开启首次平行链 IPO（initial parachain offer）计划，也称作 IPO，如果你手中持有 DOT 就可以参与到这次 IPO 中来，如果 Bifrost 成功拍中平行链插槽，那么你将会获得丰厚的 BNC 作为回报，同时参与 IPO 的 DOT 不会被消耗，而是被锁定在平行链插槽中，锁定时间根据平行链插槽使用时间而定，在平行链插槽到期后，你将原封不动的拿回你的 DOT，参与 IPO 你损失的仅仅是这段时间的 DOT Staking 成本和持有 DOT 的机会成本。
 
