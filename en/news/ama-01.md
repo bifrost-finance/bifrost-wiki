@@ -1,4 +1,4 @@
-# Staking + DeFi 新玩法 如何兼顾流动性和高收益，Bifrost 首期 AMA
+# Bifrost First AMA: The new play of Staking + DeFi ——How to combine mobility with high return
 
 **主持人：各位小伙伴们大家好，欢迎大家来到 Bifrost 首期线上AMA ，我是主持人虫虫~**
 
