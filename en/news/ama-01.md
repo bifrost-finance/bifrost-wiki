@@ -1,8 +1,8 @@
 # Bifrost First AMA: The new play of Staking + DeFi ——How to combine mobility with high return
 
-**主持人：各位小伙伴们大家好，欢迎大家来到 Bifrost 首期线上AMA ，我是主持人虫虫~**
+**Host: Hello everyone, and welcome to the first online AMA of Bifrost. I'm host Bonnie~**
 
-**历经 5 个月时长的开发准备，Bifrost 逐渐进入大众视野。它从最初的概念走到如今测试网的上线，不断地带给大家惊喜。首期 AMA 的分享嘉宾由 Bifrost 联合创始人&核心开发 Lurpis 带你领略 Bifrost 的精彩世界。本次 Session 分为两个部分，主持人提问和观众自由问答。**
+**After five months of development preparation, Bifrost gradually entered the public eye. It from the initial concept to today's test network, constantly bring everyone surprises. In the first AMA, Lurpis, co-founder & core developer of Bifrost, will take the wonderful world of Bifrost to you. This session is divided into two parts, the moderator questions and the audience free questions.**
 
 **主持人：那么就先请 Lurpis 给大家简单介绍一下 Bifrost 吧！**
 
