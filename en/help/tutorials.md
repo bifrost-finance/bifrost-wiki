@@ -1,4 +1,4 @@
-# Crowdin 注册 & Bifrost Wiki 活动翻译教程
+# The tutorial of Crowdin registration & Bifrost Wiki Translation
 
 1.  打开[网址](https://wiki-translate.bifrost.finance/)
 
