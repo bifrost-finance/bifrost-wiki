@@ -1,12 +1,12 @@
-# 圆桌派 | 波卡生态Bifrost，跨链延展Staking的新场景
+# Round table | Polkadot ecological Bifrost, a new scene of cross chain extension stacking
 
-不知不觉中，链读联合 Polkabase 开展的波卡生态项目 AMA 活动，已经进入了第10期。链读 AMA 有幸邀请来「Bifrost」联合创始人「Lurpis」做客链读直播间，和我们聊聊『波卡平行链 Bifrost 结合跨链延展 Staking 的新场景』
+Unconsciously, the AMA activity of polkadot ecological project carried out by chain reading and polkabase has entered the 10th phase. Liandu AMA has the honor to invite "lurpis", co-founder of "Bifrost", as a guest in the chain reading studio to talk with us about "the new scene of  polkadot parallel chain Bifrost combined with cross chain extension stacking"
 
-过去用户总是抱怨：不做 Staking 被通胀，做了 Staking 被锁仓，行情上涨措施良机，行情下跌束手无策，往往收益和流动性不能兼得。
+In the past, users always complained that they would be inflated if they didn't stack, they would be locked if they had done stacking, the market would have a good opportunity to take measures to increase the market, and there would be no way to deal with the decline of the market. They often could not have both income and liquidity.
 
-针对这一现象，Lurpis 告诉我们：Bifrost 的应用方向将会重点向无需锁仓的Staking、降低 Staking 门槛，以及提高 Staking 收益的三个方向延展。
+In view of this phenomenon, lurpis told us: the application direction of Bifrost will focus on three directions: stacking without locking, lowering the stacking threshold, and improving the benefits of stacking.
 
-Bifrost的目标是为80%的 PoS 公链提供 Staking 流动性，能允许用户将 PoS 币种通过 Bifrost 转接桥兑换成  vToken 从而获得 Staking 收益和流动性。
+The goal of Bifrost is to provide stacking liquidity for 80% of the public POS chain, allowing users to convert POS currency into vtoken through Bifrost transfer bridge, so as to obtain stacking income and liquidity.
 
 Bifrost在波卡生态中扮演Staking流动性提供商的角色，接入 Kusama 之后，首先给节点提名的 KSM 会因 vKSM 被解放，Kusama 网络的整体质押率会得到提升。同时一些没有 KSM 启动资金的小节点，可以通过竞价获得 Bifrost 的提名支持，来进入到出块列表，呈现在大众投票人眼前。
 
