@@ -1,4 +1,4 @@
-# Bifrost First AMA: The new play of Staking + DeFi ——How to combine liquidity with high rewards
+# Bifrost First AMA: The new play of Staking + DeFi ——How to combine mobility with high return
 
 **Host: Hello everyone, and welcome to the first online AMA of Bifrost. I'm host Bonnie~**
 
