@@ -32,19 +32,19 @@ Parachains is applications of Polkadot relay network, independent of each other 
 
 **6. Host: I see. Recently, we have seen some friends who have been looking forward to the launch of the mainnet of Polkadot. Can you tell us a little bit about the launch of the mainnet of Polkadot?**
 
-波卡的主网上线预计在 2020 年的六月份。但是在波卡主网上线之前，已经预先发布了预生产网络 Kusama，Kusama 是一个时间周期快于波卡 4 倍的开放网络，并且将独立于波卡永久的运行下去。绝大多数波卡的逻辑都会在 Kusama 上可以被验证。对于想要接入波卡生态的团队来说，从 Kusama 开始是一个不错的选择。Bifrost 也将在接入波卡之前提前接入 Kusama 网络，支持  vKSM 的兑换。
+It is expected that the launch of the mainnet of Polkadot in 2020 in June, but before this, Kusama had been released as beta network, which is an open network that development time fast Polkadot four times. Independent of Polkadot, Ksm will permanent run, the vast majority of Polkadot logic can be verified on the Kusama, teams who want to be part of the Polkadot ecological, starting from the Kusama is a good choice. Bifrost will access to Kusama network before access to Polkadot and will also support vKSM exchange.
 
-**7. Host: Seventh, I would like to ask Lurpis to give you a brief introduction to the process of card slot auction before the launch of the mainnet of Polkadot. What efforts has Bifrost made?**
+**7. Host: Seventh, I would like to ask Lurpis to give us a brief introduction to the process of slot auction before the launch of the mainnet of Polkadot. What efforts has Bifrost made?**
 
 Once the Polkadot mainnet is online, it is expected to open up parachain slots auction, which will be held every six months. As far as we know, there won't be many slots to begin with. Parachain teams that need slots will have to lock in the DOT to bid on the 6 - 24 months usage of the slots. At the same time Bifrost will open its (Initial Parachain Offer) IPO before the parachain auction. If you hold DOTs you can participate in this IPO, and if Bifrost is successful in the auction of Parachain slots, then you will receive a generous BNCs as return. DOTs that also participate in the IPO are not consumed, but are locked in the parachain slot. The duration of the lockup depends on how long the parachain slot is used. After the parachain slot expires, you get your DOT back, and all you lose by participating in the IPO is the cost of DOT Staking time and the opportunity cost of holding the DOT.
 
 **8.Host: We all know that Bifrost was funded by the WEB3 Foundation not long ago. Can we talk a little bit about the current cooperation with WEB3 and Polkadot?**
 
-Bifrost 作为首届 Substrate Hackathon 获奖项目第一次出现在大众视野，也是 Web3 基金会 Grant 的资助项目。因为 Bifrost 需要借助 Substrate 和 Polkadot 中继链来完成业务逻辑，所以和 Polkadot 生态协调比较紧密。当然，Bifrost 作为 Polkadot 平行链，最先支持的也会是 Polkadot 相关资产的 vToken，比如 vDOT 和 vKSM。如果其他平行链有 Staking 流动性的需求，我们也很高兴可以合作。
+Bifrost, as the first Substrate Hackathon award-winning project, first appeared in the public view, and is also as a Grant project funded by Web3 Foundation. Besides, Bifrost needs to use the relay network of Substrate and Polkadot to complete the business logic, its ecological coordination with Polkadot is relatively close. Of course, Bifrost as a parachain in Polkadot, the first to be supported will also be vToken for Polkadot-related assets such as vDOT and vKSM, and we are happy to cooperate if there is a need for Staking liquidity in other parachain.
 
 **9. Host: After hearing your ideas, we are looking forward to the development of Bifrost. Could you tell us something about the current progress of the Bifrost project?**
 
-Bifrost 于 2020年 3 月 21 日发布了 POC-2 Testnet，短短一周参与的节点就达到 25 个，分布在全球多地。在 POC-2 测试网中我们验证了 Bifrost-node 出块稳定性，POA 治理，vToken 汇率调整等一系列逻辑，同时在测试网络期间，我们已经开始了用户社群的搭建和市场合作的建立。
+Bifrost released POC-2 Testnet on March 21, 2020. The node number reached 25 in one week, distributed in the whole world. In the POC-2 test network, we verified a series of logic such as bifrost-Node block stability, POA governance, vToken exchange rate adjustment and so on. Meanwhile, we started to build user communities and establish market cooperation.
 
 **10. Host: last question, what is the roadmap of Bifrost's future?**
 
