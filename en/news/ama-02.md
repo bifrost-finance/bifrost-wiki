@@ -75,47 +75,47 @@ Let's take another chestnut to make it easy to understand: the price of paying 4
 
 I personally feel that vtoken is an inevitable derivative in the development of stacking, and it also plays a guiding role. It can solve the problem of opportunity cost caused by the liquidity of stacking and the rise and fall of price during the lock up period, and will not interfere with the freedom of users to redeem. Vtoken does not force users to guarantee the pledge rate of the original token, but allows users to participate in staging in the most interesting way.
 
-同时借助波卡中继网络给原 Token 提供了更多其他的应用场景。比如将 EOS 兑换 vEOS 后，去使用零知识证明的 Zerochain，变相的给 EOS 提供零知识证明解决方案，将 XZT 兑换成 vXZT，去使用智能合约平台 Edgeware，变相的给 Tezos 提供智能合约支持，将 ETH 兑换成 vETH，去使用 IOT 平行链 MXC，让 ETH 变相支持物联网设备控制。
+At the same time, it provides more other application scenarios for the original token with the help of polkadot relay network. For example, after converting EOS to VEOS, zero knowledge proof zerochain is used to provide EOS with zero knowledge proof solution in disguise, XZT is converted into vxzt, and edgeware is used as smart contract platform to provide smart contract support for tezos in disguise, exchange eth into veh, and use IOT parallel chain MXC to make eth support IOT device control in disguise.
 
-类似的例子还有很多，总之，受益于波卡中继网络，让区块链从一个单机系统变成了一个互联网，各系统应用之间互联互通，会因网络效应带来很多让人眼前一亮的新玩法。
+There are many similar examples. In short, thanks to the polkadot relay network, the blockchain has become an Internet from a stand-alone system. The interconnection between system applications will bring a lot of new ways to play that will bring people a bright new play due to the network effect.
 
-**BNC作为Bifrost代币，在流动性过程中，可以起到什么作用？**
+**As a Bifrost token, what role can BNC play in the liquidity process?**
 
-哈哈，谈到这个问题，就想起了前两天举办的 BNC 红包预热活动，大家都在群里热烈的参与思考BNC的价值和应用场景。在设计之初，BNC一共有6种场景去支持Bifrost协议的运作，这六种作用分别为收益凭证、流动性激励，市值单位，票权抵押，衡量标准以及兑换媒介。
+Ha ha, when it comes to this issue, I think of the BNC red envelope warm-up activity held two days ago. Everyone in the group enthusiastically participated in thinking about the value and application scenarios of BNC. At the beginning of the design, BNC has six scenarios to support the operation of the Bifrost agreement, which are income voucher, liquidity incentive, market value unit, coupon mortgage, measurement standard and exchange medium.
 
-把其中与用户关系最密切也是最关心的流动性激励展开来说，就是在 vToken 流动性不足的初期，BNC 会作为奖励发放给兑换 vToken 和 提供 vToken 流动性的用户。
+The most closely related and most concerned liquidity incentive among users is that BNC will give rewards to users who exchange vtoken and provide vtoken liquidity at the initial stage of insufficient liquidity.
 
-用户根据兑换 vToken 的市值不同、权重不同从而获得不同数量的 BNC 奖励，现在我们正在完善 1.0 正式版白皮书，其中会详细描述关于 BNC 的获取渠道以及激励方式，请大家多多关注。
+Users can get different amounts of BNC awards according to the different market value and weight of vtoken. Now we are improving the official version of the white paper 1.0, which will describe in detail the acquisition channels and incentive methods of BNC. Please pay more attention.
 
-**Bifrost的测试网POC-2已于3月重磅上线，未来Bifrost网络将如何发展？感兴趣的朋友，如何参与节点测试与开发？**
+**The test network poc-2 of Bifrost has been launched in March. How will Bifrost network develop in the future? Interested friends, how to participate in node testing and development?**
 
-说到未来发展，需要时刻回头看看历史上的教训，就在这两天的 DeFi 项目，发生了一些不好的事情，Lendf 项目因为一个合约逻辑处理不当，直接导致了近 2500 万美金左右的损失。
+When it comes to future development, we need to always look back at the lessons of history. In the past two days, some bad things happened in the defi project. The lendf project directly caused a loss of about US $25 million due to the improper handling of a contract logic.
 
-几乎一夜归零，这个惨痛的教训给所有 DeFi 项目都上了一课，我们相信 DeFi 项目除了技术实力之外，更重要的是风险控制的能力，并不是开发上线就可以交差的产品。
+It almost went back to zero overnight. This painful lesson has taught all defi projects a lesson. We believe that in addition to the technical strength of the project, the more important thing is the ability to control risks, not to develop products that can be delivered online.
 
-这中间关于金融风险的防范是需要花费大量精力和时间去验证的，时刻保持警惕才是 DeFi 团队应该具备的品质，所以 Bifrost 团队在未来依然会保持一贯严谨认真的态度，去认真写好每一段代码，审计每一处合约，谨慎的挑选每一个优质的 PoS 资产来合作。
+The prevention of financial risks needs to spend a lot of energy and time to verify. Keeping vigilance is the quality that the defi team should have. Therefore, the Bifrost team will still maintain a rigorous and serious attitude in the future, seriously write every piece of code, review every contract, and carefully select every high-quality POS asset to cooperate. CONTEXTREQUEST
 
-再说到测试网络，目前感兴趣的小伙伴已经可以运行 Bifrost 节点参与到测试网络当中来，当前还是 POA 的网络，没有开放 Staking 机制，直接执行下面的命令
+As for the test network, at present, interested partners can run the Bifrost node to participate in the test network. At present, it is still a POA network. There is no open staging mechanism, and the following commands are directly executed
 
 `docker run -it bifrostnetwork/bifrost:poc2-v0.2.3 --name "Bifrost Node"`
 
-这就可以完成节点搭建，主网上线后最低配置为 2 核 4GB 云主机。关于更多运行 Bifrost 测试节点的技术教程，我们还正在整理编辑，详情请见\[链接\] (https://docs.bifrost.codes)
+This can complete the node construction. After the main network is online, the minimum configuration is 2-core 4GB virtual machine. For more technical tutorials on running Bifrost test nodes, we are also editing them. For details, please refer to [link]（ https://docs.bifrost.codes )
 
-**Bifrost在波卡生态扮演什么样的角色？之后接入KSM后的vKSM,能给波卡生态带来怎样的场景？**
+**What role does Bifrost play in Boca ecology? What kind of scene can the vksm with KSM access bring to Boca ecology?**
 
-Bifrost 定位很清晰，在波卡生态中扮演 Staking 流动性提供商的角色，我们会主要为围绕提供 Staking 流动性、小节点市场竞价权、降低平行链用户 Staking 门槛以及扩充 vToken 在平行链中的使用场景这几方面出发扮演好我们的角色。
+Bifrost has a clear positioning and plays a role as a liquidity provider in  polkadot ecosystem. We will play our role mainly around providing stacking liquidity, bidding rights for small nodes, reducing the stacking threshold of users in parallel chain, and expanding the usage scenarios of vtoken in the parallel chain.
 
-接入 Kusama 之后，首先给节点提名的 KSM 会因 vKSM 被解放，Kusama 网络的整体质押率会得到提升，同时一些没有 KSM 启动资金的小节点，可以通过竞价获得 Bifrost 的提名支持，来进入到出块列表，呈现在大众投票人眼前。总之 vKSM 都是我们团队和社区中的小伙伴共同期待的一个功能。
+After accessing Kusama, the KSM nominated for the node will be liberated due to vksm, and the overall pledge rate of Kusama network will be improved. At the same time, some small nodes without KSM start-up funds can obtain the nomination support of Bifrost through bidding to enter the block list and present it to the voters. In short, vksm is a function that our team and our community expect together.
 
-**项目目前进展如何，预计什么时候上主网，具体的开发路线计划？**
+**What is the current progress of the project, when is it expected to be launched on the main network, and the specific development route plan?**
 
-在接下来的时间我们会继续完善 POC-2 测试网的开发工作，同时计划将 EOS Jungle 测试网跨链接入 Bifrost 测试网络。并且在 5 月 1 日计划正式启动 Bifrost Asgard 预生产网络，它将是会和 Kusama 一样永久开放的预生产网络。
+In the following time, we will continue to improve the development of poc-2 test network, and plan to cross link the EOS jungle test network to the Bifrost test network. And on May 1, it is planned to officially launch the pre production network of Bifrost Asgard, which will be open permanently like Kusama.
 
-想要接入 Bifrost 的团队，可以提前在 Bifrost Asgard 网络中验证业务逻辑。在 5 月底，我们计划在 Kusama 网络中进行 IPO 预演，来测试 Bifrost 整套 IPO 业务流程。
+Teams who want to access Bifrost can verify the business logic in the Bifrost Asgard network in advance. At the end of May, we plan to conduct an IPO preview in Kusama network to test the entire IPO business process of Bifrost.
 
-预计在 6 月底，Bifrost 将参与 Kusama 平行链卡槽的正式拍卖，完成一次 Kusama 网络中的 IPO，顺利的情况下，能够成功接入 Kusama 网络成为其平行链，来为用户提供真实的 KSM 兑换。
+It is expected that at the end of June, Bifrost will participate in the formal auction of Kusama parallel chain card slot and complete an IPO in Kusama network. Under smooth circumstances, Bifrost can successfully access Kusama network to become its parallel chain to provide users with real KSM exchange.
 
-在 Kusama 网络中尽可能的验证和优化业务逻辑，提前排除各类线上风险，积累社群规模，做好在 Polkadot 主网上竞拍平行链卡槽的准备，总之我们会将 Bifrost 主网上线节奏和 Polkadot 主网上线进程保持一致，争取成为第一批接入 Polkadot 主网的平行链。
+In Kusama network, we will verify and optimize business logic as much as possible, eliminate all kinds of online risks in advance, accumulate community scale, and be ready to bid for parallel chain card slot on Polkadot main network. In short, we will keep the line rhythm of Bifrost main network consistent with the online process of Polkadot main network, and strive to become the first batch of parallel chains connected to Polkadot main network.
 
 
 
