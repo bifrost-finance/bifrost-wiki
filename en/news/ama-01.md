@@ -1,4 +1,4 @@
-# Staking + DeFi 新玩法 | 如何兼顾流动性和高收益
+# The new play of Staking + DeFi | How to combine liquidity with high rewards.
 
 **Host: Hello everyone, and welcome to the first online AMA of Bifrost. I'm host Bonnie~**
 
@@ -36,7 +36,7 @@ Meanwhile, the nomination bidding of Bifrost Staking Pool will give small nodes 
 
 **7. Host: Seventh, I would like to ask Lurpis to give you a brief introduction to the process of card slot auction before the launch of the mainnet of Polkadot. What efforts has Bifrost made?**
 
-波卡主网上线后，预计开放平行链卡槽的拍卖，每半年举行一次。据我们所知，一开始的卡槽数量并不会很多，需要卡槽的团队需要锁定 DOT 来参与卡槽 6 - 24 个月使用权的竞拍。同时 Bifrost 会在平行链竞拍前开启首次平行链 IPO（Initial P0arachain Offer）计划，也称作 IPO。如果你手中持有 DOT 就可以参与到这次 IPO 中来。如果 Bifrost 成功拍中平行链插槽，那么你将会获得丰厚的 BNC 作为回报。同时参与 IPO 的 DOT 不会被消耗，而是被锁定在平行链插槽中。锁定时间根据平行链插槽使用时间而定，在平行链插槽到期后，你将原封不动的拿回你的 DOT。参与 IPO 你损失的仅仅是这段时间的 DOT Staking 成本和持有 DOT 的机会成本。
+Once the Polkadot mainnet is online, it is expected to open up parachain slots auction, which will be held every six months. As far as we know, there won't be many slots to begin with. Parachain teams that need slots will have to lock in the DOT to bid on the 6 - 24 months usage of the slots. At the same time Bifrost will open its (Initial Parachain Offer) IPO before the parachain auction. If you hold DOTs you can participate in this IPO, and if Bifrost is successful in the auction of Parachain slots, then you will receive a generous BNCs as return. DOTs that also participate in the IPO are not consumed, but are locked in the parachain slot. The duration of the lockup depends on how long the parachain slot is used. After the parachain slot expires, you get your DOT back, and all you lose by participating in the IPO is the cost of DOT Staking time and the opportunity cost of holding the DOT.
 
 **8.Host: We all know that Bifrost was funded by the WEB3 Foundation not long ago. Can we talk a little bit about the current cooperation with WEB3 and Polkadot?**
 
