@@ -2,19 +2,19 @@
 
 **Host: Hello everyone, and welcome to the first online AMA of Bifrost. I'm host Bonnie~**
 
-**After five months of development preparation, Bifrost gradually entered the public eye. It from the initial concept to today's test network, constantly bring everyone surprises. In the first AMA, Lurpis, co-founder & core developer of Bifrost, will take the wonderful world of Bifrost to you. This session is divided into two parts, the moderator questions and the audience free questions.**
+**After five months of development preparation, Bifrost gradually entered the public vision. It from the initial concept to today's test network, constantly bring everyone surprises. In the first AMA, Lurpis, co-founder & core developer of Bifrost, will take the wonderful world of Bifrost to you. This session is divided into two parts, the host questions and the audience free questions.**
 
 **Host: firstly, let's welcome Lurpis to make a brief introduction to Bifrost.**
 
 大家好，我是 Bifrost 的 Lurpis 今天来给大家分享一下 Bifrost。
 
-Bifrost 是一个提供 Staking 流动性的跨链网络，用户可以随时将 PoS 币种通过 Bifrost 转接桥兑换成 Bifrost vToken 从而获得 Staking 收益和流动性。比如用户可以将 EOS 兑换成 vEOS，在领取 EOS Staking 收益的同时，还能将 vEOS 随时卖出，赎回成 EOS。同时 vEOS 还可在 DeFi、Dapp、DEX 等多场景下使用，比如使用 vEOS 作为抵押物进行借贷时，其 Staking 收益可抵销部分利息，实现低息借贷。目前在 Polkadot 生态中还有一些其他同样优秀的平行链项目，比如目前在波卡生态中有做稳定币的 Acala，有做游戏生态的 Darwin，这些都是 vToken 使用场景的可能扩展。
+Bifrost is a cross-chain network, which can provide Staking liquidity. Users can exchange PoS Token into Bifrost vToken by Bifrost transfer bridge at any time to get Staking income and liquidity. For example, users can exchange EOS into vEOS. At the same time, they can receive the income from EOS Staking, also sell vEOS and redeem EOS at any time. Also, VEOS can be used in DeFi, Dapp, DEX and other scenarios. For example, when using vEOS as collateral for lending, the income from Staking can pay part of the interest and realize low-interest lending. There are other extremely good parachains projects in the Polkadot ecology, such as Acala network, which committed to stablecoin in the Polkadot ecology, and Darwin network, which focus on game ecology. All of they are possible extensions of vToken usage scenarios.
 
-**2. Host: so what, what role does vToken play in staking? How does it provide liquidity for Staking?**
+**2. Host: so, what role does vToken play in staking? How does it provide liquidity for Staking?**
 
-首先 vToken 是用来提供 Staking 流动性的通用资产。比如拿 KSM 举例当用户直接做给节点提名时，在提名状态的 KSM 是不能交易的，如果打算卖出 KSM，那么至少需要等待 7 天的赎回时间。如果期间遇到行情短期暴跌时，那么用户只能束手无策，看着资产贬值。而通过 Bifrost 做 Staking，可以根据兑换率获得 vKSM，那么当遇到行情短期暴跌时，直接卖出 vKSM 就可以了。除此之外 vKSM 还能随意转让，交易，玩 Dapp，甚至当作 DeFi 的抵押物，或者借贷给他人，获得 Staking 和 借贷的双重收益。
+First, vToken is a sort of general token used to provide Staking liquidity. Take KSM for example, when the user votes directly to the node the KSM in the nomination state will be locked. If you want to sell the KSM, you need to wait at least 7 days of redemption. If a short-term collapse occurs during the redemption period, users can do nothing but watch their assets depreciate. But through the Bifrost Staking, user can obtain vKSM according to the exchange rate. When the market short-term collapsed, vKSM can be sold directly. In addition, vKSM can also transfer, trade, use it in Dapp at will, even use it as security in DeFi, or lend it to others for the double benefit of Staking and lending.
 
-**3. Host: got it. Simply speaking, the original token can continue to accept the income from Staking, while the replaced vToken can replace the original token to continue to participate in the market behavior for trading or investment. So how do we get vToken? How can we get it?**
+**3. Host: Got it. Simply speaking, the original token can continue to accept the income from Staking, while the replaced vToken can replace the original token to continue to participate in the market behavior for trading or investment. So how do we get vToken? Which channels do we get it?**
 
 vToken 获取大体上分两种方式
 
