@@ -31,18 +31,18 @@ Next, we plan to bridge the EOS test network to complete the preliminary cross c
 
 I played bitcoin with my colleagues when I was developing Sina Weibo. After reading a lot of relevant materials about bitcoin and blockchain, I became very interested in blockchain technology. Later, I deeply studied blockchain when I was doing cross-border payment business in Ping + +. At that time, I thought the "virtual asset uniqueness" of blockchain This point is too great, and it will certainly bring great changes to the world of gradual informatization. At that time, the research found that the user experience of blockchain products on the market was generally poor, and the learning cost was high, which blocked many potential users. Therefore, in October 2017, the user experience of blockchain products was generally poor, and the learning cost was high Month and his partners jointly founded Li coin, with the vision of "making the blockchain simpler", hoping to make efforts in improving user experience and lowering the threshold of participation, so as to make blockchain products popular.
 
-**6、你怎么注意到了波卡和 Substrate？**
+**6. How did you notice polkadot and substrate?**
 
-初次接触波卡应该是从 Substrate 开始的，当时基于智能合约开发的业务受限，在寻找解决方案时了解到 Substrate 可能是一个可行的技术框架，在对比过 Cosmos-SDK 和 Substrate 之后，最终我们选择了 Substrate。
+The initial contact with polkadot should start with substrate. At that time, the business based on smart contract development was limited. When looking for solutions, we learned that substrate might be a feasible technical framework. After comparing cosmos SDK and substrate, we finally chose substrate.
 
-**7、Substrate 对你和你的团队最大的帮助是什么？**
+**7. What's the greatest help to you and your team with substrate?**
 
-在技术方面，降低区块链开发门槛，节省大量开发工作量，在产品方面，Substrate 原生兼容 Polkadot 中继网络，使得多链场景可以快速展开，当然除此之外还有 Web3 foundation grant 和 Substrate builder 计划会从资金、市场、产品、融资、规划等多个方面提供帮助。
+In terms of technology, reduce the threshold of blockchain development and save a lot of development workload. In terms of products, substrate is compatible with Polkadot relay network, which enables Multi Chain scenarios to be developed quickly. In addition, there are Web3 Foundation grant and substratebuilder plans, which will help in capital, market, product, financing, planning and other aspects.
 
-**8、可以分享下是如何拿到的 Web3 基金会的 grant 的吗？**
+**8. Can you share how you got grant from Web3 foundation?**
 
-我认为没有什么特别的技巧，只要是符合 Web3 愿景，可以产生实际价值，踏实做事的团队，都有机会拿到 Web3 基金会的 Grant，推荐有想法、有技术的团队都可以试着申请一下。
+I don't think there are any special skills. As long as the team is in line with Web3's vision, can produce practical value, and do things in a down-to-earth manner, they can get grant from the Web3 foundation. It is recommended that teams with ideas and technologies can try to apply.
 
-**9、2020 年你对波卡和 Bifrost 最大的期待是什么？**
+**9. What are your biggest expectations for polkadot and Bifrost in 2020?**
 
-今年对波卡最大的期待当然是 XCMP 跨链协议的顺利上线，相信波卡生态内其他团队也都在时刻关注着 XCMP 的最新进展。对于 Bifrost 来说，想要与其他 DeFi 项目（如抵押借贷）建立合作的基础是资产流动性，所以期待 Bifrost 在今年可以很好的实现 Staking 流动性建设和投票权的市场化，我们的目标是在 XCMP 协议发布之后的六个月内，能够提供至少三种资产的 Staking 流动性，同时 vToken 总市值达到 10M USD 规模。
+The biggest expectation for polkadot this year is of course the smooth launch of xcmp cross chain protocol. I believe other teams in polkadot ecology are also paying close attention to the latest progress of xcmp. For Bifrost, the basis for establishing cooperation with other defi projects (such as mortgage lending) is asset liquidity. Therefore, it is expected that Bifrost can well realize the liquidity construction and marketization of voting rights in this year. Our goal is to provide at least three kinds of asset's stacking liquidity and vtoken within six months after the release of xcmp agreement The total market value reaches 10m USD.
