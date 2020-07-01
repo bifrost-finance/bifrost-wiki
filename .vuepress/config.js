@@ -195,6 +195,10 @@ module.exports = {
                 children: [
                   ['/zh/news/ama-01.md', 'AMA 问答汇总（第一期）'],
                   ['/zh/news/ama-02.md', 'AMA 问答汇总（第二期）'],
+                  ['/zh/news/ama-03.md', 'AMA 问答汇总（第三期）'],
+                  ['/zh/news/ama-04.md', 'AMA 问答汇总（第四期）'],
+                  ['/zh/news/ama-05.md', 'AMA 问答汇总（第五期）'],
+                  ['/zh/news/ama-06.md', 'AMA 问答汇总（第六期）'],
                 ],
               },
               {
