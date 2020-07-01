@@ -215,9 +215,20 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-              ['/zh/help/tutorials.md', 'Crowdin 注册教程'],
-              ['/zh/help/faq.md', 'FAQ'],
-            ],
+              {
+                title: 'FAQ',
+                collapsable: false,
+                children: [
+                  ['/zh/help/faq.md', 'FAQ'],
+                ],
+              },
+              {
+                title: '教程',
+                collapsable: false,
+                children: [
+                  ['/zh/help/wiki-translation-register-tutorials.md', 'Crowdin 注册教程'],
+                  ['/zh/help/node-general-tutorial.md', 'Bifrost 节点通用教程'],
+                ],
           }
         ],
       },
