@@ -1,18 +1,24 @@
-module.exports = {
+module.exports =  {
   base: '/wiki/',
   title: 'Bifrost Wiki',
-  description: "A parachain designed for staking's liquidity. 为 Staking 提供流动性的跨链网络。",
+  description: 'A parachain designed for staking\'s liquidity. 为 Staking 提供流动性的跨链网络。',
   markdown: {
     lineNumbers: true,
   },
   head: [
-    ['link', { rel: 'shortcut icon', href: '/favicon_icon.png' }]
+    [
+      'link',
+      {
+        rel: 'shortcut icon',
+        href: '/favicon_icon.png',
+      },
+    ],
   ],
   locales: {
     '/en/': {
       lang: 'en-US',
       title: 'Bifrost Wiki',
-      description: "A parachain designed for staking's liquidity",
+      description: 'A parachain designed for staking\'s liquidity',
     },
     '/zh/': {
       lang: 'zh-CN',
@@ -36,16 +42,31 @@ module.exports = {
           },
         },
         nav: [
-          {text: 'Home', link: 'https://bifrost.finance'},
+          {
+            text: 'Home',
+            link: 'https://bifrost.finance',
+          },
           {
             text: 'Documentation',
             items: [
-              {text: 'Developer', link: 'https://docs.bifrost.finance/developer'},
-              {text: 'Whitepaper', link: 'https://docs.bifrost.finance/whitepaper'},
-              {text: 'Wiki', link: 'https://docs.bifrost.finance/wiki'},
+              {
+                text: 'Developer',
+                link: 'https://docs.bifrost.finance/developer',
+              },
+              {
+                text: 'Whitepaper',
+                link: 'https://docs.bifrost.finance/whitepaper',
+              },
+              {
+                text: 'Wiki',
+                link: 'https://docs.bifrost.finance/wiki',
+              },
             ],
           },
-          {text: 'GitHub', link: 'https://github.com/bifrost-codes'},
+          {
+            text: 'GitHub',
+            link: 'https://github.com/bifrost-codes',
+          },
         ],
         sidebar: [
           {
@@ -56,19 +77,36 @@ module.exports = {
               {
                 title: 'Ongoing',
                 collapsable: false,
-                children: [
-                ],
+                children: [],
               },
               {
                 title: 'Finished',
                 collapsable: false,
                 children: [
-                  ['/en/events/finished/event-01.md', 'Airdrop Twitter KSM'],
-                  ['/en/events/finished/event-02.md', 'AMA Hotbit x Bifrost'],
-                  ['/en/events/finished/event-03.md', 'Node Bifrost Asgard'],
-                  ['/en/events/finished/event-04.md', 'Prize essay'],
-                  ['/en/events/finished/event-05.md', 'Polkaworld × Phala x Bifrost'],
-                  ['/en/events/finished/event-06.md', 'Liandu x Bifrost'],
+                  [
+                    '/en/events/finished/event-01.md',
+                    'Airdrop Twitter KSM',
+                  ],
+                  [
+                    '/en/events/finished/event-02.md',
+                    'AMA Hotbit x Bifrost',
+                  ],
+                  [
+                    '/en/events/finished/event-03.md',
+                    'Node Bifrost Asgard',
+                  ],
+                  [
+                    '/en/events/finished/event-04.md',
+                    'Prize essay',
+                  ],
+                  [
+                    '/en/events/finished/event-05.md',
+                    'Polkaworld × Phala x Bifrost',
+                  ],
+                  [
+                    '/en/events/finished/event-06.md',
+                    'Liandu x Bifrost',
+                  ],
                 ],
               },
             ],
@@ -78,7 +116,10 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-              ['/en/contribute/long-term.md', 'Long Term'],
+              [
+                '/en/contribute/long-term.md',
+                'Long Term',
+              ],
             ],
           },
           {
@@ -86,7 +127,10 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-              ['/en/news/published.md', 'Published'],
+              [
+                '/en/news/published.md',
+                'Published',
+              ],
             ],
           },
           {
@@ -94,9 +138,12 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-              ['/en/help/faq.md', 'FAQ'],
+              [
+                '/en/help/faq.md',
+                'FAQ',
+              ],
             ],
-          }
+          },
         ],
       },
       '/zh/': {
@@ -110,16 +157,31 @@ module.exports = {
           },
         },
         nav: [
-          {text: '首页', link: 'https://bifrost.finance'},
+          {
+            text: '首页',
+            link: 'https://bifrost.finance',
+          },
           {
             text: '文档',
             items: [
-              {text: 'Developer', link: 'https://docs.bifrost.finance/developer'},
-              {text: 'Whitepaper', link: 'https://docs.bifrost.finance/whitepaper'},
-              {text: 'Wiki', link: 'https://docs.bifrost.finance/wiki'},
+              {
+                text: 'Developer',
+                link: 'https://docs.bifrost.finance/developer',
+              },
+              {
+                text: 'Whitepaper',
+                link: 'https://docs.bifrost.finance/whitepaper',
+              },
+              {
+                text: 'Wiki',
+                link: 'https://docs.bifrost.finance/wiki',
+              },
             ],
           },
-          {text: 'GitHub', link: 'https://github.com/bifrost-codes'},
+          {
+            text: 'GitHub',
+            link: 'https://github.com/bifrost-codes',
+          },
         ],
         sidebar: [
           {
@@ -130,47 +192,79 @@ module.exports = {
               {
                 title: 'Ongoing',
                 collapsable: false,
-                children: [
-                ],
+                children: [],
               },
               {
                 title: 'Finished',
                 collapsable: false,
                 children: [
                   {
-                      title: '节点活动',
-                      collapsable: false,
-                      children: [
-                        ['/zh/events/finished/event-03.md', 'Asgard 节点活动'],
-                        ['/zh/events/finished/event-09.md', 'POC2 早鸟节点'],
+                    title: '节点活动',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/zh/events/finished/event-03.md',
+                        'Asgard 节点活动',
                       ],
+                      [
+                        '/zh/events/finished/event-09.md',
+                        'POC2 早鸟节点',
+                      ],
+                    ],
                   },
                   {
-                      title: '空投活动',
-                      collapsable: false,
-                      children: [
-                        ['/zh/events/finished/event-01.md', 'KSM 空投第二期'],
-                        ['/zh/events/finished/event-08.md', 'KSM 空投第一期'],
+                    title: '空投活动',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/zh/events/finished/event-01.md',
+                        'KSM 空投第二期',
                       ],
+                      [
+                        '/zh/events/finished/event-08.md',
+                        'KSM 空投第一期',
+                      ],
+                    ],
                   },
                   {
-                      title: 'AMA 活动',
-                      collapsable: false,
-                      children: [
-                        ['/zh/events/finished/event-12.md', 'Substrate China Day（第六期）'],
-                        ['/zh/events/finished/event-02.md', 'HotTalk X Bifrost（第五期）'],
-                        ['/zh/events/finished/event-05.md', 'Phala X Bifrost（第四期）'],
-                        ['/zh/events/finished/event-06.md', '波卡圆桌会（第三期）'],
-                        ['/zh/events/finished/event-10.md', '链读 X Bifrost（第二期）'],
-                        ['/zh/events/finished/event-11.md', 'Bifrost AMA（第一期）'],
+                    title: 'AMA 活动',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/zh/events/finished/event-12.md',
+                        'Substrate China Day（第六期）',
                       ],
+                      [
+                        '/zh/events/finished/event-02.md',
+                        'HotTalk X Bifrost（第五期）',
+                      ],
+                      [
+                        '/zh/events/finished/event-05.md',
+                        'Phala X Bifrost（第四期）',
+                      ],
+                      [
+                        '/zh/events/finished/event-06.md',
+                        '波卡圆桌会（第三期）',
+                      ],
+                      [
+                        '/zh/events/finished/event-10.md',
+                        '链读 X Bifrost（第二期）',
+                      ],
+                      [
+                        '/zh/events/finished/event-11.md',
+                        'Bifrost AMA（第一期）',
+                      ],
+                    ],
                   },
                   {
-                      title: '其他',
-                      collapsable: false,
-                      children: [
-                        ['/zh/events/finished/event-04.md', '有奖征文'],
+                    title: '其他',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/zh/events/finished/event-04.md',
+                        '有奖征文',
                       ],
+                    ],
                   },
                 ],
               },
@@ -181,7 +275,10 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-              ['/zh/contribute/long-term.md', 'Long Term'],
+              [
+                '/zh/contribute/long-term.md',
+                'Long Term',
+              ],
             ],
           },
           {
@@ -193,19 +290,40 @@ module.exports = {
                 title: 'AMA 文章',
                 collapsable: false,
                 children: [
-                  ['/zh/news/ama-01.md', 'AMA 问答汇总（第一期）'],
-                  ['/zh/news/ama-02.md', 'AMA 问答汇总（第二期）'],
-                  ['/zh/news/ama-03.md', 'AMA 问答汇总（第三期）'],
-                  ['/zh/news/ama-04.md', 'AMA 问答汇总（第四期）'],
-                  ['/zh/news/ama-05.md', 'AMA 问答汇总（第五期）'],
-                  ['/zh/news/ama-06.md', 'AMA 问答汇总（第六期）'],
+                  [
+                    '/zh/news/ama-01.md',
+                    'AMA 问答汇总（第一期）',
+                  ],
+                  [
+                    '/zh/news/ama-02.md',
+                    'AMA 问答汇总（第二期）',
+                  ],
+                  [
+                    '/zh/news/ama-03.md',
+                    'AMA 问答汇总（第三期）',
+                  ],
+                  [
+                    '/zh/news/ama-04.md',
+                    'AMA 问答汇总（第四期）',
+                  ],
+                  [
+                    '/zh/news/ama-05.md',
+                    'AMA 问答汇总（第五期）',
+                  ],
+                  [
+                    '/zh/news/ama-06.md',
+                    'AMA 问答汇总（第六期）',
+                  ],
                 ],
               },
               {
                 title: '媒体报导',
                 collapsable: false,
                 children: [
-                  ['/zh/news/published.md', 'Published'],
+                  [
+                    '/zh/news/published.md',
+                    'Published',
+                  ],
                 ],
               },
             ],
@@ -219,17 +337,28 @@ module.exports = {
                 title: 'FAQ',
                 collapsable: false,
                 children: [
-                  ['/zh/help/faq.md', 'FAQ'],
+                  [
+                    '/zh/help/faq.md',
+                    'FAQ',
+                  ],
                 ],
               },
               {
                 title: '教程',
                 collapsable: false,
                 children: [
-                  ['/zh/help/wiki-translation-register-tutorials.md', 'Crowdin 注册教程'],
-                  ['/zh/help/node-general-tutorial.md', 'Bifrost 节点通用教程'],
+                  [
+                    '/zh/help/wiki-translation-register-tutorials.md',
+                    'Crowdin 注册教程',
+                  ],
+                  [
+                    '/zh/help/node-general-tutorial.md',
+                    'Bifrost 节点通用教程',
+                  ],
                 ],
-          }
+              },
+            ],
+          },
         ],
       },
     },
