@@ -1,5 +1,3 @@
-FAQ 
-
 ## Getting started with Bifrost
 
 ### What is Bifrost?
@@ -14,7 +12,7 @@ Bifrost was committed to solving three problems at the beginning. These are the 
 
 The solution to these problems is largely due to Bifrost's vToken model. vToken is a general asset used to provide staking liquidity. Using Bifrost protocol, Token can be swapped into vToken according to a certain basis. While the original Token participates in staking, vToken can make full use of the advantages of its general assets in other public chains, Dapps, and security performance to solve the problems of Staking & DeFi rewards, liquidity & security, and Staking & cross-chain.
 
-## vToken on Bifrost
+## vToken 
 
 ### What is vToken?
 
@@ -22,13 +20,13 @@ vToken is a general asset used to provide staking liquidity. vToken is a staking
 
 ### What are the usage scenarios of vToken?
 
-- Hedge-Anti-inflation, prevent devaluation of staking assets, no lock-up position.
+- **Hedge**-Anti-inflation, prevent devaluation of staking assets, no lock-up position.
 
-- Double rewards-Get staking rewards and DeFi interests at the same time.
+- **Double rewards**-Get staking rewards and DeFi interests at the same time.
 
-- Leverage-Use vToken lending leverage to expand staking principal.
+- **Leverage**-Use vToken lending leverage to expand staking principal.
 
-- Cross-chain rewards-Making cross-chain scenarios compatible with staking rewards.
+- **Cross-chain rewards**-Making cross-chain scenarios compatible with staking rewards.
 
 ### Which PoS tokens does Bifrost support for vToken swap?
 
@@ -39,7 +37,7 @@ After the Bifrost mainnet is officially launched, the first phase will open KSM,
 vToken can be purchased directly from wallets, exchanges (CEX & DEX).
 In addition, users can swap vTokens by downloading the Bifrost Dapp after the official launch of the Bifrost mainnet.
 
-## Staking on Bifrost
+## Staking 
 
 ### What is the Bifrost Marketization Model of the staking rewards?
 
@@ -49,7 +47,7 @@ Bifrost improves Staking rewards by voting Marketization model. For example, KSM
 
 Due to Biforst's Marketization model, the reward of the PoS Tokens listed on Bifrost will be higher than the reward of ordinary staking. If KSM's current annualized reward rate is 20%, then vKSM will also be at least 20% of its annualized reward.
 
-## BNC on Bifrost
+## BNC 
 
 ### What is BNC?
 
@@ -59,7 +57,7 @@ BNC(Bifrost Network Coin) is the native token of Bifrost. It has 80,000,000 tota
 
 Currently BNC has not been circulated in the market. It is expected to circulate at least once Polkadot supports parachain and the Bifrost mainnet is online. 
 
-### Community 
+## Community 
 
 [Twitter](https://twitter.com/bifrost_network)
 
@@ -79,7 +77,7 @@ Email: <hello@bifrost.finance>
 
 ### Who grants Bifrost?
 
-- Web3 Foundation
-- Substrate builders program
-- Web3 Bootcamp.
+- [Web3 Foundation](https://web3.foundation/)
+- [Substrate builders program](https://www.substrate.io/builders-program/)
+- [Web3 Bootcamp](https://bootcamp.web3.foundation/)
 
