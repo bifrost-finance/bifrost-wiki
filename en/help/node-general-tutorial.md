@@ -52,7 +52,7 @@ NET（网络带宽）:  10 MB
 $ docker run -it registry.cn-shanghai.aliyuncs.com/bifrostnetwork/bifrost:asgard-v0.3.2 --name "Bifrost Node Name" --validator
 ```
 
-![]()
+<img :src="$withBase('/zh/node-tutorials-01.png')" alt="" />
 
 注：要自己跑出节点 ID，截图中的节点 ID 不再跑了，而且已经提交过了。
 
@@ -70,7 +70,7 @@ $ docker run -it registry.cn-shanghai.aliyuncs.com/bifrostnetwork/bifrost:asgard
 $ docker ps -a
 ```
 
-![]()
+<img :src="$withBase('/zh/node-tutorials-02.png')" alt="" />
 
 如果是电脑或服务器重启，造成的容器退出，用下面的命令重新启动：
 
@@ -87,7 +87,7 @@ $ docker restart a45
 
 访问地址：\[https://telemetry.polkadot.io/#list/Bifrost%20Asgard%20CC1\](https://telemetry.polkadot.io/#list/Bifrost Asgard CC1)
 
-![]()
+<img :src="$withBase('/zh/node-tutorials-03.png')" alt="" />
 
 ### 2 问题解决
 
@@ -95,7 +95,7 @@ $ docker restart a45
 
 安装 Docker Toolbox 是出现下面的错误，说明拉取 boot2docker.iso 失败了。
 
-![]()
+<img :src="$withBase('/zh/node-tutorials-04.png')" alt="" />
 
 解决方案：
 
@@ -117,7 +117,7 @@ Bifrost 社区群里有下载好的镜像，先在群里要；然后复制到上
 $ docker logs a45
 ```
 
-![]()
+<img :src="$withBase('/zh/node-tutorials-05.png')" alt="" />
 
 #### 2.3 其他疑难杂症？
 
