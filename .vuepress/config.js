@@ -335,6 +335,7 @@ module.exports =  {
             children: [
               {
                 title: 'FAQ',
+                sidebarDepth: 1,
                 collapsable: false,
                 children: [
                   [
@@ -348,12 +349,20 @@ module.exports =  {
                 collapsable: false,
                 children: [
                   [
+                    '/zh/help/bnc-wallet-register-tutorials.md',
+                    'BNC 钱包地址创建教程',
+                  ],
+                  [
                     '/zh/help/wiki-translation-register-tutorials.md',
                     'Crowdin 注册教程',
                   ],
                   [
                     '/zh/help/node-general-tutorial.md',
                     'Bifrost 节点通用教程',
+                  ],
+                  [
+                    '/zh/help/bnc-wallet-register-tutorials.md',
+                    'BNC 钱包创建教程',
                   ],
                 ],
               },
