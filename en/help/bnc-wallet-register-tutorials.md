@@ -22,13 +22,17 @@
 
 <img :src="$withBase('/zh/bnc-wallet-tutorials-04.png')" alt="文件名即钱包地址" />
 
+
 ### 如何复制 BNC 账号地址
+
 
 **1. 点击钱包头像即可自动复制**
 
 <img :src="$withBase('/zh/bnc-wallet-tutorials-05.png')" alt="" />
 
+
 ### 恢复钱包
+
 
 **1. 使用助记词或原始种子**
 
