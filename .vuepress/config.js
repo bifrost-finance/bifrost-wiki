@@ -331,12 +331,12 @@ module.exports =  {
           {
             title: 'Help',
             collapsable: false,
-            sidebarDepth: 1,
+            sidebarDepth: 0,
             children: [
               {
                 title: 'FAQ',
-                sidebarDepth: 1,
-                collapsable: true,
+                collapsable: false,
+                sidebarDepth: 0,
                 children: [
                   [
                     '/zh/help/faq.md',
@@ -347,6 +347,7 @@ module.exports =  {
               {
                 title: '教程',
                 collapsable: false,
+                sidebarDepth: 0,
                 children: [
                   [
                     '/zh/help/bnc-wallet-register-tutorials.md',
