@@ -7,7 +7,7 @@
 
 <img :src="$withBase('/zh/bnc-wallet-tutorials-01.png')" alt="" />
 
-**3. 填写账号`名称`、`密码`并**备份私钥或种子**，填好后选择`保存`**
+**3. 填写账号`名称`、`密码`并备份私钥或种子，填好后选择`保存`**
 
 
 <img :src="$withBase('/zh/bnc-wallet-tutorials-02.png')" alt="" />

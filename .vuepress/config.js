@@ -322,7 +322,7 @@ module.exports =  {
                 children: [
                   [
                     '/zh/news/published.md',
-                    'Published',
+                    'Polkaworld专访',
                   ],
                 ],
               },
