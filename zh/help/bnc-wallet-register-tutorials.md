@@ -17,7 +17,7 @@
 
 <img :src="$withBase('/zh/bnc-wallet-tutorials-03.png')" alt="" />
 
-**5. `手机端`创建的可能不会自动下载json文件，所以一定要`备份好上面的助记词或原始种子！！！`**
+**5. `手机端`创建的可能不会自动下载 json 文件，所以一定要`备份好上面的助记词或原始种子！！！`**
 
 
 <img :src="$withBase('/zh/bnc-wallet-tutorials-04.png')" alt="文件名即钱包地址" />
@@ -39,7 +39,7 @@
 
 <img :src="$withBase('/zh/bnc-wallet-tutorials-06.png')" alt="" />
 
-**2. 使用JSON文件恢复**
+**2. 使用 JSON 文件恢复**
 
 
 <img :src="$withBase('/zh/bnc-wallet-tutorials-07.png')" alt="" />

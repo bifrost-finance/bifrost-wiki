@@ -322,7 +322,7 @@ module.exports =  {
                 children: [
                   [
                     '/zh/news/published.md',
-                    'Polkaworld专访',
+                    'PolkaWorld 专访',
                   ],
                 ],
               },
@@ -340,7 +340,7 @@ module.exports =  {
                 children: [
                   [
                     '/zh/help/faq.md',
-                    'FAQ',
+                    '常见问题',
                   ],
                 ],
               },
