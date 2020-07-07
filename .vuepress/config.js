@@ -271,7 +271,7 @@ module.exports =  {
             ],
           },
           {
-            title: 'Contribute',
+            title: 'Contribution',
             collapsable: false,
             sidebarDepth: 1,
             children: [
@@ -336,7 +336,7 @@ module.exports =  {
               {
                 title: 'FAQ',
                 sidebarDepth: 1,
-                collapsable: false,
+                collapsable: true,
                 children: [
                   [
                     '/zh/help/faq.md',
@@ -359,10 +359,6 @@ module.exports =  {
                   [
                     '/zh/help/node-general-tutorial.md',
                     'Bifrost 节点通用教程',
-                  ],
-                  [
-                    '/zh/help/bnc-wallet-register-tutorials.md',
-                    'BNC 钱包创建教程',
                   ],
                 ],
               },
