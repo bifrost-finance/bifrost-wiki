@@ -1,4 +1,4 @@
-# Round table | Polkadot ecological Bifrost, a new scene of cross chain extension stacking
+# Round table | Polkadot Ecology Project Bifrost, a new scene of cross chain extension staking
 
 **不知不觉中，链读联合 Polkabase 开展的波卡生态项目 AMA 活动，已经进入了第10期。链读 AMA 有幸邀请来「Bifrost」联合创始人「Lurpis」做客链读直播间，和我们聊聊波卡平行链 Bifrost 结合跨链延展 Staking 的新场景。**
 
