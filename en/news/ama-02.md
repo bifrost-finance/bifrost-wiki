@@ -21,9 +21,9 @@ Hello, I'm lurpis, the co-founder of Bifrost. I'm very glad to cooperate with Li
 
 Founded in July last year, Bifrost, named Rainbow Bridge in Chinese, is a Polkadot parachain developed by substrate, which is perpendicular to stacking ecology. Users can complete staking and obtain corresponding rights and rewards when assets cross the chain.
 
-In the past, we heard that users always complained that they would be inflated if they didn't do stacking. If they did, they would be locked. If the market goes up, they will not be able to do anything about it. They often can't have both income and liquidity.
+In the past, we heard that users always complained that they would be inflated if they didn't do staking,and they would be locked if they did staking.When the market goes up,the opportunity is missed,and when the market goes down,it is helples.Income and liquidity cannot be both.
 
-对此，Bifrost 主要运用波卡的跨链技术解决Staking 中仍然存在如参与门槛高、无流动性、治理与利益冲突等诸多问题。Bifrost 的应用方向将会重点向无需锁仓的 Staking、降低 Staking 门槛，以及提高 Staking 收益的三个方向延展。
+In this regard, Bifrost mainly uses polkadot's cross chain technology to solve the problems such as high threshold of participation, no liquidity, governance and conflict of interest. The application direction of Bifrost will focus on three directions: holding without lock, reducing the threshold of staking, and improving the revenue of staking.
 
 **What is the difference between Bifrost and ACALA? Is there any possibility of cooperation between the two?**
 
