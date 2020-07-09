@@ -41,7 +41,7 @@ At present, most of the market's difi products are built on Ethereum. However, w
 
 波卡运用中继网络将各个平行链和公链进行桥接，构建了一个相互连接的生态系统。在低成本使用共识安全的同时，各业务之间不会互相干扰，也不会造成像某个产品交易拥堵造成全网 Gas 费用暴涨的情况。
 
-Therefore, I am more optimistic about poca. In the future, polkadot will pose a huge challenge to Ethereum in terms of ecology and performance. This is also one of the reasons why I am looking forward to the launch of polkadot's main network this year.
+Therefore, I am more optimistic about Polkadot. In the future, polkadot will pose a huge challenge to Ethereum in terms of ecology and performance. This is also one of the reasons why I am looking forward to the launch of polkadot's mainnet this year.
 
 **Why choose polkadot / substrate? What are the natural advantages for the development of the project?**
 
@@ -51,19 +51,19 @@ Therefore, I am more optimistic about poca. In the future, polkadot will pose a 
 
 **How does Bifrost staking and what is the staking mechanism?**
 
-At the user level, for example, one vtoken can be exchanged for a vtoken through the Bifrost protocol. As time goes on, one vtoken can be exchanged back to 1.5 tokens. The 0.5 token is the stacking income you get during the holding period, which is equivalent to passively participating in the stacking by holding vtoken.
+At the user level, for example, one vToken can be exchanged for a Token through the Bifrost protocol. As time goes on, one vToken can be exchanged back to 1.5 Tokens. The 0.5 Token is the staking reward you get during the holding period, which is equivalent to passively participating in the staking by holding vtoken.
 
-Of course, the way to obtain vtoken is not only through the exchange of Bifrost agreement, but also through the exchange purchase, wallet flash and other ways to obtain vtoken. The vtoken obtained from different channels can obtain staking income.
+Of course, the way to obtain vToken is not only through the exchange of Bifrost agreement, but also through the exchange purchase, wallet flash and other ways to obtain vToken. The vToken obtained from different channels can obtain staking income.
 
-在使用场景层面，得益于 vToken 的通用化设计，是不局限于中心化或者去中心化场景的。也就是说用户如果在意隐私、安全，可以将 vToken 放在自己的地址中。如果用户在意短期的流动性，可以放在中心化交易所或者云端钱包中，无论哪种方式，都是可以获得 Staking 收益的。
+At the use scenario level, thanks to the general design of vToken, it is not limited to centralized or decentralized scenarios. In other words, if users care about privacy and security, they can put vToken in their own address. If users care about short-term liquidity, they can put them in centralized exchanges or cloud wallets. In either way, they can obtain staking Income.
 
-**How does Bifrost ensure the high yield and liquidity of staging and promote the marketization of staging revenue?**
+**How does Bifrost ensure the high yield and liquidity of staking and promote the marketization of staking reward?**
 
-Staking liquidity is provided by vtoken's liquidity incentive mechanism and cross chain usage scenarios. Liquidity incentive mechanism refers to the role providing liquidity for vtoken, who can obtain the staking income during the vtoken trading period to motivate users and market makers to provide vtoken liquidity.
+Staking liquidity is provided by vToken's liquidity incentive mechanism and cross chain usage scenarios. Liquidity incentive mechanism refers to the role providing liquidity for vToken, who can obtain the staking income during the vToken trading period to motivate users and market makers to provide vToken liquidity.
 
-在使用场景方面，vToken 是基于通用资产协议开发的跨链资产。Bifrost 在提供多种 PoS 币种转接桥的同时，会积极促进 vToken 使用场景的兑换和兼容，也就是说 vToken 可以作为锚定原链资产的跨链资产在其他平行链中使用。
+Standing liquidity is provided by vToken's liquidity incentive mechanism and cross chain usage scenarios. Liquidity incentive mechanism refers to the role providing liquidity for vtoken, who can obtain the standing income during the vtoken trading period to motivate users and market makers to provide vtoken liquidity.
 
-From the perspective of improving the standing income, Bifrost improves the stacking income through marketization of stacking voting rights.
+From the perspective of improving the Staking reward, Bifrost improves the staking reward through marketization of staking voting rights.
 
 Taking Kusama as an example, the voting rights of KSM in the Bifrost staking pool are obtained by market bidding. The higher the bid, the higher the KSM Therefore, small nodes that do not reach the threshold can be self incubated and enter the public voter's field of vision to provide better service to confront the head node, making the node network more secure and healthy.
 
