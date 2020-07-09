@@ -1,8 +1,8 @@
 # Round table | Polkadot Ecology Project Bifrost, a new scene of cross chain extension staking
 
-**不知不觉中，链读联合 Polkabase 开展的波卡生态项目 AMA 活动，已经进入了第10期。链读 AMA 有幸邀请来「Bifrost」联合创始人「Lurpis」做客链读直播间，和我们聊聊波卡平行链 Bifrost 结合跨链延展 Staking 的新场景。**
+**Unconsciously, the AMA activity of polkadot ecological project carried out by chain reading and polkabase has entered the 10th phase. Liandu AMA has the honor to invite "lurpis", co-founder of "Bifrost", as a guest in the chain reading studio to talk with us about "the new scene of  polkadot parallel chain Bifrost combined with cross chain extension staking"**
 
-**In the past, users always complained that they would be inflated if they didn't stack, they would be locked if they had done staking, the market would have a good opportunity to take measures to increase the market, and there would be no way to deal with the decline of the market. They often could not have both income and liquidity.**
+**In the past, users always complained that they would be inflated if they didn't staking, they would be locked if they had done staking, the market would have a good opportunity to take measures to increase the market, and there would be no way to deal with the decline of the market. They often could not have both income and liquidity.**
 
 **In view of this phenomenon, lurpis told us: the application direction of Bifrost will focus on three directions: staking without locking, lowering the staking threshold, and improving the benefits of staking.**
 
