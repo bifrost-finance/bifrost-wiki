@@ -1,9 +1,9 @@
-# Hotbit × Bifrost Polka Ecosystem AMA: New development in POS mining
+# Hotbit × Bifrost Polka Ecosystem AMA: A New development in POS mining
 Unconsciously, Bifrost has participated in 5 AMA online events. On May 29th, Lufros, the co-founder of Bifrost, was invited to participate in the third phase of the Hotbit Polkadot series of dialogues, Bifrost: a new development in POS mining.
 
 ***Time: May/29/2020 16: 00（UTC+8)***
 
-***地点：Hotbit 微信群 + Bifrost 微信群***
+***Location: Hotbit WeChat Group + Bifrost WeChat Group***
 
 **活动任务**
 - 在直播群中发送任务表情
@@ -20,11 +20,11 @@ Unconsciously, Bifrost has participated in 5 AMA online events. On May 29th, Luf
 
 **参与情况**
 
-Event Positive Vistors: 7,903
+Event Website Positive Vistors: 7,903
 
-活动页 UV：1,748
+Event Website Unique Vistors: 1,748
 
-公众号新增：145 人
+Increasing in WeChat official account followers: 145
 
 **奖励发放**
 
@@ -34,7 +34,7 @@ Event Positive Vistors: 7,903
 
 奖励发放时间：2020/6/6
 
-注：剩余未发放 BNC 原因：（1）活动条件未完成 （2）BNC 地址未绑定
+Note: Reasons for the remaining BNC is not issued: (1) The activity condition is not completed (2) The BNC address is not bound
 
 
 | BNC Address                                      | BNC Quant. |
