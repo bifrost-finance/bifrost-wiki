@@ -231,6 +231,10 @@ module.exports =  {
                     collapsable: false,
                     children: [
                       [
+                        '/zh/events/finished/event-13.md',
+                        '链团 X Bifrost（第七期）',
+                      ],
+                      [
                         '/zh/events/finished/event-12.md',
                         'Substrate China Day（第六期）',
                       ],
@@ -313,6 +317,10 @@ module.exports =  {
                   [
                     '/zh/news/ama-06.md',
                     'AMA 问答汇总（第六期）',
+                  ],
+                  [
+                    '/zh/news/ama-07.md',
+                    'AMA 问答汇总（第七期）',
                   ],
                 ],
               },
