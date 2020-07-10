@@ -10,8 +10,8 @@
 
 **MATH Twitter airdrop：**
 
-**活动任务**
-- 关注 [Bifrost](https://twitter.com/bifrost_network)、[麦子钱包](https://twitter.com/MathWallet)、[Polkaworld](https://twitter.com/polkaworld_org) 和 [Polkabase](https://twitter.com/Polkabase_com)
+**Active task**
+- Follow [@Bifrost](https://twitter.com/bifrost_network)、[ @MathWallet](https://twitter.com/MathWallet)、 [@Polkaworld](https://twitter.com/polkaworld_org) & [@Polkabase](https://twitter.com/Polkabase_com)
 - 在此条[推文](https://twitter.com/bifrost_network/status/1242405288457564160)下@三位好友
 - 转发该条[推文](https://twitter.com/bifrost_network/status/1242405288457564160)
 - 查看下一个[空投](https://medium.com/@bifrost_network/airdrop-attention-to-celebrate-the-launch-of-bifrosts-poc2-testnet-online-ksm-will-airdrop-913cc2645f11)
