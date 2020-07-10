@@ -16,7 +16,7 @@ First, vToken is a sort of general token used to provide Staking liquidity. Take
 
 **3. Host: Got it. Simply speaking, the original token can continue to accept the income from Staking, while the replaced vToken can replace the original token to continue to participate in the market behavior for trading or investment. So how do we get vToken? Which channels do we get it?**
 
-vToken 获取大体上分两种方式
+There are basically two ways to get vToken
 
 1、Bifrost exchange contract, Token can converted into vToken directly according to the exchange rate at that time. 2、Because vToken is a general assets agreement that can be traded on the market, users can buy vToken directly in the crypotcurrency exchange, also can receive the income from Staking. Besides, in order to reduce the threshold, we will also provide functions similar to swap. Bifrost-App is expected to be launched as a test version on April 15. Users can receive KSM and DOT test Tokens of Bifrost test network from Telegram BOT, and then experience the exchange, trading and revenue functions in Bifrost-App.
 
@@ -48,4 +48,4 @@ Bifrost released POC-2 Testnet on March 21, 2020. The node number reached 25 in 
 
 **10. Host: last question, what is the roadmap of Bifrost's future?**
 
-在接下来的时间我们会继续完善 POC-2 测试网的开发工作，同时计划将 EOS Jungle 测试网跨链进入 Bifrost 测试网络，并且在 5 月 1 日计划正式启动 Bifrost Asgard 预生产网络，它将是会和 Kusama 一样永久开放的 Chaos 网络。想要接入 Bifrost 的团队，可以提前在 Bifrost Asgard 网络中验证业务逻辑。在 5 月 30 日，我们计划在 Kusama 网络中进行 IPO 预演，来测试 Bifrost 整套 IPO 业务流程。预计在 6 月 30 日，Bifrost 将成为 Kusama Parachain，提供真实的 KSM 兑换。总之我们会尽量将 Bifrost 主网上线节奏和 Polkadot 主网上线进程保持一致，争取成为第一批接入 Polkadot 主网的平行链。
+In the next time we will continue to improve the POC - 2 testnet development work, and plan to enter EOS Jungle test network into Bifrost test network. And it is planned that the Bifrost Asgard Pre-production network will be officially launched on May 1st, which will similar to the Kusama that will be permanently open as a Chaos network. Teams who want to participate in Bifrost，can validate the business logic in advance in the Bifrost Asgard network. On May 30, we plan to conduct IPO preview on Kusama network to test the entire IPO process of Bifrost. It is expected that on June 30, Bifrost will become Kusama Parachain and provide real KSM exchange. In short, we will try to keep the rhythm of Bifrost's mainnet launching with that of Polkadot's main network, and strive to be the first parachain to access Polkadot's main network.
