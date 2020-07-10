@@ -1,6 +1,6 @@
-# 波卡项目方们の私密分享会 | 波卡能不能成为下一个以太坊？
+# Private sharing conference of Polkadot project: Can Polkadot become the next Ethereum?
 
-**链读和 PolkaBase 已经共同举办了历时两个月的波卡生态项目线上 AMA 接力，包括了中外的各头部波卡项目。我们邀请优质项目返场，在4月底举办一场大型的波卡项目对话直播。**
+**Liandu and PolkaBase have jointly hosted the online AMA about the Polkadot Ecological Project that lasted for two months, including the top international Polkadot projects. We invite high-quality projects to come back and host a large-scale Polkadot project dialogue live broadcast at the end of April.**
 
 **链读与链节点、PolkaBase 联合主办名为波卡能不能成为下一个以太坊生态已于昨晚19点与大家见面！在长达2个半小时的视频直播中，中国优质波卡生态项目 Acala、Bifrost、Crust、Darwinia、Phala、MXC极域返场，思考波卡生态目前的定位，预测未来生态的趋势。**
 
@@ -184,11 +184,11 @@ Phala 来说，我们会在 Kusama 上第一时间拍 Kusama 的卡槽，希望�
 
 波卡上线的短期内，象征意义会比较大一些，功能是一个个打开的。我希望波卡能够一炮而红，带来百家争鸣，走向辉煌明天。我们项目团队今年希望实现至少两座桥，一个是在PoW有代表性的主链，一个是 PoS 上有共识的代表性的主链。
 
-**`Lurpis | Bifrost`**
+**`Lurpis, Bifrost`**
 
-我们希望今年能够尽快支持更多转接桥，开放我们vToken兑换，肯定先支持 DOT 和 KSM。对波卡的期待，是希望更快开放更多插槽，更多优秀平行链能进入到生态中来，让平行链价值被放大，为整个社区生态能提供支持。确实能一炮而红，成为未来2-3年内的真正顶尖的项目。
+We hope to support more transfer bridges as soon as possible this year, open our vToken exchange, and certainly support DOT and KSM first. The expectation of Polkadot is to open more slots faster and more excellent parallel chains can enter the ecosystem, so that the value of parallel chains can be amplified and provide support for the entire community ecology. It can really become a hit and become a truly top project in the next 2-3 years.
 
-**`胡莘 | MXC极域`**
+**`Xin Sheen Hu, MXC`**
 
 主网上线是个里程碑。我们希望能够借着主网上线，能在头3个月吸引到1万个用户，用我们的 data highway APP。也希望能给不同物联网项目公链和存储公链等token，提供一个很好的使用的平台。
 
