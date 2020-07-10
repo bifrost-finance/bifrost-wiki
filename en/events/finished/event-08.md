@@ -1,14 +1,14 @@
-# 推特  MATH & KSM  空投
+# Twitter Math & KSM Airdrop
 助力 Bifrost POC2 Testnet 上线，提高海外活动节点参与度，3月24日 Bifrost 举办为期 2 天的推特 $250 MATH 空投以及为期一周的 120 枚 KSM Gleam 空投。邀请参与空投的小伙伴们在完成活动任务的同时，能够进一步了解到 Bifrost POC2 测试网的性能。
 
-***日期：***
+***Date：***
 
-***MATH 空投：2020/3/24-2020/3/25***
+***Math airdrop：2020/3/24-2020/3/25***
 
-***KSM 空投： 2020/3/25-2020/4/1***
+***KSM airdrop：2020/3/25-2020/4/1***
 
 
-**MATH 推特空投：**
+**MATH Twitter airdrop：**
 
 **活动任务**
 - 关注 [Bifrost](https://twitter.com/bifrost_network)、[麦子钱包](https://twitter.com/MathWallet)、[Polkaworld](https://twitter.com/polkaworld_org) 和 [Polkabase](https://twitter.com/Polkabase_com)
