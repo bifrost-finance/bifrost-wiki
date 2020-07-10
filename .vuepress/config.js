@@ -65,7 +65,7 @@ module.exports =  {
           },
           {
             text: 'GitHub',
-            link: 'https://github.com/bifrost-codes',
+            link: 'https://github.com/bifrost-finance',
           },
         ],
         sidebar: [
@@ -180,7 +180,7 @@ module.exports =  {
           },
           {
             text: 'GitHub',
-            link: 'https://github.com/bifrost-codes',
+            link: 'https://github.com/bifrost-finance',
           },
         ],
         sidebar: [
