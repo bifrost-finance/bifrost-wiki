@@ -1,4 +1,4 @@
-# Bifrost × Polkaworld × Phala Network AMA 发现波卡生态，测试网的无限可能
+# 发现波卡生态，测试网的无限可能
 随着 Polkadot 主网上线不断临近，为增加市场中 KSM 的持有率，让更多的用户关注 5 月 Bifrost & Phala Network 测试网上线，双方将联合 Polkaworld 一起开启测试网 AMA~
 
 ***日期：2020/5/15***
@@ -30,9 +30,9 @@
 
 **参与情况**
 
-活动页PV：16,516
+活动页 PV：16,516
 
-活动页UV：3,378
+活动页 UV：3,378
 
 新用户：86.56%
 

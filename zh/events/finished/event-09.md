@@ -1,4 +1,4 @@
-### Bifrost PoC2 早鸟节点测试网活动
+# Bifrost PoC2 早鸟节点活动
 Polkadot 主网发布时间临近，波卡生态中的各平行链项目也逐步从概念证明走向了市场验证阶段，作为首届 Substrate 黑客马拉松获奖项目的 Bifrost 也迎来了 POC-2 测试网的正式发布，将项目阶段性里程碑交由市场验证。
 
 ***日期：2020/3/21-2020/3/28***
@@ -6,7 +6,7 @@ Polkadot 主网发布时间临近，波卡生态中的各平行链项目也逐�
 **活动任务**
 - 成功联入 Bifrost POC-2 测试网
 - 同步区块到最新高度
-- 加入 Bifrost 微信群（[Bifrost公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIyODk1OTIyMw==&scene=124#wechat_redirect)寻找进群入口）
+- 加入 Bifrost 微信群（Bifrost 公众号：Bifrost Network 寻找进群入口）
 - 填写早鸟节点登记表单审核
 
 **活动规则**
