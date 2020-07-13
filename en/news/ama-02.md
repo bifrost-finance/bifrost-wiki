@@ -1,31 +1,31 @@
-# Round table | Polkadot Ecology Project Bifrost, a new scene of cross chain extension staking
+# 圆桌派 | 波卡生态 Bifrost，跨链延展 Staking 的新场景
 
 **Unconsciously, the AMA activity of polkadot ecological project carried out by chain reading and polkabase has entered the 10th phase. Liandu AMA has the honor to invite "lurpis", co-founder of "Bifrost", as a guest in the chain reading studio to talk with us about "the new scene of  polkadot parallel chain Bifrost combined with cross chain extension staking"**
 
 **In the past, users always complained that they would be inflated if they didn't staking, they would be locked if they had done staking, the market would have a good opportunity to take measures to increase the market, and there would be no way to deal with the decline of the market. They often could not have both income and liquidity.**
 
-**In view of this phenomenon, lurpis told us: the application direction of Bifrost will focus on three directions: staking without locking, lowering the staking threshold, and improving the benefits of staking.**
+**针对这一现象，Lurpis 告诉我们：Bifrost 的应用方向将会重点向无需锁仓的 Staking、降低 Staking 门槛，以及提高 Staking 收益的三个方向延展。**
 
-**Bifrost的目标是为80%的 PoS 公链提供 Staking 流动性，能允许用户将 PoS 币种通过 Bifrost 转接桥兑换成  vToken 从而获得 Staking 收益和流动性。**
+**Bifrost 的目标是为 80% 的 PoS 公链提供 Staking 流动性，能允许用户将 PoS 币种通过 Bifrost 转接桥兑换成  vToken 从而获得 Staking 收益和流动性。**
 
-**Bifrost plays the role of staking liquidity provider in polkadot ecosystem. After accessing Kusama, the KSM nominated to the node first will be liberated due to vksm, and the overall pledge rate of Kusama network will be improved. At the same time, some small nodes without KSM start-up funds can obtain the nomination support of Bifrost through bidding to enter the out block list and present it to the public voters.**
+**Bifrost 在波卡生态中扮演 Staking 流动性提供商的角色，接入 Kusama 之后，首先给节点提名的 KSM 会因 vKSM 被解放，Kusama 网络的整体质押率会得到提升。同时一些没有 KSM 启动资金的小节点，可以通过竞价获得 Bifrost 的提名支持，来进入到出块列表，呈现在大众投票人眼前。**
 
 **Lurpis has brought good news: it is expected that at the end of June, Bifrost will participate in the formal auction of Kusama parallel chain card slot and complete an IPO in Kusama network. Under smooth circumstances, it can successfully access Kusama network and become its parallel chain to provide users with real KSM exchange.**
 
 
 The following is the whole content of this AMA:
 
-**Hello, please briefly introduce the project Bifrost. What kind of problem does it want to solve and what is the main application direction?**
+**您好，请先简单介绍下 Bifrost 这个项目，它主要是想要解决一个什么样的问题，主要的应用方向是什么？**
 
 Hello, I'm lurpis, the co-founder of Bifrost. I'm very glad to cooperate with LianDu to let you have a deeper understanding of Bifrost and the new models and scenarios that Bifrost brings to staking.
 
-Founded in July last year, Bifrost, named Rainbow Bridge in Chinese, is a Polkadot parachain developed by substrate, which is perpendicular to stacking ecology. Users can complete staking and obtain corresponding rights and rewards when assets cross the chain.
+成立于去年7月的 Bifrost 中文名叫彩虹桥，是一条使用 Substrate 开发的垂直于 Staking 生态的 Polkadot 平行链，可以让用户可以在资产跨链的同时完成 Staking 并获得相应权益。
 
 In the past, we heard that users always complained that they would be inflated if they didn't do staking,and they would be locked if they did staking.When the market goes up,the opportunity is missed,and when the market goes down,it is helples.Income and liquidity cannot be both.
 
-In this regard, Bifrost mainly uses polkadot's cross chain technology to solve the problems such as high threshold of participation, no liquidity, governance and conflict of interest. The application direction of Bifrost will focus on three directions: holding without lock, reducing the threshold of staking, and improving the revenue of staking.
+对此，Bifrost 主要运用波卡的跨链技术解决 Staking 中仍然存在如参与门槛高、无流动性、治理与利益冲突等诸多问题。Bifrost 的应用方向将会重点向无需锁仓的 Staking、降低 Staking 门槛，以及提高 Staking 收益的三个方向延展。
 
-**What is the difference between Bifrost and ACALA? Is there any possibility of cooperation between the two?**
+**Bifrost 是波卡生态又一个 Defi 项目，与 Acala 有怎样的区别？两者有没有合作的可能？**
 
 There are many excellent parallel chain teams in polkadot ecology. In terms of cross chain multi mortgage stable currency, ACALA is doing very well. I like it very much. It belongs to a professional and reliable team. Besides providing stable currency, ACALA also has an agreement to provide staking liquidity
 
@@ -33,7 +33,7 @@ On the surface,it seems like we are all doing the same thing.But if you look dee
 
 On the other hand, staking liquidity is a very large market, which is far from reaching the stage of stock competition. Diversified competition and innovation will promote this market segment to be popularized among users more quickly. Therefore, there is a huge space for cooperation with ACALA in terms of stable currency and liquidity.
 
-**Polkadot and DeFI are hot concepts this year. What are the similarities and differences between Polkadot DeFi and Ethereum DeFi?**
+**波卡和 DeFi 都是今年火热的概念，那么波卡 DeFi，和以太坊 DeFi 相比，有什么异同？**
 
 At present, most of the market's difi products are built on Ethereum. However, with the growth of transaction volume, the network performance bottleneck of Ethereum has a more and more negative impact on profi. At the same time, the uncertainty brought by the transition from Ethereum 2.0 to POS will also force current profi products and users to migrate to other platforms.
 
@@ -49,7 +49,7 @@ Therefore, I am more optimistic about Polkadot. In the future, polkadot will pos
 
 技术方面，Substrate 可以很大程度的降低区块链开发门槛，将节省大量开发工作量，让团队能专心放在产品体验上。在产品方面，Substrate 原生兼容 Polkadot 中继网络，使得多链场景可以快速展开，当然除此之外还有 Web3 foundation grant 和 Substrate builder 计划会从资金、市场、产品、融资、规划等多个方面提供帮助。
 
-**How does Bifrost staking and what is the staking mechanism?**
+**Bifrost是如何staking的，staking 机制是怎么样的？**
 
 At the user level, for example, one vToken can be exchanged for a Token through the Bifrost protocol. As time goes on, one vToken can be exchanged back to 1.5 Tokens. The 0.5 Token is the staking reward you get during the holding period, which is equivalent to passively participating in the staking by holding vtoken.
 
@@ -57,7 +57,7 @@ Of course, the way to obtain vToken is not only through the exchange of Bifrost 
 
 At the use scenario level, thanks to the general design of vToken, it is not limited to centralized or decentralized scenarios. In other words, if users care about privacy and security, they can put vToken in their own address. If users care about short-term liquidity, they can put them in centralized exchanges or cloud wallets. In either way, they can obtain staking Income.
 
-**How does Bifrost ensure the high yield and liquidity of staking and promote the marketization of staking reward?**
+**Bifrost 如何保证 staking 的高收益及流动性，提升 staking 收益的市场化？**
 
 Staking liquidity is provided by vToken's liquidity incentive mechanism and cross chain usage scenarios. Liquidity incentive mechanism refers to the role providing liquidity for vToken, who can obtain the staking income during the vToken trading period to motivate users and market makers to provide vToken liquidity.
 
@@ -71,23 +71,23 @@ Therefore, in the period of strong demand for voting rights, the Staking reward 
 
 Let's take another chestnut to make it easy to understand: the price of paying 40% annualisation, buying 10000 KSM and voting for 10 days is 109.58 KSM (10000 * 0.4 / 365 * 10). Compared with KSM itself with the highest 20% annualization, the extra 20% is the premium generated by node bidding, and Bifrost will also distribute it to users as staking revenue.
 
-**What role does vtoken play in staking? What are the application scenarios that the original token does not have?**
+**vToken 在 staking 中扮演怎样的角色？有哪些原 Token 没有的应用场景？**
 
-I personally feel that vToken is an inevitable derivative in the development of staking, and it also plays a guiding role. It can solve the problem of opportunity cost caused by the liquidity of staking and the rise and fall of price during the lock up period, and will not interfere with the freedom of users to redeem. Vtoken does not force users to guarantee the pledge rate of the original token, but allows users to participate in staking in the most interesting way.
+我个人觉得 vToken 在 Staking 的发展过程中是一个必然出现的衍生品，同时扮演了一个引路人的角色。在解决 Staking 流动性和锁仓期间价格涨跌构成的机会成本问题的同时，不会干涉用户赎回的自由。vToken 也不会强迫用户保证原 Token 的质押率，而是能用最有趣的方式让用户自己参与到 Staking 当中。
 
 At the same time, it provides more other application scenarios for the original token with the help of polkadot relay network. For example, after converting EOS to VEOS, zero knowledge proof zerochain is used to provide EOS with zero knowledge proof solution in disguise, XZT is converted into vxzt, and edgeware is used as smart contract platform to provide smart contract support for tezos in disguise, exchange eth into veh, and use IOT parallel chain MXC to make eth support IOT device control in disguise.
 
 There are many similar examples. In short, thanks to the polkadot relay network, the blockchain has become an Internet from a stand-alone system. The interconnection between system applications will bring a lot of new ways to play that will bring people a bright new play due to the network effect.
 
-**As  Bifrost native  token, what role can BNC play in the liquidity process?**
+**BNC 作为 Bifrost 代币，在流动性过程中，可以起到什么作用？**
 
-Ha ha, when it comes to this issue, I think of the BNC red envelope warm-up activity held two days ago. Everyone in the group enthusiastically participated in thinking about the value and application scenarios of BNC. At the beginning of the design, BNC has six scenarios to support the operation of the Bifrost agreement, which are income voucher, liquidity incentive, market value unit, coupon mortgage, measurement standard and exchange medium.
+哈哈，谈到这个问题，就想起了前两天举办的 BNC 红包预热活动，大家都在群里热烈的参与思考BNC的价值和应用场景。在设计之初，BNC 一共有6种场景去支持 Bifrost 协议的运作，这六种作用分别为收益凭证、流动性激励，市值单位，票权抵押，衡量标准以及兑换媒介。
 
 The most closely related and most concerned liquidity incentive among users is that BNC will give rewards to users who exchange vToken and provide vToken liquidity at the initial stage of insufficient liquidity.
 
 Users can get different amounts of BNC awards according to the different market value and weight of vToken. Now we are improving the official version of the white paper 1.0, which will describe in detail the acquisition channels and incentive methods of BNC. Please pay more attention.
 
-**The test network poc-2 of Bifrost has been launched in March. How will Bifrost network develop in the future? Interested friends, how to participate in node testing and development?**
+**Bifrost 的测试网 POC-2 已于3月重磅上线，未来 Bifrost 网络将如何发展？感兴趣的朋友，如何参与节点测试与开发？**
 
 说到未来发展，需要时刻回头看看历史上的教训。就在这两天的 DeFi 项目，发生了一些不好的事情。Lendf 项目因为一个合约逻辑处理不当，直接导致了近 2500 万美金左右的损失。
 
@@ -101,7 +101,7 @@ As for the test network, at present, interested partners can run the Bifrost nod
 
 这就可以完成节点搭建，主网上线后最低配置为 2 核 4GB 云主机。关于更多运行 Bifrost 测试节点的技术教程，我们还正在整理编辑，详情请见[链接](https://docs.bifrost.codes)
 
-**What role does Bifrost play in Polkadot ecology? What kind of scenario can the vKSM  bring to Polkadot ecology after accessing KSM ?**
+**Bifrost 在波卡生态扮演什么样的角色？之后接入 KSM 后的 vKSM,能给波卡生态带来怎样的场景？**
 
 Bifrost has a clear positioning and plays a role as a liquidity provider in  polkadot ecosystem. We will play our role mainly around providing staking liquidity, bidding rights for small nodes, reducing the staking threshold of users in parallel chain, and expanding the usage scenarios of vToken in the parallel chain.
 
