@@ -83,36 +83,74 @@ module.exports =  {
                 title: 'Finished',
                 collapsable: false,
                 children: [
-                  [
-                    '/en/events/finished/event-01.md',
-                    'Airdrop Twitter KSM',
-                  ],
-                  [
-                    '/en/events/finished/event-02.md',
-                    'AMA Hotbit x Bifrost',
-                  ],
-                  [
-                    '/en/events/finished/event-03.md',
-                    'Node Bifrost Asgard',
-                  ],
-                  [
-                    '/en/events/finished/event-04.md',
-                    'Prize essay',
-                  ],
-                  [
-                    '/en/events/finished/event-05.md',
-                    'Polkaworld × Phala x Bifrost',
-                  ],
-                  [
-                    '/en/events/finished/event-06.md',
-                    'Liandu x Bifrost',
-                  ],
+                  {
+                    title: 'Node Event',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/en/events/finished/event-03.md',
+                        'Node Event | Bifrost Asgard CC1',
+                      ],
+                      [
+                        '/en/events/finished/event-09.md',
+                        'Node Event | POC2 Testnet',
+                      ],
+                    ],
+                  },
+                  {
+                    title: 'Airdrop Giveaway',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/en/events/finished/event-01.md',
+                        'KSM Twitter Airdrop',
+                      ],
+                      [
+                        '/en/events/finished/event-08.md',
+                        'MATH & KSM Twitter Airdrop',
+                      ],
+                    ],
+                  },
+                  {
+                    title: 'AMA Event',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/en/events/finished/event-11.md',
+                        'AMA | Bifrost',
+                      ],
+                      [
+                        '/en/events/finished/event-10.md',
+                        'AMA | LianDu × Bifrost',
+                      ],
+                      [
+                        '/en/events/finished/event-06.md',
+                        'AMA | Polkadot Round Table',
+                      ],
+                      [
+                        '/en/events/finished/event-05.md',
+                        'AMA | Polkaworld × Phala x Bifrost',
+                      ],
+                      [
+                        '/en/events/finished/event-02.md',
+                        'AMA | Hotbit x Bifrost',
+                      ],
+                      [
+                        '/en/events/finished/event-12.md',
+                        'AMA | Substrate China Day',
+                      ],
+                      [
+                        '/en/events/finished/event-13.md',
+                        'AMA | LianTuan x Bifrost',
+                      ],
+                    ],
+                  },
                 ],
               },
             ],
           },
           {
-            title: 'Contribute',
+            title: 'Contribution',
             collapsable: false,
             sidebarDepth: 1,
             children: [
@@ -127,10 +165,50 @@ module.exports =  {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-              [
-                '/en/news/published.md',
-                'Published',
-              ],
+              {
+                title: 'AMA Articles',
+                collapsable: false,
+                children: [
+                  [
+                    '/en/news/ama-01.md',
+                    'Article One',
+                  ],
+                  [
+                    '/en/news/ama-02.md',
+                    'Article Two',
+                  ],
+                  [
+                    '/en/news/ama-03.md',
+                    'Article Three',
+                  ],
+                  [
+                    '/en/news/ama-04.md',
+                    'Article Four',
+                  ],
+                  [
+                    '/en/news/ama-05.md',
+                    'Article Five',
+                  ],
+                  [
+                    '/en/news/ama-06.md',
+                    'Article Six',
+                  ],
+                  [
+                    '/en/news/ama-07.md',
+                    'Article Seven',
+                  ],
+                  ],
+              },
+              {
+                    title: 'Media Report',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/en/news/published.md',
+                        'PolkaWorld Exclusive Interview',
+                      ],
+                    ],
+              },
             ],
           },
           {
