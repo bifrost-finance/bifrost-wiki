@@ -159,7 +159,7 @@ module.exports =  {
             sidebarDepth: 1,
             children: [
               [
-                '/en/contribute/long-term.md',
+                '/en/contribution/long-term.md',
                 'Long Term',
               ],
             ],
@@ -289,12 +289,12 @@ module.exports =  {
                     collapsable: false,
                     children: [
                       [
-                        '/zh/events/finished/event-03.md',
-                        'Asgard 节点活动',
-                      ],
-                      [
                         '/zh/events/finished/event-09.md',
                         'POC2 早鸟节点',
+                      ],
+                      [
+                        '/zh/events/finished/event-03.md',
+                        'Asgard 节点活动',
                       ],
                     ],
                   },
@@ -303,12 +303,12 @@ module.exports =  {
                     collapsable: false,
                     children: [
                       [
-                        '/zh/events/finished/event-01.md',
-                        'KSM 空投第二期',
-                      ],
-                      [
                         '/zh/events/finished/event-08.md',
                         'KSM 空投第一期',
+                      ],
+                      [
+                        '/zh/events/finished/event-01.md',
+                        'KSM 空投第二期',
                       ],
                     ],
                   },
@@ -317,32 +317,32 @@ module.exports =  {
                     collapsable: false,
                     children: [
                       [
-                        '/zh/events/finished/event-13.md',
-                        '链团 X Bifrost（第七期）',
-                      ],
-                      [
-                        '/zh/events/finished/event-12.md',
-                        'Substrate China Day（第六期）',
-                      ],
-                      [
-                        '/zh/events/finished/event-02.md',
-                        'HotTalk X Bifrost（第五期）',
-                      ],
-                      [
-                        '/zh/events/finished/event-05.md',
-                        'Phala X Bifrost（第四期）',
-                      ],
-                      [
-                        '/zh/events/finished/event-06.md',
-                        '波卡圆桌会（第三期）',
+                        '/zh/events/finished/event-11.md',
+                        'Bifrost AMA（第一期）',
                       ],
                       [
                         '/zh/events/finished/event-10.md',
                         '链读 X Bifrost（第二期）',
                       ],
                       [
-                        '/zh/events/finished/event-11.md',
-                        'Bifrost AMA（第一期）',
+                        '/zh/events/finished/event-06.md',
+                        '波卡圆桌会（第三期）',
+                      ],
+                      [
+                        '/zh/events/finished/event-05.md',
+                        'Phala X Bifrost（第四期）',
+                      ],
+                      [
+                        '/zh/events/finished/event-02.md',
+                        'HotTalk X Bifrost（第五期）',
+                      ],
+                      [
+                        '/zh/events/finished/event-12.md',
+                        'Substrate China Day（第六期）',
+                      ],
+                      [
+                        '/zh/events/finished/event-13.md',
+                        '链团 X Bifrost（第七期）',
                       ],
                     ],
                   },
@@ -366,8 +366,12 @@ module.exports =  {
             sidebarDepth: 1,
             children: [
               [
-                '/zh/contribute/long-term.md',
+                '/zh/contribution/long-term.md',
                 'Long Term',
+              ],
+              [
+                '/zh/contribution/join-us.md',
+                '加入我们',
               ],
             ],
           },
