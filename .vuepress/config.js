@@ -366,8 +366,12 @@ module.exports =  {
             sidebarDepth: 1,
             children: [
               [
-                '/zh/contribute/long-term.md',
+                '/zh/contribution/long-term.md',
                 'Long Term',
+              ],
+              [
+                '/zh/contribution/join-us.md',
+                '加入我们',
               ],
             ],
           },
