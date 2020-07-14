@@ -47,6 +47,10 @@ module.exports =  {
             link: 'https://bifrost.finance',
           },
           {
+            text: 'Translate',
+            link: 'http://wiki-translate.bifrost.finance/',
+          },
+          {
             text: 'Documentation',
             items: [
               {
@@ -238,6 +242,10 @@ module.exports =  {
           {
             text: '首页',
             link: 'https://bifrost.finance',
+          },
+          {
+            text: '翻译',
+            link: 'http://wiki-translate.bifrost.finance/',
           },
           {
             text: '文档',
