@@ -159,7 +159,7 @@ module.exports =  {
             sidebarDepth: 1,
             children: [
               [
-                '/en/contribute/long-term.md',
+                '/en/contribution/long-term.md',
                 'Long Term',
               ],
             ],
