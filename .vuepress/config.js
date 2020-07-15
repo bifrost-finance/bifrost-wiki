@@ -448,6 +448,10 @@ module.exports =  {
                 sidebarDepth: 0,
                 children: [
                   [
+                    '/zh/help/eos-transfer-tutorial.md',
+                    'EOS 测试网跨链转账教程',
+                  ],
+                  [
                     '/zh/help/eos-testnet-account-register.md',
                     'EOS 测试网账号创建 & 测试币领取教程',
                   ],
