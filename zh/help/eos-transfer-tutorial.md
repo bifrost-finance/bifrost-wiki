@@ -1,8 +1,8 @@
 # EOS 跨链转账教程
 
-## EOS - Bifrost TokenPocket 跨链转账
+## EOS - Bifrost TokenPocket 钱包跨链转账
 
-**1. 打开手机端 TokenPocket 钱包（未安装的朋友点击链接下载<www.tokenpocket.pro>）**
+**1. 打开手机端 TokenPocket 钱包（TP钱包下载链接：<https://www.tokenpocket.pro/>）**
 
 **2. 点击`我的`进入`系统设置`-`节点设置`**
 
