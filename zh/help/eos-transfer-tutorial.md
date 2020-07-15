@@ -2,7 +2,7 @@
 
 ## EOS - Bifrost TokenPocket 钱包跨链转账
 
-**1. 打开手机端 TokenPocket 钱包（TP钱包下载链接：<https://www.tokenpocket.pro/>）**
+**1. 打开手机端 TokenPocket 钱包（TP钱包下载链接：<https://www.tokenpocket.pro/>**
 
 **2. 点击`我的`进入`系统设置`-`节点设置`**
 
@@ -30,6 +30,6 @@
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-05.png')" alt="" />
 
-**以上就是使用TP钱包从 EOS Jungle 测试网向 Bifrost Asgard CC2 跨链转账的全部过程啦~此外，大家还可以通过命令方法 Cleos 进行跨链转账操作**
+**以上就是使用 TP 钱包从 EOS Jungle 测试网向 Bifrost Asgard CC2 跨链转账的全部过程啦~此外，大家还可以通过命令方法 Cleos 进行跨链转账操作**
 
 ## Cleos 命令方法跨链转账
