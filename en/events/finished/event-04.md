@@ -29,7 +29,7 @@ Actual total issuance: 673 BNC
 
 Prize distribution date: 2020/6/10
 
-| BNC Amounts | BNC 地址                                           |
+| BNC Amounts | BNC Addresses                                    |
 | ----------- | ------------------------------------------------ |
 | 100         | 5G3heBS52eNj9UPRG8A621QCjyzibpR9xPg3DpNL6dGY43sr |
 | 100         | 5D9hcViPEo12gi4WqVY71BeGd7WGdLKNJATxKuHXYs7hnqjy |
