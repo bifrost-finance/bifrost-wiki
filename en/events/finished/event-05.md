@@ -21,20 +21,20 @@ Bonus Part:
 - The Top 10 rankings also have rewards
 
 Answers with Prizes Part:
-- 有奖答题环节共有 12 道题目，每题 10 分，总分超过 70 分（包括 70 分）的人，将平分价值为 1,000 元人民币的 KSM，每个微信号只有一次机会
-- 本次有奖答题时间为 30 分钟，中途退出答题仍会计算时间
-- 禁止答题者在社区中发送答案或寻求帮助，否则将被取消获奖资格
-- 有奖竞答的截止日期为 2020年12月15日上午12点（UTC + 8）
-- 此活动的 KSM 结算价格基于 2020年5月15日 活动开始时下午 7:00 的 MXC 交易所价格
-- 有奖竞答部分的奖励将在 5月20日 之前发放到获奖者的 KSM 地址中。 如果地址不正确或未填写，将不予奖励
+- There are a total of 12 questions in this session, with 10 points for each question, and those with a total score of more than 70 points (including 70 points), will split the KSM valued at 1,000 RMB, and each WeChat account only has one chance.
+- The answer time for this prize is 30 minutes, and the time will still be calculated after exiting the question.
+- Respondents are prohibited from sending answers or asking for help in the community, otherwise they will be disqualified.
+- The deadline for Answers with Prizes is 12 am on June 16, 2020 (UTC + 8)
+- The KSM settlement price for this event is based on the MXC exchange price at 7:00 PM at the start of the event on May 15, 2020.
+- The rewards for the Answers with Prizes will be distributed to the winner's KSM address by May 20th. If the address is incorrect or not filled in, no reward will be given winners.
 
-**参与情况**
+**Participation Result:**
 
-活动页PV：16,516
+Page View: 16,516
 
-活动页UV：3,378
+Unique View: 3,378
 
-新用户：86.56%
+New users: 86.56%
 
 老用户：13.44%
 
