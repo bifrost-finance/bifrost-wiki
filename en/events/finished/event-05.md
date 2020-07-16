@@ -1,26 +1,26 @@
-# Bifrost × Polkaworld × Phala Network AMA 发现波卡生态，测试网的无限可能
-随着 Polkadot 主网上线不断临近，为增加市场中 KSM 的持有率，让更多的用户关注 5 月 Bifrost & Phala Network 测试网上线，双方将联合 Polkaworld 一起开启测试网 AMA~
+# Unlimited Possibilities of Testnet
+As the Polkadot mainnet continues to approach, in order to increase the holding rate of KSM in the market and let more users pay attention to Bifrost & Phala Network testnet online on May. The two parties will join PolkaWorld to hold an AMA of Testnet.
 
-***日期：2020/5/15***
+***Date: 2020/5/15***
 
-**活动任务**
+**AMA Tasks:**
 
-红包部分：
-- 完成红包任务
-- 转发给好友
-- 绑定 KSM 地址
+Bonus Part:
+- Complete the bonus tasks
+- Repost the AMA event to friends
+- Fill the BNC address
 
-有奖答题：
-- 在微信小程序中 30 分钟内完成 12 道 Bifrost & Phala 的题目
+Answers with Prizes Part:
+- Complete 12 Bifrost & Phala questions within 30 minutes in Mini application of Wechat.
 
-**活动规则**
+**AMA Rules:**
 
-红包部分：
-- 点击红包小程序以获取 KSM
-- 将其转发给朋友，朋友得到一半，你从朋友那里得到另一半
-- 排行榜前 10 名也有奖励
+Bonus Part:
+- Click the Mini Bonus application of Wechat to get KSM.
+- Forward it to a friend, the friend gets half, and you get the other half from the friend.
+- The Top 10 rankings also have rewards
 
-有奖答题：
+Answers with Prizes Part:
 - 有奖答题环节共有 12 道题目，每题 10 分，总分超过 70 分（包括 70 分）的人，将平分价值为 1,000 元人民币的 KSM，每个微信号只有一次机会
 - 本次有奖答题时间为 30 分钟，中途退出答题仍会计算时间
 - 禁止答题者在社区中发送答案或寻求帮助，否则将被取消获奖资格
