@@ -462,6 +462,10 @@ module.exports =  {
                 sidebarDepth: 0,
                 children: [
                   [
+                    '/zh/help/validator-tutorial.md',
+                    'Validator 验证人教程',
+                  ],
+                  [
                     '/zh/help/eos-transfer-tutorial.md',
                     'EOS 测试网跨链转账教程',
                   ],
