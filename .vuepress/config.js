@@ -203,27 +203,41 @@ module.exports =  {
                   ],
                   ],
               },
-              {
-                    title: 'Media Report',
-                    collapsable: false,
-                    children: [
-                      [
-                        '/en/news/published.md',
-                        'PolkaWorld Exclusive Interview',
-                      ],
-                    ],
-              },
             ],
           },
           {
             title: 'Help',
             collapsable: false,
-            sidebarDepth: 1,
+            sidebarDepth: 0,
             children: [
-              [
-                '/en/help/faq.md',
-                'FAQ',
-              ],
+              {
+                    title: 'Turtorials',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/en/help/bnc-wallet-register-tutorials.md',
+                        'BNC Wallet Register',
+                      ],
+                      [
+                        '/en/help/node-general-tutorial.md',
+                        'Node Running Turtorial',
+                      ],
+                      [
+                        '/en/help/wiki-translation-register-tutorials.md',
+                        'WiKi Translation Turtorial',
+                      ],
+                    ],
+              },
+              {
+                    title: 'FAQ',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/en/help/faq.md',
+                        'FAQ',
+                      ],
+                    ],
+              },
             ],
           },
         ],
