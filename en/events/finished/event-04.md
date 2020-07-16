@@ -1,14 +1,14 @@
-# Bifrost 有奖征文大赛
-Bifrost Network 首届有奖征文活动于5月20日正式拉开序幕！ 围绕 Staking / DeFi / 波卡生态等方面写出对 Bifrost 的了解和建议。本次征文大赛获奖者将分享 1,000 枚 BNC，此外还有 Bifrost 精美周边。
+# Bifrost Writing Contest with Prize
+Bifrost first annual Writing Contest kicks off on May 20! Write suggestions and articles about Bifrost around Staking / DeFi / Polkadot Ecosystem etc. The winner of the contest will share 1,000 BNC as prize and Bifrost peripheral gift.
 
-***日期：2020/5/20-2020/6/5***
+***Date: 2020/5/20-2020/6/6***
 
-**活动任务**
-- 征稿方向：Staking / DeFi / 波卡生态，围绕 Bifrost 或 vToken 展开
-- 征稿字数：征稿作品单篇字数至少为 500 字以上。
+**Contest Tasks**
+- Writing direction: Staking / DeFi / Polkadot Ecosystem, around Bifrost or vToken
+- Writing Word Count: The number of words in a single work is at least 500 words.
 
 
-**活动规则**
+**Contest Rules**
 - 请务必在投稿作品末尾标注投稿信息，需要提供投稿者姓名，联系电话等信息。例：面包虫虫-微信-137XXXXXXXX
 - 参评文章必须是作者新创作的未曾发表、出版过的原创 Bifrost 文章，参赛者不限投稿数量
 - 参评作品须独立完成，杜绝抄袭现象（文责自负），一经发现，将取消本次参赛资格，追回已授奖励并公开通报批评
