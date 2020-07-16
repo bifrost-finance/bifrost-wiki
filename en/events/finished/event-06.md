@@ -44,21 +44,21 @@ New followers in Wechat public account: 32+
 
 **Prizes Giving:**
 
-活动总奖励：800 元现金 & 1,000 BNC
+Total rewards: RMB 800 cash & 1,000 BNC
 
-实际总发放：800 元现金 & 1,000 BNC
+Actual total distribution: ￥800 cash & 1,000 BNC
 
-奖励发放时间：2020/5/1
+Prize distribution date: 2020/5/1
 
-- 朋友圈集赞：
+- Collect Likes in Wechat moments
 
-总奖励: 330 元
+Total Prize: ￥330
 
-个人奖励: 66 元
+Personal prize: ￥66
 
-总获奖人数: 5 人
+Total winners: 5
 
-| 排名          | 奖励    | 获奖者                                                                                         |
+| Rank        | Prize | Winners                                                                                     |
 | ----------- | ----- | ------------------------------------------------------------------------------------------- |
 | No.1        | 200 元 | 凡人                                                                                          |
 | No.2-No.5   | 100 元 | 海,简单,水中游,早春二月                                                                               |
@@ -66,16 +66,16 @@ New followers in Wechat public account: 32+
 | No.11-No.30 | 10 元  | 弯弓射大雕,柏人,龙神资本～二龙,A北风,WKate-VOg,山喜欢林,爱好者,啊铭,莫言,听风无忧,达人,Depend,辞旧,Tony,于三岁,清酒,肉包子,靖哥,清风,Mr.hu |
 
 
-- 直播间红包雨：
+- Bonus Rain in Studio:
 
-总奖励：220 元
+Total Prize: ￥220
 
-总发放：220 元
+Total distribution: ￥220
 
 
-- 邀请好友看直播：
+- Invite friends to watch live broadcast:
 
-总奖励：1,050 元
+Total Prize: ￥1,050
 
 注： Bifrost 在此部分赞助了 525 元
 
