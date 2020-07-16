@@ -1,19 +1,19 @@
-# Asgard 节点激励
-经过六个月的开发，Bifrost 迎来了 Asgard 预生产网络的启动。 它将支持 EOS Jungle Testnet 跨链，Token 和 vToken 兑换，SWAP 交易和其他功能。 Asgard 已于5月21日成功上线。 为了激励社区伙伴在 Asgard 上积极运行节点，我们决定根据每个人的节点运行时间分配 5,000 个 BNC。
+# Node Campaign | Bifrost Asgard CC2
+After six months of development, Bifrost ushered in the launch of the Asgard pre-production network. It will support EOS Jungle Testnet cross-chain, Token and vToken exchange, SWAP transactions and other functions. Asgard was successfully launched on May 21. In order to motivate community partners to actively run nodes on Asgard, we decided to allocate 5,000 BNCs based on everyone's node running time.
 
 
-***日期：2020/5/21-2020/6/6***
+***Date: 2020/5/21-2020/6/6***
 
-**活动任务**
-- 配置服务器
-- 运行节点
-- Telegram Faucet BOT 处领取测试币
+**Node Tasks:**
+- Configure the server
+- Run a node
+- Get Testnet Token from Telegram Faucet BOT
 
-**活动规则**
-- 运行节点时间越长，瓜分的奖励越多
-- 每分钟记一个 Point（时长），根据活动截止时 Point 总数瓜分 3,000 枚 BNC
-- 「阿斯加德十二时辰」结束 3 个工作日内，奖励将根据统计数据直接发放到对应 BNC 地址
-- BNC 地址根据节点名称统计
+**Node Rules:**
+- The longer the node is running, the more rewards will be divided.
+- One point is recorded every minute, and 3,000 BNCs are divided according to the total number of points at the end of the event.
+- Within 3 work days after the end of the Asgard Node Campaign, the reward will be distributed directly to the corresponding BNC address based on statistical data.
+- BNC address is calculated based on the node name.
 
 **参与情况**
 
