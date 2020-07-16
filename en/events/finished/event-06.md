@@ -1,9 +1,9 @@
-# 波卡项目方私密分享会
-随着 Polkadot 主网的不断临近。4月27日，由联都和链节点主办的 Polkadot 圆桌大会邀请了包括 Bifrost、MXC、Darwinia、Phala Network、Acala、Crust 等优质 Polkadot 项目，共同探讨和交流项目进展。
+# Private Sharing Meeting of Polkadot Ecoproject
+As the Polkadot mainnet continues to approach. On April 27, the Polkadot Round Table Conference hosted by Liandu and Chain Node invited high-quality Polkadot projects including Bifrost, MXC, Darwinia, Phala, Acala, Crust, etc. to discuss and communicate project progress together.
 
-***日期：2020/4/27***
+***Date: 2020/4/27***
 
-***嘉宾：***
+***Guests:***
 | Project  | Presentor |
 | -------- | --------- |
 | Acala    | 姜富耀       |
@@ -13,36 +13,36 @@
 | MXC      | 胡莘        |
 | Phala    | Marvin    |
 
-**活动任务**
-- 加入活动预热群，领取群内小红包
-- 朋友圈分享海报，集赞就抽多个 66 元现金
-- 邀请朋友参加活动，分享 1,000 元现金
-- 参与直播评论，继续抽奖拿现金
-- 直播间3轮空投，6 个项目继续拿现金
+**Meeting Tasks: **
+- Join the event warm-up wechat group and receive a small Bonus in the group.
+- Share the posters in the Wechat moments.
+- Invite friends to participate in the event and share ￥1,000 in cash.
+- Participate in the live broadcast and draw cash.
+- 3 rounds of airdrops and cash in the live broadcast room.
 
-**活动规则**
+**Meeting Rules:**
 
-现金部分：
-- 转发链读海报至朋友圈集赞
-- 参与直播间评论
-- 邀请好友观看直播
+Cash Part:
+- Forward the LianDu poster to the Wechat Moments.
+- Participate and comment in the live room.
+- Invite friends to watch live.
 
-Token 部分：
-- 在直播间获取口令，发送口令至项目方公众号获取 Token
-- 绑定 BNC 地址
-- 先到先得，领完为止
+Token Part:
+- Get the password in the live broadcast room. Then send the password to the wechat public account of the every project to obtain the Tokens.
+- Bind BNC address.
+- First come first served until the rewards are received.
 
-**参与情况**
+**Participation Result:**
 
-BNC 口令红包参与人数：195 人
+Number of BNC Order Bonus participantors: 195
 
-绑定且有效BNC地址：111 人
+Bound and valid BNC address: 111
 
-微信社区新增：60+
+New followers in Wechat community: 60+
 
-公众号新增：32+
+New followers in Wechat public account: 32+
 
-**奖励发放**
+**Prizes Giving:**
 
 活动总奖励：800 元现金 & 1,000 BNC
 
