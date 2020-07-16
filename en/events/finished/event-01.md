@@ -39,7 +39,7 @@ Prize distribution date: 2020/6/6
 
 Third-party airdrop tool: MathGiveaway
 
-查询 & 索取空投 [详情](https://giveaway.mathwallet.org/#/H334ZFZF2YMR9NKT)
+Tracking & Claim airdrop [Details](https://giveaway.mathwallet.org/#/H334ZFZF2YMR9NKT)
 
 | Group One       | Group Two        | Group Three      | Group Four      | Group Five       |
 | --------------- | ---------------- | ---------------- | --------------- | ---------------- |
@@ -55,7 +55,7 @@ Third-party airdrop tool: MathGiveaway
 | @card_net       | @pahinawalker    | @lythuphong2     | @HenriqueJefin  | @barbaraleal1987 |
 
 
-| 第六组              | 第七组             | 第八组              | 第九组             | 第十组            |
+| Group Six        | Group Seven     | Group Eight      | Group Nine      | Group Ten      |
 | ---------------- | --------------- | ---------------- | --------------- | -------------- |
 | @Saint41The      | @thyvan137      | @125Mlk          | @kevinvillacisa | @SalvaBeate    |
 | @SebaLlocar      | @thuyvi062      | @hermant26058277 | @HendrikLumen   | @AyuSantanu    |
