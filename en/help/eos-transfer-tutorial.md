@@ -1,35 +1,37 @@
-# EOS 跨链转账教程
+# EOS Cross-chain Transfer Tutorial
 
-## EOS - Bifrost TokenPocket 钱包跨链转账
+## [ EOS-Bifrost ] TokenPocket wallet Cross-chain transfer
 
-**1. 打开手机端 TokenPocket 钱包（TP钱包下载链接：<https://www.tokenpocket.pro/>**
+**1. Register an EOS Testnet account, click to view [Register Tutorial](https://wiki.bifrost.finance/zh/help/eos-testnet-account-register.html)**
 
-**2. 点击`我的`进入`系统设置`-`节点设置`**
+**2. Open the TokenPocket wallet App on the mobile phone (TP wallet download link: <https://www.tokenpocket.pro/>**
 
-<img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-01.png')" alt="" />
+**3. Click `Me` to enter `Settings`-`Node Setting`**
 
-**3. 下拉至自定义节点，点击`添加自定义节点` 复制粘贴节点链接：https://jungle.eosn.io:443**
+<img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-01.png')" alt="" width="30%" />
 
-<img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-02.png')" alt="" />
+**4. Scroll down to the custom, click `Add a custom node` to copy and paste the node link: https://jungle.eosn.io:443**
 
-**4. 返回首页，点击右上角钱包导入 EOS 测试网账号**
+<img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-02.png')" alt="" width="30%" />
 
-<img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-03.png')" alt="" />
+**5. Return to the Assets and click on the wallet in the upper right corner to import the EOS testnet account**
 
-**5. 导入成功后，返回钱包`资产`首页，可查询到 100 个 EOS 测试币到账**
+<img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-03.png')" alt="" width="30%" />
 
-<img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-04.png')" alt="" />
+**6. After the import is successful, return to the homepage of the wallet `Assets`, you can find 100 EOS test coins to the account.**
 
-**6. 点击`直接转账`后，在`收款账号`中输入 bifrostcross 作为接收方账号**
+<img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-04.png')" alt="" width="30%" />
 
-**7. 在`备注`内复制粘贴你的 BNC 地址@bifrost 例如：5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY@bifrost**
+**7. After clicking `Transfer`, enter bifrostcross as the recipient account in `Receiver`**
 
-**注： BNC 地址注册可参考 [BNC地址创建教程](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)**
+**8. Copy and paste your BNC address @bifrost in `Memo` For example: 5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY@bifrost**
 
-**8. 转账数量需大于 50 EOS，才能记录一次跨链**
+**Note: For BNC address registration, please refer to [BNC address register tutorial](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)**
 
-<img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-05.png')" alt="" />
+**9. The transfer amount must be greater than 50 EOS to record a cross-chain**
 
-**以上就是使用 TP 钱包从 EOS Jungle 测试网向 Bifrost Asgard CC2 跨链转账的全部过程啦~此外，大家还可以通过命令方法 Cleos 进行跨链转账操作**
+<img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-05.png')" alt="" width="30%" />
+
+**The above is the whole process of cross-chain transfer from EOS Jungle test network to Bifrost Asgard CC2 using TP wallet~ In addition, you can also use the command method Cleos to perform cross-chain transfer operations**
 
 ## Cleos 命令方法跨链转账
