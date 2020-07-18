@@ -5,41 +5,41 @@ On June 2, Bifrost and Ankr jointly held Kusama Twitter airdrop for 5 days. Invi
 
 **challenges**
 - Follow Bifrost [ twitter](https://twitter.com/bifrost_network) and Ankr[ twitter ](https://twitter.com/ankr)
-- 在此条[推文](https://twitter.com/bifrost_network/status/1267727916982390784)下的评论区 @ 3位好友
-- 转发本条[推文](https://twitter.com/bifrost_network/status/1267727916982390784)
-- 浏览 Bifrost Asgard [节点活动页面](https://reward.bifrost.finance/)
+- Comment with @ 3 friends under this [tweet](https://twitter.com/bifrost_network/status/1267727916982390784)
+- Retweet this [tweet](https://twitter.com/bifrost_network/status/1267727916982390784)
+- View Bifrost Asgard [node campaign page](https://reward.bifrost.finance/)
 
-**活动规则**
-- 空投共持续 5 天
-- 活动期间内共抽取 100 名幸运儿
-- 每位幸运儿发放 0.5 枚 KSM
+**Rules:**
+- The airdrop lasted 5 days.
+- A total of 100 lucky winners were drawn during the event.
+- Each lucky dog will receive 0.5 KSM.
 
-**参与情况**
+**Participation Result:**
 
-推特新增用户：2,751 人
+Twitter New followers: 2,751
 
-活动推特浏览量：74,040
+Airdrop tweet impression: 74,040
 
-节点浏览量：14,800
+Node impression: 14,800
 
-推文转发量：3,054
+Retweet: 3,054
 
-推文评论量：3,040
+Comment: 3,040
 
-推文点赞量：3,008
+Like: 3,008
 
 
-**奖励发放**
+**Prize Giving:**
 
-活动总奖励：50 KSM
+Total prize: 50 KSM
 
-实际总发放：50 KSM
+Actual total distribution: 50 KSM
 
-奖励发放时间：2020/6/6
+Prize distribution date: 2020/6/6
 
-第三方空投工具：MathGiveaway
+Third-party airdrop tool: MathGiveaway
 
-查询 & 索取空投 [详情](https://giveaway.mathwallet.org/#/H334ZFZF2YMR9NKT)
+Tracking & Claim airdrop [Details](https://giveaway.mathwallet.org/#/H334ZFZF2YMR9NKT)
 
 | Group One       | Group Two        | Group Three      | Group Four      | Group Five       |
 | --------------- | ---------------- | ---------------- | --------------- | ---------------- |
@@ -55,7 +55,7 @@ On June 2, Bifrost and Ankr jointly held Kusama Twitter airdrop for 5 days. Invi
 | @card_net       | @pahinawalker    | @lythuphong2     | @HenriqueJefin  | @barbaraleal1987 |
 
 
-| 第六组              | 第七组             | 第八组              | 第九组             | 第十组            |
+| Group Six        | Group Seven     | Group Eight      | Group Nine      | Group Ten      |
 | ---------------- | --------------- | ---------------- | --------------- | -------------- |
 | @Saint41The      | @thyvan137      | @125Mlk          | @kevinvillacisa | @SalvaBeate    |
 | @SebaLlocar      | @thuyvi062      | @hermant26058277 | @HendrikLumen   | @AyuSantanu    |
