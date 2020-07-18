@@ -315,7 +315,18 @@ module.exports =  {
               {
                 title: 'Ongoing',
                 collapsable: false,
-                children: [],
+                children: [
+                  {
+                    title: '节点活动',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/zh/events/ongoing/event-07.md',
+                        'Asgard CC2 节点大赛',
+                      ],
+                    ],
+                  },
+                ],
               },
               {
                 title: 'Finished',
