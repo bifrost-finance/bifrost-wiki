@@ -3,11 +3,8 @@
 > 作者：安_change, Lurpis
 > 
 > 时间：2020-07-18
-> 
-> 版权声明：遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
 
 ## 教程
-
 ### 推荐配置
 
 ```
@@ -36,7 +33,7 @@ NET（网络带宽）   10 MB
 命令：
 
 ```sh
-docker run -it -p 30333:30333 -p 9944:9944 -v /folder/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0-a3 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
+docker run -it -p 30333:30333 -p 9944:9944 -v /folder/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
 ```
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-01.png')" alt="" />
@@ -110,8 +107,7 @@ Bifrost 社区群里有下载好的镜像，先在群里要；然后复制到上
 > 小提示：
 > 
 > - 加客服微信入群：LiebiService-3
-> 
-> - 网盘地址：https://lanzous.com/iaqdpmb
+> - boot2docker.iso 下载 https://lanzous.com/iaqdpmb
 
 #### 2. docker run 或者 docker restart 后忘记节点 ID 了怎么办？
 
