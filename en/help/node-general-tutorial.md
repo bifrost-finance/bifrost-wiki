@@ -42,7 +42,7 @@ Mac：https://www.runoob.com/docker/macos-docker-install.html
 $ docker run -it -p 30333:30333 -p 9944:9944 bifrostnetwork/bifrost:asgard-v0.4.0 --name "NodeName | BNCAddress" --rpc-cors all --unsafe-ws-external --validator
 ```
 
-<img :src="$withBase('/zh/node-tutorials-01.png')" alt="" />
+<img :src="$withBase('/zh/node-tutorials/node-tutorials-01.png')" alt="" />
 
 注：要自己跑出节点 ID，截图中的节点 ID 不再跑了，而且已经提交过了。
 
@@ -61,7 +61,7 @@ $ docker run -it -p 30333:30333 -p 9944:9944 bifrostnetwork/bifrost:asgard-v0.4.
 $ docker ps -a
 ```
 
-<img :src="$withBase('/zh/node-tutorials-02.png')" alt="" />
+<img :src="$withBase('/zh/node-tutorials/node-tutorials-02.png')" alt="" />
 
 如果是电脑或服务器重启，造成的容器退出，用下面的命令重新启动：
 
@@ -78,7 +78,7 @@ $ docker restart 66e31
 
 节点监控：\[https://telemetry.polkadot.io/#/Bifrost%20Asgard%20CC2\](https://telemetry.polkadot.io/#/Bifrost Asgard CC2) 节点奖励：https://rewards.bifrost.finance
 
-<img :src="$withBase('/zh/node-tutorials-03.png')" alt="" />
+<img :src="$withBase('/zh/node-tutorials/node-tutorials-03.png')" alt="" />
 
 #### Ankr 托管运行方式
 ##### 1. 访问并注册 Ankr 账号 https://www.ankr.com/
@@ -100,7 +100,7 @@ $ docker restart 66e31
 
 安装 Docker Toolbox 是出现下面的错误，说明拉取 boot2docker.iso 失败了。
 
-<img :src="$withBase('/zh/node-tutorials-04.png')" alt="" />
+<img :src="$withBase('/zh/node-tutorials/node-tutorials-04.png')" alt="" />
 
 解决方案：
 
@@ -122,7 +122,7 @@ Bifrost 社区群里有下载好的镜像，先在群里要；然后复制到上
 $ docker logs 66e31
 ```
 
-<img :src="$withBase('/zh/node-tutorials-05.png')" alt="" />
+<img :src="$withBase('/zh/node-tutorials/node-tutorials-05.png')" alt="" />
 
 #### 3. 其他疑难杂症？
 
