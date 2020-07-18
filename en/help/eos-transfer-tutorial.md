@@ -1,6 +1,6 @@
-# EOS 跨链转账教程
+# EOS Cross-chain Transfer Tutorial
 
-## EOS - Bifrost TokenPocket 钱包跨链转账
+## EOS-Bifrost TokenPocket wallet Cross-chain transfer
 
 **1. 注册 EOS 测试网账号，点击查看[注册教程](https://wiki.bifrost.finance/zh/help/eos-testnet-account-register.html)**
 
