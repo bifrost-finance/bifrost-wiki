@@ -107,11 +107,11 @@ module.exports =  {
                     children: [
                       [
                         '/en/events/finished/event-01.md',
-                        'KSM Twitter Airdrop',
+                        'Airdrop | KSM Twitter ',
                       ],
                       [
                         '/en/events/finished/event-08.md',
-                        'MATH & KSM Twitter Airdrop',
+                        'Airdrop | MATH & KSM Twitter ',
                       ],
                     ],
                   },
@@ -175,33 +175,43 @@ module.exports =  {
                 children: [
                   [
                     '/en/news/ama-01.md',
-                    'Article One',
+                    'AMA Article One',
                   ],
                   [
                     '/en/news/ama-02.md',
-                    'Article Two',
+                    'AMA Article Two',
                   ],
                   [
                     '/en/news/ama-03.md',
-                    'Article Three',
+                    'AMA Article Three',
                   ],
                   [
                     '/en/news/ama-04.md',
-                    'Article Four',
+                    'AMA Article Four',
                   ],
                   [
                     '/en/news/ama-05.md',
-                    'Article Five',
+                    'AMA Article Five',
                   ],
                   [
                     '/en/news/ama-06.md',
-                    'Article Six',
+                    'AMA Article Six',
                   ],
                   [
                     '/en/news/ama-07.md',
-                    'Article Seven',
+                    'AMA Article Seven',
                   ],
                   ],
+              },
+              {
+                title: 'Exclusive Interview',
+                collapsable: false,
+                children: [
+                  [
+                    '/en/news/published.md',
+                    'PolkaWorld',
+                  ],
+                ],
               },
             ],
           },
@@ -214,6 +224,18 @@ module.exports =  {
                     title: 'Turtorials',
                     collapsable: false,
                     children: [
+                      [
+                        '/en/help/eos-testnet-account-register.md',
+                        'EOS Jungle Testnet Account Register Turtorials',
+                      ],
+                      [
+                        '/en/help/eos-transfer-tutorial.md',
+                        'EOS Jungle Testnet Cross-chain Transfer Turtorial',
+                      ],
+                      [
+                        '/en/help/validator-tutorial.md',
+                        'Validator Turtorial',
+                      ],
                       [
                         '/en/help/bnc-wallet-register-tutorials.md',
                         'BNC Wallet Register',
@@ -231,6 +253,7 @@ module.exports =  {
               {
                     title: 'FAQ',
                     collapsable: false,
+                    sidebarDepth: 0,
                     children: [
                       [
                         '/en/help/faq.md',
@@ -377,7 +400,7 @@ module.exports =  {
           {
             title: 'Contribution',
             collapsable: false,
-            sidebarDepth: 1,
+            sidebarDepth: 0,
             children: [
               [
                 '/zh/contribution/long-term.md',
