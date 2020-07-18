@@ -40,7 +40,7 @@ Old followers: 13.44%
 
 Answers with Prizes Participanters: 424
 
-**Prizes Giving:**
+**Prize Giving:**
 
 Total AMA rewards: ￥2,000 equivalent KSM
 
