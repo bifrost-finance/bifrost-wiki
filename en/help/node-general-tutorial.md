@@ -33,7 +33,7 @@ NET（网络带宽）   10 MB
 命令：
 
 ```sh
-docker run -it -p 30333:30333 -p 9944:9944 -v /folder/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
+docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
 ```
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-01.png')" alt="" />
@@ -43,8 +43,9 @@ docker run -it -p 30333:30333 -p 9944:9944 -v /folder/bifrost-node:/node bifrost
 > 参数说明：
 > 
 > - `-p 30333:30333 -p 9944:9944` 为节点端口号
-> - `-v /folder/bifrost-node:/node` 节点数据保存位置 
->     - `/folder/bifrost-node` **为自定义文件夹** `:/node` 对应 `--base-path` 无需修改
+> - `-v /tmp/bifrost-node:/node` 节点数据保存位置 
+>     - `/tmp/bifrost-node` **为自定义文件夹，可以更改为自己想要保存节点数据的目录**
+>     - 请确保该文件夹有写入权限
 >     - 文件目录保持不变，出块数据和节点 ID 就不会丢失
 > - `bifrostnetwork/bifrost:asgard-v0.4.0`：容器依赖的镜像；
 > - `--name "NodeName | BNCAddress"`: 其中 NodeName 为节点名称，BNCAddress 为 Bifrost 地址前 10 位，用 `|` 隔开；
