@@ -23,7 +23,9 @@
 - 下一步
     - 输入 Session Key（如何生成看下方说明）
     - 输入节点佣金费率百分比（目前测试网络 ASG 无价值，随意填写）
-<img :src="$withBase('/zh/validator-tutorial/validator_3.png')" alt="" width="30%" />
+
+<img :src="$withBase('/zh/validator-tutorial/validator_3.png')" alt="" width="70%" />
+
 - 创建 Validator
 
 ### 生成 Session Key
