@@ -38,7 +38,7 @@ docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnet
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-01.png')" alt="" />
 
-注：如果提示 `permission denied` 则说明节点目录 `/tmp/bifrost-node` 没有写入权限，请执行 `chmod -R 777 /tmp/bifrost-node` 给予权限。
+注：如果提示 `permission denied` 则说明节点目录 `/tmp/bifrost-node` 没有写入权限，请执行 `chmod -R 766 /tmp/bifrost-node` 给予权限。
 
 >  参数说明：
 >
