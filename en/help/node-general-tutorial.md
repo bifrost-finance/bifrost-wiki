@@ -17,14 +17,14 @@ System:  Linux (Centos, Ubantu)
 
 ### Docker self-running mode
 #### 1. Docker Installation
-- Linux: https://www.runoob.com/docker/centos-docker-install.html
-- Windows: https://www.runoob.com/docker/windows-docker-install.html
-- Mac: https://www.runoob.com/docker/macos-docker-install.html
+- Linux：<https://www.runoob.com/docker/centos-docker-install.html>
+- Windows：<https://www.runoob.com/docker/windows-docker-install.html>
+- Mac：<https://www.runoob.com/docker/macos-docker-install.html>
 
 > Tips:
 > 
 > - It is recommended to use cloud servers to run nodes.
-> - If it is a new cloud server, `It is recommended to install the CoreOS system with Docker, this step can be skipped`;
+> - 如果是新的云服务器，`推荐安装 CoreOS 系统，自带 Docker，本步骤可跳过`
 
 #### 2. Run a node
 
@@ -48,8 +48,8 @@ Note: If the prompt `permission denied` means that the node directory `/tmp/bifr
 >     - `/tmp/bifrost-node` ** is a custom folder, you can change to the directory where you want to save node data**
 >     - Please make sure the folder has write permission.
 >     - The file directory remains unchanged, and the block data and node ID will not be lost.
-> - `bifrostnetwork/bifrost:asgard-v0.4.0`: the image that the container depends on;
-> - `--name "NodeName | BNCAddress"`: where is the node name, and BNCAddress is the first 10 digits of the Bifrost address, separated by `|`;
+> - `bifrostnetwork/bifrost:asgard-v0.4.0`：容器依赖的镜像
+> - `--name "NodeName | BNCAddress"`: 其中 NodeName 为节点名称，BNCAddress 为 Bifrost 地址前 10 位，用 `|` 隔开
 
 #### 2.2 Run again
 
@@ -69,17 +69,17 @@ $ docker restart 66e31
 
 > Order description:
 > 
-> - `docker restart`: restart the existing container, and the Node ID will not change at this time;
+> - `docker restart`：重启已经存在的容器，此时 Node ID 不会变化的
 > - `66e31`: It is the container ID that was viewed earlier, the first 5 digits are enough; **Don’t copy, use your own**.
 
 #### 2.3 Check node operation
 
-Node monitoring: \[https://telemetry.polkadot.io/#/Bifrost%20Asgard%20CC2\](https://telemetry.polkadot.io/#/Bifrost Asgard CC2) Node reward: https://rewards.bifrost.finance
+节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 节点奖励：<https://rewards.bifrost.finance>
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-03.png')" alt="" />
 
 ### Ankr Hosting Operation Method
-#### 1. Visit and register one Ankr account: https://www.ankr.com/
+#### 1. 访问并注册 Ankr 账号 <https://www.ankr.com/>
 #### 2. Run the node
 ##### 2.1 Click "Deploy a Node" to enter the node market.
 ##### 2.2 Select Bifrost Validator Node.
@@ -89,11 +89,11 @@ Fill in the node name for the application name | the first 10 digits of the Bifr
 ##### 2.4 Wait for the node to automatically complete the deployment after payment.
 ##### 2.5 Check node operation.
 
-Node monitoring: \[https://telemetry.polkadot.io/#/Bifrost%20Asgard%20CC2\](https://telemetry.polkadot.io/#/Bifrost Asgard CC2) Node reward: https://rewards.bifrost.finance
+节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 节点奖励：<https://rewards.bifrost.finance>
 
 > The above has completed the task of participating in the node running, and then you can view "Validator tutorial"
 
-## Q & A
+## Q & A 问题解决
 #### 1. Windows Toolbox failed to pull boot2docker.iso
 
 The following error occurred when installing Docker Toolbox, indicating that the pull boot2docker.iso failed.
@@ -123,4 +123,4 @@ $ docker logs 66e31
 
 ### 3. Other questions?
 
-Join in the Telegram and ask admin.
+添加微信客服 LiebiService-3，进入微信群中讨论。
