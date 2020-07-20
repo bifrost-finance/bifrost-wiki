@@ -1,21 +1,21 @@
-# Validator 验证人教程
-### 概述
-- 创建 Bifrost 地址 查看教程
-- 运行节点 查看教程
-- 设置 Validator
-- 生成 Session Key 绑定
-- 抵押提名
-- 当选 Validator
+# Validator Tutorial
+### Overview
+- View the Tutorial and create a Bifrost Address.
+- View the Tutorial and run a node.
+- Set up Validator.
+- Generate Session Key and bind it.
+- Staking and  nomination.
+- Elected Validator.
 
-### 设置 Validator
-- 进入 Staking 页面 / Account Action
+### Set up Validator
+- Go to Staking page / Account Action
 
 <img :src="$withBase('/zh/validator-tutorial/validator_1.png')" alt="" width="70%" />
 
-- 点击 + Validator
-    - Stash Account (存放 ASG 的地址)
-    - Controller Account (控制节点的地址)
-    - 输入自抵押的 ASG 数量
+- Click + Validator
+    - Stash Account (the address where ASG is stored)
+    - Controller Account (control node address)
+    - Imput the amount of self-collateralized ASG
 
 <img :src="$withBase('/zh/validator-tutorial/validator_2.png')" alt="" width="70%" />
 
