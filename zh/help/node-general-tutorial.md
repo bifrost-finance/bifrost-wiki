@@ -24,7 +24,7 @@ NET（网络带宽）   10 MB
 > 小提示：
 >
 > - 推荐使用是云服务器运行节点，省心、不掉线；
-> - 如果是新的云服务器，`推荐安装 CoreOS 系统，自带 Docker，本步骤可跳过`
+> - 如果是新的云服务器，`推荐安装 CoreOS 系统，自带 Docker`，本步骤可跳过
 
 #### 2. 运行节点
 
@@ -74,6 +74,7 @@ $ docker restart 66e31
 #### 2.3 检查节点运行
 
 节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
+
 节点奖励：<https://rewards.bifrost.finance>
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-03.png')" alt="" />
