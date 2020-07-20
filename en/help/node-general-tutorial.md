@@ -45,7 +45,7 @@ Note: If the prompt `permission denied` means that the node directory `/tmp/bifr
 > 
 > - `-p 30333:30333 -p 9944:9944` is the node port number.
 > - `-v /tmp/bifrost-node:/node` where to save node data. 
->     - `/tmp/bifrost-node` ** is a custom folder, you can change to the directory where you want to save node data**.
+>     - `/tmp/bifrost-node` ** is a custom folder, you can change to the directory where you want to save node data**
 >     - Please make sure the folder has write permission.
 >     - The file directory remains unchanged, and the block data and node ID will not be lost.
 > - `bifrostnetwork/bifrost:asgard-v0.4.0`: the image that the container depends on;
