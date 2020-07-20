@@ -226,6 +226,14 @@ module.exports =  {
                     sidebarDepth: 0,
                     children: [
                       [
+                        '/en/help/node-general-tutorial.md',
+                        'Node Running Turtorial',
+                      ],
+                      [
+                        '/en/help/validator-tutorial.md',
+                        'Validator Turtorial',
+                      ],
+                      [
                         '/en/help/eos-testnet-account-register.md',
                         'EOS Jungle Testnet Account Register Turtorials',
                       ],
@@ -234,16 +242,8 @@ module.exports =  {
                         'EOS Jungle Testnet Cross-chain Transfer Turtorial',
                       ],
                       [
-                        '/en/help/validator-tutorial.md',
-                        'Validator Turtorial',
-                      ],
-                      [
                         '/en/help/bnc-wallet-register-tutorials.md',
                         'BNC Wallet Register',
-                      ],
-                      [
-                        '/en/help/node-general-tutorial.md',
-                        'Node Running Turtorial',
                       ],
                       [
                         '/en/help/wiki-translation-register-tutorials.md',
