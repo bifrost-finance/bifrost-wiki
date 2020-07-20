@@ -49,7 +49,7 @@ Due to Biforst's Marketization Model of Staking rewards, the reward of the token
 
 BNC is Bifrost's platform token, with a total of 80 million. BNC mainly played an active role in staking rewards and handling fees, deposits for voting rights bidding, and governance tools.
 
-### How much is BNC?
+### What is BNC token worth?
 
 Currently BNC has not been circulated in the market. It is expected to circulate at least once Polkadot supports parachain and the Bifrost mainnet is online.
 
