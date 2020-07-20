@@ -24,7 +24,7 @@ System:  Linux (Centos, Ubantu)
 > Tips:
 > 
 > - It is recommended to use cloud servers to run nodes.
-> - 如果是新的云服务器，`推荐安装 CoreOS 系统，自带 Docker，本步骤可跳过`
+> - 如果是新的云服务器，`推荐安装 CoreOS 系统，自带 Docker`，本步骤可跳过
 
 #### 2. Run a node
 
@@ -48,8 +48,8 @@ Note: If the prompt `permission denied` means that the node directory `/tmp/bifr
 >     - `/tmp/bifrost-node` ** is a custom folder, you can change to the directory where you want to save node data**
 >     - Please make sure the folder has write permission.
 >     - The file directory remains unchanged, and the block data and node ID will not be lost.
-> - `bifrostnetwork/bifrost:asgard-v0.4.0`：容器依赖的镜像
-> - `--name "NodeName | BNCAddress"`: 其中 NodeName 为节点名称，BNCAddress 为 Bifrost 地址前 10 位，用 `|` 隔开
+> - `bifrostnetwork/bifrost:asgard-v0.4.0`: container-dependent image
+> - `--name "NodeName | BNCAddress"`: where is the node name and BNCAddress is the first 10 digits of the Bifrost address, separated by `|`
 
 #### 2.2 Run again
 
@@ -69,22 +69,24 @@ $ docker restart 66e31
 
 > Order description:
 > 
-> - `docker restart`：重启已经存在的容器，此时 Node ID 不会变化的
+> - `docker restart`: Restart the existing container, the Node ID will not change at this time
 > - `66e31`: It is the container ID that was viewed earlier, the first 5 digits are enough; **Don’t copy, use your own**.
 
 #### 2.3 Check node operation
 
-节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 节点奖励：<https://rewards.bifrost.finance>
+节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
+
+节点奖励：<https://rewards.bifrost.finance>
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-03.png')" alt="" />
 
 ### Ankr Hosting Operation Method
-#### 1. 访问并注册 Ankr 账号 <https://www.ankr.com/>
+#### 1. Visit and register Ankr account <https://www.ankr.com/>
 #### 2. Run the node
 ##### 2.1 Click "Deploy a Node" to enter the node market.
 ##### 2.2 Select Bifrost Validator Node.
 ##### 2.3 Enter the payment page.
-Fill in the node name for the application name | the first 10 digits of the Bifrost address, select Validator as the operating mode.
+应用名称填写节点名 | Bifrost 地址前 10 位，运行方式选 Validator
 
 ##### 2.4 Wait for the node to automatically complete the deployment after payment.
 ##### 2.5 Check node operation.
@@ -93,18 +95,18 @@ Fill in the node name for the application name | the first 10 digits of the Bifr
 
 > The above has completed the task of participating in the node running, and then you can view "Validator tutorial"
 
-## Q & A 问题解决
+## Q & A
 #### 1. Windows Toolbox failed to pull boot2docker.iso
 
-The following error occurred when installing Docker Toolbox, indicating that the pull boot2docker.iso failed.
+安装 Docker Toolbox 是出现下面的错误，说明拉取 boot2docker.iso 失败了。
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-04.png')" alt="" />
 
-Solution:
+解决方案：
 
-There is a downloaded image in the Bifrost community group, first ask it in the Telegram group; then copy it to the cache path marked in red in the figure above;
+Bifrost 社区群里有下载好的镜像，先在群里要；然后复制到上面图中标红的 cache 路径中即可；
 
-After copying, double-click to start Docker Quickstart Terminal.
+复制好后，再双击启动 Docker Quickstart Terminal
 
 > Tips:
 > 
@@ -113,7 +115,7 @@ After copying, double-click to start Docker Quickstart Terminal.
 
 #### 2. What should I do if I forget the node ID after docker run or docker restart?
 
-Excuting an order:
+执行命令：
 
 ```sh
 $ docker logs 66e31
