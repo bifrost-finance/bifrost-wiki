@@ -223,6 +223,7 @@ module.exports =  {
               {
                     title: 'Turtorials',
                     collapsable: false,
+                    sidebarDepth: 0,
                     children: [
                       [
                         '/en/help/eos-testnet-account-register.md',
