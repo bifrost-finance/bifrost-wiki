@@ -1,27 +1,27 @@
-# Bifrost 节点运行通用教程
+# Bifrost Asgard CC2 Node Running Tutorial
 
-> 作者：安_change, Lurpis
+> Writer: 安_change, Lurpis
 > 
-> 时间：2020-07-18
+> Date: 2020-07-18
 
-## 教程
-### 推荐配置
+## Tutorial
+### Recommended Configurations
 
 ```
-CPU             2 核
-RAM（运行内存）   4 GB
-DISK（磁盘大小）  100 GB
-NET（网络带宽）   10 MB
-系统             Linux (Centos, Ubantu)
+CPU:  2 Core
+RAM:  4 GB
+DISK:  100 GB
+NET:  10 MB
+System:  Linux (Centos, Ubantu)
 ```
 
-### Docker 自运行方式
-#### 1. Docker 安装
-- Linux：https://www.runoob.com/docker/centos-docker-install.html
-- Windows：https://www.runoob.com/docker/windows-docker-install.html
-- Mac：https://www.runoob.com/docker/macos-docker-install.html
+### Docker self-running mode
+#### 1. Docker Installation
+- Linux: https://www.runoob.com/docker/centos-docker-install.html
+- Windows: https://www.runoob.com/docker/windows-docker-install.html
+- Mac: https://www.runoob.com/docker/macos-docker-install.html
 
-> 小提示：
+> Tips:
 > 
 > - 推荐使用是云服务器运行节点，省心、不掉线；
 > - 如果是新的云服务器，`推荐安装 CoreOS 系统，自带 Docker，本步骤可跳过`；
