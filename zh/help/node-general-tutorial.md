@@ -17,14 +17,14 @@ NET（网络带宽）   10 MB
 
 ### Docker 自运行方式
 #### 1. Docker 安装
-- Linux：https://www.runoob.com/docker/centos-docker-install.html
-- Windows：https://www.runoob.com/docker/windows-docker-install.html
-- Mac：https://www.runoob.com/docker/macos-docker-install.html
+- Linux：<https://www.runoob.com/docker/centos-docker-install.html>
+- Windows：<https://www.runoob.com/docker/windows-docker-install.html>
+- Mac：<https://www.runoob.com/docker/macos-docker-install.html>
 
 > 小提示：
 >
 > - 推荐使用是云服务器运行节点，省心、不掉线；
-> - 如果是新的云服务器，`推荐安装 CoreOS 系统，自带 Docker，本步骤可跳过`；
+> - 如果是新的云服务器，`推荐安装 CoreOS 系统，自带 Docker，本步骤可跳过`
 
 #### 2. 运行节点
 
@@ -47,8 +47,8 @@ docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnet
 >    - `/tmp/bifrost-node` **为自定义文件夹，可以更改为自己想要保存节点数据的目录**
 >    - 请确保该文件夹有写入权限
 >    - 文件目录保持不变，出块数据和节点 ID 就不会丢失
-> - `bifrostnetwork/bifrost:asgard-v0.4.0`：容器依赖的镜像；
-> - `--name "NodeName | BNCAddress"`: 其中 NodeName 为节点名称，BNCAddress 为 Bifrost 地址前 10 位，用 `|` 隔开；
+> - `bifrostnetwork/bifrost:asgard-v0.4.0`：容器依赖的镜像
+> - `--name "NodeName | BNCAddress"`: 其中 NodeName 为节点名称，BNCAddress 为 Bifrost 地址前 10 位，用 `|` 隔开
 
 #### 2.2 再次运行
 
@@ -68,18 +68,18 @@ $ docker restart 66e31
 
 > 命令说明：
 >
-> - `docker restart`：重启已经存在的容器，此时 Node ID 不会变化的；
+> - `docker restart`：重启已经存在的容器，此时 Node ID 不会变化的
 > - `66e31`：就是前面查看到的容器 ID，前 5 位即可；**不要照抄，使用自己的**
 
 #### 2.3 检查节点运行
 
-节点监控：[https://telemetry.polkadot.io/#/Bifrost%20Asgard%20CC2](https://telemetry.polkadot.io/#/Bifrost Asgard CC2)
-节点奖励：https://rewards.bifrost.finance 
+节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
+节点奖励：<https://rewards.bifrost.finance>
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-03.png')" alt="" />
 
 ### Ankr 托管运行方式
-#### 1. 访问并注册 Ankr 账号 https://www.ankr.com/
+#### 1. 访问并注册 Ankr 账号 <https://www.ankr.com/>
 #### 2. 运行节点
 ##### 2.1 点击「Deploy a Node」进入节点市场
 ##### 2.2 选择 Bifrost Validator Node
@@ -89,12 +89,12 @@ $ docker restart 66e31
 ##### 2.4 付款后等待节点自动完成部署
 ##### 2.5 检查节点运行
 
-节点监控：[https://telemetry.polkadot.io/#/Bifrost%20Asgard%20CC2](https://telemetry.polkadot.io/#/Bifrost Asgard CC2)
-节点奖励：https://rewards.bifrost.finance
+节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
+节点奖励：<https://rewards.bifrost.finance>
 
 > 以上就完成了节点运行时长的参与任务，接下来可以查看《如何成为 Validator 教程》
 
-## Q&A 问题解决
+## Q & A 问题解决
 #### 1. Windows Toolbox 拉取 boot2docker.iso 失败问题
 
 安装 Docker Toolbox 是出现下面的错误，说明拉取 boot2docker.iso 失败了。
@@ -124,4 +124,4 @@ $ docker logs 66e31
 
 ### 3. 其他疑难杂症？
 
-添加微信客服 LiebiService-3，进入微信群中讨论
+添加微信客服 LiebiService-3，进入微信群中讨论。
