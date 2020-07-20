@@ -1,49 +1,49 @@
-# Validator 验证人教程
-### 概述
-- 创建 Bifrost 地址 查看教程
-- 运行节点 查看教程
-- 设置 Validator
-- 生成 Session Key 绑定
-- 抵押提名
-- 当选 Validator
+# Validator Tutorial
+### Overview
+- View the Tutorial and create a Bifrost Address.
+- View the Tutorial and run a node.
+- Set up Validator.
+- Generate Session Key and bind it.
+- Staking and  nomination.
+- Elected Validator.
 
-### 设置 Validator
-- 进入 Staking 页面 / Account Action
+### Set up Validator
+- Go to Staking page / Account Action
 
 <img :src="$withBase('/zh/validator-tutorial/validator_1.png')" alt="" width="70%" />
 
-- 点击 + Validator
-    - Stash Account (存放 ASG 的地址)
-    - Controller Account (控制节点的地址)
-    - 输入自抵押的 ASG 数量
+- Click + Validator
+    - Stash Account (the address where ASG is stored)
+    - Controller Account (control node address)
+    - Imput the amount of self-collateralized ASG
 
 <img :src="$withBase('/zh/validator-tutorial/validator_2.png')" alt="" width="70%" />
 
-> Stash 和 Controller Account 推荐使用两个不同地址，更加安全
-- 下一步
-    - 输入 Session Key（如何生成看下方说明）
-    - 输入节点佣金费率百分比（目前测试网络 ASG 无价值，随意填写）
+> For Stash and Controller Account, recommend using two different addresses, which is more secure.
+- Next step
+    - Imput Session Key (see below for how to generate)
+    - Imput the percentage of the node commission rate (currently the testnet ASG is no price, fill it in at will)
 
 <img :src="$withBase('/zh/validator-tutorial/validator_3.png')" alt="" width="70%" />
 
-- 创建 Validator
+- Create Validator
 
-### 生成 Session Key
-- 执行
+### Generate Session Key
+- Execute
 ```
 curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://localhost:9933
 ```
 
 <img :src="$withBase('/zh/validator-tutorial/session_key.png')" alt="" width="70%" />
 
-- 将生成的 Session Key 在上一步中进行设置
+- Set the generated Session Key in the previous step.
 
-- 若生成不成功或提示接口无法访问，则是 RPC 端口（9933）或权限未配置，重启节点执行下方命令
+- If the generation is unsuccessful or the interface cannot be accessed, the RPC port (9933) or permissions are not configured, restart the node and execute the following command.
 ```
 docker run -it -p 30333:30333 -p 9944:9944 -p 9933:9933 -v /folder/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0-a3 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --rpc-methods 'Unsafe' --unsafe-rpc-external --validator
 ```
 
-- SessionKey 生成完毕，移除 9933 端口和 RPC 权限（开放 RPC 权限有一定安全风险，不建议公开开放）
+- After the Session Key is generated, remove the 9933 port and RPC permissions (opening RPC permissions has certain security risks, and it is not recommended to open it publicly)
 ```
 docker run -it -p 30333:30333 -p 9944:9944 -v /folder/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0-a3 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
 ```
