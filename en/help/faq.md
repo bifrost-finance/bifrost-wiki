@@ -6,7 +6,7 @@ Bifrost is a Polkadot parachain developed using Substrate that is vertical to th
 
 ### Why Bifrost?
 
-Bifrost 在创建之初致力于去解决三个问题。分别是 Staking 与 DeFi 的收益问题，流动性与安全性的竞争问题以及 Staking 与跨链的冲突问题。在面对这几个问题时，我们验证出一个有趣的方案，提供一个 Staking 衍生品，利用衍生品的优势来解决当前所存在的主要问题。除此以外，相比于其他的节点或服务商，Bifrost 拥有更高的年化收益。
+Bifrost was committed to solving three problems at the beginning of its creation. These are the reward issues of Staking and DeFi, the competition of liquidity and security, and the conflict between Staking and cross-chain. In the face of these issues, we verified an interesting solution to provide a staking derivative, and use the advantages of the derivative to solve the current major problems. In addition, Bifrost has a higher annualized reward than other nodes or service providers.
 
 ### How Bifrost solve these problems?
 
