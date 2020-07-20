@@ -111,9 +111,9 @@ After copying, double-click to start Docker Quickstart Terminal.
 > - Join the Bifrost Telegram Group: https://t.me/bifrost_finance
 > - boot2docker.iso download https://lanzous.com/iaqdpmb
 
-#### 2. docker run 或者 docker restart 后忘记节点 ID 了怎么办？
+#### 2. What should I do if I forget the node ID after docker run or docker restart?
 
-执行命令：
+Excuting an order:
 
 ```sh
 $ docker logs 66e31
@@ -121,6 +121,6 @@ $ docker logs 66e31
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-05.png')" alt="" />
 
-### 3. 其他疑难杂症？
+### 3. Other questions?
 
-添加微信客服 LiebiService-3，进入微信群中讨论
+Join in the Telegram and ask admin.
