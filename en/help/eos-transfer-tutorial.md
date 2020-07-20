@@ -1,6 +1,6 @@
 # EOS Cross-chain Transfer Tutorial
 
-## EOS Jungle Testnet - Asgard CC2 | TokenPocket 钱包跨链转账
+## EOS Jungle Testnet-Asgard CC2 | TokenPocket wallet cross-chain transfer
 
 **1. Register an EOS Testnet account, click to view [Register Tutorial](https://wiki.bifrost.finance/zh/help/eos-testnet-account-register.html)**
 
@@ -34,38 +34,38 @@
 
 **The above is the whole process of cross-chain transfer from EOS Jungle test network to Bifrost Asgard CC2 using TP wallet~ In addition, you can also use the command method Cleos to perform cross-chain transfer operations**
 
-## Asgard CC2 - EOS Jungle Testnet | 跨链转账
+## Asgard CC2-EOS Jungle Testnet | Cross-chain Transfer
 
-**1. 打开 Bifrost Dashboard：<https://dash.bifrost.finance/>**
+**1. Open Bifrost Dashboard: <https://dash.bifrost.finance/>**
 
-**2. 左侧导航栏点击`Extrinsics`，选择你的 Bifrost 地址**
+**2. Click on `Extrinsics` on the left navigation bar, select your Bifrost address**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-01.png')" alt="" />
 
-**3. 点击链接 <https://onlinehextools.com/convert-utf8-to-hex> 下拉取消三个选项**
+**3. Click the link <https://onlinehextools.com/convert-utf8-to-hex> and drop down to cancel the three options**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-03.png')" alt="" />
 
-**4. 再将你的 Bifrost 地址转化为 0x 开头地址，如图所示：**
+**4. Convert your Bifrost address to the address starting with 0x, as shown in the figure:**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-02.png')" alt="" />
 
-**5. 返回 Bifrost Dashboard，输入转账信息**
+**5. Return to Bifrost Dashboard and imput the transfer information**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-04.png')" alt="" />
 
-**6. 返回 <https://onlinehextools.com/convert-utf8-to-hex> 随意填写一个 memo 信息，将其转化成 0x 地址**
+**6. Return to <https://onlinehextools.com/convert-utf8-to-hex> fill in a memo message at will and convert it to 0x address**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-05.png')" alt="" />
 
-**7. 返回 Bifrost Dashboard，输入转化后的 memo 信息，点击`Submit Transaction`跨链转账**
+**7. Return to Bifrost Dashboard, imput the converted memo information, and click `Submit Transaction` to transfer across chain**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-06.png')" alt="" />
 
-**8. 点击`Sign and Submit`提交交易**
+**8. Click `Sign and Submit` to submit the transaction**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-07.png')" alt="" />
 
-**9. 返回 TP 钱包查看 EOS 余额**
+**9. Return to TokenPocket wallet to check EOS balance.**
 
-## Cleos 命令方法跨链转账
+## Cleos command method cross-chain transfer
