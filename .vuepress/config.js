@@ -496,16 +496,20 @@ module.exports =  {
                 sidebarDepth: 0,
                 children: [
                   [
+                    '/zh/help/node-general-tutorial.md',
+                    'Bifrost 节点通用教程',
+                  ],
+                  [
                     '/zh/help/validator-tutorial.md',
                     'Validator 验证人教程',
                   ],
                   [
-                    '/zh/help/eos-transfer-tutorial.md',
-                    'EOS 测试网跨链转账教程',
+                    '/zh/help/eos-testnet-account-register.md',
+                    'EOS 测试账号创建 & 测试币领取教程',
                   ],
                   [
-                    '/zh/help/eos-testnet-account-register.md',
-                    'EOS 测试网账号创建 & 测试币领取教程',
+                    '/zh/help/eos-transfer-tutorial.md',
+                    'EOS 测试网跨链转账教程',
                   ],
                   [
                     '/zh/help/bnc-wallet-register-tutorials.md',
@@ -514,10 +518,6 @@ module.exports =  {
                   [
                     '/zh/help/wiki-translation-register-tutorials.md',
                     'Crowdin Wiki 翻译注册教程',
-                  ],
-                  [
-                    '/zh/help/node-general-tutorial.md',
-                    'Bifrost 节点通用教程',
                   ],
                 ],
               },
