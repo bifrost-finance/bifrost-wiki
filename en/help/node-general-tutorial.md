@@ -33,15 +33,21 @@ System:  Linux (Centos, Ubantu)
 Order:
 
 ```sh
-docker run -it -p 30333:30333 -p 9944:9944 bifrostnetwork/bifrost:latest --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external
+docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
 ```
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-01.png')" alt="" />
 
+注：如果提示 `permission denied` 则说明节点目录 `/tmp/bifrost-node` 没有写入权限，请执行 `chmod -R 766 /tmp/bifrost-node` 给予权限。
+
 > Parameter Description:
 > 
 > - `-p 30333:30333 -p 9944:9944` is the node port number.
-> - `bifrostnetwork/bifrost:asgard-v0.4.0:latest`：容器依赖的镜像；
+> - `-v /tmp/bifrost-node:/node` 节点数据保存位置 
+>     - `/tmp/bifrost-node` **为自定义文件夹，可以更改为自己想要保存节点数据的目录**
+>     - 请确保该文件夹有写入权限
+>     - 文件目录保持不变，出块数据和节点 ID 就不会丢失
+> - `bifrostnetwork/bifrost:asgard-v0.4.0`：容器依赖的镜像；
 > - `--name "NodeName | BNCAddress"`: 其中 NodeName 为节点名称，BNCAddress 为 Bifrost 地址前 10 位，用 `|` 隔开；
 
 #### 2.2 Run again
