@@ -33,7 +33,7 @@ NET（网络带宽）   10 MB
 命令：
 
 ```sh
-docker run -it -p 30333:30333 -p 9944:9944 bifrostnetwork/bifrost:asgard-v0.4.0:latest --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external
+docker run -it -p 30333:30333 -p 9944:9944 bifrostnetwork/bifrost:latest --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external
 ```
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-01.png')" alt="" />
