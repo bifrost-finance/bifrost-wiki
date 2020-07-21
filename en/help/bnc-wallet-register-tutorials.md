@@ -1,4 +1,4 @@
-# BNC Address Register Tutorial
+# Bifrost Address Register Tutorial
 
 **1. Visit: <https://dash.bifrost.finance/#/explorer>**
 
