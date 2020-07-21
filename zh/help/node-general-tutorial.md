@@ -68,18 +68,19 @@ $ docker restart 66e31
 
 > 命令说明：
 >
-> - `docker restart`：重启已经存在的容器，此时 Node ID 不会变化的；
+> - `docker restart`：重启已经存在的容器，此时 Node ID 不会变化的
 > - `66e31`：就是前面查看到的容器 ID，前 5 位即可；**不要照抄，使用自己的**
 
 #### 2.3 检查节点运行
 
-节点监控：[https://telemetry.polkadot.io/#/Bifrost%20Asgard%20CC2](https://telemetry.polkadot.io/#/Bifrost Asgard CC2)
-节点奖励：https://rewards.bifrost.finance 
+节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
+
+节点奖励：<https://rewards.bifrost.finance>
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-03.png')" alt="" />
 
 ### Ankr 托管运行方式
-#### 1. 访问并注册 Ankr 账号 https://www.ankr.com/
+#### 1. 访问并注册 Ankr 账号 <https://www.ankr.com/>
 #### 2. 运行节点
 ##### 2.1 点击「Deploy a Node」进入节点市场
 ##### 2.2 选择 Bifrost Validator Node
@@ -89,12 +90,12 @@ $ docker restart 66e31
 ##### 2.4 付款后等待节点自动完成部署
 ##### 2.5 检查节点运行
 
-节点监控：[https://telemetry.polkadot.io/#/Bifrost%20Asgard%20CC2](https://telemetry.polkadot.io/#/Bifrost Asgard CC2)
-节点奖励：https://rewards.bifrost.finance
+节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
+节点奖励：<https://rewards.bifrost.finance>
 
 > 以上就完成了节点运行时长的参与任务，接下来可以查看《如何成为 Validator 教程》
 
-## Q&A 问题解决
+## Q & A 问题解决
 #### 1. Windows Toolbox 拉取 boot2docker.iso 失败问题
 
 安装 Docker Toolbox 是出现下面的错误，说明拉取 boot2docker.iso 失败了。
@@ -124,4 +125,4 @@ $ docker logs 66e31
 
 ### 3. 其他疑难杂症？
 
-添加微信客服 LiebiService-3，进入微信群中讨论
+添加微信客服 LiebiService-3，进入微信群中讨论。
