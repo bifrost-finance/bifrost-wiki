@@ -513,6 +513,10 @@ module.exports =  {
                     'EOS 测试网跨链转账教程',
                   ],
                   [
+                    '/zh/help/eos-veos-tutorial.md',
+                    'EOS 转 vEOS 教程',
+                  ],
+                  [
                     '/zh/help/bnc-wallet-register-tutorials.md',
                     'BNC 钱包地址创建教程',
                   ],
