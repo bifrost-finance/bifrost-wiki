@@ -52,7 +52,7 @@
 
 **5. 返回 Bifrost Dashboard，输入转账信息**
 
-
+<img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-04.png')" alt="" />
 
 **6. 返回 <https://onlinehextools.com/convert-utf8-to-hex> 随意填写一个 memo 信息，将其转化成 0x 地址**
 
