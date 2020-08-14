@@ -23,9 +23,11 @@ Welcome to all the technical partners who support Bifrost. You can actively repo
 
  For this section you can provide open source github link for bots, dapps, services and tooling related contributions and we will reward your contribution after verification. Minimum 500 BNC, maximum 20,000 BNC will be rewarded.
 
+**Coding Case**
+
 |  Bifrost Addresses   | Code Type  | Github Issue  | Rewards  |
 |  ----  | ----  | ----  | ----  |
-| xxxxxxxxxx  | 单元格 | 单元格 | 单元格 |
+| xxxxxxxxxx  | Bot | link | 500 BNC |
 
 ## Blog Bifrost
 
@@ -43,7 +45,7 @@ In order to let people from different regions have a certain understanding of Bi
 
 |  Bifrost Address   | Article Link  | Rewards  |
 |  ----  | ----  | ----  |
-| xxxxxxxxx  | Link | 20 BNC  |
+| xxxxxxxxx  | Link | 66 BNC  |
 
 ## Local Community
 
