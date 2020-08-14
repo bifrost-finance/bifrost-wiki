@@ -8,8 +8,8 @@
 ### 推荐配置
 
 ```
-CPU             2 核
-RAM（运行内存）   4 GB
+CPU             4 核
+RAM（运行内存）   8 GB
 DISK（磁盘大小）  100 GB
 NET（网络带宽）   10 MB
 系统             Linux (Centos, Ubantu)
