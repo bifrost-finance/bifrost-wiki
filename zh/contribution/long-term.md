@@ -16,8 +16,8 @@ Welcome to all the technical partners who support Bifrost. You can actively repo
 
 |  Bifrost Address   | Bug Type  | Github Issue | Bug Level | Rewards |
 |  ----  | ----  | ----  | ----  | ---- |
-| xxxxxxxxxx  | UI Bug | link | Low | 30 BNC |
-| xxxxxxxxxx  | Runtime Bug | link | Mid | 200 BNC |
+| dDZ8RvMaeXRnkCaH4Zi6R******vtcmsEjisv9arRFZVqxd  | UI Bug | link | Low | 30 BNC |
+| dDZ8RvMaeXRnkCaH4Zi6R******vtcmsEjisv9arRFZVqxd  | Runtime Bug | link | Mid | 200 BNC |
 
 ## Coding
 
@@ -27,7 +27,7 @@ Welcome to all the technical partners who support Bifrost. You can actively repo
 
 |  Bifrost Addresses   | Code Type  | Github Issue  | Rewards  |
 |  ----  | ----  | ----  | ----  |
-| xxxxxxxxxx  | Bot | link | 500 BNC |
+| dDZ8RvMaeXRnkCaH4Zi6R******vtcmsEjisv9arRFZVqxd  | Bot | link | 500 BNC |
 
 ## Blog Bifrost
 
@@ -45,7 +45,7 @@ In order to let people from different regions have a certain understanding of Bi
 
 |  Bifrost Address   | Article Link  | Rewards  |
 |  ----  | ----  | ----  |
-| xxxxxxxxx  | Link | 66 BNC  |
+| dDZ8RvMaeXRnkCaH4Zi6R******vtcmsEjisv9arRFZVqxd  | Link | 66 BNC  |
 
 ## Local Community
 
@@ -67,4 +67,4 @@ There is no doubt that the Wiki is a window to quickly understand Bifrost, what 
 
 |Bifrost Address | Rewards  |
 |---- |  ----  |
-|xxxxxxxxx| 100 BNC |
+|dDZ8RvMaeXRnkCaH4Zi6R******vtcmsEjisv9arRFZVqxd| 100 BNC |
