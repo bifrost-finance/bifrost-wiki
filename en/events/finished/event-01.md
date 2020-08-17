@@ -1,4 +1,4 @@
-# Twitter KSM Airdrop
+# 推特 Kusama 空投
 On June 2, Bifrost and Ankr jointly held Kusama Twitter airdrop for 5 days. Invite the partners to participate in the air drop to complete the activity tasks at the same time, can further understand the establishment of Bifrost node and EOS Jungle Testnet test network cross chain, Token and vToken exchange, SWAP and other functions.
 
 ***Date: 2020/6/2 16: 00 - 2020/6/6 16: 00(UTC+8)***
