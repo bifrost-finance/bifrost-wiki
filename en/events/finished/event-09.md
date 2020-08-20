@@ -17,13 +17,13 @@ The launch of the Polkadot mainnet is approaching, and the parachain projects in
 
 Total nodes: 51
 
-完成节点任务：36 个
+Complete node tasks: 36
 
-**奖励发放**
+**Prize Giving:**
 
-活动总奖励：1,000 BNC
+Total reward: 1,000 BNC
 
-实际总发放：1,566.5 BNC
+Actual total distribution: 1,566.5 BNC
 
 奖励发放时间：2020/4/2
 
