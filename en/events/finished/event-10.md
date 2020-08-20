@@ -1,15 +1,15 @@
-# Bifrost  ×  链读  AMA  波卡生态 Bifrost，跨链延展 Staking 的新场景
-4月22日，Bifrost 联合链读一起举办了一期 Bifrost 线上 staking AMA，介绍了如何通过跨链降低 Staking 的门槛提高 Staking 的流动性和收益，以下是本次线上 AMA 活动详情。
+# Polkadot Ecoproject Bifrost extend a staking new scenario with cross-chain
+On April 22, Bifrost and Liandu jointly organized a Bifrost online staking AMA, introducing how to reduce the threshold of staking through cross-chain to improve the liquidity and staking rewards. The following are the details of this online AMA event
 
-***日期：2020/4/20***
+***Date: 2020/4/20***
 
-**活动任务**
-- 在任务群发送红包口令
-- 绑定 BNC 收款地址
-- 给好友发红包
+**Event Tasks**
+- Send a task order in wechat group
+- Bind BNC address
+- Send the invited link to a friend
 
-**活动规则**
-- 他人拆你的红包，并完成红包激活任务，你将获拆出金额的 50% 作为奖励，并叠加奖励无上限
+**Event Rules**
+- If others open your bonus and complete the activation task, you will receive 50% of the amount of the bonus as a return, and there is no upper limit for the superimposed reward
 - 每个微信账号只能拆他人红包一次
 - 给他人发红包的次数不限
 - 满足激活红包条件才可获得红包最终发放
