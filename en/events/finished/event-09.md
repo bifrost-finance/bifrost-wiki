@@ -1,29 +1,29 @@
-# Bifrost PoC2 早鸟节点测试网活动
-Polkadot 主网发布时间临近，波卡生态中的各平行链项目也逐步从概念证明走向了市场验证阶段，作为首届 Substrate 黑客马拉松获奖项目的 Bifrost 也迎来了 POC-2 测试网的正式发布，将项目阶段性里程碑交由市场验证。
+# Bifrost POC 2 Early Bird Node Event
+The launch of the Polkadot mainnet is approaching, and the parachain projects in the Polkadot ecosystem have gradually moved from proof of concept to market verification. As the winning project of the first Substrate hackathon, Bifrost also ushered in the official release of the POC-2 testnet. The project milestones will be verified by the market.
 
-***日期：2020/3/21-2020/3/28***
+***Date: 2020/3/21-2020/3/28***
 
-**活动任务**
-- 成功联入 Bifrost POC-2 测试网
-- 同步区块到最新高度
-- 加入 Bifrost 微信群（[Bifrost公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIyODk1OTIyMw==&scene=124#wechat_redirect)寻找进群入口）
-- 填写早鸟节点登记表单审核
+**Event Tasks**
+- Successfully connected to the Bifrost POC-2 testnet
+- Synchronize blocks to the latest height
+- Join the Bifrost WeChat group (Bifrost public account: Bifrost Network to find the group entrance)
+- Fill in the early bird node registration form for review
 
-**活动规则**
-- 运行测试网络节点需要保持 5 天的状态
-- 1,000 枚 BNC 将平均分配给参与节点运行的伙伴
+**Event Rules**
+- Running test network nodes need to maintain 5 days state
+- 1,000 BNC will be evenly distributed to partners participating in node running
 
-**参与情况**
+**Participation Result**
 
-累计节点：51 个
+Total nodes: 51
 
-完成节点任务：36 个
+Complete node tasks: 36
 
-**奖励发放**
+**Prize Giving:**
 
-活动总奖励：1,000 BNC
+Total reward: 1,000 BNC
 
-实际总发放：1,566.5 BNC
+Actual total distribution: 1,566.5 BNC
 
 奖励发放时间：2020/4/2
 

@@ -1,5 +1,5 @@
 # Twitter Math & KSM Airdrop
-助力 Bifrost POC2 Testnet 上线，提高海外活动节点参与度，3月24日 Bifrost 举办为期 2 天的推特 $250 MATH 空投以及为期一周的 120 枚 KSM Gleam 空投。邀请参与空投的小伙伴们在完成活动任务的同时，能够进一步了解到 Bifrost POC2 测试网的性能。
+To help Bifrost POC2 Testnet launching and increase the participation of international event nodes, on March 24, Bifrost held a two-day $250 MATH  Twitter airdrop and a week 120 KSM Gleam airdrop. The friends who are invited to participate in the airdrop can learn more about the performance of the Bifrost POC2 testnet while joining the events.
 
 ***Date：***
 
@@ -12,80 +12,80 @@
 
 **Active task**
 - Follow [@Bifrost](https://twitter.com/bifrost_network)、[ @MathWallet](https://twitter.com/MathWallet)、 [@Polkaworld](https://twitter.com/polkaworld_org) & [@Polkabase](https://twitter.com/Polkabase_com)
-- 在此条[推文](https://twitter.com/bifrost_network/status/1242405288457564160)下@三位好友
-- 转发该条[推文](https://twitter.com/bifrost_network/status/1242405288457564160)
-- 查看下一个[空投](https://medium.com/@bifrost_network/airdrop-attention-to-celebrate-the-launch-of-bifrosts-poc2-testnet-online-ksm-will-airdrop-913cc2645f11)
+- @three friends in this [tweet](https://twitter.com/bifrost_network/status/1242405288457564160)
+- Forward this [tweet](https://twitter.com/bifrost_network/status/1242405288457564160)
+- View the next [Airdrop](https://medium.com/@bifrost_network/airdrop-attention-to-celebrate-the-launch-of-bifrosts-poc2-testnet-online-ksm-will-airdrop-913cc2645f11)
 
-**活动规则**
-- 推特 MATH 空投共持续 2 天
-- 活动期间共抽取 5 位幸运儿
-- 每位幸运儿发放 50 $MATH
+**Event Tasks**
+- MATH Twitter airdrop lasts 2 days
+- 5 lucky winners will be drawn during the event
+- Each lucky winners will give out 50 $MATH
 
-**KSM Gleam 空投**
+**KSM Gleam Airdrop**
 
-**活动任务**
-- 关注 Bifrost 推特账号
-- 转发 KSM 空投推特
-- 发一条活动推文
-- 加入 Bifrost Telegram 社区
-- 绑定 KSM 地址
+**Event Tasks**
+- Follow Bifrost Twitter account
+- Retweet KSM Twitter Airdrop
+- Post an event tweet
+- Join Bifrost Telegram community
+- Bind KSM address
 
-**活动规则**
-- Gleam KSM 空投共持续 7 天
-- 活动期间按任务积分比发放空投
-- 绑定正确的 KSM 地址
+**Event Rules**
+- Gleam KSM airdrop lasts for 7 days
+- During the event, airdrops will be issued according to the task points ratio
+- Bind the correct KSM address
 
-**参与情况**
+**Participation Result:**
 
-活动页 PV：39,761
+Page view: 39,761
 
-推特新增：1,700+ 人
+Twitter new followers: 1,700+
 
-Telegram 新增：900+ 人
+Telegram new followers: 900+
 
-推文转发量：490
+Tweet retweeting volume: 490
 
-推文评论量：514
+Tweet comments: 514
 
-推文点赞量：466
-
-
-**奖励发放**
-
-MATH 推特空投
-
-活动总奖励：$250 MATH
-
-实际总发放：$250 MATH
-
-奖励发放时间：2020/3/25
-
-第三方空投工具：MathGiveaway
-
-查询 & 索取空投，[详情](https://giveaway.mathwallet.org/#/9Q69AZP28K7RGXHG)
-
-| 获奖人            | MATH 数量 |
-| -------------- | ------- |
-| @AndikaIqbalM2 | 50      |
-| @radsata       | 50      |
-| @Restana9      | 50      |
-| @yayajenni     | 50      |
-| @stdones       | 50      |
+Tweet likes: 466
 
 
-KSM Gleam 空投
+**Prize Giving:**
 
-活动总奖励：120 KSM
+MATH Twitter Airdrop
 
-实际总发放：120 KSM
+Total rewards: $250 MATH
 
-奖励发放时间：2020/4/1
+Actual total distribution: $250 MATH
 
-第三方空投工具：Gleam
+Prizes Distribution Date: 2020/3/25
 
-查询 & 索取空投，[详情](https://gleam.io/competitions/Mpv9R-120-kusama-giveaway)
+Third-party airdrop tool: MathGiveaway
 
-| KSM 数量      | KSM 地址                                          |
+Claim and track an airdrop [details](https://giveaway.mathwallet.org/#/9Q69AZP28K7RGXHG)
+
+| Winners        | MATH Amounts |
+| -------------- | ------------ |
+| @AndikaIqbalM2 | 50           |
+| @radsata       | 50           |
+| @Restana9      | 50           |
+| @yayajenni     | 50           |
+| @stdones       | 50           |
+
+
+KSM Gleam airdrop
+
+Total rewards: 120 KSM
+
+Actual total distribution: 120 KSM
+
+Prizes Distribution Date: 2020/4/1
+
+Third-party airdrop tool: Gleam
+
+Claim and track an airdrop [details](https://gleam.io/competitions/Mpv9R-120-kusama-giveaway)
+
+| KSM Amounts | KSM Addresses                                   |
 | ----------- | ----------------------------------------------- |
 | 0.109041345 | E5p9DE5Qvp6pwPaGETxeJHvdXoMr5iDzSjcE4WUREpQYeLy |
 | 0.109041345 | J6LAp1epVH5Jv5otmfaeZR3NU5xPHXxebrnYFBe5MLZkdQj |
