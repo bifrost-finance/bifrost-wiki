@@ -26,13 +26,13 @@ Event Website Unique Vistors: 1,748
 
 Increasing in WeChat official account followers: 145
 
-**Reward Distribution**
+**Prize Giving**
 
 Total Rewards: 1,000 BNC
 
 Actual total distribution: 425.2078 BNC
 
-奖励发放时间：2020/6/6
+Date: 2020/6/6
 
 Note: Reasons for the remaining BNC is not issued: (1) The activity condition is not completed (2) The BNC address is not bound
 
