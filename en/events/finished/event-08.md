@@ -1,4 +1,4 @@
-# Twitter Math & KSM Airdrop
+# MATH & KSM Twitter Airdrop
 To help Bifrost POC2 Testnet launching and increase the participation of international event nodes, on March 24, Bifrost held a two-day $250 MATH  Twitter airdrop and a week 120 KSM Gleam airdrop. The friends who are invited to participate in the airdrop can learn more about the performance of the Bifrost POC2 testnet while joining the events.
 
 ***Date：***
