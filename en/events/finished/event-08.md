@@ -26,66 +26,66 @@ To help Bifrost POC2 Testnet launching and increase the participation of interna
 **Event Tasks**
 - Follow Bifrost Twitter account
 - Retweet KSM Twitter Airdrop
-- 发一条活动推文
-- 加入 Bifrost Telegram 社区
-- 绑定 KSM 地址
+- Post an event tweet
+- Join Bifrost Telegram community
+- Bind KSM address
 
-**活动规则**
-- Gleam KSM 空投共持续 7 天
-- 活动期间按任务积分比发放空投
-- 绑定正确的 KSM 地址
+**Event Rules**
+- Gleam KSM airdrop lasts for 7 days
+- During the event, airdrops will be issued according to the task points ratio
+- Bind the correct KSM address
 
-**参与情况**
+**Participation Result:**
 
-活动页 PV：39,761
+Page view: 39,761
 
-推特新增：1,700+ 人
+Twitter new followers: 1,700+
 
-Telegram 新增：900+ 人
+Telegram new followers: 900+
 
-推文转发量：490
+Tweet retweeting volume: 490
 
-推文评论量：514
+Tweet comments: 514
 
-推文点赞量：466
-
-
-**奖励发放**
-
-MATH 推特空投
-
-活动总奖励：$250 MATH
-
-实际总发放：$250 MATH
-
-奖励发放时间：2020/3/25
-
-第三方空投工具：MathGiveaway
-
-查询 & 索取空投，[详情](https://giveaway.mathwallet.org/#/9Q69AZP28K7RGXHG)
-
-| 获奖人            | MATH 数量 |
-| -------------- | ------- |
-| @AndikaIqbalM2 | 50      |
-| @radsata       | 50      |
-| @Restana9      | 50      |
-| @yayajenni     | 50      |
-| @stdones       | 50      |
+Tweet likes: 466
 
 
-KSM Gleam 空投
+**Prize Giving:**
 
-活动总奖励：120 KSM
+MATH Twitter Airdrop
 
-实际总发放：120 KSM
+Total rewards: $250 MATH
 
-奖励发放时间：2020/4/1
+Actual total distribution: $250 MATH
 
-第三方空投工具：Gleam
+Prizes Distribution Date: 2020/3/25
 
-查询 & 索取空投，[详情](https://gleam.io/competitions/Mpv9R-120-kusama-giveaway)
+Third-party airdrop tool: MathGiveaway
 
-| KSM 数量      | KSM 地址                                          |
+Claim and track an airdrop [details](https://giveaway.mathwallet.org/#/9Q69AZP28K7RGXHG)
+
+| Winners        | MATH Amounts |
+| -------------- | ------------ |
+| @AndikaIqbalM2 | 50           |
+| @radsata       | 50           |
+| @Restana9      | 50           |
+| @yayajenni     | 50           |
+| @stdones       | 50           |
+
+
+KSM Gleam airdrop
+
+Total rewards: 120 KSM
+
+Actual total distribution: 120 KSM
+
+Prizes Distribution Date: 2020/4/1
+
+Third-party airdrop tool: Gleam
+
+Claim and track an airdrop [details](https://gleam.io/competitions/Mpv9R-120-kusama-giveaway)
+
+| KSM Amounts | KSM Addresses                                   |
 | ----------- | ----------------------------------------------- |
 | 0.109041345 | E5p9DE5Qvp6pwPaGETxeJHvdXoMr5iDzSjcE4WUREpQYeLy |
 | 0.109041345 | J6LAp1epVH5Jv5otmfaeZR3NU5xPHXxebrnYFBe5MLZkdQj |
