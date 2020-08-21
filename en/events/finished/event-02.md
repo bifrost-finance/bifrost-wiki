@@ -5,20 +5,20 @@ Unconsciously, Bifrost has participated in 5 AMA online events. On May 29th, Luf
 
 ***Location: Hotbit WeChat Group + Bifrost WeChat Group***
 
-**活动任务**
-- 在直播群中发送任务表情
-- 在公众号中发送任务表情
-- 绑定 BNC 收款地址
-- 满足以上条件等待红包发放
+**Event tasks**
+- Sending task emojis in wechat groups
+- Send the task list in the wechat official account
+- Bind your Bifrost address
+- Meet the above conditions and wait for the reward to be issued
 
-**活动规则**
-- 他人拆你的红包，并完成红包激活任务，你将获拆出金额的 50% 作为奖励，并叠加奖励无上限
-- 每个微信账号只能拆他人红包一次
-- 给他人发红包的次数不限
-- 满足激活红包条件才可获得红包最终发放
-- 活动奖励发放前不满足红包条件，不予发放红包
+**Event rules**
+- If others open your reward and complete the reward activation task, you will receive 50% of the amount of the reward as a return, and there is no upper limit for the superimposed reward
+- Each WeChat account can only open others' reward once
+- Unlimited number of reward to others
+- The reward will be finally issued only when the reward activation conditions are met
+- If the reward conditions are not met before the event reward is issued, the reward will not be issued
 
-**参与情况**
+**Participation Result**
 
 Event Website Positive Vistors: 7,903
 
@@ -26,13 +26,13 @@ Event Website Unique Vistors: 1,748
 
 Increasing in WeChat official account followers: 145
 
-**奖励发放**
+**Prize Giving**
 
-活动总奖励：1,000 BNC
+Total Rewards: 1,000 BNC
 
-实际总发放：425.2078 BNC
+Actual total distribution: 425.2078 BNC
 
-奖励发放时间：2020/6/6
+Date: 2020/6/6
 
 Note: Reasons for the remaining BNC is not issued: (1) The activity condition is not completed (2) The BNC address is not bound
 

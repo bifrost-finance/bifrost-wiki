@@ -29,21 +29,21 @@
 - Create Validator
 
 ### Generate Session Key
-- Execute
+- 1. 开启 9933 端口和 RPC 权限，关闭节点后重新用下方命令启动节点
+```
+docker run -it -p 30333:30333 -p 9944:9944 -p 9933:9933 -v /folder/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --rpc-methods 'Unsafe' --unsafe-rpc-external --validator
+```
+
+- 2. 执行，生成 Session Key
 ```
 curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://localhost:9933
 ```
 
 <img :src="$withBase('/zh/validator-tutorial/session_key.png')" alt="" width="70%" />
 
-- Set the generated Session Key in the previous step.
+- 3. 将生成的 Session Key 复制到页面中进行设置
 
-- If the generation is unsuccessful or the interface cannot be accessed, the RPC port (9933) or permissions are not configured, restart the node and execute the following command.
-```
-docker run -it -p 30333:30333 -p 9944:9944 -p 9933:9933 -v /folder/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --rpc-methods 'Unsafe' --unsafe-rpc-external --validator
-```
-
-- After the Session Key is generated, remove the 9933 port and RPC permissions (opening RPC permissions has certain security risks, and it is not recommended to open it publicly)
+- 4. SessionKey 生成完毕，关闭 9933 端口和 RPC 权限（开放 RPC 权限有一定安全风险，不建议公开开放）
 ```
 docker run -it -p 30333:30333 -p 9944:9944 -v /folder/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
 ```
