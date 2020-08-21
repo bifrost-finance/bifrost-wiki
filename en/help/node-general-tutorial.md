@@ -8,11 +8,11 @@
 ### Recommended Configurations
 
 ```
-CPU:  2 Core
-RAM:  4 GB
-DISK:  100 GB
-NET:  10 MB
-System:  Linux (Centos, Ubantu)
+CPU             4 核
+RAM（运行内存）   8 GB
+DISK（磁盘大小）  100 GB
+NET（网络带宽）   10 MB
+系统             Linux (Centos, Ubantu)
 ```
 
 ### Docker self-running mode

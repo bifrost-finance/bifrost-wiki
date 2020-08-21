@@ -422,6 +422,10 @@ module.exports =  {
                 '/zh/contribution/join-us.md',
                 '加入我们',
               ],
+              [
+                '/zh/contribution/Wiki-contribution.md',
+                'WiKi 翻译贡献公示',
+              ],
             ],
           },
           {

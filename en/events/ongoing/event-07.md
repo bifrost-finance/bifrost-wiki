@@ -1,15 +1,15 @@
-# Asgard CC2 节点大赛
+# Asgard CC2 Validate Wars
 
 距离 5 月 21 日 Asgard CC1 (Candidate Chain 1) 发布已经近两个月了。在这两个月中，Bifrost 在**节点**、**Validator** 和 **EOS 跨链**功能中分别做了整体的优化和提升。节点方面，升级了 **Swap 算法**，支持更多币种流动性，未来可以通过 **Convert 模块**兑换 vToken，也可以通过 **Swap 模块**直接购买 vToken。
 
-***日期：2020/7/21-2020/8/21***
+***Duration: 2020/7/21-2020/8/21***
 
 **活动任务**
 - 节点时长角逐赛
 - EOS 跨链大PK
 - Validator 王者之争
 
-**活动规则**
+**Participation Rules:**
 - 节点时长角逐赛
   - 运行节点时间越长，瓜分的奖励越多
   - 每分钟记一个 Time Point（时长）
