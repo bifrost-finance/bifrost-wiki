@@ -10,12 +10,12 @@ On April 22, Bifrost and Liandu jointly organized a Bifrost online staking AMA, 
 
 **Event Rules**
 - If others open your bonus and complete the activation task, you will receive 50% of the amount of the bonus as a return, and there is no upper limit for the superimposed reward
-- 每个微信账号只能拆他人红包一次
-- 给他人发红包的次数不限
-- 满足激活红包条件才可获得红包最终发放
-- 活动奖励发放前不满足红包条件，不予发放红包
+- Each WeChat account can only open others' bonus once
+- Unlimited number of bonus to others
+- The bonus will be finally issued only when all activation conditions are met
+- If the bonus conditions are not met before the event reward is issued, the bonus will not be issued
 
-**参与情况**
+**Participation Result**
 
 **奖励发放** 活动总奖励：1,000 BNC 实际总发放：739.2775 BNC 奖励发放时间：2020/4/24
 
