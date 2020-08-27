@@ -23,7 +23,7 @@ It has been nearly two months since Asgard CC1 (Candidate Chain 1) was released 
   - After the event, 6,000 BNC will be divided according to the number of EOS cross-chains (70% weight) and vEOS balance (30% weight)
 
 - Validator King Contest
-  - Asgard CC2 开放 50 个 Validator 验证人席位
-  - 通过水龙头（Faucet）领取 ASG，自抵押 + 提名 ASG 数量前 50 名节点当选 Validator 验证人
-  - 每 3 小时（1 ERA 1800 BLOCK）重新根据总抵押数量选举一次验证人
+  - Asgard CC2 opens 50 validator seats
+  - Receive ASG through Faucet, self-staking + nominate the top 50 ASG nodes to be elected Validator
+  - Every 3 hours (1 ERA 1800 BLOCK) re-elect validators based on the total staking amount
 
