@@ -1,4 +1,4 @@
-# Bifrost  首期 AMA  Staking + DeFi  新玩法 如何兼顾流动性和高收益
+# First Term AMA | Staking + DeFi, how to balance liquidity and high yield?
 作为首期 AMA，我们邀请了区块链技术专家，Bifrost 联合创始人 Lurpis 作为特邀嘉宾出席，对当前情况下如何结合波卡和 Defi 项目提高 Staking 的流动性给予行业见解。以下是 Bifrost 首期线上 AMA 活动详情。
 
 ***日期：2020/4/10***
