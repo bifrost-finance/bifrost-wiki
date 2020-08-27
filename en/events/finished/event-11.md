@@ -1,14 +1,14 @@
 # First Term AMA | Staking + DeFi, how to balance liquidity and high yield?
-作为首期 AMA，我们邀请了区块链技术专家，Bifrost 联合创始人 Lurpis 作为特邀嘉宾出席，对当前情况下如何结合波卡和 Defi 项目提高 Staking 的流动性给予行业见解。以下是 Bifrost 首期线上 AMA 活动详情。
+As the first AMA, we invited blockchain technology experts and Bifrost co-founder Lurpis as a special guest  to give industry insights on how to combine Polkadot and Defi projects to improve the liquidity of Staking. Below are the details of Bifrost's first online AMA event.
 
-***日期：2020/4/10***
+***Date: 2020/4/10***
 
-**活动任务**
-- 在任务群发布红包口令
-- 绑定 BNC 收款地址
-- 给好友发红包
+**Event Tasks**
+- Publish the bonus order in the task group
+- Bind Bifrost address
+- Send the bonus to a friend
 
-**活动规则**
+**Event Rules**
 - 他人拆你的红包，你将获得拆出金额的50%作为奖励，并叠加奖励无上限
 - 每个微信号只能拆他人红包一次
 - 给他人发红包的次数不限
