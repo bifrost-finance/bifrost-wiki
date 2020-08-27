@@ -8,11 +8,11 @@
 ### Recommended Configurations
 
 ```
-CPU             4 核
-RAM（运行内存）   8 GB
-DISK（磁盘大小）  100 GB
-NET（网络带宽）   10 MB
-系统             Linux (Centos, Ubantu)
+CPU: 4 core
+RAM: (running memory) 8 GB
+DISK: (disk size) 100 GB
+NET: (network bandwidth) 10 MB
+System: Linux (Centos, Ubantu)
 ```
 
 ### Docker self-running mode
@@ -24,7 +24,7 @@ NET（网络带宽）   10 MB
 > Tips:
 > 
 > - It is recommended to use cloud servers to run nodes.
-> - 如果是新的云服务器，`推荐安装 CoreOS 系统，自带 Docker`，本步骤可跳过
+> - If it is a new cloud server, `It is recommended to install the CoreOS system with Docker`, this step can be skipped
 
 #### 2. Run a node
 
@@ -38,21 +38,21 @@ docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnet
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-01.png')" alt="" />
 
-注：如果提示 `permission denied` 则说明节点目录 `/tmp/bifrost-node` 没有写入权限，请执行 `chmod -R 766 /tmp/bifrost-node` 给予权限。
+Note: If it prompts `permission denied`, it means that the node directory `/tmp/bifrost-node` does not have write permission, please execute `chmod -R 766 /tmp/bifrost-node ` Give permission.
 
 > Parameter Description:
 > 
 > - `-p 30333:30333 -p 9944:9944` is the node port number.
-> - `-v /tmp/bifrost-node:/node` 节点数据保存位置 
->     - `/tmp/bifrost-node` **为自定义文件夹，可以更改为自己想要保存节点数据的目录**
->     - 请确保该文件夹有写入权限
->     - 文件目录保持不变，出块数据和节点 ID 就不会丢失
-> - `bifrostnetwork/bifrost:asgard-v0.4.0`：容器依赖的镜像；
-> - `--name "NodeName | BNCAddress"`: 其中 NodeName 为节点名称，BNCAddress 为 Bifrost 地址前 10 位，用 `|` 隔开；
+> - `-v /tmp/bifrost-node:/node` where to save node data 
+>     - `/tmp/bifrost-node` ** is a custom folder, you can change to the directory where you want to save node data**
+>     - Please make sure the folder has write permission
+>     - The file directory remains unchanged, and the block data and node ID will not be lost
+> - `bifrostnetwork/bifrost:asgard-v0.4.0`: the image that the container depends on;
+> - `--name "NodeName | BNCAddress"`: where NodeName is the node name, and BNCAddress is the first 10 digits of the Bifrost address, separated by `|`;
 
 #### 2.2 Run again
 
-先查看之前运行的容器状态：
+First check the status of the previously running container:
 
 ```sh
 $ docker ps -a
@@ -60,7 +60,7 @@ $ docker ps -a
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-02.png')" alt="" />
 
-如果是电脑或服务器重启，造成的容器退出，用下面的命令重新启动：
+If the computer or server restarts and the container exits, restart it with the following command:
 
 ```sh
 $ docker restart 66e31
@@ -73,9 +73,9 @@ $ docker restart 66e31
 
 #### 2.3 Check node operation
 
-节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
+Node monitoring: <https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
 
-节点奖励：<https://rewards.bifrost.finance>
+Node reward: <https://rewards.bifrost.finance>
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-03.png')" alt="" />
 
@@ -85,12 +85,12 @@ $ docker restart 66e31
 ##### 2.1 Click "Deploy a Node" to enter the node market.
 ##### 2.2 Select Bifrost Validator Node.
 ##### 2.3 Enter the payment page.
-应用名称填写节点名 | Bifrost 地址前 10 位，运行方式选 Validator
+Fill in the node name of the application name | the first 10 digits of the Bifrost address, and select the Validator for the operation mode
 
 ##### 2.4 Wait for the node to automatically complete the deployment after payment.
 ##### 2.5 Check node operation.
 
-节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 节点奖励：<https://rewards.bifrost.finance>
+Node monitoring: <https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
 
 > The above has completed the task of participating in the node running, and then you can view "Validator tutorial"
 
