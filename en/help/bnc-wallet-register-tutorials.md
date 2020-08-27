@@ -20,7 +20,7 @@
 **5. The `mobile ` may not automatically download the json file, so be sure to `back up the mnemonic words or raw seed! ! ! `**
 
 
-<img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-04.png')" alt="文件名即钱包地址" width="60%" />
+<img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-04.png')" alt="The file name is the wallet address" width="60%" />
 
 
 ### How to copy BNC account address?
