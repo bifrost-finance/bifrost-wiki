@@ -1,6 +1,6 @@
-# Asgard CC2 Validate Wars
+# Asgard CC2 Node Campaign
 
-距离 5 月 21 日 Asgard CC1 (Candidate Chain 1) 发布已经近两个月了。在这两个月中，Bifrost 在**节点**、**Validator** 和 **EOS 跨链**功能中分别做了整体的优化和提升。节点方面，升级了 **Swap 算法**，支持更多币种流动性，未来可以通过 **Convert 模块**兑换 vToken，也可以通过 **Swap 模块**直接购买 vToken。
+It has been nearly two months since Asgard CC1 (Candidate Chain 1) was released on May 21. In the past two months, Bifrost has made overall optimizations and improvements in the functions of **node**, **Validator** and **EOS cross-chain**. In terms of nodes, the **Swap algorithm** has been upgraded to support more currency liquidity. In the future, vToken can be exchanged through the **Convert module** or through the **Swap module** Purchase vToken directly.
 
 ***Duration: 2020/7/21-2020/8/21***
 
