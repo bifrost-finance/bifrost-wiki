@@ -54,18 +54,18 @@
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-04.png')" alt="" />
 
-**6. 返回 <https://onlinehextools.com/convert-utf8-to-hex> 随意填写一个 memo 信息，将其转化成 0x 地址**
+**6. Вернитесь на <https://onlinehextools.com/convert-utf8-to-hex>, введите memo и преобразуйте его в адрес 0x (необязательно)**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-05.png')" alt="" />
 
-**7. 返回 Bifrost Dashboard，输入转化后的 memo 信息，点击`Submit Transaction`跨链转账**
+**7. Вернитесь на панель мониторинга Bifrost, введите преобразованное memo и нажмите кнопку `Submit transaction` для отправки**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-06.png')" alt="" />
 
-**8. 点击`Sign and Submit`提交交易**
+**8. Нажмите `Sign and Submit` для подтверждения транзакции**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-07.png')" alt="" />
 
-**9. 返回 TP 钱包查看 EOS 余额**
+**9. Вернитесь в кошелек TokenPocket, чтобы проверить баланс EOS.**
 
-## Cleos 命令方法跨链转账
+## Кросс-чейн транзакции с помощью инструмента cleos
