@@ -1,6 +1,6 @@
 ## Bifrost
 
-### 什么是 Bifrost？
+### Что такое Bifrost?
 
 Bifrost 是一条使用 Substrate 开发的垂直于 Staking 生态的波卡平行链，用户可以随时将 PoS 币种通过 Bifrost 转接桥兑换成 Bifrost vToken 从而获得 Staking 收益和流动性。
 
