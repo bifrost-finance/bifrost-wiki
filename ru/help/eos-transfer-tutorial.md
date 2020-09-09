@@ -1,28 +1,28 @@
 # Инструкция по кросс-чейн отправке EOS
 
-## EOS Jungle Testnet - Asgard CC2 | TokenPocket 钱包跨链转账
+## EOS Jungle Testnet-Asgard CC2 | кросс-чейн отправка в кошельке TokenPocket
 
-**1. 注册 EOS 测试网账号，点击查看[注册教程](https://wiki.bifrost.finance/zh/help/eos-testnet-account-register.html)**
+**1. Создайте аккаунт в тестовой сети EOS, [нажмите здесь для просмотра инструкции по регистрации](https://wiki.bifrost.finance/zh/help/eos-testnet-account-register.html)**
 
-**2. 打开手机端 TokenPocket 钱包（TP钱包下载链接：<https://www.tokenpocket.pro/>**
+**2. Откройте приложение кошелька TokenPocket на мобильном телефоне (ссылка для скачивания：<https://www.tokenpocket.pro/>**
 
-**3. 点击`我的`进入`系统设置`-`节点设置`**
+**3. Нажмите `Me`, затем `Settings`-`Node Settings`**
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-01.png')" alt="" width="30%" />
 
-**4. 下拉至自定义节点，点击`添加自定义节点` 复制粘贴节点链接：https://jungle.eosn.io:443**
+**4. Проскрольте страниуц вниз до раздела Custom, нажмите кнопку `Add a custom node`, вставьте ссылку: https://jungle.eosn.io:443**
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-02.png')" alt="" width="30%" />
 
-**5. 返回首页，点击右上角钱包导入 EOS 测试网账号**
+**5. Вернитесь в раздел Assets и нажмите на кошелек в правом верхнем углу, чтобы импортировать аккаунт в тестовой сети EOS**
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-03.png')" alt="" width="30%" />
 
-**6. 导入成功后，返回钱包`资产`首页，可查询到 100 个 EOS 测试币到账**
+**6. После успешного импорта вернитесь на главную страницу кошелька - в разделе `Assets` вы увидите 100 тестовых монет EOS.**
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-04.png')" alt="" width="30%" />
 
-**7. 点击`直接转账`后，在`收款账号`中输入 bifrostcross 作为接收方账号**
+**7. Нажмите на кнопку `Transfer` и введите bifrostcross в качестве получателя в поле `Receiver`**
 
 **8. 在`备注`内复制粘贴你的 BNC 地址@bifrost 例如：5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY@bifrost**
 
