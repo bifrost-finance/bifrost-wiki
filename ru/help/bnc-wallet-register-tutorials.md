@@ -2,12 +2,12 @@
 
 **1. Перейдите по ссылке： <https://dash.bifrost.finance/#/explorer>**
 
-**2. 选择`账户`，点击`添加账号`**
+**2. Выберите `Аккаунт` и нажмите на кнопку `Добавить аккаунт`**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-01.png')" alt="" width="60%" />
 
-**3. 填写账号`名称`、`密码`并备份私钥或种子，填好后选择`保存`**
+**3. Введите `имя аккаунта` и `пароль`, сохраните приватный ключ или сид-фразу, затем нажмите `Сохранить`**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-02.png')" alt="" width="60%" />
