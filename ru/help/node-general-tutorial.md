@@ -8,29 +8,29 @@
 ### Рекомендуемая конфигурация
 
 ```
-CPU             4 核
-RAM（运行内存）   8 GB
-DISK（磁盘大小）  100 GB
-NET（网络带宽）   10 MB
-系统             Linux (Centos, Ubantu)
+CPU: 4 ядра
+RAM: (оперативная память) 8 GB
+Диск: 100 GB
+NET: (пропускная способность сети) 10 MB
+Система: Linux (Centos, Ubuntu)
 ```
 
-### Docker 自运行方式
-#### 1. Docker 安装
+### Режим самостоятельного запуска Docker
+#### 1. Установка Docker
 - Linux：<https://www.runoob.com/docker/centos-docker-install.html>
 - Windows：<https://www.runoob.com/docker/windows-docker-install.html>
 - Mac：<https://www.runoob.com/docker/macos-docker-install.html>
 
-> 小提示：
+> Рекомендации：
 > 
-> - 推荐使用是云服务器运行节点，省心、不掉线；
-> - 如果是新的云服务器，`推荐安装 CoreOS 系统，自带 Docker`，本步骤可跳过
+> - Для запуска нод рекомендуется использовать облачные серверы.
+> - Если вы используете новый облачный сервер, `Рекомендуется установить систему CoreOS с помощью Docker`, этот шаг можно пропустить
 
-#### 2. 运行节点
+#### 2. Запуск ноды
 
-##### 2.1 首次运行
+##### 2.1 Первый запуск
 
-命令：
+Команда:
 
 ```sh
 docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
@@ -38,12 +38,12 @@ docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnet
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-01.png')" alt="" />
 
-注：如果提示 `permission denied` 则说明节点目录 `/tmp/bifrost-node` 没有写入权限，请执行 `chmod -R 766 /tmp/bifrost-node` 给予权限。
+Примечание: если появляется сообщение `permission denied`, то у папки с нодой `/tmp/bifrost-node` отстутствует разрешение на запись - выполните команду `chmod -R 766 /tmp/bifrost-node ` для предоставления доступа.
 
-> 参数说明：
+> Описание параметров：
 > 
-> - `-p 30333:30333 -p 9944:9944` 为节点端口号
-> - `-v /tmp/bifrost-node:/node` 节点数据保存位置 
+> - `-p 30333:30333 -p 9944:9944` - порт ноды
+> - `-v /tmp/bifrost-node:/node` - расположение данных ноды 
 >     - `/tmp/bifrost-node` **为自定义文件夹，可以更改为自己想要保存节点数据的目录**
 >     - 请确保该文件夹有写入权限
 >     - 文件目录保持不变，出块数据和节点 ID 就不会丢失
