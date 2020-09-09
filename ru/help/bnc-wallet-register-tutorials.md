@@ -12,7 +12,7 @@
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-02.png')" alt="" width="60%" />
 
-**4. 接受提示并保存恢复文件**
+**4. Примите приглашение и сохраните файл восстановления**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-03.png')" alt="" width="60%" />
