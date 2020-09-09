@@ -75,7 +75,7 @@ $ docker restart 66e31
 
 Мониторинг нод：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
 
-Вознаграждения нод: <https://rewards.bifrost.finance>
+Вознаграждения нод： <https://rewards.bifrost.finance>
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-03.png')" alt="" />
 
@@ -90,20 +90,20 @@ $ docker restart 66e31
 ##### 2.4 Дождитесь завершения автоматического развертывания ноды после оплаты.
 ##### 2.5 Проверьте работу ноды
 
-节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 节点奖励：<https://rewards.bifrost.finance>
+Мониторинг нод：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 Вознаграждения нод： <https://rewards.bifrost.finance>
 
-> 以上就完成了节点运行时长的参与任务，接下来可以查看《如何成为 Validator 教程》
+> Вышеизложенной инструкции достаточно для запуска ноды, теперь вы можете ознакомиться с "Учебником валидатора"
 
-## Q & A 问题解决
-#### 1. Windows Toolbox 拉取 boot2docker.iso 失败问题
+## Вопросы & ответы
+#### 1. Windows Toolbox failed to pull boot2docker.iso
 
-安装 Docker Toolbox 是出现下面的错误，说明拉取 boot2docker.iso 失败了。
+Данная ошибка свидетельствует о том, что Docker Toolbox не смог извлечь boot2docker.iso.
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-04.png')" alt="" />
 
-解决方案：
+Решение：
 
-Bifrost 社区群里有下载好的镜像，先在群里要；然后复制到上面图中标红的 cache 路径中即可；
+В группе сообщества Bifrost есть загруженный образ - попросите его в группе, а затем скопируйте в кэш-путь, отмеченный красным цветом на рисунке выше;
 
 复制好后，再双击启动 Docker Quickstart Terminal
 
