@@ -42,15 +42,15 @@
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-01.png')" alt="" />
 
-**3. 点击链接 <https://onlinehextools.com/convert-utf8-to-hex> 下拉取消三个选项**
+**3. Перейдите по ссылке <https://onlinehextools.com/convert-utf8-to-hex> и уберите галочки с трех опций в выпадающем списке**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-03.png')" alt="" />
 
-**4. 再将你的 Bifrost 地址转化为 0x 开头地址，如图所示：**
+**4. Преобразуйте ваш адрес Bifrost в адрес, начинающийся с 0x, как показано на рисунке：**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-02.png')" alt="" />
 
-**5. 返回 Bifrost Dashboard，输入转账信息**
+**5. Вернитесь в панель управления Bifrost и введите информацию для отправки**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-04.png')" alt="" />
 
