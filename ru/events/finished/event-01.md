@@ -5,18 +5,18 @@
 
 **Задания**
 - Подпишитесь на страницы [Bifrost](https://twitter.com/bifrost_network) и [Ankr](https://twitter.com/ankr) в Twitter
-- 在此条[推文](https://twitter.com/bifrost_network/status/1267727916982390784)下的评论区 @ 3位好友
-- 转发本条[推文](https://twitter.com/bifrost_network/status/1267727916982390784)
-- 浏览 Bifrost Asgard [节点活动页面](https://reward.bifrost.finance/)
+- Оставьте комментарий и отметьте @ трех друзей под этим [твитом](https://twitter.com/bifrost_network/status/1267727916982390784)
+- Сделайте ретвит этого [твита](https://twitter.com/bifrost_network/status/1267727916982390784)
+- Посетите [страницу кампании по запуску нод](https://reward.bifrost.finance/) Bifrost Asgard
 
 **Правила**
-- 空投共持续 5 天
-- 活动期间内共抽取 100 名幸运儿
-- 每位幸运儿发放 0.5 枚 KSM
+- Airdrop продлится 5 дней.
+- Всего в ходе раздачи будет случайным образом выбрано 100 победителей.
+- Каждый из победителей получит по 0.5 KSM.
 
-**参与情况**
+**Результаты активности**
 
-推特新增用户：2,751 人
+Новые подписчики в Twitter： 2,751
 
 活动推特浏览量：74,040
 
