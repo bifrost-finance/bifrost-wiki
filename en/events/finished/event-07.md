@@ -246,11 +246,11 @@ It has been almost two months since Asgard CC1 (Candidate Chain 1) was released 
 | 4.4475     | eM9X4vn2dgkumUqnqnHbPweyjBHhx8b1X76uLkVtjxHEnE      |
 | 10.9022    | h4j5dJx9QnPY2v4TK21gS4iVgVfffEY24cnKW8esbFEUGE      |
 | 4.5935     | eVwRE6VWTqCtjpbgR25pk97XSqs9JRhSk4JPHxWj6xreEo2     |
-| 4.3379     | eBoXXb6XDXyemmi1m37SE1fd7pW82PccCegNB18GmYJjHjk     |
-| 4.3379     | bseXpStyM1RGtgJshB69jJHPGyT5pitU6VLRvRhGJC2TCE8     |
-| 4.2675     | cWFiKWgESDsxDEeKPKUgQnqTqPT8GzVAzeq9VyoaAWeovei     |
-| 4.1371     | fBE3BRo1gcUrBmNPwYa3spRxSQanTa7REwiMEwF4WkkiP1P     |
-| 6.0334     | cEM1fmUFk2bTn1pAhhcMc8JtAL2aLQK1LqWaajTsaVJ7uFV     |
+| 4.3379     | eBoXXb6XDXyemmi1m37SE1fd7pW82PccegNB18GmYJjHjk      |
+| 4.3379     | bseXpStyM1RGtgJshB69jJHPGyT5pitU6VLRvRhGJC2TC8      |
+| 4.2675     | cWFiKWgESDsxDEeKPKUgQnqTqPT8GzVAzeq9VyoaAWevei      |
+| 4.1371     | fBE3BRo1gcUrBmNPwYa3spRxSQANTa7REwiMEWF4WkiPP       |
+| 6.0334     | cEM1fmUk2bTn1pAhhcMc8JTAL2aLQK1LqWaajTsaVJ7uFV      |
 | 4.9248     | hMJg1XGXketnzwKiNkyV2m57v4ZCXZKcYHko8zxjyHLXYzU     |
 | 5.0318     | fLyoHJ7yN1s38LwgsM3YnHKCuPJzfMPfZZcPqGog12vAYZ4     |
 | 3.9753     | dayytR2cvZajTdfiPgM3GGxFxsAugpDj4Psy4x8eWuexwru     |
@@ -277,29 +277,29 @@ It has been almost two months since Asgard CC1 (Candidate Chain 1) was released 
 | 254.1476   | eDRWJKFen1SMsB91T4vTfEZCTkWbkE8iXVr7qS2BichRT8a     |
 | 2.3946     | c1tc6J6LAKo7NDzWF5A5AqREqVmB786aqEtDxAN6MBdeSzQ     |
 | 2.4102     | fDMuC59K3SBShosUxMAYFtSRZ9FWdpbdgTig27SjiFWuToA     |
-| 2.3829     | dpQSSoiiMkjhPsc2ZNJ2pHshuxQVLiMjV2Sx96pjaagp5XF     |
+| 2.3829     | dpQSsoiMkjhPsc2ZNJ2pHshuxQVLiMjV2Sx96pjaagp5XF      |
 | 2.3685     | d46KLdmhC2wTEh34TgnTN6akisVuM6ss46dtPwovCsNsBkC     |
-| 473.4421   | fDRq1P3QfG6tmWYeKicqYYAvLTLXyKnNV2M5LjQH2v5ZxPx     |
-| 2.0946     | bk2wGpSgnpg4NQ7935BnhHjp6WjPkNwhPEWscjRtSgTp9vz     |
-| 1.9877     | dTpj1qnYFLTVmPGW3X1wHwNyG6kkQ5a8Lv84nB4XHEvmRMb     |
-| 1.9851     | dppSfM77RJ4mXFWDcCLUSTBhNXeFhaouc61qLXZyTRh3idm     |
-| 1.9798     | dp1iucJYfxyussLQQ2mzPQdirb73Zzfjdg5nXZxoRP2Ptgo     |
-| 1.9772     | foijbFYSxTr1tHa5n7EwowFRSokDRCdArP6fqkBVA8yFsWs     |
-| 1.9459     | gLrK39mkg8cBWCo6M7MZXCTfwrbn3PQMRQDgWRKpZtgJRum     |
+| 473.4421   | fDRq1P3QfG6tmWYYAvLTLXy KnNV2M5LjQH2v5ZxPx          |
+| 2.0946     | bk2wGpSgnpg4NQ7935BnhHjp6WjPknwhPEWscjRtSgTp9vz     |
+| 1.9877     | dTpj1qnYFLTVmPGW3X1wHwNyG6kkkQ5a8Lv84nB4XHEvmRMb    |
+| 1.9851     | dppSf77RJ4mXFWDcCUSSTBNXeFhaouc61qLXZyTRh3idm       |
+| 1.9798     | dp1iucJYfxyussLQ2mzPQdirb73Zzfjdg5nXZxoRP2Pgo       |
+| 1.9772     | foijbFYTr1tHa5n7EwowFRSokDRCdArp6fqkBVA8yFsWs       |
+| 1.9459     | gLrK39mg8cBWCo6M7MZXCTfwrbn3PQMRQDgWRKpZtgJRum      |
 | 1.9094     | hCs4XqVbD3A4ga2pAMYGfk6Scdb1Se6uMzSYzW4QhN6RVmh     |
-| 2.0425     | em9yrYdmXNdxeCG29dALnrwMQfGCBzNeDsm2kZGcbyCfrhB     |
+| 2.0425     | em9yrYdmXNdxeCG29dalnrwMQfGCBzNeDsm2kZGcbyCfrhB     |
 | 1.7346     | cGhkzNh7uvpE162oD8nNg6rsHPy5bHGxUSRDJcVTLqhrNvX     |
-| 1.7112     | eQJZ6WH5eN2HB9jEfWpeKaWkJ9rPyHvkpQXwTYNmbpXZoXT     |
-| 1.7033     | g7zLK3pJmDLHC4ixMMJ7fCQZfbs3rkWSz3tb6vinQnaG7jF     |
-| 1.6381     | cznbE1Uk8W7Y4BEz7XA4HJL23ijDdx624iZaJKZu32vNa7y     |
+| 1.7112     | eQJZ6WH5eN2HB9jEfWpeKaWkJ9rPyvkpQXwTYNmbpXZoXT      |
+| 1.7033     | g7zLK3pJmDLHC4ixMMJ7fCQZfbs3rkWSz3tb6vinQnaG7JF     |
+| 1.6381     | cznbE1 UkW7Y4BEz7XA4HJL23ijDdx624iZaJKZu32vNa7y     |
 | 2.5595     | duARUwYPfjnGwkcQng2xbqR49d7SYZ6x7PJ2bwA41FDiZPS     |
-| 1.5025     | gkmspE7SZY1wrdRD81JKJdZDpMEWS9gbWPTtwLtNGDc9Fx6     |
-| 1.4868     | gGKJ8N9mUujPEZN2CASuuS27JpJMMTEmWb3fqSSxPjAcJyW     |
-| 1.3929     | goDDVFnZ2g8n2adhUjK83nUHcvHTygavNX8immGrSVMEY8X     |
-| 1.3251     | dDdLRUTsUXFyDj31cugjsANhiwFZpD6TQcmnaJETdh9PChM     |
-| 1.2808     | fV3ffrM7oQLXuCX34NtEvBb4ENNmBrje2WVVC9wgs1vdd7f     |
-| 1.2051     | dgzvd3pKqygS96gGpqEiUAVwGgcvWocssp8GvNhf2MbfuLa     |
-| 1.0982     | d3Q4rHGLkRcvMPMvNQAzUcNkLZKpfULfptiCb8WCkpWNuJd     |
+| 1.5025     | gkmspE7SZY1wrdRD81JKJdZDpMEWS9gbWPTtwltNGDc9Fx6     |
+| 1.4868     | gGKJ8N9mUujPEZN2CAsuS27JpJJpJMMTMMMWb3fqSzpjAcJW    |
+| 1.3929     | goDVFnZ2g8n2adhUjK83nUHcvHTgavNX8immGrSVMEY8X       |
+| 1.3251     | dddLRUTUXFyDj31cugsANhiwFZpD6TQcmnajETdh9PChM       |
+| 1.2808     | fV3ffrM7oQLXuC34 NtEvBb4ENNmBrje2WVC9wgs1vd7f       |
+| 1.2051     | dgzvd3pKqygS96gGpqEiUAVGgcvWocssp8GvNhf2MbfuLa      |
+| 1.0982     | d3Q4rHGLKRcvMPMvNQAzUcNZKpfULptiCb8WCkpWNuJd        |
 | 81.0982    | fwFhSYNy7Rc7z54qR2iDA27kfdRz43Qs49x5PLJY8Werh7z     |
 | 81.0982    | g8DK7imzwcZ3Jc6JPZHWR2NKq6WGJ5FV8BEdpuHv72zZVZN     |
 | 81.0982    | euc27XYLzgUKyQ4r1MKT9fT4tsMQW7jEjVWfad8RYrKPLZX     |
@@ -327,10 +327,10 @@ It has been almost two months since Asgard CC1 (Candidate Chain 1) was released 
 | 0.5074     | dzwjVJMV8GB3abgCGTAJcrVLyd48xP7u5xWNuF5qtT7ZTq6     |
 | 0.4017     | gvzyBM9Cy8k3FxW16512od3T6PRTARbquJttCn5WjWXu5vv     |
 | 0.6721     | fYUvxTio42vAEWz3b34D53eFCYv7Vo9RmfaZa4jXsbG7T8E     |
-| 0.3834     | gctc1AwzC9rELr5d4jaMbE1Qh5sRkAPeyyF8QBn82sX1CGo     |
-| 0.3626     | e5xErYUo4YiDe39kc4tV8xeDXoMzqiUhBxgyFyd4ADhXGSt     |
-| 0.3287     | dBb9f2ju5meNjJ6gspHwEKRKm2wotUQUNhbt9xZCMzAm2ac     |
-| 0.3156     | h1yVRW5uUFXExHU6zGn3AmxCYQbZU3GJfrKbyfrFrDKmVWg     |
+| 0.3834     | gctc1AwzC9rEL5d4jaMbE1Qh5sRkAPeyF8QBn82sX1CGo       |
+| 0.3626     | e5xErYUo4YDe39kc4tV8xeDXoMzqiUhBxgyFyd4ADhXG St     |
+| 0.3287     | dBb9f2ju5meNjJ6gsphwEKRKm2wotUQUNhbt9xZCMzAm2ac     |
+| 0.3156     | h1yVRW5uUXExU6zGn3 AmxCYQbZU3GJfrkbyfr FraDKmVWg    |
 | 0.3        | fSQHFx71XkxrMZboVuJmnNwcCSCaeWrXPjBt36eYMd4FRos     |
 | 0.2974     | gamsikHWm7FanBsGik2gybF2BapU78oVAnBX5qkbFtJ1aAj     |
 | 0.2687     | fiXvCakepF67bhzGNWXcEuWbCsLALCN61yJ5L8sk3bEsncz     |
