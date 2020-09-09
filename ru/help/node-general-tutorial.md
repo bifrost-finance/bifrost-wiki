@@ -79,16 +79,16 @@ $ docker restart 66e31
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-03.png')" alt="" />
 
-### Ankr 托管运行方式
-#### 1. 访问并注册 Ankr 账号 <https://www.ankr.com/>
-#### 2. 运行节点
-##### 2.1 点击「Deploy a Node」进入节点市场
-##### 2.2 选择 Bifrost Validator Node
-##### 2.3 进入付款页面
-应用名称填写节点名 | Bifrost 地址前 10 位，运行方式选 Validator
+### Метод использования хостинга Ankr
+#### 1. Перейдите по ссылки и зарегистрируйте аккаунт Ankr <https://www.ankr.com/>
+#### 2. Запустите ноду
+##### 2.1 Нажмите "Deploy a Node" чтобы перейти на рынок нод.
+##### 2.2 Выберите Bifrost Validator Node.
+##### 2.3 Перейдите на страницу оплаты
+Введите имя ноды | первые 10 цифр кошелька Bifrost и выберите Validator в качестве режима работы
 
-##### 2.4 付款后等待节点自动完成部署
-##### 2.5 检查节点运行
+##### 2.4 Дождитесь завершения автоматического развертывания ноды после оплаты.
+##### 2.5 Проверьте работу ноды
 
 节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 节点奖励：<https://rewards.bifrost.finance>
 
