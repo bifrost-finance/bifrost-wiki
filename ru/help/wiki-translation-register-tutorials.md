@@ -15,17 +15,17 @@
 
 <img :src="$withBase('/zh/crowdin-register-tutorials/crowdin-register-03.png')" alt="" width="60%" />
 
-**4. 点击 English 进行翻译**
+**4. Нажмите на English для перевода.**
 
 
 <img :src="$withBase('/zh/crowdin-register-tutorials/crowdin-register-04.png')" alt="" width="60%" />
 
-**5. 在Events下找到Finished 文件，进行 event 01-event 11 的翻译**
+**5. Найдите файл Finished в разделе Events и переведите события c 01 по 11.**
 
 
 <img :src="$withBase('/zh/crowdin-register-tutorials/crowdin-register-05.png')" alt="" width="60%" />
 
-**6. 选择需要翻译的文档和句子进行翻译，下图为示例**
+**6. Выберите документы и предложения, которые требуется перевести. На рисунке ниже приведен пример.**
 
 
 <img :src="$withBase('/zh/crowdin-register-tutorials/crowdin-register-06.png')" alt="" width="60%" />
