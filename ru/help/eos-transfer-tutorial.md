@@ -1,6 +1,6 @@
 # Инструкция по кросс-чейн отправке EOS
 
-## EOS Jungle Testnet-Asgard CC2 | кросс-чейн отправка в кошельке TokenPocket
+## Кросс-чейн транзакции из тестовой сети EOS Jungle в Asgard CC2 в кошельке TokenPocket
 
 **1. Создайте аккаунт в тестовой сети EOS, [нажмите здесь для просмотра инструкции по регистрации](https://wiki.bifrost.finance/zh/help/eos-testnet-account-register.html)**
 
@@ -24,21 +24,21 @@
 
 **7. Нажмите на кнопку `Transfer` и введите bifrostcross в качестве получателя в поле `Receiver`**
 
-**8. 在`备注`内复制粘贴你的 BNC 地址@bifrost 例如：5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY@bifrost**
+**8. Скопируйте и вставьте свой адрес BNC и @bifrost в поле `Memo` например： 5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpnehxcpcnohgkutqy@bifrost**
 
-**注： BNC 地址注册可参考 [BNC地址创建教程](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)**
+**Примечание: для получения адреса BNC перейдите в раздел [Инструкция по созданию кошелька BNC](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)**
 
-**9. 转账数量需大于 50 EOS，才能记录一次跨链**
+**9. Для осуществления кросс-чейн транзакции сумма перевода составлять более 50 EOS**
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-05.png')" alt="" width="30%" />
 
-**以上就是使用 TP 钱包从 EOS Jungle 测试网向 Bifrost Asgard CC2 跨链转账的全部过程啦~此外，大家还可以通过命令方法 Cleos 进行跨链转账操作**
+**Выше представлен весь процесс проведения кросс-чейн транзакции из тестовой сети EOS Jungle в Bifrost Asgard CC2 с использованием кошелька TP ~ вы также можете использовать командный инструмент Cleos для осуществления операций кросс-чейн транзакций**
 
-## Asgard CC2 - EOS Jungle Testnet | 跨链转账
+## Кросс-чейн транзакции из Asgard CC2 в тестовую сеть EOS Jungle
 
-**1. 打开 Bifrost Dashboard：<https://dash.bifrost.finance/>**
+**1. Откройте панель мониторинга Bifrost: <https://dash.bifrost.finance/>**
 
-**2. 左侧导航栏点击`Extrinsics`，选择你的 Bifrost 地址**
+**2. Нажмите на кнопку `Extrinsics` на левой панели навигации и выберите свой адрес Bifrost**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-01.png')" alt="" />
 
