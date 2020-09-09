@@ -32,4 +32,4 @@
 
 <img :src="$withBase('/zh/eos-testnet-account-register/eos-testnet-account-register-08.png')" alt="" width="50%" />
 
-**9. 以上就是 EOS Jungle 测试网账号注册及测试币领取的全部教程。创建过程中如有任何问题，欢迎加 Bifrost 小姐姐 微信号: LiebiService-3 进群提问** :)
+**9. Выше приведены все инструкции по регистрации аккаунта и получению монет в тестовой сети EOS JungleЕсли у вас возникли какие-либо трудности, вы можете связаться с администраторами Bifrost в Telegram. Ссылка на сообщество Bifrost в Telegram: https://t.me/bifrost_finance** :)
