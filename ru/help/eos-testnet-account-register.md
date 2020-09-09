@@ -1,4 +1,4 @@
-# EOS 测试网账号创建 & 测试币领取教程
+# Инструкция по созданию аккаунта в тестовой сети EOS & получению тестовых монет
 
 **1. 访问 [EOS Jungle Testnet](https://api.monitor3.jungletestnet.io/#home)**
 
