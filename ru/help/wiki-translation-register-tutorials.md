@@ -1,16 +1,16 @@
-# Crowdin 注册 & Bifrost Wiki 活动翻译教程
+# Инструкция по регистрации на Crowdin & переводу Bifrost Wiki
 
-**1. 打开[网址](https://wiki-translate.bifrost.finance/)**
+**1. Перейдите по [ссылке](https://wiki-translate.bifrost.finance/)**
 
 
 <img :src="$withBase('/zh/crowdin-register-tutorials/crowdin-register-01.png')" alt="" width="60%" />
 
-**2. 点击 Sign up 注册 Crowdin 账号**
+**2. Нажмите Sign up для регистрации аккаунта на Crowdin.**
 
 
 <img :src="$withBase('/zh/crowdin-register-tutorials/crowdin-register-02.png')" alt="" width="60%" />
 
-**3. 注册好账号后，点击导航栏 Project 中的 Bifrost Wiki**
+**3. После регистрации аккаунта нажмите на Bifrost Wiki в панели навигации.**
 
 
 <img :src="$withBase('/zh/crowdin-register-tutorials/crowdin-register-03.png')" alt="" width="60%" />
