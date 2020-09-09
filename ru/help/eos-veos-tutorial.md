@@ -12,8 +12,8 @@
 
 <img :src="$withBase('/zh/convert-veos/convert-veos-02.png')" alt="" />
 
-5. 返回`Chain state`查看 vEOS 数量
+5. Вернитесь на `Chain state` чтобы просмотреть количество vEOS
 
 <img :src="$withBase('/zh/convert-veos/convert-veos-03.png')" alt="" />
 
-以上就是 EOS 转 vEOS 转账教程了，有时转账等候广播时间稍长，是因为网络原因。可以尝试换个 Bifrost 节点试试。然后查看 asset 中的 Token 数量。
+Выше приведена инструкция по обмену EOS на vEOS. Иногда отправка транзакции в сеть занимает длительное время.В этом случае вы можете попробовать использовать другую ноду Bifrost.Затем проверьте количество токенов в на кошельке.
