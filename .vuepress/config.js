@@ -342,7 +342,7 @@ module.exports =  {
                         'Asgard 节点活动',
                       ],
                       [
-                        '/zh/events/ongoing/event-07.md',
+                        '/zh/events/finished/event-07.md',
                         'Asgard CC2 节点大赛',
                       ],
                     ],
