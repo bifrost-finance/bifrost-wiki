@@ -21,7 +21,7 @@ NET: (пропускная способность сети) 10 MB
 - Windows：<https://www.runoob.com/docker/windows-docker-install.html>
 - Mac：<https://www.runoob.com/docker/macos-docker-install.html>
 
-> Рекомендации：
+> Советы：
 > 
 > - Для запуска нод рекомендуется использовать облачные серверы.
 > - Если вы используете новый облачный сервер, `Рекомендуется установить систему CoreOS с помощью Docker`, этот шаг можно пропустить
@@ -92,7 +92,7 @@ $ docker restart 66e31
 
 Мониторинг нод：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 Вознаграждения нод： <https://rewards.bifrost.finance>
 
-> Вышеизложенной инструкции достаточно для запуска ноды, теперь вы можете ознакомиться с "Учебником валидатора"
+> Вышеизложенной инструкции достаточно для запуска ноды, теперь вы можете ознакомиться с "Инструкцией для валидатора"
 
 ## Вопросы & ответы
 #### 1. Windows Toolbox failed to pull boot2docker.iso
@@ -105,16 +105,16 @@ $ docker restart 66e31
 
 В группе сообщества Bifrost есть загруженный образ - попросите его в группе, а затем скопируйте в кэш-путь, отмеченный красным цветом на рисунке выше;
 
-复制好后，再双击启动 Docker Quickstart Terminal
+По завершении процесса копирования запустите Docker Quickstart Terminal двойным кликом
 
-> 小提示：
+> Советы：
 > 
-> - 加客服微信入群：LiebiService-3
-> - boot2docker.iso 下载 https://lanzous.com/iaqdpmb
+> - Присоединяйтесь к группе Bifrost в Telegram： https://t.me/bifrost_finance
+> - boot2docker.iso можно скачать по ссылке https://lanzous.com/iaqdpmb
 
-#### 2. docker run 或者 docker restart 后忘记节点 ID 了怎么办？
+#### 2. Что делать, если я забыл ID своей ноды после запуска или перезагрузки docker?
 
-执行命令：
+Выполните команду：
 
 ```sh
 $ docker logs 66e31
@@ -122,6 +122,6 @@ $ docker logs 66e31
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-05.png')" alt="" />
 
-### 3. 其他疑难杂症？
+### 3. Еще вопросы?
 
-添加微信客服 LiebiService-3，进入微信群中讨论。
+Перейдите по ссылке для обсуждения в группе Bifrost в Discord https://discord.gg/hDJGAk
