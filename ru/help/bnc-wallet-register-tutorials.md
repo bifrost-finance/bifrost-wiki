@@ -1,6 +1,6 @@
-# BNC 钱包地址创建教程
+# Инструкция по созданию кошелька BNC
 
-**1. 访问地址： <https://dash.bifrost.finance/#/explorer>**
+**1. Перейдите по ссылке： <https://dash.bifrost.finance/#/explorer>**
 
 **2. 选择`账户`，点击`添加账号`**
 
