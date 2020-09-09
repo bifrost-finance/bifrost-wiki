@@ -1,15 +1,15 @@
-# 推特 KSM 空投
-助力 Bifrost Asgard 节点激励活动，提高海外活动节点参与度，6月2日 Bifrost 联合 Ankr 举办为期 5 天的 Kusama 推特空投。邀请参与空投的小伙伴们在完成活动任务的同时，能够进一步了解到 Bifrost 节点的搭建和 EOS Jungle Testnet 测试网跨链、Token 与 vToken 兑换，SWAP 交易等功能。
+# KSM Twitter Airdrop
+2 июня Bifrost и Ankr запустили Kusama Twitter Airdrop, который продлится 5 дней. Приглашайте партнеров для участия в раздаче для выполнения различных задач, чтобы узнать о процессе создания ноды Bifrost и EOS Jungle Testnet тестовой сети кросс чейн-взаимодействия, об обмене Token и vToken, а также о других функциях.
 
-***日期：2020/6/2 16：00- 2020/6/6 16：00（UTC+8)***
+***Время проведения： 2020/6/2 16：00 - 2020/6/6 16：00 (UTC+8)***
 
-**活动任务**
-- 关注 Bifrost [推特](https://twitter.com/bifrost_network) 和 Ankr[推特](https://twitter.com/ankr) 账号
+**Задания**
+- Подпишитесь на страницы [Bifrost](https://twitter.com/bifrost_network) и [Ankr](https://twitter.com/ankr) в Twitter
 - 在此条[推文](https://twitter.com/bifrost_network/status/1267727916982390784)下的评论区 @ 3位好友
 - 转发本条[推文](https://twitter.com/bifrost_network/status/1267727916982390784)
 - 浏览 Bifrost Asgard [节点活动页面](https://reward.bifrost.finance/)
 
-**活动规则**
+**Правила**
 - 空投共持续 5 天
 - 活动期间内共抽取 100 名幸运儿
 - 每位幸运儿发放 0.5 枚 KSM
