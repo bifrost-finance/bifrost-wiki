@@ -1,4 +1,4 @@
-# EOS 跨链转账教程
+# Инструкция по кросс-чейн отправке EOS
 
 ## EOS Jungle Testnet - Asgard CC2 | TokenPocket 钱包跨链转账
 
