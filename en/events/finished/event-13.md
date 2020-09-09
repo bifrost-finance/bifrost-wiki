@@ -1,14 +1,14 @@
-# 链团 × Bifrost 如何落实 Defi & Staking 双收益?
+# Liantuan × Bifrost How does implement the dual rewards of Defi & Staking?
 
-7月10日下午 16:00 Bifrost 联合创始人 Lurpis 受邀参加链团第22期 AMA，与大家聊聊 Bifrost & 波卡生态 & Defi 生态的那些事儿~
+At 4:00 pm on July 10th, Lurpis, the co-founder of Bifrost, was invited to participate in the 22nd AMA of the Liantuan to talk to you about Bifrost & Polkadot ecology & Defi ~
 
-***日期：2020/7/10***
+***Date: 2020/7/10***
 
-**活动任务**
-- 观看 AMA 直播
-- 参加抽奖活动
+**Event Tasks**
+- Watch AMA live
+- Participate in the lucky draw
 
-**活动规则**
-- 点击抽奖助手参与本次抽奖活动
-- 获奖者于7月17日在发送 BNC 地址
+**Event Rules**
+- Click on the assistant to participate in this lucky draw
+- Winners will send BNC address on July 17th
 

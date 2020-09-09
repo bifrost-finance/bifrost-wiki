@@ -1,29 +1,29 @@
-# Asgard CC2 Validate Wars
+# Asgard CC2 Node Campaign
 
-距离 5 月 21 日 Asgard CC1 (Candidate Chain 1) 发布已经近两个月了。在这两个月中，Bifrost 在**节点**、**Validator** 和 **EOS 跨链**功能中分别做了整体的优化和提升。节点方面，升级了 **Swap 算法**，支持更多币种流动性，未来可以通过 **Convert 模块**兑换 vToken，也可以通过 **Swap 模块**直接购买 vToken。
+It has been nearly two months since Asgard CC1 (Candidate Chain 1) was released on May 21. In the past two months, Bifrost has made overall optimizations and improvements in the functions of **node**, **Validator** and **EOS cross-chain**. In terms of nodes, the **Swap algorithm** has been upgraded to support more currency liquidity. In the future, vToken can be exchanged through the **Convert module** or through the **Swap module** Purchase vToken directly.
 
 ***Duration: 2020/7/21-2020/8/21***
 
-**活动任务**
-- 节点时长角逐赛
-- EOS 跨链大PK
-- Validator 王者之争
+**Event Tasks **
+- Node Duration Competition
+- EOS Cross-chain Contest
+- Validator King Contest
 
-**Participation Rules:**
-- 节点时长角逐赛
-  - 运行节点时间越长，瓜分的奖励越多
-  - 每分钟记一个 Time Point（时长）
-  - 活动结束后根据 Time Point 占比瓜分 5,000 枚 BNC
+**Event Rules**
+- Node Duration Competition
+  - The longer the node is running, the more rewards will be shared
+  - Record a Time Point every minute
+  - After the event, 5,000 BNCs will be divided according to the proportion of Time Point
 
-- EOS 跨链大PK
-  - EOS 双向跨链分为 EOS 测试网向 Asgard CC2 转账和 Asgard CC2 向 EOS 测试网转账
-  - EOS 测试网向 Asgard CC2 转账 EOS 数量 ≥ 50，计 1 次跨链
-  - Asgard CC2 向 EOS 测试网转账 EOS 数量 ≥ 50，计 1 次跨链
-  - 将 EOS 通过 Bifrost 兑换为 vEOS
-  - 活动结束后根据 EOS 跨链次数（70% 权重）和 vEOS 余额（30% 权重）瓜分 6,000 BNC
+- EOS Cross-chain Contest
+  - EOS two-way cross-chain is divided into EOS testnet transfer to Asgard CC2 and Asgard CC2 transfer to EOS testnet
+  - EOS testnet transfers EOS amount to Asgard CC2 ≥ 50, counting 1 cross-chain
+  - Asgard CC2 transfers EOS amount to the EOS testnet ≥ 50, counts 1 cross-chain
+  - Swap EOS to vEOS through Bifrost
+  - After the event, 6,000 BNC will be divided according to the number of EOS cross-chains (70% weight) and vEOS balance (30% weight)
 
-- Validator 王者之争
-  - Asgard CC2 开放 50 个 Validator 验证人席位
-  - 通过水龙头（Faucet）领取 ASG，自抵押 + 提名 ASG 数量前 50 名节点当选 Validator 验证人
-  - 每 3 小时（1 ERA 1800 BLOCK）重新根据总抵押数量选举一次验证人
+- Validator King Contest
+  - Asgard CC2 opens 50 validator seats
+  - Receive ASG through Faucet, self-staking + nominate the top 50 ASG nodes to be elected Validator
+  - Every 3 hours (1 ERA 1800 BLOCK) re-elect validators based on the total staking amount
 
