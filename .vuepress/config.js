@@ -321,10 +321,6 @@ module.exports =  {
                     title: '节点活动',
                     collapsable: false,
                     children: [
-                      [
-                        '/zh/events/ongoing/event-07.md',
-                        'Asgard CC2 节点大赛',
-                      ],
                     ],
                   },
                 ],
@@ -344,6 +340,10 @@ module.exports =  {
                       [
                         '/zh/events/finished/event-03.md',
                         'Asgard 节点活动',
+                      ],
+                      [
+                        '/zh/events/ongoing/event-07.md',
+                        'Asgard CC2 节点大赛',
                       ],
                     ],
                   },
