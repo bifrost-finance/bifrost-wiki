@@ -1,14 +1,14 @@
-# EOS 转 vEOS 教程
+# Обмен по направлению EOS - vEOS
 
-1. 先向 Bifrost 地址转账 EOS，具体操作可参考 [EOS Jungle Testnet - Asgard CC2 跨链转账教程]<https://wiki.bifrost.finance/zh/help/eos-transfer-tutorial.html>
+1. Сначала отправьте EOS на кошелек Bifrost. Подробная инструкции представлена по ссылке [Кросс-чейн транзакции из тестовой сети EOS Jungle в Asgard CC2 в кошельке TokenPocket]<https://wiki.bifrost.finance/zh/help/eos-transfer-tutorial.html>
 
-2. 打开 [Bifrost Dashboard]<https://dash.bifrost.finance/>
+2. Перейдите на [Панель управления Bifrost]<https://dash.bifrost.finance/>
 
-3. 点击`Extrinsics`
+3. Нажмите на `Extrinsics`
 
 <img :src="$withBase('/zh/convert-veos/convert-veos-01.png')" alt="" />
 
-4. 输入 vEOS Convert 信息
+4. Введите информацию для конвертации vEOS
 
 <img :src="$withBase('/zh/convert-veos/convert-veos-02.png')" alt="" />
 
