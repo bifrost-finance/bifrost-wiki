@@ -1,8 +1,8 @@
 ---
 home: true
 heroText: Bifrost Wiki
-tagline: A parachain designed for staking's liquidity
-actionText: Get Started →
+tagline: Парачейн для ликвидности стейкинга
+actionText: Начать →
 actionLink: /zh/events/finished/event-03.md
 features:
   - 
