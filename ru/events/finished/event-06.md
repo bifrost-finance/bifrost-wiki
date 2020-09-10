@@ -1,4 +1,4 @@
-# 波卡项目方们の私密分享会：波卡能不能成为下一个以太坊？
+# Встреча проектов из экосистемы Polkadot на тему："Polkadot - новый Ethereum?"
 随着 Polkadot 主网的不断临近。4月27日，由联都和链节点主办的 Polkadot 圆桌大会邀请了包括 Bifrost、MXC、Darwinia、Phala Network、Acala、Crust 等优质 Polkadot 项目，共同探讨和交流项目进展。
 
 ***日期：2020/4/27***
