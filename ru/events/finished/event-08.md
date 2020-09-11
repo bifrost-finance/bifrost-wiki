@@ -1,36 +1,36 @@
 # MATH & KSM Twitter Airdrop
-助力 Bifrost POC2 Testnet 上线，提高海外活动节点参与度，3月24日 Bifrost 举办为期 2 天的推特 $250 MATH 空投以及为期一周的 120 枚 KSM Gleam 空投。邀请参与空投的小伙伴们在完成活动任务的同时，能够进一步了解到 Bifrost POC2 测试网的性能。
+Чтобы помочь в запуске тестовой сети Bifrost POC2 и увеличить число нод по всему миру, 24 марта Bifrost провел двухдневный Twitter Airdrop с призовым пулом $250 MATH и недельный Airdrop на платформе Gleam с призовым пулом 120 KSM. Принявшие участие в этих активностях смогут узнать о производительности тестовой сети Bifrost POC2.
 
-***日期：***
+***Даты проведения：***
 
-***MATH 空投：2020/3/24-2020/3/25***
+***MATH Airdrop：2020/3/24-2020/3/25***
 
-***KSM 空投： 2020/3/25-2020/4/1***
+***KSM Airdrop：2020/3/25-2020/4/1***
 
 
-**MATH 推特空投：**
+**MATH Twitter Airdrop：**
 
-**活动任务**
-- 关注 [Bifrost](https://twitter.com/bifrost_network)、[麦子钱包](https://twitter.com/MathWallet)、[Polkaworld](https://twitter.com/polkaworld_org) 和 [Polkabase](https://twitter.com/Polkabase_com)
-- 在此条[推文](https://twitter.com/bifrost_network/status/1242405288457564160)下@三位好友
-- 转发该条[推文](https://twitter.com/bifrost_network/status/1242405288457564160)
-- 查看下一个[空投](https://medium.com/@bifrost_network/airdrop-attention-to-celebrate-the-launch-of-bifrosts-poc2-testnet-online-ksm-will-airdrop-913cc2645f11)
+**Задания:**
+- Подпишитесь на аккаунты [@Bifrost](https://twitter.com/bifrost_network), [@MathWallet](https://twitter.com/MathWallet), [@Polkaworld](https://twitter.com/polkaworld_org) и [@Polkabase](https://twitter.com/Polkabase_com) в Twitter
+- @отметьте 3х друзей в этом [твите](https://twitter.com/bifrost_network/status/1242405288457564160)
+- Перешлите этот [твит](https://twitter.com/bifrost_network/status/1242405288457564160)
+- Ознакомьтесь со следующим [Airdrop](https://medium.com/@bifrost_network/airdrop-attention-to-celebrate-the-launch-of-bifrosts-poc2-testnet-online-ksm-will-airdrop-913cc2645f11)
 
-**活动规则**
-- 推特 MATH 空投共持续 2 天
-- 活动期间共抽取 5 位幸运儿
-- 每位幸运儿发放 50 $MATH
+**Правила:**
+- MATH Twitter Airdrop продлится 2 дня
+- В ходе мероприятия будут случайным образом выбраны 5 победителей
+- Каждый победитель получит по 50 $MATH
 
-**KSM Gleam 空投**
+**KSM Gleam Airdrop**
 
-**活动任务**
+**Задания:**
 - 关注 Bifrost 推特账号
 - 转发 KSM 空投推特
 - 发一条活动推文
 - 加入 Bifrost Telegram 社区
 - 绑定 KSM 地址
 
-**活动规则**
+**Правила:**
 - Gleam KSM 空投共持续 7 天
 - 活动期间按任务积分比发放空投
 - 绑定正确的 KSM 地址
