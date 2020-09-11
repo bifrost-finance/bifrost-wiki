@@ -24,11 +24,11 @@
 **KSM Gleam Airdrop**
 
 **Задания:**
-- 关注 Bifrost 推特账号
-- 转发 KSM 空投推特
-- 发一条活动推文
-- 加入 Bifrost Telegram 社区
-- 绑定 KSM 地址
+- Подпишитесь на аккаунт Bifrost в Twitter
+- Ретвитните запись о KSM Airdrop
+- Напишите твит об активности
+- Присоединитесь к сообществу Bifrost в Telegram
+- Привяжите кошелек KSM
 
 **Правила:**
 - Gleam KSM 空投共持续 7 天
