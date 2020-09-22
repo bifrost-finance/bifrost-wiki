@@ -8,23 +8,27 @@
 - 当选 Validator
 
 ### 设置 Validator
-- 进入 Staking 页面 / Account Action
+- 打开 Bifrost Dash 点击 Network / Staking
 
 <img :src="$withBase('/zh/validator-tutorial/validator_1.png')" alt="" width="70%" />
+
+- 进入 Staking 页面 / Account Action
+
+<img :src="$withBase('/zh/validator-tutorial/validator_2.png')" alt="" width="70%" />
 
 - 点击 + Validator
     - Stash Account (存放 ASG 的地址)
     - Controller Account (控制节点的地址)
     - 输入自抵押的 ASG 数量
 
-<img :src="$withBase('/zh/validator-tutorial/validator_2.png')" alt="" width="70%" />
+<img :src="$withBase('/zh/validator-tutorial/validator_3.png')" alt="" width="70%" />
 
 > Stash 和 Controller Account 推荐使用两个不同地址，更加安全
 - 下一步
     - 输入 Session Key（如何生成看下方说明）
     - 输入节点佣金费率百分比（目前测试网络 ASG 无价值，随意填写）
 
-<img :src="$withBase('/zh/validator-tutorial/validator_3.png')" alt="" width="70%" />
+<img :src="$withBase('/zh/validator-tutorial/validator_4.png')" alt="" width="70%" />
 
 - 创建 Validator
 
