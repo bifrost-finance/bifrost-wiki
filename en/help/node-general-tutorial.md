@@ -33,8 +33,7 @@ System: Linux (Centos, Ubantu)
 Order:
 
 ```sh
-docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
-
+docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.5.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
 ```
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-01.png')" alt="" />
@@ -48,7 +47,7 @@ Note: If it prompts `permission denied`, it means that the node directory `/tmp/
 >     - `/tmp/bifrost-node` ** is a custom folder, you can change to the directory where you want to save node data**
 >     - Please make sure the folder has write permission
 >     - The file directory remains unchanged, and the block data and node ID will not be lost
-> - `bifrostnetwork/bifrost:asgard-v0.4.0`: the image that the container depends on;
+> - `bifrostnetwork/bifrost:asgard-v0.5.0`：容器依赖的镜像；
 > - `--name "NodeName | BNCAddress"`: where NodeName is the node name, and BNCAddress is the first 10 digits of the Bifrost address, separated by `|`;
 
 #### 2.2 Run again
