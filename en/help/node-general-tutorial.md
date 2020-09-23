@@ -125,4 +125,4 @@ $ docker logs 66e31
 
 ### 3. Other questions?
 
-Click link to discuss in Bifrost Discord Group https://discord.gg/hDJGAk
+添加微信客服 bifrost00，进入微信群中讨论。
