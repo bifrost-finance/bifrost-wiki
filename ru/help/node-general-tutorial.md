@@ -33,26 +33,21 @@ NET: (пропускная способность сети) 10 MB
 Команда:
 
 ```sh
-docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.5.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
+docker run -it -p 30333:30333 -p 9944:9944 bifrostnetwork/bifrost:asgard-v0.5.0 --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
 ```
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-01.png')" alt="" />
 
-Примечание: если появляется сообщение `permission denied`, то у папки с нодой `/tmp/bifrost-node` отстутствует разрешение на запись - выполните команду `chmod -R 766 /tmp/bifrost-node ` для предоставления доступа.
-
 > Описание параметров：
 > 
-> - `-p 30333:30333 -p 9944:9944` - порт ноды
-> - `-v /tmp/bifrost-node:/node` - расположение данных ноды 
->     - `/tmp/bifrost-node` ** - здесь вы можете указать каталог, в котором хотите сохранять данные ноды**
->     - Пожалуйста, убедитесь, что папка имеет разрешение на запись
->     - Каталог файлов остается неизменным, а данные блока и ID ноды сохранятся
+> - `-p 30333:30333 -p 9944:9944` 为节点端口号 
+>     - 节点重启可以使用 docker restart container_id
 > - `bifrostnetwork/bifrost:asgard-v0.5.0`：容器依赖的镜像；
-> - `--name "NodeName | BNCAddress"`: где NodeName - это имя ноды, а BNCAddress - это первые 10 цифр кошелька Bifrost, параметры разделяются с помощью знака `|`;
+> - `--name "NodeName | BNCAddress"`: 其中 NodeName 为节点名称，BNCAddress 为 Bifrost 地址前 10 位，用 `|` 隔开；
 
 #### 2.2 Повторный запуск
 
-Прежде всего проверьте состояние ранее запущенного контейнера:
+先查看之前运行的容器状态：
 
 ```sh
 $ docker ps -a
@@ -60,7 +55,7 @@ $ docker ps -a
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-02.png')" alt="" />
 
-Если компьютер или сервер перезагружался и контейнер завершил работу, перезагрузите его с помощью следующей команды:
+如果是电脑或服务器重启，造成的容器退出，用下面的命令重新启动：
 
 ```sh
 $ docker restart 66e31
@@ -73,9 +68,9 @@ $ docker restart 66e31
 
 #### 2.3 Проверка работы ноды
 
-Мониторинг нод：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
+节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
 
-Вознаграждения нод： <https://rewards.bifrost.finance>
+节点奖励：<https://rewards.bifrost.finance>
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-03.png')" alt="" />
 
@@ -85,27 +80,27 @@ $ docker restart 66e31
 ##### 2.1 Нажмите "Deploy a Node" чтобы перейти на рынок нод.
 ##### 2.2 Выберите Bifrost Validator Node.
 ##### 2.3 Перейдите на страницу оплаты
-Введите имя ноды | первые 10 цифр кошелька Bifrost и выберите Validator в качестве режима работы
+应用名称填写节点名 | Bifrost 地址前 10 位，运行方式选 Validator
 
 ##### 2.4 Дождитесь завершения автоматического развертывания ноды после оплаты.
 ##### 2.5 Проверьте работу ноды
 
-Мониторинг нод：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 Вознаграждения нод： <https://rewards.bifrost.finance>
+节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 节点奖励：<https://rewards.bifrost.finance>
 
 > Вышеизложенной инструкции достаточно для запуска ноды, теперь вы можете ознакомиться с "Инструкцией для валидатора"
 
 ## Вопросы & ответы
 #### 1. Windows Toolbox failed to pull boot2docker.iso
 
-Данная ошибка свидетельствует о том, что Docker Toolbox не смог извлечь boot2docker.iso.
+安装 Docker Toolbox 是出现下面的错误，说明拉取 boot2docker.iso 失败了。
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-04.png')" alt="" />
 
-Решение：
+解决方案：
 
-В группе сообщества Bifrost есть загруженный образ - попросите его в группе, а затем скопируйте в кэш-путь, отмеченный красным цветом на рисунке выше;
+Bifrost 社区群里有下载好的镜像，先在群里要；然后复制到上面图中标红的 cache 路径中即可；
 
-По завершении процесса копирования запустите Docker Quickstart Terminal двойным кликом
+复制好后，再双击启动 Docker Quickstart Terminal
 
 > Советы：
 > 
@@ -114,7 +109,7 @@ $ docker restart 66e31
 
 #### 2. Что делать, если я забыл ID своей ноды после запуска или перезагрузки docker?
 
-Выполните команду：
+执行命令：
 
 ```sh
 $ docker logs 66e31
