@@ -518,11 +518,11 @@ module.exports =  {
                   ],
                   [
                     '/zh/help/eos-veos-tutorial.md',
-                    'EOS 转 vEOS 教程',
+                    'Token 转 vToken 教程',
                   ],
                   [
                     '/zh/help/bnc-wallet-register-tutorials.md',
-                    'BNC 钱包地址创建教程',
+                    'BNC 地址创建教程',
                   ],
                   [
                     '/zh/help/wiki-translation-register-tutorials.md',

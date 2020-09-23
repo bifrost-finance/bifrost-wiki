@@ -1,4 +1,4 @@
-# EOS 转 vEOS 教程
+# Token 转 vToken 教程
 
 1. 先向 Bifrost 地址转账 EOS，具体操作可参考 [EOS Jungle Testnet - Asgard CC2 跨链转账教程]<https://wiki.bifrost.finance/zh/help/eos-transfer-tutorial.html>
 
