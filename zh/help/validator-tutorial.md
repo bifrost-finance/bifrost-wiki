@@ -1,7 +1,7 @@
 # Validator 验证人教程
 ### 概述
 - 创建 Bifrost 地址 查看[教程](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)
-- 运行节点 查看教程
+- 运行节点,查看[教程](https://wiki.bifrost.finance/zh/help/node-general-tutorial.html)
 - 设置 Validator
 - 生成 Session Key 绑定
 - 抵押提名

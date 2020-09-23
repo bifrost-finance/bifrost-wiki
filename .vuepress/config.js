@@ -243,7 +243,7 @@ module.exports =  {
                       ],
                       [
                         '/en/help/bnc-wallet-register-tutorials.md',
-                        'BNC Wallet Register',
+                        'Bifrost Wallet Register',
                       ],
                       [
                         '/en/help/wiki-translation-register-tutorials.md',
