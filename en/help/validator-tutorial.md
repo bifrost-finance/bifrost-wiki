@@ -1,6 +1,6 @@
 # Validator Tutorial
 ### Overview
-- View the Tutorial and create a Bifrost Address.
+- 创建 Bifrost 地址 查看[教程] <https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html>
 - View the Tutorial and run a node.
 - Set up Validator.
 - Generate Session Key and bind it.
@@ -8,7 +8,7 @@
 - Elected Validator.
 
 ### Set up Validator
-- 打开 Bifrost Dash 点击 Network / Staking
+- 打开 [Bifrost Dash]<https://dash.bifrost.finance/#/explorer> 点击 Network / Staking
 
 <img :src="$withBase('/zh/validator-tutorial/validator_1.png')" alt="" width="70%" />
 
