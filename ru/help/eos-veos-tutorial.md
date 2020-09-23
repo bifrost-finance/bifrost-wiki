@@ -1,4 +1,4 @@
-# Обмен по направлению EOS - vEOS
+# Token 转 vToken 教程
 
 1. Сначала отправьте EOS на кошелек Bifrost. Подробная инструкции представлена по ссылке [Кросс-чейн транзакции из тестовой сети EOS Jungle в Asgard CC2 в кошельке TokenPocket]<https://wiki.bifrost.finance/zh/help/eos-transfer-tutorial.html>
 
