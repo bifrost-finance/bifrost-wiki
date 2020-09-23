@@ -105,7 +105,7 @@ Bifrost 社区群里有下载好的镜像，先在群里要；然后复制到上
 
 > 小提示：
 >
-> - 加客服微信入群：LiebiService-3
+> - 加客服微信入群：bifrost00
 > - boot2docker.iso 下载 https://lanzous.com/iaqdpmb
 
 #### 2. docker run 或者 docker restart 后忘记节点 ID 了怎么办？
