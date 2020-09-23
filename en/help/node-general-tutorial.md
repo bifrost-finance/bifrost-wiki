@@ -104,7 +104,7 @@ Bifrost 社区群里有下载好的镜像，先在群里要；然后复制到上
 
 > Tips:
 > 
-> - Join the Bifrost Telegram Group: https://t.me/bifrost_finance
+> - 加客服微信入群：bifrost00
 > - boot2docker.iso download https://lanzous.com/iaqdpmb
 
 #### 2. What should I do if I forget the node ID after docker run or docker restart?
