@@ -1,7 +1,7 @@
 # Инструкция для валидатора
 ### Обзор
 - 创建 Bifrost 地址 查看[教程](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)
-- Знакомство с инструкцией и запуск ноды
+- 运行节点,查看[教程](https://wiki.bifrost.finance/zh/help/node-general-tutorial.html)
 - Настройка валидатора
 - Генерация сеансового ключа и его привязка
 - Стейкинг и номинирование
