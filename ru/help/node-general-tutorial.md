@@ -104,7 +104,7 @@ Bifrost 社区群里有下载好的镜像，先在群里要；然后复制到上
 
 > Советы：
 > 
-> - Присоединяйтесь к группе Bifrost в Telegram： https://t.me/bifrost_finance
+> - 加客服微信入群：bifrost00
 > - boot2docker.iso можно скачать по ссылке https://lanzous.com/iaqdpmb
 
 #### 2. Что делать, если я забыл ID своей ноды после запуска или перезагрузки docker?
