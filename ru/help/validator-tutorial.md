@@ -1,6 +1,6 @@
 # Инструкция для валидатора
 ### Обзор
-- 创建 Bifrost 地址 查看[教程] <https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html>
+- 创建 Bifrost 地址 查看[教程](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)
 - Знакомство с инструкцией и запуск ноды
 - Настройка валидатора
 - Генерация сеансового ключа и его привязка
@@ -8,7 +8,7 @@
 - Избранный валидатор
 
 ### Настройка валидатора
-- 打开 [Bifrost Dash]<https://dash.bifrost.finance/#/explorer> 点击 Network / Staking
+- 打开 [Bifrost Dash](https://dash.bifrost.finance/#/explorer) 点击 Network / Staking
 
 <img :src="$withBase('/zh/validator-tutorial/validator_1.png')" alt="" width="70%" />
 
@@ -35,7 +35,7 @@
 ### Генерация сессионного ключа
 - 1. 开启 9933 端口和 RPC 权限，关闭节点后重新用下方命令启动节点
 ```
-docker run -it -p 30333:30333 -p 9944:9944 -p 9933:9933 -v /folder/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --rpc-methods 'Unsafe' --unsafe-rpc-external --validator
+docker run -it -p 30333:30333 -p 9944:9944 -p 9933:9933 bifrostnetwork/bifrost:asgard-v0.5.0 --name "NodeName" --rpc-cors 'all' --unsafe-ws-external --rpc-methods 'Unsafe' --unsafe-rpc-external --validator
 ```
 
 - 2. 执行，生成 Session Key
@@ -49,5 +49,5 @@ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method":
 
 - 4. SessionKey 生成完毕，关闭 9933 端口和 RPC 权限（开放 RPC 权限有一定安全风险，不建议公开开放）
 ```
-docker run -it -p 30333:30333 -p 9944:9944 -v /folder/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
+docker run -it -p 30333:30333 -p 9944:9944 -v /folder/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.5.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
 ```
