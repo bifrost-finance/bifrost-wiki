@@ -522,7 +522,7 @@ module.exports =  {
                   ],
                   [
                     '/zh/help/bnc-wallet-register-tutorials.md',
-                    'BNC 地址创建教程',
+                    'Bifrost 地址创建教程',
                   ],
                   [
                     '/zh/help/wiki-translation-register-tutorials.md',
