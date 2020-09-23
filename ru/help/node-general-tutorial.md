@@ -33,7 +33,7 @@ NET: (пропускная способность сети) 10 MB
 Команда:
 
 ```sh
-docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
+docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.5.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
 ```
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-01.png')" alt="" />
@@ -47,7 +47,7 @@ docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnet
 >     - `/tmp/bifrost-node` ** - здесь вы можете указать каталог, в котором хотите сохранять данные ноды**
 >     - Пожалуйста, убедитесь, что папка имеет разрешение на запись
 >     - Каталог файлов остается неизменным, а данные блока и ID ноды сохранятся
-> - `bifrostnetwork/bifrost:asgard-v0.4.0`： образ, от которого зависит контейнер;
+> - `bifrostnetwork/bifrost:asgard-v0.5.0`：容器依赖的镜像；
 > - `--name "NodeName | BNCAddress"`: где NodeName - это имя ноды, а BNCAddress - это первые 10 цифр кошелька Bifrost, параметры разделяются с помощью знака `|`;
 
 #### 2.2 Повторный запуск
