@@ -20,7 +20,7 @@ Unconsciously, Bifrost has participated in 5 AMA online events. On May 29th, Luf
 
 **Participation Result**
 
-Event Website Positive Vistors: 7,903
+Event Website Positive Visitors: 7,903
 
 Event Website Unique Vistors: 1,748
 
