@@ -1,4 +1,4 @@
-# EOS to vEOS tutorial
+# Token 转 vToken 教程
 
 1. First transfer EOS to Bifrost address. For specific operations, please refer to [EOS Jungle Testnet-Asgard CC2 Cross-chain Transfer Tutorial]
 

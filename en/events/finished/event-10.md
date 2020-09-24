@@ -17,23 +17,17 @@ On April 22, Bifrost and Liandu jointly organized a Bifrost online staking AMA, 
 
 **Participation Result**
 
-**奖励发放** 活动总奖励：1,000 BNC 实际总发放：739.2775 BNC 奖励发放时间：2020/4/24
+- Total participants in WeChat：1,904
+- Active visitors: 16,865
+- Unique visitors: 3,114
+- Increasing in WeChat official account followers：354
+- Increasing in WeChat group followers：906
 
-注：剩余未发放BNC原因：（1）活动条件未完成 （2）BNC地址未绑定 (3) 绑定地址错误
+**Prizes Giving:**
 
-**参与情况** 总参与微信：1,904 个 活动页PV: 16,865 活动页UV: 3,114 公众号新增：354 人 微信群新增：906 人
-
-**参与情况** 总参与微信：1,904 个 活动页PV: 16,865 活动页UV: 3,114 公众号新增：354 人 微信群新增：906 人
-
-**参与情况** 总参与微信：1,904 个 活动页PV: 16,865 活动页UV: 3,114 公众号新增：354 人 微信群新增：906 人
-
-**Prize Giving**
-
-Total Rewards: 1,000 BNC
-
-Actual total distribution: 739.2775 BNC
-
-Date: 2020/4/24
+- Total Rewards: 1,000 BNC
+- Actual total distribution：739.2775 BNC
+- Prizes Distribution Date：2020/4/24
 
 Note: Reasons for the remaining BNC is not issued: (1) The activity condition is not completed (2) The BNC address is not bound (3) Wrong binding address
 

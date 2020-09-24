@@ -1,71 +1,71 @@
-# EOS 跨链转账教程
+# Инструкция по кросс-чейн отправке EOS
 
-## EOS Jungle Testnet - Asgard CC2 | TokenPocket 钱包跨链转账
+## Кросс-чейн транзакции из тестовой сети EOS Jungle в Asgard CC2 в кошельке TokenPocket
 
-**1. 注册 EOS 测试网账号，点击查看[注册教程](https://wiki.bifrost.finance/zh/help/eos-testnet-account-register.html)**
+**1. Создайте аккаунт в тестовой сети EOS, [нажмите здесь для просмотра инструкции по регистрации](https://wiki.bifrost.finance/zh/help/eos-testnet-account-register.html)**
 
-**2. 打开手机端 TokenPocket 钱包（TP钱包下载链接：<https://www.tokenpocket.pro/>**
+**2. Откройте приложение кошелька TokenPocket на мобильном телефоне (ссылка для скачивания：<https://www.tokenpocket.pro/>**
 
-**3. 点击`我的`进入`系统设置`-`节点设置`**
+**3. Нажмите `Me`, затем `Settings`-`Node Settings`**
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-01.png')" alt="" width="30%" />
 
-**4. 下拉至自定义节点，点击`添加自定义节点` 复制粘贴节点链接：https://jungle.eosn.io:443**
+**4. Проскрольте страниуц вниз до раздела Custom, нажмите кнопку `Add a custom node`, вставьте ссылку: https://jungle.eosn.io:443**
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-02.png')" alt="" width="30%" />
 
-**5. 返回首页，点击右上角钱包导入 EOS 测试网账号**
+**5. Вернитесь в раздел Assets и нажмите на кошелек в правом верхнем углу, чтобы импортировать аккаунт в тестовой сети EOS**
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-03.png')" alt="" width="30%" />
 
-**6. 导入成功后，返回钱包`资产`首页，可查询到 100 个 EOS 测试币到账**
+**6. После успешного импорта вернитесь на главную страницу кошелька - в разделе `Assets` вы увидите 100 тестовых монет EOS.**
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-04.png')" alt="" width="30%" />
 
-**7. 点击`直接转账`后，在`收款账号`中输入 bifrostcross 作为接收方账号**
+**7. Нажмите на кнопку `Transfer` и введите bifrostcross в качестве получателя в поле `Receiver`**
 
-**8. 在`备注`内复制粘贴你的 BNC 地址@bifrost 例如：5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY@bifrost**
+**8. Скопируйте и вставьте свой адрес BNC и @bifrost в поле `Memo` например： 5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpnehxcpcnohgkutqy@bifrost**
 
-**注： BNC 地址注册可参考 [BNC地址创建教程](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)**
+**Примечание: для получения адреса BNC перейдите в раздел [Инструкция по созданию кошелька BNC](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)**
 
-**9. 转账数量需大于 50 EOS，才能记录一次跨链**
+**9. Для осуществления кросс-чейн транзакции сумма перевода составлять более 50 EOS**
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-05.png')" alt="" width="30%" />
 
-**以上就是使用 TP 钱包从 EOS Jungle 测试网向 Bifrost Asgard CC2 跨链转账的全部过程啦~此外，大家还可以通过命令方法 Cleos 进行跨链转账操作**
+**Выше представлен весь процесс проведения кросс-чейн транзакции из тестовой сети EOS Jungle в Bifrost Asgard CC2 с использованием кошелька TP ~ вы также можете использовать командный инструмент Cleos для осуществления операций кросс-чейн транзакций**
 
-## Asgard CC2 - EOS Jungle Testnet | 跨链转账
+## Кросс-чейн транзакции из Asgard CC2 в тестовую сеть EOS Jungle
 
-**1. 打开 Bifrost Dashboard：<https://dash.bifrost.finance/>**
+**1. Откройте панель мониторинга Bifrost: <https://dash.bifrost.finance/>**
 
-**2. 左侧导航栏点击`Extrinsics`，选择你的 Bifrost 地址**
+**2. Нажмите на кнопку `Extrinsics` на левой панели навигации и выберите свой адрес Bifrost**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-01.png')" alt="" />
 
-**3. 点击链接 <https://onlinehextools.com/convert-utf8-to-hex> 下拉取消三个选项**
+**3. Перейдите по ссылке <https://onlinehextools.com/convert-utf8-to-hex> и уберите галочки с трех опций в выпадающем списке**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-03.png')" alt="" />
 
-**4. 再将你的 Bifrost 地址转化为 0x 开头地址，如图所示：**
+**4. Преобразуйте ваш адрес Bifrost в адрес, начинающийся с 0x, как показано на рисунке：**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-02.png')" alt="" />
 
-**5. 返回 Bifrost Dashboard，输入转账信息**
+**5. Вернитесь в панель управления Bifrost и введите информацию для отправки**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-04.png')" alt="" />
 
-**6. 返回 <https://onlinehextools.com/convert-utf8-to-hex> 随意填写一个 memo 信息，将其转化成 0x 地址**
+**6. Вернитесь на <https://onlinehextools.com/convert-utf8-to-hex>, введите memo и преобразуйте его в адрес 0x (необязательно)**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-05.png')" alt="" />
 
-**7. 返回 Bifrost Dashboard，输入转化后的 memo 信息，点击`Submit Transaction`跨链转账**
+**7. Вернитесь на панель мониторинга Bifrost, введите преобразованное memo и нажмите кнопку `Submit transaction` для отправки**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-06.png')" alt="" />
 
-**8. 点击`Sign and Submit`提交交易**
+**8. Нажмите `Sign and Submit` для подтверждения транзакции**
 
 <img :src="$withBase('/zh/eos-crosschain-transfer/eos-crosschain-transfer-07.png')" alt="" />
 
-**9. 返回 TP 钱包查看 EOS 余额**
+**9. Вернитесь в кошелек TokenPocket, чтобы проверить баланс EOS.**
 
-## Cleos 命令方法跨链转账
+## Кросс-чейн транзакции с помощью инструмента cleos

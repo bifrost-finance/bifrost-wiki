@@ -1,19 +1,19 @@
 ---
 home: true
 heroText: Bifrost Wiki
-tagline: A parachain designed for staking's liquidity
-actionText: Get Started →
+tagline: Парачейн для ликвидности стейкинга
+actionText: Начать →
 actionLink: /zh/events/finished/event-03.md
 features:
   - 
-    title: Hedge
-    details: Anti-inflation, prevent devaluation of staking assets, no lock-up position
+    title: Хеджирование
+    details: Антиинфляция, предотвращение девальвации активов в стейкинге, отсутствие блокировки позиции
   - 
-    title: Double Rewards
-    details: Get staking rewards and DeFi interests at the same time
+    title: Двойные вознаграждения
+    details: Одновременно получайте вознаграждения от стейкинга и DeFi
   - 
-    title: Leverage
-    details: Use vToken lending leverage to expand staking principal
+    title: Кредитное плечо
+    details: Используйте кредитное плечо vToken для увеличения позиции в стейкинге
 footer: Copyright © 2019-2020 Bifrost Finance and Contributors
 ---
 
