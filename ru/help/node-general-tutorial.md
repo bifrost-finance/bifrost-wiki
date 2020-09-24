@@ -33,7 +33,7 @@ NET: (пропускная способность сети) 10 MB
 Команда:
 
 ```sh
-docker run -it -p 30333:30333 -p 9944:9944 bifrostnetwork/bifrost:asgard-v0.5.0 --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
+docker run -it -p 30333:30333 -p 9944:9944 bifrostnetwork/bifrost:asgard-v0.5.0 --name "NodeName" --rpc-cors 'all' --unsafe-ws-external --validator
 ```
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-01.png')" alt="" />
@@ -43,7 +43,7 @@ docker run -it -p 30333:30333 -p 9944:9944 bifrostnetwork/bifrost:asgard-v0.5.0 
 > - `-p 30333:30333 -p 9944:9944` 为节点端口号 
 >     - 节点重启可以使用 docker restart container_id
 > - `bifrostnetwork/bifrost:asgard-v0.5.0`：容器依赖的镜像；
-> - `--name "NodeName | BNCAddress"`: 其中 NodeName 为节点名称，BNCAddress 为 Bifrost 地址前 10 位，用 `|` 隔开；
+> - `--name "NodeName"`: 其中 NodeName 为节点名称；
 
 #### 2.2 Повторный запуск
 
