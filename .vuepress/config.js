@@ -465,6 +465,26 @@ module.exports =  {
                     '/zh/news/ama-07.md',
                     'AMA 问答汇总（第七期）',
                   ],
+                  [
+                    '/zh/news/ama-08.md',
+                    'AMA 问答汇总（第八期）',
+                  ],
+                  [
+                    '/zh/news/ama-09.md',
+                    'AMA 问答汇总（第九期）',
+                  ],
+                  [
+                    '/zh/news/ama-10.md',
+                    'AMA 问答汇总（第十期）',
+                  ],
+                  [
+                    '/zh/news/ama-11.md',
+                    'AMA 问答汇总（第十一期）',
+                  ],
+                  [
+                    '/zh/news/ama-12.md',
+                    'AMA 问答汇总（第十二期）',
+                  ],
                 ],
               },
               {
