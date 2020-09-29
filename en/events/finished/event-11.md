@@ -16,13 +16,13 @@ As the first AMA, we invited blockchain technology experts and Bifrost co-founde
 
 **Participation Result**
 
-**奖励发放** 活动总奖励：4,000 BNC 实际总发放： 3,892.768 BNC 奖励发放时间：2020/4/18
+Page View：16,534
 
-注：剩余未发放BNC原因：（1）活动条件未完成 （2）BNC地址未绑定  (3) 绑定地址错误
+Unique View：3,128
 
-**参与情况** 活动页 PV：57,534 活动页 UV：14,128 总参与微信：10,718 个 微信群新增：1,800+ 人
+Total participants in WeChat：10,718
 
-**参与情况** 活动页 PV：57,534 活动页 UV：14,128 总参与微信：10,718 个 微信群新增：1,800+ 人
+New followers in WeChat：1,800+
 
 **Prize Giving**
 

@@ -10,5 +10,3 @@ At 4:00 pm on July 10th, Lurpis, the co-founder of Bifrost, was invited to parti
 
 **Event Rules**
 - Click on the assistant to participate in this lucky draw
-- Winners will send BNC address on July 17th
-

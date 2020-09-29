@@ -1,56 +1,51 @@
-# Bifrost 节点运行通用教程
+# Инструкция по запуску ноды Bifrost Asgard CC2
 
-> 作者：安_change, Lurpis
+> Автор： 安_change, Lurpis
 > 
-> 时间：2020-07-18
+> Дата: 2020-07-18
 
-## 教程
-### 推荐配置
+## Инструкция
+### Рекомендуемая конфигурация
 
 ```
-CPU             4 核
-RAM（运行内存）   8 GB
-DISK（磁盘大小）  100 GB
-NET（网络带宽）   10 MB
-系统             Linux (Centos, Ubantu)
+CPU: 4 ядра
+RAM: (оперативная память) 8 GB
+Диск: 100 GB
+NET: (пропускная способность сети) 10 MB
+Система: Linux (Centos, Ubuntu)
 ```
 
-### Docker 自运行方式
-#### 1. Docker 安装
+### Режим самостоятельного запуска Docker
+#### 1. Установка Docker
 - Linux：<https://www.runoob.com/docker/centos-docker-install.html>
 - Windows：<https://www.runoob.com/docker/windows-docker-install.html>
 - Mac：<https://www.runoob.com/docker/macos-docker-install.html>
 
-> 小提示：
+> Советы：
 > 
-> - 推荐使用是云服务器运行节点，省心、不掉线；
-> - 如果是新的云服务器，`推荐安装 CoreOS 系统，自带 Docker`，本步骤可跳过
+> - Для запуска нод рекомендуется использовать облачные серверы.
+> - Если вы используете новый облачный сервер, `Рекомендуется установить систему CoreOS с помощью Docker`, этот шаг можно пропустить
 
-#### 2. 运行节点
+#### 2. Запуск ноды
 
-##### 2.1 首次运行
+##### 2.1 Первый запуск
 
-命令：
+Команда:
 
 ```sh
-docker run -it -p 30333:30333 -p 9944:9944 -v /tmp/bifrost-node:/node bifrostnetwork/bifrost:asgard-v0.4.0 --base-path '/node' --name "NodeName | BNCAddress" --rpc-cors 'all' --unsafe-ws-external --validator
+docker run -it -p 30333:30333 -p 9944:9944 bifrostnetwork/bifrost:asgard-v0.5.0 --name "NodeName" --rpc-cors 'all' --unsafe-ws-external --validator
 ```
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-01.png')" alt="" />
 
-注：如果提示 `permission denied` 则说明节点目录 `/tmp/bifrost-node` 没有写入权限，请执行 `chmod -R 766 /tmp/bifrost-node` 给予权限。
-
-> 参数说明：
+> Описание параметров：
 > 
-> - `-p 30333:30333 -p 9944:9944` 为节点端口号
-> - `-v /tmp/bifrost-node:/node` 节点数据保存位置 
->     - `/tmp/bifrost-node` **为自定义文件夹，可以更改为自己想要保存节点数据的目录**
->     - 请确保该文件夹有写入权限
->     - 文件目录保持不变，出块数据和节点 ID 就不会丢失
-> - `bifrostnetwork/bifrost:asgard-v0.4.0`：容器依赖的镜像；
-> - `--name "NodeName | BNCAddress"`: 其中 NodeName 为节点名称，BNCAddress 为 Bifrost 地址前 10 位，用 `|` 隔开；
+> - `-p 30333:30333 -p 9944:9944` 为节点端口号 
+>     - 节点重启可以使用 docker restart container_id
+> - `bifrostnetwork/bifrost:asgard-v0.5.0`：容器依赖的镜像；
+> - `--name "NodeName"`: 其中 NodeName 为节点名称；
 
-#### 2.2 再次运行
+#### 2.2 Повторный запуск
 
 先查看之前运行的容器状态：
 
@@ -66,12 +61,12 @@ $ docker ps -a
 $ docker restart 66e31
 ```
 
-> 命令说明：
+> Описание команды:
 > 
-> - `docker restart`：重启已经存在的容器，此时 Node ID 不会变化的
-> - `66e31`：就是前面查看到的容器 ID，前 5 位即可；**不要照抄，使用自己的**
+> - `docker restart`：перезагружает существующий контейнер, ID ноды при этом не меняется
+> - `66e31`：это ID контейнера, который вы видели ранее, достаточно первых 5 цифр; **Не копируйте этот, используйте собственный**.
 
-#### 2.3 检查节点运行
+#### 2.3 Проверка работы ноды
 
 节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
 
@@ -79,23 +74,23 @@ $ docker restart 66e31
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-03.png')" alt="" />
 
-### Ankr 托管运行方式
-#### 1. 访问并注册 Ankr 账号 <https://www.ankr.com/>
-#### 2. 运行节点
-##### 2.1 点击「Deploy a Node」进入节点市场
-##### 2.2 选择 Bifrost Validator Node
-##### 2.3 进入付款页面
+### Метод использования хостинга Ankr
+#### 1. Перейдите по ссылки и зарегистрируйте аккаунт Ankr <https://www.ankr.com/>
+#### 2. Запустите ноду
+##### 2.1 Нажмите "Deploy a Node" чтобы перейти на рынок нод.
+##### 2.2 Выберите Bifrost Validator Node.
+##### 2.3 Перейдите на страницу оплаты
 应用名称填写节点名 | Bifrost 地址前 10 位，运行方式选 Validator
 
-##### 2.4 付款后等待节点自动完成部署
-##### 2.5 检查节点运行
+##### 2.4 Дождитесь завершения автоматического развертывания ноды после оплаты.
+##### 2.5 Проверьте работу ноды
 
 节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 节点奖励：<https://rewards.bifrost.finance>
 
-> 以上就完成了节点运行时长的参与任务，接下来可以查看《如何成为 Validator 教程》
+> Вышеизложенной инструкции достаточно для запуска ноды, теперь вы можете ознакомиться с "Инструкцией для валидатора"
 
-## Q & A 问题解决
-#### 1. Windows Toolbox 拉取 boot2docker.iso 失败问题
+## Вопросы & ответы
+#### 1. Windows Toolbox failed to pull boot2docker.iso
 
 安装 Docker Toolbox 是出现下面的错误，说明拉取 boot2docker.iso 失败了。
 
@@ -107,12 +102,12 @@ Bifrost 社区群里有下载好的镜像，先在群里要；然后复制到上
 
 复制好后，再双击启动 Docker Quickstart Terminal
 
-> 小提示：
+> Советы：
 > 
-> - 加客服微信入群：LiebiService-3
-> - boot2docker.iso 下载 https://lanzous.com/iaqdpmb
+> - 加客服微信入群：bifrost00
+> - boot2docker.iso можно скачать по ссылке https://lanzous.com/iaqdpmb
 
-#### 2. docker run 或者 docker restart 后忘记节点 ID 了怎么办？
+#### 2. Что делать, если я забыл ID своей ноды после запуска или перезагрузки docker?
 
 执行命令：
 
@@ -122,6 +117,6 @@ $ docker logs 66e31
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-05.png')" alt="" />
 
-### 3. 其他疑难杂症？
+### 3. Еще вопросы?
 
-添加微信客服 LiebiService-3，进入微信群中讨论。
+添加微信客服 bifrost00，进入微信群中讨论。
