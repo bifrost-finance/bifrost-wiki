@@ -1,4 +1,4 @@
-# Bifrost 地址创建教程
+# Руководство по созданию кошелька (адреса) Bifrost
 
 **1. Перейдите по ссылке： <https://dash.bifrost.finance/#/explorer>**
 
@@ -25,7 +25,7 @@
 **Сохраните ваш json файл и мнемоническую фразу в надежном месте, поскольку только с ними вы сможете восстановить ваш аккаунт.**
 
 
-<img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-05.png')" alt="文件名即钱包地址" width="60%" />
+<img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-05.png')" alt="Имя файла - это адрес кошелька" width="60%" />
 
 
 ### Как скопировать адрес кошелька BNC?
@@ -44,7 +44,7 @@
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-07.png')" alt="" width="60%" />
 
-**2. 使用 JSON 文件恢复**
+**2. Воспользуйтесь функцией восстановления аккаунта с помощью JSON - файла**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-08.png')" alt="" width="60%" />
