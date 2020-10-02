@@ -12,25 +12,25 @@
 
 <img :src="$withBase('/zh/validator-tutorial/validator_1.png')" alt="" width="70%" />
 
-- 进入 Staking 页面 / Account Action
+- На странице "Стейкинг" выберите вкладку "Функции аккаунта"
 
 <img :src="$withBase('/zh/validator-tutorial/validator_2.png')" alt="" width="70%" />
 
-- 点击 + Validator
-    - Stash Account (存放 ASG 的地址)
-    - Controller Account (控制节点的地址)
-    - 输入自抵押的 ASG 数量
+- Нажмите на +Валидатор
+    - Stash Account (аккаунт-копилка) - адрес, где хранится ASG
+    - Аккаунт-контроллера (адрес управляющей нода)
+    - Введите сумму самообеспечения ASG
 
 <img :src="$withBase('/zh/validator-tutorial/validator_3.png')" alt="" width="70%" />
 
 > Для Stash и Controller Account в целях безопасности рекомендуется использовать два разных адреса.
-- 下一步
-    - 输入 Session Key（如何生成看下方说明）
-    - 输入节点佣金费率百分比（目前测试网络 ASG 无价值，随意填写）
+- Следующий шаг
+    - Введите ключ сеанса (Session Key) - см. инструкции ниже, как его сгенерировать
+    - Введите желаемый процент комиссии ноды (в настоящее время в тестовой сети это не требуется, можно заполнить по желанию)
 
 <img :src="$withBase('/zh/validator-tutorial/validator_4.png')" alt="" width="70%" />
 
-- 创建 Validator
+- Создайте Валидатора
 
 ### Генерация сессионного ключа
 - 1. 开启 9933 端口和 RPC 权限，关闭节点后重新用下方命令启动节点
