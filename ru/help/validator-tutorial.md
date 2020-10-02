@@ -1,14 +1,14 @@
 # Инструкция для валидатора
 ### Обзор
-- 创建 Bifrost 地址 查看[教程](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)
-- 运行节点,查看[教程](https://wiki.bifrost.finance/zh/help/node-general-tutorial.html)
+- Инструкция по созданию адреса (кошелька) Bifrost
+- Запустите ноду, опираясь на руководство
 - Настройка валидатора
 - Генерация сеансового ключа и его привязка
 - Стейкинг и номинирование
 - Избранный валидатор
 
 ### Настройка валидатора
-- 打开 [Bifrost Dash](https://dash.bifrost.finance/#/explorer) 点击 Network / Staking
+- Перейдите на Bifrost Dash и нажмите Network / Стейкинг
 
 <img :src="$withBase('/zh/validator-tutorial/validator_1.png')" alt="" width="70%" />
 
