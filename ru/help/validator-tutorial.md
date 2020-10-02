@@ -33,21 +33,21 @@
 - Создайте Валидатора
 
 ### Генерация сессионного ключа
-- 1. 开启 9933 端口和 RPC 权限，关闭节点后重新用下方命令启动节点
+- 1. Откройте порт 9933 и разрешения RPC, после чего остановите ноду и перезапустите ноду с помощью команды ниже.
 ```
 docker run -it -p 30333:30333 -p 9944:9944 -p 9933:9933 bifrostnetwork/bifrost:asgard-v0.5.0 --name "NodeName" --rpc-cors 'all' --unsafe-ws-external --rpc-methods 'Unsafe' --unsafe-rpc-external --validator
 ```
 
-- 2. 执行，生成 Session Key
+- 2. Сгенерируйте ключ сессии (Session Key)  при помощи команды ниже:
 ```
 curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://localhost:9933
 ```
 
 <img :src="$withBase('/zh/validator-tutorial/session_key.png')" alt="" width="70%" />
 
-- 3. 将生成的 Session Key 复制到页面中进行设置
+- 3. Скопируйте сгенерированный ключ сессии на страницу настройки
 
-- 4. SessionKey 生成完毕，关闭 9933、9944 端口和 RPC 权限（开放 RPC 权限有一定安全风险，不建议公开开放）
+- 4. После создания SessionKey закройте порты 9933, 9944 и разрешения RPC (открытие разрешений RPC имеет определенные риски безопасности, и не рекомендуется открывать их публично) с помощью команды:
 ```
 docker run -it -p 30333:30333 bifrostnetwork/bifrost:asgard-v0.5.0 --name "NodeName" --validator
 ```
