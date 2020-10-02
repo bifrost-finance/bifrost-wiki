@@ -2,44 +2,44 @@
 
 **1. Перейдите по ссылке： <https://dash.bifrost.finance/#/explorer>**
 
-**2. 选择`Accounts`，点击`Accounts`**
+**Выберите вкладку "Accounts", щелкните на "Аккаунты"**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-01.png')" alt="" width="60%" />
 
-**3. 点击`Add account`**
+**Кликните "Добавить аккаунт / Add account"**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-02.png')" alt="" width="60%" />
 
-**4. 填写账号`name`、`password`并备份助记词和种子，填好后选择`Next`**
+**Введите название вашей учетной записи в поле "Имя", сохраните вашу мнемоническую фразу в безопасное место, придумайте пароль, введите его в поле "Пароль" дважды и нажмите "Next"**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-03.png')" alt="" width="60%" />
 
-**4. 接受提示并点击`Save`创建账号**
+**Проверьте вашу мнемоническую фразу и нажмите "Сохранить / Save"**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-04.png')" alt="" width="60%" />
 
-**5. `手机端`创建的可能不会自动下载 json 文件，所以一定要`备份好上面的助记词或原始种子！！！`**
+**Сохраните ваш json файл и мнемоническую фразу в надежном месте, поскольку только с ними вы сможете восстановить ваш аккаунт.**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-05.png')" alt="文件名即钱包地址" width="60%" />
 
 
-### Как скопировать адрес кошелька BNC
+### Как скопировать адрес кошелька BNC?
 
 
-**1. 点击钱包头像即可自动复制**
+**1. Щелкните аватар (круг) кошелька и адрес скопируется автоматически.**
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-06.png')" alt="" width="60%" />
 
 
-### Восстановление кошелька
+### Как восстановить кошелек BNC.
 
 
-**1. 点击`Add account`在`Mnemonic seed`中输入你的助记词或导入原始种子**
+**1. Нажмите "Добавить аккаунт" и введите вашу мнемоническую фразу.**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-07.png')" alt="" width="60%" />
