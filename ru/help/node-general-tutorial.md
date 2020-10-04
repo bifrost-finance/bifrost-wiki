@@ -40,14 +40,14 @@ docker run -it -p 30333:30333 -p 9944:9944 bifrostnetwork/bifrost:asgard-v0.5.0 
 
 > Описание параметров：
 > 
-> - `-p 30333:30333 -p 9944:9944` 为节点端口号 
+> - `-p 30333:30333 -p 9944:9944` - порт ноды 
 >     - 节点重启可以使用 docker restart container_id
-> - `bifrostnetwork/bifrost:asgard-v0.5.0`：容器依赖的镜像；
+> - `bifrostnetwork/bifrost:asgard-v0.5.0`： образ, от которого зависит контейнер;
 > - `--name "NodeName"`: 其中 NodeName 为节点名称；
 
 #### 2.2 Повторный запуск
 
-先查看之前运行的容器状态：
+Прежде всего проверьте состояние ранее запущенного контейнера:
 
 ```sh
 $ docker ps -a
@@ -55,7 +55,7 @@ $ docker ps -a
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-02.png')" alt="" />
 
-如果是电脑或服务器重启，造成的容器退出，用下面的命令重新启动：
+Если компьютер или сервер перезагружался и контейнер завершил работу, перезагрузите его с помощью следующей команды:
 
 ```sh
 $ docker restart 66e31
@@ -68,9 +68,9 @@ $ docker restart 66e31
 
 #### 2.3 Проверка работы ноды
 
-节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
+Мониторинг нод：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
 
-节点奖励：<https://rewards.bifrost.finance>
+Вознаграждения нод： <https://rewards.bifrost.finance>
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-03.png')" alt="" />
 
@@ -80,27 +80,27 @@ $ docker restart 66e31
 ##### 2.1 Нажмите "Deploy a Node" чтобы перейти на рынок нод.
 ##### 2.2 Выберите Bifrost Validator Node.
 ##### 2.3 Перейдите на страницу оплаты
-应用名称填写节点名 | Bifrost 地址前 10 位，运行方式选 Validator
+Введите имя ноды | первые 10 цифр кошелька Bifrost и выберите Validator в качестве режима работы
 
 ##### 2.4 Дождитесь завершения автоматического развертывания ноды после оплаты.
 ##### 2.5 Проверьте работу ноды
 
-节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 节点奖励：<https://rewards.bifrost.finance>
+Мониторинг нод：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 Вознаграждения нод： <https://rewards.bifrost.finance>
 
 > Вышеизложенной инструкции достаточно для запуска ноды, теперь вы можете ознакомиться с "Инструкцией для валидатора"
 
 ## Вопросы & ответы
 #### 1. Windows Toolbox failed to pull boot2docker.iso
 
-安装 Docker Toolbox 是出现下面的错误，说明拉取 boot2docker.iso 失败了。
+Данная ошибка свидетельствует о том, что Docker Toolbox не смог извлечь boot2docker.iso.
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-04.png')" alt="" />
 
-解决方案：
+Решение：
 
-Bifrost 社区群里有下载好的镜像，先在群里要；然后复制到上面图中标红的 cache 路径中即可；
+В группе сообщества Bifrost есть загруженный образ - попросите его в группе, а затем скопируйте в кэш-путь, отмеченный красным цветом на рисунке выше;
 
-复制好后，再双击启动 Docker Quickstart Terminal
+По завершении процесса копирования запустите Docker Quickstart Terminal двойным кликом
 
 > Советы：
 > 
@@ -109,7 +109,7 @@ Bifrost 社区群里有下载好的镜像，先在群里要；然后复制到上
 
 #### 2. Что делать, если я забыл ID своей ноды после запуска или перезагрузки docker?
 
-执行命令：
+Выполните команду：
 
 ```sh
 $ docker logs 66e31
@@ -117,6 +117,6 @@ $ docker logs 66e31
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-05.png')" alt="" />
 
-### 3. Еще вопросы?
+### 3. Остались вопросы?
 
 添加微信客服 bifrost00，进入微信群中讨论。
