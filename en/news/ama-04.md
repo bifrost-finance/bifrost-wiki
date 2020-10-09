@@ -12,19 +12,19 @@ Here I also want to share with you the principle of EOS cross-chain interrotatio
 
 主要是通过 Bifrost EOS Relay 轻节点来收集 180 个 EOS 区块头，然后通过 merkle tree 做验证。所以轻节点只需处理很小的数据就可以完成验证，之后 Bifrost 的网络会收到由 EOS Relay 发来的 prove action。通过验证后，Bifrost 网络则会向指定的 Bifrost 地址铸造 EOS。
 
-反过来，由 Bifrost 网络向  EOS 网络发起交易，如图：
+On the contrary, transactions are initiated from Bifrost network to EOS network, as shown in the figure below:
 
 <img :src="$withBase('/zh/news-ama04-2')" alt="" />
 
 这是由具备签名权利的 Validator 向 EOS 节点发起多签操作。Validator 在收集满签名后，则会触发 bifrostcross 合约向指定 EOS 账号转账的请求。 截至目前，已经有些小伙伴已经提前尝试了在测试网上跨链转EOS, 可以说在 Bifrost 测试网的试运行阶段操作流程和体验都还是不错的。Bifrost 也将于5月21日正式上线 Asgard 测试网，到时小伙伴们可以参与运行节点来获取奖励！当然啦，如果还有其他小伙伴想要体验 EOS 测试网的跨链，可以参考一下这篇文章，获取跨链用到的 MEMO 格式。
 
-**问题二：vToken 的三倍 Staking 收益怎么获得？**
+**Question 2: How to get the income of three times Staking of vToken?**
 
 这个问题很有意思，其实确实是 Bifrost 类 Staking 流动性项目和 DeFi 项目的同时出现而带来新玩法。 因为持有 vToken 就可以获得 Staking 收益，同时 vToken 也可以通过抵押借贷出来稳定币。然后用户可以使用稳定币再次购买 vToken，根据不同的抵押率（通常为 83%）计算，则不断叠加最多可以借贷出 3 倍的 vToken。每个 vToken 都可以获得 Staking 收益，所以 vToken 配合抵押借贷，可以变相获得 3 倍 Staking 收益。
 
-这仅仅是 vToken 的玩法之一，未来还有更多有趣的玩法等待用户挖掘。
+This is just one of the ways vToken can be played, and there are many more interesting ways to explore it in the future.
 
-**问题三：对于Staking 衍生品的未来都有什么展望？**
+**Question 3: what are the prospects for the future of stacking derivatives?**
 
 之前说到 Staking 衍生品是行业发展道路中必然会出现的产物。因为随着未来 PoS 共识的不断普及，DeFi 的收益和 Staking 收益权衡将是一个不可调和的矛盾。所以只有通过 vToken 这类衍生品来解决这中间产生的矛盾，否则在 PoS 共识中做 DeFi 产品将会是一个非常奇怪的事情。用户会不断的徘徊在 Staking 还是 DeFi 之间无法选择。vToken 的出现让用户不但可以获取到 Staking 收益还能去参与 DeFi 借贷，很好的化解了 DeFi 和 Staking 之间的矛盾。
 
