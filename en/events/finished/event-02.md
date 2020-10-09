@@ -3,7 +3,7 @@ Before you know it, Bifrost has already participated in 5 phases of AMA online a
 
 ***Time: May/29/2020 16: 00（UTC+8)***
 
-***Location: Hotbit WeChat Group + Bifrost WeChat Group***
+***Location: hotbit wechat group and Bifrost wechat group***
 
 **Event tasks**
 - Sending task emojis in wechat groups
@@ -20,11 +20,11 @@ Before you know it, Bifrost has already participated in 5 phases of AMA online a
 
 **Participation Result**
 
-Event Website Positive Visitors: 7,903
+Active website visitors: 7903
 
 Event Website Unique Vistors: 1,748
 
-Increasing in WeChat official account followers: 145
+WeChat official account number increased: 145
 
 **Prize Giving**
 
