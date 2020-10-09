@@ -1,5 +1,5 @@
-# Hotbit × Bifrost Polka Ecosystem AMA: A New development in POS mining
-Unconsciously, Bifrost has participated in 5 AMA online events. On May 29th, Lufros, the co-founder of Bifrost, was invited to participate in the third phase of the Hotbit Polkadot series of dialogues, Bifrost: a new development in POS mining.
+# New development in Boka ecological Bifrost, POS mining
+Before you know it, Bifrost has already participated in 5 phases of AMA online activities. On May 29, lufpis, co-founder of Bifrost, was invited to participate in the third session of the hotbit Polkadot series dialogue, the new development in Boka ecological Bifrost, POS mining.
 
 ***Time: May/29/2020 16: 00（UTC+8)***
 
