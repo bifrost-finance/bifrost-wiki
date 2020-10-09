@@ -1,17 +1,17 @@
-# Кампания нод Asgard CC2
+# Asgard CC2 Node Competition
 
-It has been almost two months since Asgard CC1 (Candidate Chain 1) was released on 21 May.During these two months, Bifrost made overall optimization and upgrading in **nodes**, **validators** and **EOS cross-chain**.For nodes, we upgraded **the swap algorith** and supports more currencies. vToken can be converted in the future via **the convert module**and can be purchased directly with our **swap module**.
+It has been nearly two months since Asgard CC1 (candidate chain 1) was released on May 21.In these two months, Bifrost has made overall optimization and improvement in Node, Validator and EOS Cross Chain Functions respectively.In terms of nodes, the Swap Algorithm is upgraded to support more currency liquidity. In the future, we can exchange vToken through Convert Module, or purchase vToken directly through Swap Module.
 
-***Duration: 2020/7/21-2020/8/21***
+***Date: July 21, 2020 to August 21, 2020***
 
 **Event tasks**
-- Node contest
-- EOS cross-chain contest
-- Validator contest
+- Node competition
+- EOS cross chain competition
+- Validator Championship
 
 **Event rules**
 - Node contest
-  - The longer the node is running, the more rewards you get
+  - The longer the running node takes, the more rewards are divided
   - Record a time point every minute
   - After the event, 5,000 BNCs will be divided according to the proportion of time points
 
