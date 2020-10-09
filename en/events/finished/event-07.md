@@ -12,8 +12,8 @@ It has been nearly two months since Asgard CC1 (candidate chain 1) was released 
 **Event rules**
 - Node contest
   - The longer the running node takes, the more rewards are divided
-  - Record a time point every minute
-  - After the event, 5,000 BNCs will be divided according to the proportion of time points
+  - Record a time Point Every Minute
+  - After the activity, 5000 BNCS were divided according to the proportion of time point
 
 - EOS cross-chain contest
   - EOS two-way transfer to Asgard CC2 and Asgard CC2 to EOS test
