@@ -1,4 +1,4 @@
-# Asgard CC2 Node Campaign
+# Кампания нод Asgard CC2
 
 It has been almost two months since Asgard CC1 (Candidate Chain 1) was released on 21 May.During these two months, Bifrost made overall optimization and upgrading in **nodes**, **validators** and **EOS cross-chain**.For nodes, we upgraded **the swap algorith** and supports more currencies. vToken can be converted in the future via **the convert module**and can be purchased directly with our **swap module**.
 
