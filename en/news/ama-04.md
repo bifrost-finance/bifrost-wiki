@@ -2,11 +2,11 @@
 
 **随着 Polkadot 主网上线不断临近，为增加市场中 KSM 的持有率，让更多的用户关注 5 月 Bifrost & Phala Network 测试网上线，双方将联合 Polkaworld 一起开启测试网 AMA~**
 
-**问题一：如何将 EOS 测试网代币转到 Bifrost 网络？**
+**Question 1: How to transfer EOS test network token to Bifrost network?**
 
 哈喽 大家好，我是 Bifrsot 的联合创始人 Lurpis 关于这个问题，目前我们应该是第一个把 EOS 测试网跨链到 Polkadot 生态的团队。因为一直在内部做各种调试，还没有对媒体进行公开报道。但是目前进展是，你已经可以把 EOS Jungle Testnet 的 EOS 转账到 Bifrost 测试网络了，并且在很短的时间就可以完成两端验证，实现资产安全的跨链。下一步我们会继续完成跨链的互操作性，让 Substrate Runtime 模块直接调用 EOS 网络的合约功能。一方面来实现 Bifrost 对 EOS Staking 流动性的释放，另一方面 Polkadot 生态其他基于 Substrate 开发的项目，也能通过 Bifrost 转接桥来实现对 EOS 网络的操作～ 这个想象空间是巨大的，一定会产生很多脑洞大开的应用。
 
-这里还想跟大家分享一下EOS跨链互转原理，由 EOS 向 Bifrost 网络转账，如图：
+Here I also want to share with you the principle of EOS cross-chain interrotation from EOS to Bifrost network, as shown in the figure below:
 
 <img :src="$withBase('/zh/news-ama04-1')" alt="" />
 
