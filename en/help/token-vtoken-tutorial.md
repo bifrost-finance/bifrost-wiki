@@ -1,10 +1,10 @@
 # Token 转 vToken 教程
 
-1. 电报/币用 [Bifrost Faucet]<https://t.me/bifrost_faucet> 水龙头社区领取测试币 KSM 和 DOT
+1. 电报/币用 [Bifrost Faucet](https://t.me/bifrost_faucet) 水龙头社区领取测试币 KSM 和 DOT
 
-**注**：一个 Telegram 账号 24 小时领取一次测试 Token，领取格式请参考： /want bifrost 地址，目前支持 KSM-vKSM 的兑换。
+**注**：一个 Telegram 账号 24 小时领取一次测试 Token，领取格式请参考： /want bifrost 地址，目前支持 DOT-vDOT 的兑换。
 
-2. 打开 [Bifrost Dash]<https://dash.bifrost.finance/>
+2. 打开 [Bifrost Dash](https://dash.bifrost.finance/)
 
 3. 选择 `Developer` 进入`Extrinsics`
 
@@ -22,7 +22,8 @@
 
 <img :src="$withBase('/zh/convert-veos/convert-veos-04.png')" alt="" />
 
-7. 返回`Accounts`查看 vDOT 数量 **注**：  DOT : vDOT = 1 : 100
+7. 返回`Accounts`查看 vDOT 数量
+- **注**：  DOT : vDOT = 1 : 100
 
 <img :src="$withBase('/zh/convert-veos/convert-veos-05.png')" alt="" />
 
