@@ -537,7 +537,7 @@ module.exports =  {
                     'EOS 测试网跨链转账教程',
                   ],
                   [
-                    '/zh/help/eos-veos-tutorial.md',
+                    '/zh/help/token-vtoken-tutorial.md',
                     'Token 转 vToken 教程',
                   ],
                   [
