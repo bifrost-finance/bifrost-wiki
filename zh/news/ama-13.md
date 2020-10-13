@@ -7,3 +7,5 @@ Bifrost 是专为 Staking 提供流动性而设计的一条平行链，是基于
 Bifrost 解决 Staking 中认知门槛高、无流动性、治理与利益冲突的问题。
 Bifrost 的应用方向为无需锁仓的 staking、降低 staking 门槛、并提供 staking 收益等方向。
 用户的 Token 通过 Bifrost 协议可以兑换成一个 vToken，这个 vToken被动参加staking，只要持有 vToken 就会在一段时间后获得 staking 协议而不影响其流动性。
+
+
