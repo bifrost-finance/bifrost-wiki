@@ -1,6 +1,6 @@
 # Инструкция по кросс-чейн отправке EOS
 
-## Кросс-чейн транзакции из тестовой сети EOS Jungle в Asgard CC2 в кошельке TokenPocket
+## EOS Jungle Testnet - Asgard CC3 | TokenPocket 钱包跨链转账
 
 **1. Создайте аккаунт в тестовой сети EOS, [нажмите здесь для просмотра инструкции по регистрации](https://wiki.bifrost.finance/zh/help/eos-testnet-account-register.html)**
 
@@ -32,9 +32,9 @@
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-05.png')" alt="" width="30%" />
 
-**Выше представлен весь процесс проведения кросс-чейн транзакции из тестовой сети EOS Jungle в Bifrost Asgard CC2 с использованием кошелька TP ~ вы также можете использовать командный инструмент Cleos для осуществления операций кросс-чейн транзакций**
+**以上就是使用 TP 钱包从 EOS Jungle 测试网向 Bifrost Asgard CC3 跨链转账的全部过程啦~此外，大家还可以通过命令方法 Cleos 进行跨链转账操作**
 
-## Кросс-чейн транзакции из Asgard CC2 в тестовую сеть EOS Jungle
+## Asgard CC3 - EOS Jungle Testnet | 跨链转账
 
 **1. Откройте панель мониторинга Bifrost: <https://dash.bifrost.finance/>**
 
