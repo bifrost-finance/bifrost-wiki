@@ -1,6 +1,6 @@
 # EOS Cross-chain Transfer Tutorial
 
-## EOS Jungle Testnet-Asgard CC2 | TokenPocket wallet cross-chain transfer
+## EOS Jungle Testnet - Asgard CC3 | TokenPocket 钱包跨链转账
 
 **1. Register an EOS Testnet account, click to view [Register Tutorial](https://wiki.bifrost.finance/zh/help/eos-testnet-account-register.html)**
 
@@ -32,9 +32,9 @@
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-05.png')" alt="" width="30%" />
 
-**The above is the whole process of cross-chain transfer from EOS Jungle test network to Bifrost Asgard CC2 using TP wallet~ In addition, you can also use the command method Cleos to perform cross-chain transfer operations**
+**以上就是使用 TP 钱包从 EOS Jungle 测试网向 Bifrost Asgard CC3 跨链转账的全部过程啦~此外，大家还可以通过命令方法 Cleos 进行跨链转账操作**
 
-## Asgard CC2-EOS Jungle Testnet | Cross-chain Transfer
+## Asgard CC3 - EOS Jungle Testnet | 跨链转账
 
 **1. Open Bifrost Dashboard: <https://dash.bifrost.finance/>**
 
