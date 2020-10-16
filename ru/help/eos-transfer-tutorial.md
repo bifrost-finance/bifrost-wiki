@@ -24,7 +24,7 @@
 
 **7. Нажмите на кнопку `Transfer` и введите bifrostcross в качестве получателя в поле `Receiver`**
 
-**8. Скопируйте и вставьте свой адрес BNC и @bifrost в поле `Memo` например： 5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpnehxcpcnohgkutqy@bifrost**
+**8. 在`备注`内复制粘贴你的 BNC 地址@bifrost 例如：5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY@bifrost:EOS**
 
 **Примечание: для получения адреса BNC перейдите в раздел [Инструкция по созданию кошелька BNC](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)**
 
