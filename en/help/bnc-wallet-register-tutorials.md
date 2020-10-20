@@ -31,7 +31,7 @@
 ### How to copy BNC account address?
 
 
-**1. 点击钱包头像即可自动复制**
+**1. Click the wallet avatar to copy automatically.**
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-06.png')" alt="" width="60%" />
 
