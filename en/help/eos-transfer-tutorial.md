@@ -10,7 +10,7 @@
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-01.png')" alt="" width="30%" />
 
-**4. 下拉至自定义节点，点击`添加自定义节点` 复制粘贴节点链接：https://api.jungle3.alohaeos.com:443**
+**4. Scroll down to the custom, click `Add a custom node` to copy and paste the node link: https://api.jungle3.alohaeos.com:443**
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-02.png')" alt="" width="30%" />
 
@@ -32,7 +32,7 @@
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-05.png')" alt="" width="30%" />
 
-**以上就是使用 TP 钱包从 EOS Jungle 测试网向 Bifrost Asgard CC3 跨链转账的全部过程啦~此外，大家还可以通过命令方法 Cleos 进行跨链转账操作**
+**10. The above is the entire process of cross-chain transfer from EOS Jungle testnet to Bifrost Asgard CC3 using TP wallet~ In addition, you can also use the command method Cleos to perform cross-chain transfer operations**
 
 ## Asgard CC3 - EOS Jungle Testnet | 跨链转账
 
