@@ -1,18 +1,18 @@
-# Bifrost 地址创建教程
+# Bifrost address creation tutorial
 
 **1. Visit: <https://dash.bifrost.finance/#/explorer>**
 
-**2. 选择`Accounts`，点击`Accounts`**
+**2. Select `Accounts`, click `Accounts`**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-01.png')" alt="" width="60%" />
 
-**3. 点击`Add account`**
+**3. Click `Add account`**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-02.png')" alt="" width="60%" />
 
-**4. 填写账号`name`、`password`并备份助记词和种子，填好后选择`Next`**
+**4. Fill in the account number `name`, `password` and back up the mnemonic phrase and seed, and then select `Next`**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-03.png')" alt="" width="60%" />
