@@ -41,7 +41,7 @@ In terms of technology, lowering the barriers to blockchain development will sav
 
 **8. Can you share how you got grant from Web3 foundation?**
 
-我认为没有什么特别的技巧，只要是符合 Web3 愿景，可以产生实际价值，踏实做事的团队，都有机会拿到 Web3 基金会的 Grant。推荐有想法、有技术的团队都可以试着申请一下。
+I don't think there are any special skills. As long as it is in line with the Web3 vision, can generate actual value, and work steadily, the team will have the opportunity to get the Grant from the Web3 Foundation. It is recommended that teams with ideas and skills to apply.
 
 **9. What are your biggest expectations for polkadot and Bifrost in 2020?**
 
