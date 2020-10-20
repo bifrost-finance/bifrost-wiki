@@ -1,4 +1,4 @@
-# 圆桌派 | 波卡生态 Bifrost，跨链延展 Staking 的新场景
+# Round table party | Polkadot and Bifrost's, new scenario for cross-chain extension of staking Contextrequest
 
 **Unconsciously, the AMA activity of polkadot ecological project carried out by chain reading and polkabase has entered the 10th phase. Liandu AMA has the honor to invite "lurpis", co-founder of "Bifrost", as a guest in the chain reading studio to talk with us about "the new scene of  polkadot parallel chain Bifrost combined with cross chain extension staking"**
 
