@@ -10,7 +10,7 @@
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-01.png')" alt="" width="30%" />
 
-**4. Проскрольте страниуц вниз до раздела Custom, нажмите кнопку `Add a custom node`, вставьте ссылку: https://jungle.eosn.io:443**
+**4. 下拉至自定义节点，点击`添加自定义节点` 复制粘贴节点链接：https://api.jungle3.alohaeos.com:443**
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-02.png')" alt="" width="30%" />
 
