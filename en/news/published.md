@@ -9,7 +9,7 @@
 
 **活动规则**
 
-很幸运能够和 Acala、Stafi 这样优秀的团队一同进步。相较于 Acala 和 Stafi，Bifrost 旨在提供 Staking 流动性的同时更侧重于降低用户 Staking 门槛和提高 Staking 收益。
+I am fortunate to be able to progress with such excellent teams as Acala and Stafi. Compared to Acala and Stafi, Bifrost aims to provide staking liquidity while focusing more on lowering user staking thresholds and increasing staking revenue.
 
 推特新增用户：2,751 人 活动推特浏览量：74,040 节点浏览量：14,800 推文转发量：3,054 推文评论量：3,040 推文点赞量：3,008
 
@@ -33,11 +33,11 @@ For example, if you pay 40% annualisation, the price to buy 10000 KSM and vote f
 
 **6. How did you notice polkadot and substrate?**
 
-初次接触波卡应该是从 Substrate 开始的，当时基于智能合约开发的业务受限，在寻找解决方案时了解到 Substrate 可能是一个可行的技术框架。在对比过 Cosmos-SDK 和 Substrate 之后，最终我们选择了 Substrate。
+The first contact with Polkadot should be from Substrate. At that time, the business based on smart contract development was limited. When looking for a solution, I learned that Substrate may be a viable technical framework. After comparing Cosmos-SDK and Substrate, we finally chose Substrate.
 
 **7. What's the greatest help to you and your team with substrate?**
 
-在技术方面，降低区块链开发门槛，节省大量开发工作量。在产品方面，Substrate 原生兼容 Polkadot 中继网络，使得多链场景可以快速展开，当然除此之外还有 Web3 foundation grant 和 Substrate builder 计划会从资金、市场、产品、融资、规划等多个方面提供帮助。
+In terms of technology, lowering the barriers to blockchain development will save a lot of development workload. In terms of products, Substrate is natively compatible with the Polkadot relay network, which enables rapid deployment of multi-chain scenarios. Of course, there are also Web3 foundation grant and Substrate builder plans that will provide funding, market, product, financing, planning, etc. help
 
 **8. Can you share how you got grant from Web3 foundation?**
 
