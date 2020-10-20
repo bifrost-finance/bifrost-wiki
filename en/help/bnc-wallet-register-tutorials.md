@@ -17,15 +17,15 @@
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-03.png')" alt="" width="60%" />
 
-**4. 接受提示并点击`Save`创建账号**
+**4. Accept the prompt and click `Save` to create an account**
 
 
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-04.png')" alt="" width="60%" />
 
-**5. `手机端`创建的可能不会自动下载 json 文件，所以一定要`备份好上面的助记词或原始种子！！！`**
+**5. `Mobile Phone` may not automatically download the json file, so be sure to `back up the above mnemonic or original seed!!! `**
 
 
-<img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-05.png')" alt="文件名即钱包地址" width="60%" />
+<img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-05.png')" alt="Wallet address is the file name" width="60%" />
 
 
 ### How to copy BNC account address?
