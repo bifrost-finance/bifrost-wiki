@@ -501,6 +501,10 @@ module.exports =  {
                     '/zh/news/ama-16.md',
                     'AMA 问答汇总（第十六期）',
                   ],
+                  [
+                    '/zh/news/ama-17.md',
+                    'AMA 问答汇总（第十七期）',
+                  ],
                 ],
               },
               {
