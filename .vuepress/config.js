@@ -493,6 +493,14 @@ module.exports =  {
                     '/zh/news/ama-14.md',
                     'AMA 问答汇总（第十四期）',
                   ],
+                  [
+                    '/zh/news/ama-15.md',
+                    'AMA 问答汇总（第十五期）',
+                  ],
+                  [
+                    '/zh/news/ama-16.md',
+                    'AMA 问答汇总（第十六期）',
+                  ],
                 ],
               },
               {
