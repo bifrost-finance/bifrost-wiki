@@ -1,4 +1,5 @@
 # Polkadot Ecoproject Bifrost extend a staking new scenario with cross-chain
+
 On April 22, Bifrost and Liandu jointly organized a Bifrost online staking AMA, introducing how to reduce the threshold of staking through cross-chain to improve the liquidity and staking rewards. The following are the details of this online AMA event
 
 ***Date: 2020/4/20***
