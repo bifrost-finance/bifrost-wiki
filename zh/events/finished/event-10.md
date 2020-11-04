@@ -1,4 +1,5 @@
 # 波卡生态 Bifrost，跨链延展 Staking 的新场景
+
 4月22日，Bifrost 联合链读一起举办了一期 Bifrost 线上 staking AMA，介绍了如何通过跨链降低 Staking 的门槛提高 Staking 的流动性和收益，以下是本次线上 AMA 活动详情。
 
 ***日期：2020/4/20***

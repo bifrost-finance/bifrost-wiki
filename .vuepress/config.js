@@ -393,6 +393,14 @@ module.exports =  {
                         '/zh/events/finished/event-13.md',
                         '链团 X Bifrost（第七期）',
                       ],
+                      [
+                        '/zh/events/finished/event-14.md',
+                        'Doter × Bifrost × 币乎（第八期）',
+                      ],
+                      [
+                        '/zh/events/finished/event-15.md',
+                        '阿苏区块链 × Bifrost（第九期）',
+                      ],
                     ],
                   },
                   {
@@ -424,7 +432,7 @@ module.exports =  {
               ],
               [
                 '/zh/contribution/Wiki-contribution.md',
-                'WiKi 翻译贡献公示',
+                'Bifrost 长期贡献奖励公示',
               ],
             ],
           },
