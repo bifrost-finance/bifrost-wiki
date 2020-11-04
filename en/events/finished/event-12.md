@@ -23,5 +23,7 @@ Winners of Bifrost Peripheral Products: 15
 
 **Prize giving:**
 
-Total prizes for the event: 200 BNC & Bifrost and T-shirt * 5
+活动总奖励：200 BNC & Bifrost、T恤 * 1份
+
+棒球帽 * 2份、彩虹袜 & 钥匙扣 * 2份
 
