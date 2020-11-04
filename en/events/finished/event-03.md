@@ -1,4 +1,5 @@
 # Asgard CC1 Node Event
+
 After six months of development, Bifrost ushered in the launch of the Asgard pre-production network. It will support EOS Jungle Testnet cross-chain, Token and vToken exchange, SWAP transactions and other functions. Asgard was successfully launched on May 21. In order to motivate community partners to actively run nodes on Asgard, we decided to allocate 5,000 BNCs based on everyone's node running time.
 
 
