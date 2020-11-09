@@ -401,6 +401,18 @@ module.exports =  {
                         '/zh/events/finished/event-15.md',
                         '阿苏区块链 × Bifrost（第九期）',
                       ],
+                      [
+                        '/zh/events/finished/event-16.md',
+                        'MXC 抹茶 × Bifrost（第十期）',
+                      ],
+                      [
+                        '/zh/events/finished/event-17.md',
+                        'Bifrost 海外首期 AMA（第十一期）',
+                      ],
+                      [
+                        '/zh/events/finished/event-18.md',
+                        'Blue Mountain Labs × Bifrost（第十二期）',
+                      ],
                     ],
                   },
                   {
