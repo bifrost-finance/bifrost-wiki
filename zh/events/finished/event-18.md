@@ -1,4 +1,4 @@
-Blue Mountain Labs ✖️ Bifrost Web3 大会及万向区块链周回顾，Bifrost 有哪些新动态？
+# BlueMountainLabs ✖️ Bifrost Web3 大会及万向区块链周回顾，Bifrost 有哪些新动态？
 
 ***日期：2020/10/30***
 

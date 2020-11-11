@@ -1,4 +1,4 @@
-# 海外首期 AMA  The staking liquidity pioneers-What changes did Bifrost?
+# 海外首期 AMA  - The staking liquidity pioneers-What changes did Bifrost?
 
 ***日期：2020/10/21***
 
