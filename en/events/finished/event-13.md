@@ -17,7 +17,15 @@ Participants in the draw: 379
 
 Number of BNC winners: 20
 
-Note: The remaining BNC has not been issued. Reasons: (1) Bifrost address has not been submitted.
+**奖励发放**
+
+活动总奖励：200 BNC
+
+实际总发放： 170 BNC
+
+奖励发放时间：2020/7/20
+
+注：剩余未发放 BNC 原因：（1）活动条件未完成 （2）BNC 地址未绑定  (3) 绑定地址错误
 
 | Bifrost address                                  | BNC amount |
 | ------------------------------------------------ | ---------- |
