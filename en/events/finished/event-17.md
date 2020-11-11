@@ -29,7 +29,7 @@ Bifrost 电报新增人数：1000+
 
 Bifrost 推特新增人数：200+
 
-**奖励发放**
+**奖励发放（Telegram + Twitter)**
 
 活动总奖励：1100 BNC
 
@@ -37,7 +37,17 @@ Bifrost 推特新增人数：200+
 
 奖励发放时间：2020/11/6
 
+**奖励发放（有奖问答)**
+
+活动总奖励：100 BNC
+
+实际总发放：100 BNC
+
+奖励发放时间：2020/11/6
+
 注：剩余未发放 BNC 原因：（1）Bifrost 地址未提交 （2）地址提交错误
+
+- Bifrost Telegram + Twitter 部分奖励公示
 
 | Bifrost 地址                                       | BNC 数量      |
 | ------------------------------------------------ | ----------- |
@@ -268,10 +278,14 @@ Bifrost 推特新增人数：200+
 | cEbBHUw6vjreUSpNfRtTDKfMBZAWKuTWhWdBq3Ps7ygfGjL  | 0.583526532 |
 | dnDc9Ka37S1G3cUzstTNpLGbnRXigdEV2upaUCUCSBLh3tv  | 0.527530356 |
 
+- Bifrost 有奖问答奖励公示
 
-
-
-
+| Bifrost 地址                                      | Bifrost 数量 |
+| ----------------------------------------------- | ---------- |
+| gXSJDKoQMp6yapagNc7bkcfBiKq912MnUXEftDuLfuCx9Yd | 20 BNC     |
+| guAFazwcMCsPnZrFSLRfpNuLVhCKTozNn5EXyfg7U666EWt | 20 BNC     |
+| gyQefsR9WzzTyQUUjCT68vTRZ83dbFXqBHgh5CVnxMHgNrp | 40 BNC     |
+| g55tJRuSpCJ8oKiUe2qnELirkE2HFDo9jWEMAb9CQTcWCtC | 20 BNC     |
 
 
 
