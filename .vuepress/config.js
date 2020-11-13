@@ -415,17 +415,21 @@ module.exports =  {
                       ],
                       [
                         '/zh/events/finished/event-18.md',
-                        'Blue Mountain Labs × Bifrost（第十二期）',
+                        'BlueMountainLabs × Bifrost（第十二期）',
                       ],
                     ],
                   },
                   {
-                    title: '其他',
+                    title: '其他活动',
                     collapsable: false,
                     children: [
                       [
                         '/zh/events/finished/event-04.md',
                         '有奖征文',
+                      ],
+                      [
+                        '/zh/events/finished/event-21.md',
+                        '视频大赛',
                       ],
                     ],
                   },
