@@ -27,6 +27,42 @@ It has been nearly two months since Asgard CC1 (candidate chain 1) was released 
   - Receive ASG through Faucet, self-staking + nominate the top 50 ASG nodes to be elected validator
   - Every 3 hours (1 ERA 1800 BLOCK) re-elect validators based on the total staking amount
 
+**参与情况**
+
+1. 节点数据:
+
+节点运行总时长：11,500,890
+
+测试网出块数量：434,506
+
+节点累计数量：1,231
+
+2. 跨链数据：
+
+跨链总次数：28,715
+
+EOS 跨链总金额：1,503,409
+
+vToken 兑换量：143,823,815 vEOS
+
+3. 验证人数据：
+
+验证人数量：50
+
+提名人数：150
+
+质押数量：321,587 ASG
+
+**奖励发放**
+
+活动总奖励：15,000 BNC
+
+实际总发放： 13,881.8192 BNC
+
+奖励发放时间：2020/9/9
+
+注：剩余未发放 BNC 原因：（1）活动条件未完成
+
 | BNC Amount | Bifrost Address                                     |
 | ---------- | --------------------------------------------------- |
 | 400.0023   | hSZ7V85R6yZxS956J3WUs9dHoqCAynnmWADt5mzxXGFdq       |
