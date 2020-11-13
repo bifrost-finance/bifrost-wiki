@@ -339,11 +339,15 @@ module.exports =  {
                       ],
                       [
                         '/zh/events/finished/event-03.md',
-                        'Asgard 节点活动',
+                        'Asgard 激励测试网',
                       ],
                       [
                         '/zh/events/finished/event-07.md',
-                        'Asgard CC2 节点大赛',
+                        'Asgard CC2 激励测试网',
+                      ],
+                      [
+                        '/zh/events/finished/event-20.md',
+                        'Asgard CC3 激励测试网',
                       ],
                     ],
                   },
