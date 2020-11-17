@@ -1,13 +1,12 @@
-# Bifrost 联合创始人Lurpis：随着Polkadot开放平行链功能&ETH 2.0升级，大部分DeFi应用将构建在PoS共识网络中
+# DeFi 如何在 PoS 网络中与 Staking 收益抗争
 
-***日期***：2020/9/29
-
-<img :src="$withBase('/zh/news-ama16-1.jng')" alt="ews-ama16-1" />
-演讲人: Bifrost 联合创始人Lurpis
+### 前言
 
 由火星区块链主办、波场联合主办的｢POW'ER 2020 DEFI创新者大会｣今日在深圳举行。本次大会议题覆盖DeFi领域10大细分赛道，广泛邀请国内外DeFi创新领袖、产业领军人物、一线投研机构，深入探讨DeFi的挑战和机遇、一二级市场投资方略，并发起DeFi项目闪电路演、NFT加密艺术品秋季拍卖。
 
-**以下是演讲全文**：
+***日期***：2020/9/29
+
+### 分享回顾
 
 大家好！我是Bifrost联合创始人Lurpis，我简单给大家介绍一下Bifrost解决什么问题。
 
