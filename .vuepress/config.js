@@ -477,7 +477,6 @@ module.exports =  {
                        '/zh/news/ama-21.md',
                        '波卡中国行-南京站',
                      ],
-                     ],
                     ],
                   },
                   {
