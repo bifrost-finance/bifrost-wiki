@@ -462,85 +462,146 @@ module.exports =  {
             sidebarDepth: 1,
             children: [
               {
-                title: 'AMA 文章',
+                title: '线下活动',
                 collapsable: false,
                 children: [
-                  [
-                    '/zh/news/ama-01.md',
-                    'AMA 问答汇总（第一期）',
-                  ],
-                  [
-                    '/zh/news/ama-02.md',
-                    'AMA 问答汇总（第二期）',
-                  ],
-                  [
-                    '/zh/news/ama-03.md',
-                    'AMA 问答汇总（第三期）',
-                  ],
-                  [
-                    '/zh/news/ama-04.md',
-                    'AMA 问答汇总（第四期）',
-                  ],
-                  [
-                    '/zh/news/ama-05.md',
-                    'AMA 问答汇总（第五期）',
-                  ],
-                  [
-                    '/zh/news/ama-06.md',
-                    'AMA 问答汇总（第六期）',
-                  ],
-                  [
-                    '/zh/news/ama-07.md',
-                    'AMA 问答汇总（第七期）',
-                  ],
-                  [
-                    '/zh/news/ama-08.md',
-                    'AMA 问答汇总（第八期）',
-                  ],
-                  [
-                    '/zh/news/ama-09.md',
-                    'AMA 问答汇总（第九期）',
-                  ],
-                  [
-                    '/zh/news/ama-10.md',
-                    'AMA 问答汇总（第十期）',
-                  ],
-                  [
-                    '/zh/news/ama-11.md',
-                    'AMA 问答汇总（第十一期）',
-                  ],
-                  [
-                    '/zh/news/ama-12.md',
-                    'AMA 问答汇总（第十二期）',
-                  ],
-                  [
-                    '/zh/news/ama-13.md',
-                    'AMA 问答汇总（第十三期）',
-                  ],
-                  [
-                    '/zh/news/ama-14.md',
-                    'AMA 问答汇总（第十四期）',
-                  ],
-                  [
-                    '/zh/news/ama-15.md',
-                    'AMA 问答汇总（第十五期）',
-                  ],
-                  [
-                    '/zh/news/ama-16.md',
-                    'AMA 问答汇总（第十六期）',
-                  ],
-                  [
-                    '/zh/news/ama-17.md',
-                    'AMA 问答汇总（第十七期）',
-                  ],
-                  [
-                    '/zh/news/ama-18.md',
-                    'AMA 问答汇总（第十八期）',
-                  ],
-                  [
-                    '/zh/news/ama-19.md',
-                    'AMA 问答汇总（第十九期）',
-                  ],
+                  {
+                    title: '波卡中国行',
+                    collapsable: false,
+                    children: [
+                     [
+                       '/zh/news/ama-14.md',
+                       '波卡中国行-上海站',
+                     ],
+                     [
+                       '/zh/news/ama-21.md',
+                       '波卡中国行-南京站',
+                     ],
+                     ],
+                    ],
+                  },
+                  {
+                    title: '厦门区块链周',
+                    collapsable: false,
+                    children: [
+                     [
+                       '/zh/news/ama-12.md',
+                       '圆桌会议',
+                     ],
+                     [
+                       '/zh/news/ama-13.md',
+                       'PolkaVerse-厦门站',
+                     ],
+                    ],
+                  },
+                  {
+                    title: '其他活动',
+                    collapsable: false,
+                    children: [
+                     [
+                       '/zh/news/ama-15.md',
+                       '金色沙龙 & PolkaVerse',
+                     ],
+                     [
+                       '/zh/news/ama-16.md',
+                       'DEFI创新者大会',
+                     ],
+                    ],
+                  },
+                ],
+              },
+              {
+                title: '线上活动',
+                collapsable: false,
+                children: [
+                  {
+                    title: '媒体 AMA',
+                    collapsable: false,
+                    children: [
+                     [
+                       '/zh/news/ama-07.md',
+                       '链团',
+                     ],
+                     [
+                       '/zh/news/ama-10.md',
+                       '鸵鸟区块链',
+                     ],
+                     [
+                       '/zh/news/ama-11.md',
+                       'Cointelegraph 中文',
+                     ],
+                     [
+                       '/zh/news/ama-20.md',
+                       '火星财经',
+                     ],
+                    ],
+                  },
+                  {
+                    title: '钱包 AMA',
+                    collapsable: false,
+                    children: [
+                     [
+                       '/zh/news/ama-08.md',
+                       'Hyperpay',
+                     ],
+                     [
+                       '/zh/news/ama-09.md',
+                       'Mathwallet',
+                     ],
+                    ],
+                  },
+                  {
+                    title: 'Exchange AMA',
+                    collapsable: false,
+                    children: [
+                     [
+                       '/zh/news/ama-05.md',
+                       'HotTalk',
+                     ],
+                     [
+                       '/zh/news/ama-17.md',
+                       'MXC 抹茶',
+                     ],
+                     [
+                       '/zh/news/ama-18.md',
+                       'BigOne 币格',
+                     ],
+                     [
+                       '/zh/news/ama-22.md',
+                       'CoinW 币赢',
+                     ],
+                    ],
+                  },
+                  {
+                    title: '其他活动',
+                    collapsable: false,
+                    children: [
+                     [
+                       '/zh/news/ama-01.md',
+                       'AMA 问答汇总（第一期）',
+                     ],
+                     [
+                       '/zh/news/ama-02.md',
+                       'AMA 问答汇总（第二期）',
+                     ],
+                     [
+                       '/zh/news/ama-03.md',
+                       'AMA 问答汇总（第三期）',
+                     ],
+                     [
+                       '/zh/news/ama-04.md',
+                       'AMA 问答汇总（第四期）',
+                     ],
+                     [
+                       '/zh/news/ama-06.md',
+                       'AMA 问答汇总（第五期）',
+                     ],
+                     [
+                       '/zh/news/ama-19.md',
+                       'AMA 问答汇总（第六期）',
+                     ],
+                    ],
+                  },
                 ],
               },
               {
