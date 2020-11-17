@@ -485,7 +485,7 @@ module.exports =  {
                     children: [
                      [
                        '/zh/news/ama-12.md',
-                       '圆桌会议',
+                       '开放金融大会',
                      ],
                      [
                        '/zh/news/ama-13.md',
