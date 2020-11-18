@@ -533,6 +533,14 @@ module.exports =  {
                        '/zh/news/ama-20.md',
                        '火星财经',
                      ],
+                     [
+                       '/zh/news/ama-02.md',
+                       '链读',
+                     ],
+                     [
+                       '/zh/news/ama-03.md',
+                       '链读 & PolkaBase',
+                     ],
                     ],
                   },
                   {
@@ -580,24 +588,16 @@ module.exports =  {
                        'AMA 问答汇总（第一期）',
                      ],
                      [
-                       '/zh/news/ama-02.md',
+                       '/zh/news/ama-04.md',
                        'AMA 问答汇总（第二期）',
                      ],
                      [
-                       '/zh/news/ama-03.md',
+                       '/zh/news/ama-06.md',
                        'AMA 问答汇总（第三期）',
                      ],
                      [
-                       '/zh/news/ama-04.md',
-                       'AMA 问答汇总（第四期）',
-                     ],
-                     [
-                       '/zh/news/ama-06.md',
-                       'AMA 问答汇总（第五期）',
-                     ],
-                     [
                        '/zh/news/ama-19.md',
-                       'AMA 问答汇总（第六期）',
+                       'AMA 问答汇总（第四期）',
                      ],
                     ],
                   },
