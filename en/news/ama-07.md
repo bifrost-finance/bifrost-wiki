@@ -1,4 +1,4 @@
-# Liantuan × Bifrost | Bifrost push the new development of Polkadot DeFi with cross-chain.
+# 链团 × Bifrost | 如何落实 Defi & Staking 双收益?
 
 ### 前言
 
@@ -10,7 +10,7 @@
 
 ### 分享回顾
 
-**请您做一个自我介绍，简单描述一下Bifrost？**
+**请您做一个自我介绍，简单描述一下 Bifrost？**
 
 大家好，我是Bifrost联合创始人Lurpis。非常感谢链团的邀请参与这次AMA。
 
