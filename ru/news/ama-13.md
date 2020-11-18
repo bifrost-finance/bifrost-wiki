@@ -1,4 +1,4 @@
-# PolkaVerse 波卡万物生长-厦门
+# PolkaVerse | 波卡万物生长-厦门
 
 ### 前言
 
