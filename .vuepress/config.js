@@ -417,6 +417,10 @@ module.exports =  {
                         '/zh/events/finished/event-18.md',
                         'BlueMountainLabs × Bifrost（第十二期）',
                       ],
+                      [
+                        '/zh/events/finished/event-23.md',
+                        'DeFiG0 × Bifrost（第十三期）',
+                      ],
                     ],
                   },
                   {
@@ -430,6 +434,10 @@ module.exports =  {
                       [
                         '/zh/events/finished/event-21.md',
                         '视频大赛',
+                      ],
+                      [
+                        '/zh/events/finished/event-22.md',
+                        'Meme 创意大赛',
                       ],
                     ],
                   },
@@ -579,6 +587,17 @@ module.exports =  {
                      ],
                     ],
                   },
+                  {
+                    title: '社区 AMA',
+                    collapsable: false,
+                    children: [
+                     [
+                       '/zh/news/ama-24.md',
+                       'DeFiG0',
+                     ],
+                    ],
+                  },
+                  {
                   {
                     title: '其他活动',
                     collapsable: false,
