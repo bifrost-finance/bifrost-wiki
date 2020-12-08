@@ -1,4 +1,4 @@
-module.exports =  {
+module.exports = {
   base: '/',
   title: 'Bifrost Wiki',
   description: 'A parachain designed for staking\'s liquidity. 为 Staking 提供流动性的跨链网络。',
@@ -201,7 +201,7 @@ module.exports =  {
                     '/en/news/ama-07.md',
                     'AMA Article Seven',
                   ],
-                  ],
+                ],
               },
               {
                 title: 'Exclusive Interview',
@@ -221,46 +221,46 @@ module.exports =  {
             sidebarDepth: 0,
             children: [
               {
-                    title: 'Turtorials',
-                    collapsable: false,
-                    sidebarDepth: 0,
-                    children: [
-                      [
-                        '/en/help/node-general-tutorial.md',
-                        'Node Running Turtorial',
-                      ],
-                      [
-                        '/en/help/validator-tutorial.md',
-                        'Validator Turtorial',
-                      ],
-                      [
-                        '/en/help/eos-testnet-account-register.md',
-                        'EOS Jungle Testnet Account Register Turtorials',
-                      ],
-                      [
-                        '/en/help/eos-transfer-tutorial.md',
-                        'EOS Jungle Testnet Cross-chain Transfer Turtorial',
-                      ],
-                      [
-                        '/en/help/bnc-wallet-register-tutorials.md',
-                        'Bifrost Address Register',
-                      ],
-                      [
-                        '/en/help/wiki-translation-register-tutorials.md',
-                        'WiKi Translation Turtorial',
-                      ],
-                    ],
+                title: 'Turtorials',
+                collapsable: false,
+                sidebarDepth: 0,
+                children: [
+                  [
+                    '/en/help/node-general-tutorial.md',
+                    'Node Running Turtorial',
+                  ],
+                  [
+                    '/en/help/validator-tutorial.md',
+                    'Validator Turtorial',
+                  ],
+                  [
+                    '/en/help/eos-testnet-account-register.md',
+                    'EOS Jungle Testnet Account Register Turtorials',
+                  ],
+                  [
+                    '/en/help/eos-transfer-tutorial.md',
+                    'EOS Jungle Testnet Cross-chain Transfer Turtorial',
+                  ],
+                  [
+                    '/en/help/bnc-wallet-register-tutorials.md',
+                    'Bifrost Address Register',
+                  ],
+                  [
+                    '/en/help/wiki-translation-register-tutorials.md',
+                    'WiKi Translation Turtorial',
+                  ],
+                ],
               },
               {
-                    title: 'FAQ',
-                    collapsable: false,
-                    sidebarDepth: 0,
-                    children: [
-                      [
-                        '/en/help/faq.md',
-                        'FAQ',
-                      ],
-                    ],
+                title: 'FAQ',
+                collapsable: false,
+                sidebarDepth: 0,
+                children: [
+                  [
+                    '/en/help/faq.md',
+                    'FAQ',
+                  ],
+                ],
               },
             ],
           },
@@ -477,42 +477,42 @@ module.exports =  {
                     title: '波卡中国行',
                     collapsable: false,
                     children: [
-                     [
-                       '/zh/news/ama-14.md',
-                       '波卡中国行-上海站',
-                     ],
-                     [
-                       '/zh/news/ama-21.md',
-                       '波卡中国行-南京站',
-                     ],
+                      [
+                        '/zh/news/ama-14.md',
+                        '波卡中国行-上海站',
+                      ],
+                      [
+                        '/zh/news/ama-21.md',
+                        '波卡中国行-南京站',
+                      ],
                     ],
                   },
                   {
                     title: '厦门区块链周',
                     collapsable: false,
                     children: [
-                     [
-                       '/zh/news/ama-12.md',
-                       '开放金融大会',
-                     ],
-                     [
-                       '/zh/news/ama-13.md',
-                       'PolkaVerse-厦门站',
-                     ],
+                      [
+                        '/zh/news/ama-12.md',
+                        '开放金融大会',
+                      ],
+                      [
+                        '/zh/news/ama-13.md',
+                        'PolkaVerse-厦门站',
+                      ],
                     ],
                   },
                   {
                     title: '其他活动',
                     collapsable: false,
                     children: [
-                     [
-                       '/zh/news/ama-15.md',
-                       '金色沙龙 & PolkaVerse',
-                     ],
-                     [
-                       '/zh/news/ama-16.md',
-                       'DEFI创新者大会',
-                     ],
+                      [
+                        '/zh/news/ama-15.md',
+                        '金色沙龙 & PolkaVerse',
+                      ],
+                      [
+                        '/zh/news/ama-16.md',
+                        'DEFI创新者大会',
+                      ],
                     ],
                   },
                 ],
@@ -525,99 +525,98 @@ module.exports =  {
                     title: '媒体 AMA',
                     collapsable: false,
                     children: [
-                     [
-                       '/zh/news/ama-07.md',
-                       '链团',
-                     ],
-                     [
-                       '/zh/news/ama-10.md',
-                       '鸵鸟区块链',
-                     ],
-                     [
-                       '/zh/news/ama-11.md',
-                       'Cointelegraph 中文',
-                     ],
-                     [
-                       '/zh/news/ama-20.md',
-                       '火星财经',
-                     ],
-                     [
-                       '/zh/news/ama-02.md',
-                       '链读',
-                     ],
-                     [
-                       '/zh/news/ama-03.md',
-                       '链读 & PolkaBase',
-                     ],
+                      [
+                        '/zh/news/ama-07.md',
+                        '链团',
+                      ],
+                      [
+                        '/zh/news/ama-10.md',
+                        '鸵鸟区块链',
+                      ],
+                      [
+                        '/zh/news/ama-11.md',
+                        'Cointelegraph 中文',
+                      ],
+                      [
+                        '/zh/news/ama-20.md',
+                        '火星财经',
+                      ],
+                      [
+                        '/zh/news/ama-02.md',
+                        '链读',
+                      ],
+                      [
+                        '/zh/news/ama-03.md',
+                        '链读 & PolkaBase',
+                      ],
                     ],
                   },
                   {
                     title: '钱包 AMA',
                     collapsable: false,
                     children: [
-                     [
-                       '/zh/news/ama-08.md',
-                       'Hyperpay',
-                     ],
-                     [
-                       '/zh/news/ama-09.md',
-                       'Mathwallet',
-                     ],
+                      [
+                        '/zh/news/ama-08.md',
+                        'Hyperpay',
+                      ],
+                      [
+                        '/zh/news/ama-09.md',
+                        'Mathwallet',
+                      ],
                     ],
                   },
                   {
                     title: 'Exchange AMA',
                     collapsable: false,
                     children: [
-                     [
-                       '/zh/news/ama-05.md',
-                       'HotTalk',
-                     ],
-                     [
-                       '/zh/news/ama-17.md',
-                       'MXC 抹茶',
-                     ],
-                     [
-                       '/zh/news/ama-18.md',
-                       'BigOne 币格',
-                     ],
-                     [
-                       '/zh/news/ama-22.md',
-                       'CoinW 币赢',
-                     ],
+                      [
+                        '/zh/news/ama-05.md',
+                        'HotTalk',
+                      ],
+                      [
+                        '/zh/news/ama-17.md',
+                        'MXC 抹茶',
+                      ],
+                      [
+                        '/zh/news/ama-18.md',
+                        'BigOne 币格',
+                      ],
+                      [
+                        '/zh/news/ama-22.md',
+                        'CoinW 币赢',
+                      ],
                     ],
                   },
                   {
                     title: '社区 AMA',
                     collapsable: false,
                     children: [
-                     [
-                       '/zh/news/ama-24.md',
-                       'DeFiG0',
-                     ],
+                      [
+                        '/zh/news/ama-24.md',
+                        'DeFiG0',
+                      ],
                     ],
                   },
-                  {
                   {
                     title: '其他活动',
                     collapsable: false,
                     children: [
-                     [
-                       '/zh/news/ama-01.md',
-                       'AMA 问答汇总（第一期）',
-                     ],
-                     [
-                       '/zh/news/ama-04.md',
-                       'AMA 问答汇总（第二期）',
-                     ],
-                     [
-                       '/zh/news/ama-06.md',
-                       'AMA 问答汇总（第三期）',
-                     ],
-                     [
-                       '/zh/news/ama-19.md',
-                       'AMA 问答汇总（第四期）',
-                     ],
+                      [
+                        '/zh/news/ama-01.md',
+                        'AMA 问答汇总（第一期）',
+                      ],
+                      [
+                        '/zh/news/ama-04.md',
+                        'AMA 问答汇总（第二期）',
+                      ],
+                      [
+                        '/zh/news/ama-06.md',
+                        'AMA 问答汇总（第三期）',
+                      ],
+                      [
+                        '/zh/news/ama-19.md',
+                        'AMA 问答汇总（第四期）',
+                      ],
                     ],
                   },
                 ],
