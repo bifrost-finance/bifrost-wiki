@@ -525,30 +525,38 @@ module.exports = {
                     title: '媒体 AMA',
                     collapsable: false,
                     children: [
-                      [
-                        '/zh/news/ama-07.md',
-                        '链团',
-                      ],
-                      [
-                        '/zh/news/ama-10.md',
-                        '鸵鸟区块链',
-                      ],
-                      [
-                        '/zh/news/ama-11.md',
-                        'Cointelegraph 中文',
-                      ],
-                      [
-                        '/zh/news/ama-20.md',
-                        '火星财经',
-                      ],
-                      [
-                        '/zh/news/ama-02.md',
-                        '链读',
-                      ],
-                      [
-                        '/zh/news/ama-03.md',
-                        '链读 & PolkaBase',
-                      ],
+                     [
+                       '/zh/news/ama-07.md',
+                       '链团',
+                     ],
+                     [
+                       '/zh/news/ama-10.md',
+                       '鸵鸟区块链',
+                     ],
+                     [
+                       '/zh/news/ama-11.md',
+                       'Cointelegraph 中文',
+                     ],
+                     [
+                       '/zh/news/ama-20.md',
+                       '火星财经',
+                     ],
+                     [
+                       '/zh/news/ama-02.md',
+                       '链读',
+                     ],
+                     [
+                       '/zh/news/ama-03.md',
+                       '链读 & PolkaBase',
+                     ],
+                     [
+                       '/zh/news/ama-25.md',
+                       '金色解码',
+                     ],
+                     [
+                       '/zh/news/ama-26.md',
+                       '星球日报',
+                     ],
                     ],
                   },
                   {
@@ -628,6 +636,10 @@ module.exports = {
                   [
                     '/zh/news/published.md',
                     'PolkaWorld 专访',
+                  ],
+                  [
+                    '/zh/news/ama-27.md',
+                    '链茶馆专访',
                   ],
                 ],
               },
