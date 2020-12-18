@@ -339,7 +339,7 @@ module.exports = {
                       ],
                       [
                         '/zh/events/finished/event-03.md',
-                        'Asgard 激励测试网',
+                        'Asgard CC1 激励测试网',
                       ],
                       [
                         '/zh/events/finished/event-07.md',
@@ -362,6 +362,10 @@ module.exports = {
                       [
                         '/zh/events/finished/event-01.md',
                         'KSM 空投第二期',
+                      ],
+                      [
+                        '/zh/events/finished/event-25.md',
+                        'ETH 空投第一期',
                       ],
                     ],
                   },
@@ -421,6 +425,10 @@ module.exports = {
                         '/zh/events/finished/event-23.md',
                         'DeFiG0 × Bifrost（第十三期）',
                       ],
+                      [
+                        '/zh/events/finished/event-24.md',
+                        '力场 × Bifrost（第十四期）',
+                      ],
                     ],
                   },
                   {
@@ -474,6 +482,16 @@ module.exports = {
                 collapsable: false,
                 children: [
                   {
+                    title: '深圳大湾区区块链周',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/zh/news/ama-28.md',
+                        '深圳区块链周',
+                      ],
+                    ],
+                  },
+                  {
                     title: '波卡中国行',
                     collapsable: false,
                     children: [
@@ -518,7 +536,7 @@ module.exports = {
                 ],
               },
               {
-                title: '线上活动',
+                title: '线上 AMA 回顾',
                 collapsable: false,
                 children: [
                   {
