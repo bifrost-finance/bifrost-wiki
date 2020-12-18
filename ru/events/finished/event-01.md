@@ -4,7 +4,7 @@
 ***Время проведения： 2020/6/2 16：00 - 2020/6/6 16：00 (UTC+8)***
 
 **Задания**
-- Подпишитесь на страницы [Bifrost](https://twitter.com/bifrost_network) и [Ankr](https://twitter.com/ankr) в Twitter
+- 关注 Bifrost [推特](https://twitter.com/bifrost_finance) 和 Ankr[推特](https://twitter.com/ankr) 账号
 - Оставьте комментарий и отметьте @ трех друзей под этим [твитом](https://twitter.com/bifrost_network/status/1267727916982390784)
 - Сделайте ретвит этого [твита](https://twitter.com/bifrost_network/status/1267727916982390784)
 - Посетите [страницу кампании по запуску нод](https://reward.bifrost.finance/) Bifrost Asgard
