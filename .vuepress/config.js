@@ -370,7 +370,7 @@ module.exports = {
                     ],
                   },
                   {
-                    title: 'AMA 活动',
+                    title: '国内 AMA 活动',
                     collapsable: false,
                     children: [
                       [
@@ -428,6 +428,24 @@ module.exports = {
                       [
                         '/zh/events/finished/event-24.md',
                         '力场 × Bifrost（第十四期）',
+                      ],
+                    ],
+                  },
+                  {
+                    title: '海外 AMA 活动',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/zh/events/finished/event-26.md',
+                        '海外 AMA 第一期',
+                      ],
+                      [
+                        '/zh/events/finished/event-27.md',
+                        '海外 AMA 第二期',
+                      ],
+                      [
+                        '/zh/events/finished/event-28.md',
+                        '海外 AMA 第三期',
                       ],
                     ],
                   },
@@ -620,6 +638,16 @@ module.exports = {
                       [
                         '/zh/news/ama-24.md',
                         'DeFiG0',
+                      ],
+                    ],
+                  },
+                  {
+                    title: 'Dev AMA',
+                    collapsable: false,
+                    children: [
+                      [
+                        '/zh/news/ama-29.md',
+                        '一块+',
                       ],
                     ],
                   },
