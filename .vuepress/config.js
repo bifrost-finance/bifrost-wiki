@@ -429,6 +429,14 @@ module.exports = {
                         '/zh/events/finished/event-24.md',
                         '力场 × Bifrost（第十四期）',
                       ],
+                      [
+                        '/zh/events/finished/event-33.md',
+                        'Cryptogram × Bifrost（第十五期）',
+                      ],
+                      [
+                        '/zh/events/finished/event-34.md',
+                        'Bifrost vETH MintDrop（第一期）',
+                      ],
                     ],
                   },
                   {
@@ -446,6 +454,22 @@ module.exports = {
                       [
                         '/zh/events/finished/event-28.md',
                         '海外 AMA 第三期',
+                      ],
+                      [
+                        '/zh/events/finished/event-29.md',
+                        '海外 AMA 第四期',
+                      ],
+                      [
+                        '/zh/events/finished/event-30.md',
+                        '海外 AMA 第五期',
+                      ],
+                      [
+                        '/zh/events/finished/event-31.md',
+                        '海外 AMA 第六期',
+                      ],
+                      [
+                        '/zh/events/finished/event-32.md',
+                        '海外 AMA 第七期',
                       ],
                     ],
                   },
@@ -506,6 +530,10 @@ module.exports = {
                       [
                         '/zh/news/ama-28.md',
                         '深圳区块链周',
+                      ],
+                      [
+                        '/zh/news/ama-11.md',
+                        '马拉松季拉力长跑9月',
                       ],
                     ],
                   },
@@ -568,10 +596,6 @@ module.exports = {
                      [
                        '/zh/news/ama-10.md',
                        '鸵鸟区块链',
-                     ],
-                     [
-                       '/zh/news/ama-11.md',
-                       'Cointelegraph 中文',
                      ],
                      [
                        '/zh/news/ama-20.md',
