@@ -11,4 +11,6 @@ Bifrost 产品经理 Tyrone 受邀参加了 Hoo Telegram 社区 AMA Speaking，�
 
 **奖励发放**
 
-注：本次 $50 BNC 将由 Hoo 交易所代为发放
+注：本次 $100 BNC 将由 Hoo 交易所代为发放
+
+虎符地址：fd4Ba6buFUeHeThAwmqL9mBPLJ7gzRPJuLLGf3n18YKJxfH BNC 数量：
