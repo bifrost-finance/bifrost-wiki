@@ -367,6 +367,10 @@ module.exports = {
                         '/zh/events/finished/event-25.md',
                         'ETH 空投第一期',
                       ],
+                      [
+                        '/zh/events/finished/event-35.md',
+                        'ETH 空投第二期',
+                      ],
                     ],
                   },
                   {
