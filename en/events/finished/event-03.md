@@ -3,7 +3,7 @@
 After six months of development, Bifrost ushered in the launch of the Asgard pre-production network. It will support EOS Jungle Testnet cross-chain, Token and vToken exchange, SWAP transactions and other functions. Asgard was successfully launched on May 21. In order to motivate community partners to actively run nodes on Asgard, we decided to allocate 5,000 BNCs based on everyone's node running time.
 
 
-***Date: 2020/5/21-2020/6/6***
+**活动日期：2020/5/21-2020/6/6**
 
 **Node Tasks:**
 - Configure the server
@@ -39,7 +39,7 @@ Prize distribution date: 2020/6/10
 Note: The remaining BNC is not issued reasons: (1) BNC address is not filled in (2) BNC address does not match
 
 
-| BNC Amounts | BNC Addresses                                    |
+| BNC Amounts | Bifrost 地址                                       |
 | ----------- | ------------------------------------------------ |
 | 11.9201     | 5GBZkEFppLVx9T2UdDNvcvbs6h46pTtebU4feNtccWyNGsvt |
 | 11.79       | 5GTQZKzYX8JAgRXAqNxMLBcTpaUeQCCB75LHeerUXXAkMNcE |
