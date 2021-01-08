@@ -2,7 +2,7 @@
 
 On April 22, Bifrost and Liandu jointly organized a Bifrost online staking AMA, introducing how to reduce the threshold of staking through cross-chain to improve the liquidity and staking rewards. The following are the details of this online AMA event
 
-***Date: 2020/4/20***
+**活动日期：2020/4/20**
 
 **Event Tasks**
 - Send a task order in wechat group
@@ -18,27 +18,21 @@ On April 22, Bifrost and Liandu jointly organized a Bifrost online staking AMA, 
 
 **Participation Result**
 
-总参与微信：1,904 个
-
-活动页PV: 16,865
-
-活动页UV: 3,114
-
-公众号新增：354 人
-
-微信群新增：906 人
+- 总参与微信：1,904 个
+- 活动页PV: 16,865
+- 活动页UV: 3,114
+- 公众号新增：354 人
+- 微信群新增：906 人
 
 **奖励发放**
 
-活动总奖励：1,000 BNC
-
-实际总发放：739.2775 BNC
-
-奖励发放时间：2020/4/24
+- 活动总奖励：1,000 BNC
+- 实际总发放：739.2775 BNC
+- 奖励发放时间：2020/4/24
 
 注：剩余未发放 BNC 原因：（1）活动条件未完成 （2）BNC地址未绑定 (3) 绑定地址错误
 
-| BNC Amount | Bifrost Address                                  |
+| BNC Amount | Bifrost 地址                                       |
 | ---------- | ------------------------------------------------ |
 | 139.1365   | 5DXuLVUo7whUF1NArLoPGuS7D5QDQHvVAVguyk4an2V9LQjc |
 | 68.4487    | 5FqVyyUY7w5zjCANycveEN6NQ2sF1XgUKLU151m5hdG1MjKf |
