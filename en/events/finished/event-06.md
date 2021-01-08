@@ -1,7 +1,7 @@
 # Private Sharing Meeting of Polkadot Ecoproject
 As the Polkadot mainnet continues to approach. On April 27, the Polkadot Round Table Conference hosted by Liandu and Chain Node invited high-quality Polkadot projects including Bifrost, MXC, Darwinia, Phala, Acala, Crust, etc. to discuss and communicate project progress together.
 
-***Date: 2020/4/27***
+**活动日期：2020/4/27**
 
 ***Guests:***
 | Project  | Presentor |
@@ -34,29 +34,22 @@ Token Part:
 
 **Participation Result:**
 
-Number of BNC Order Bonus participantors: 195
+- BNC 口令红包参与人数：195 人
+- 绑定且有效BNC地址：111 人
+- 微信社区新增：60+
+- 公众号新增：32+
 
-Bound and valid BNC address: 111
+**奖励发放**
 
-New followers in Wechat community: 60+
+- 活动总奖励：800 元现金 & 1,000 BNC
+- 实际总发放：800 元现金 & 1,000 BNC
+- 奖励发放时间：2020/5/1
 
-New followers in Wechat public account: 32+
+朋友圈集赞：
 
-**Prizes Giving:**
-
-Total rewards: RMB 800 cash & 1,000 BNC
-
-Actual total distribution: ￥800 cash & 1,000 BNC
-
-Prize distribution date: 2020/5/1
-
-- Collect Likes in Wechat moments
-
-Total Prize: ￥330
-
-Personal prize: ￥66
-
-Total winners: 5
+- 总奖励: 330 元
+- 个人奖励: 66 元
+- 总获奖人数: 5 人
 
 | Rank        | Prize | Winners                                                                                     |
 | ----------- | ----- | ------------------------------------------------------------------------------------------- |
@@ -66,31 +59,31 @@ Total winners: 5
 | No.11-No.30 | 10 元  | 弯弓射大雕,柏人,龙神资本～二龙,A北风,WKate-VOg,山喜欢林,爱好者,啊铭,莫言,听风无忧,达人,Depend,辞旧,Tony,于三岁,清酒,肉包子,靖哥,清风,Mr.hu |
 
 
-- Bonus Rain in Studio:
+- 直播间红包雨：
 
-Total Prize: ￥220
+总奖励：220 元
 
-Total distribution: ￥220
-
-
-- Invite friends to watch live broadcast:
-
-Total Prize: ￥1,050
-
-Note: Bifrost sponsored ￥525 in this part.
-
-Total winners: 30
+总发放：220 元
 
 
-- BNC Order Bonus:
+- 邀请好友看直播：
 
-Total prize: 1,000 BNC
+总奖励：1,050 元
 
-Total distribution: 1,000 BNC
+总发放：1,050 元
 
-Total winners: 111
+总获奖者：30 人
 
-| BNC Amounts | BNC Addresses                                    |
+
+- BNC 口令红包
+
+总奖励：1,000 BNC
+
+总发放：1,000 BNC
+
+总获奖者：111 人
+
+| BNC Amounts | Bifrost 地址                                       |
 | ----------- | ------------------------------------------------ |
 | 9.8604      | 5DcVRRVW6ADuHVzNSAiGxcPH8WS9qXoWHsUbRFQ9nprGCFYy |
 | 9.6959      | 5EPHEmJnDyNptmYxUbYdPjn6PNywvXd2V7QXcvDE2k65D3vr |
