@@ -1,7 +1,7 @@
 # Unlimited Possibilities of Testnet
 As the Polkadot mainnet continues to approach, in order to increase the holding rate of KSM in the market and let more users pay attention to Bifrost & Phala Network testnet online on May. The two parties will join PolkaWorld to hold an AMA of Testnet.
 
-***Date: 2020/5/15***
+**活动日期：2020/5/15**
 
 **AMA Tasks:**
 
@@ -30,27 +30,21 @@ Answers with Prizes Part:
 
 **Participation Result:**
 
-Page View: 16,516
+- 活动页 PV：16,516
+- 活动页 UV：3,378
+- 新用户：86.56%
+- 老用户：13.44%
+- 有奖竞答：424 人
 
-Unique View: 3,378
+**奖励发放**
 
-New users: 86.56%
+- 活动总奖励：￥2,000 等值 KSM
+- 实际总发放：27.7301 KSM
+- 奖励发放时间：2020/5/19
 
-Old followers: 13.44%
+注：剩余未发放 BNC 原因：（1）红包部分地址未绑定或绑定错误 （2）有奖竞答部分地址未提交
 
-Answers with Prizes Participanters: 424
-
-**Prize Giving:**
-
-Total AMA rewards: ￥2,000 equivalent KSM
-
-Actual total distribution: 27.7301 KSM
-
-Prizes Distribution Date: 2020/5/19
-
-Note: The remaining BNC is not issued reasons: (1) Address of the Bonus is not bound or the binding is wrong. (2) Part of the address of the Answers with prizes is not submitted.
-
-| BNC Amounts | BNC Addresses                                    |
+| BNC Amounts | Bifrost 地址                                       |
 | ----------- | ------------------------------------------------ |
 | 3.8216      | D2uZ3knfbfaJttF7V7MVzGRLKK5K3iHcoFai7EJ7VPLKvcW  |
 | 0.5604      | FkgfeWhTJGdRv2mBrdWJvunoatmNNyFvjcypKJQGwR2ca2K  |
