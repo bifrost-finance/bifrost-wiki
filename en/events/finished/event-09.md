@@ -1,7 +1,7 @@
 # Bifrost POC 2 Early Bird Node Event
 The launch of the Polkadot mainnet is approaching, and the parachain projects in the Polkadot ecosystem have gradually moved from proof of concept to market verification. As the winning project of the first Substrate hackathon, Bifrost also ushered in the official release of the POC-2 testnet. The project milestones will be verified by the market.
 
-***Date: 2020/3/21-2020/3/28***
+**活动日期：2020/3/21-2020/3/28**
 
 **Event Tasks**
 - Successfully connected to the Bifrost POC-2 testnet
@@ -27,7 +27,7 @@ Actual total distribution: 1,566.5 BNC
 
 Prize distribution date: 2020/4/2
 
-| BNC Amounts | BNC Addresses                                    |
+| BNC Amounts | Bifrost 地址                                       |
 | ----------- | ------------------------------------------------ |
 | 43.5        | 5EEujCS4E9Dwu4KK1xLtZ3QiKcmhR9DqjyL2BD5zinemr3NF |
 | 43.5        | 5Hnk5ibMeQDowLcWq68Feg7seRkhdKatpFRKogsgBtJ8F7YQ |
