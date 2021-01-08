@@ -18,25 +18,19 @@ After six months of development, Bifrost ushered in the launch of the Asgard pre
 
 **Participation Result:**
 
-Geographical distribution: 7
+- 国家分布：7 个
+- 累计节点：1,176 个
+- 总运行时长：5,301,549 分
+- 最高在线节点：890 个
+- 攀升至 Telemetry 节点数量第一名
 
-Cumulative number of nodes: 1,176
+**奖励发放**
 
-Total running time: 5,301,549
+- 活动总奖励：5,000 BNC
+- 实际总发放：4,206.9783 BNC
+- 奖励发放时间：2020/6/10
 
-Maximum number of online nodes: 890
-
-Climbing to the No.1 in the Telemetry nodes.
-
-**Prize Giving:**
-
-Total prizes: 5,000 BNC
-
-Actual total issuance: 4,206.9783 BNC
-
-Prize distribution date: 2020/6/10
-
-Note: The remaining BNC is not issued reasons: (1) BNC address is not filled in (2) BNC address does not match
+注：剩余未发放 BNC 原因：（1）BNC 地址未填写 （2）BNC 地址不匹配
 
 
 | BNC Amounts | Bifrost 地址                                       |
