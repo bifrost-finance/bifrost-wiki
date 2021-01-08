@@ -2,7 +2,7 @@
 
 It has been nearly two months since Asgard CC1 (candidate chain 1) was released on May 21.In these two months, Bifrost has made overall optimization and improvement in Node, Validator and EOS Cross Chain Functions respectively.In terms of nodes, the Swap Algorithm is upgraded to support more currency liquidity. In the future, we can exchange vToken through Convert Module, or purchase vToken directly through Swap Module.
 
-***Date: July 21, 2020 to August 21, 2020***
+**活动日期：2020/7/21-2020/8/21**
 
 **Event tasks**
 - Node competition
@@ -31,35 +31,27 @@ It has been nearly two months since Asgard CC1 (candidate chain 1) was released 
 
 1. 节点数据:
 
-节点运行总时长：11,500,890
-
-测试网出块数量：434,506
-
-节点累计数量：1,231
+- 节点运行总时长：11,500,890
+- 测试网出块数量：434,506
+- 节点累计数量：1,231
 
 2. 跨链数据：
 
-跨链总次数：28,715
-
-EOS 跨链总金额：1,503,409
-
-vToken 兑换量：143,823,815 vEOS
+- 跨链总次数：28,715
+- EOS 跨链总金额：1,503,409
+- vToken 兑换量：143,823,815 vEOS
 
 3. 验证人数据：
 
-验证人数量：50
-
-提名人数：150
-
-质押数量：321,587 ASG
+- 验证人数量：50
+- 提名人数：150
+- 质押数量：321,587 ASG
 
 **奖励发放**
 
-活动总奖励：15,000 BNC
-
-实际总发放： 13,881.8192 BNC
-
-奖励发放时间：2020/9/9
+- 活动总奖励：15,000 BNC
+- 实际总发放： 13,881.8192 BNC
+- 奖励发放时间：2020/9/9
 
 注：剩余未发放 BNC 原因：（1）活动条件未完成
 
