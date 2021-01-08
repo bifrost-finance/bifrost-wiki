@@ -1,7 +1,7 @@
 # KSM Twitter Airdrop
 On June 2, Bifrost and Ankr jointly held Kusama Twitter airdrop for 5 days. Invite the partners to participate in the air drop to complete the activity tasks at the same time, can further understand the establishment of Bifrost node and EOS Jungle Testnet test network cross chain, Token and vToken exchange, SWAP and other functions.
 
-***Date: 2020/6/2 16: 00 - 2020/6/6 16: 00(UTC+8)***
+**活动日期：2020/6/2 16：00- 2020/6/6 16：00（UTC+8)**
 
 **challenges**
 - 关注 Bifrost [推特](https://twitter.com/bifrost_finance) 和 Ankr[推特](https://twitter.com/ankr) 账号
@@ -16,30 +16,23 @@ On June 2, Bifrost and Ankr jointly held Kusama Twitter airdrop for 5 days. Invi
 
 **Participation Result:**
 
-Twitter New followers: 2,751
-
-Airdrop tweet impression: 74,040
-
-Node impression: 14,800
-
-Retweet: 3,054
-
-Comment: 3,040
-
-Like: 3,008
+- 推特新增用户：2,751 人
+- 活动推特浏览量：74,040
+- 节点浏览量：14,800
+- 推文转发量：3,054
+- 推文评论量：3,040
+- 推文点赞量：3,008
 
 
-**Prize Giving:**
+**奖励发放**
 
-Total prize: 50 KSM
+- 活动总奖励：50 KSM
+- 实际总发放：50 KSM
+- 奖励发放时间：2020/6/6
 
-Actual total distribution: 50 KSM
+第三方空投工具：MathGiveaway
 
-Prize distribution date: 2020/6/6
-
-Third-party airdrop tool: MathGiveaway
-
-Tracking & Claim airdrop [Details](https://giveaway.mathwallet.org/#/H334ZFZF2YMR9NKT)
+查询 & 索取空投 [详情](https://giveaway.mathwallet.org/#/H334ZFZF2YMR9NKT)
 
 | Group One       | Group Two        | Group Three      | Group Four      | Group Five       |
 | --------------- | ---------------- | ---------------- | --------------- | ---------------- |
