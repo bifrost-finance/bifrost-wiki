@@ -441,6 +441,14 @@ module.exports = {
                         '/zh/events/finished/event-34.md',
                         'Bifrost vETH MintDrop（第一期）',
                       ],
+                      [
+                        '/zh/events/finished/event-35.md',
+                        'Loopring × Bifrost（第一期）',
+                      ],
+                      [
+                        '/zh/events/finished/event-36.md',
+                        'Bifrost × Zenlink（第十六期）',
+                      ],
                     ],
                   },
                   {
@@ -620,6 +628,10 @@ module.exports = {
                      [
                        '/zh/news/ama-26.md',
                        '星球日报',
+                     ],
+                     [
+                       '/zh/news/ama-30.md',
+                       '哔哔 News',
                      ],
                     ],
                   },

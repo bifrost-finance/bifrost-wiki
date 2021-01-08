@@ -3,7 +3,7 @@
 经过六个月的开发，Bifrost 迎来了 Asgard 预生产网络的启动。 它将支持 EOS Jungle Testnet 跨链，Token 和 vToken 兑换，SWAP 交易和其他功能。 Asgard 已于5月21日成功上线。 为了激励社区伙伴在 Asgard 上积极运行节点，我们决定根据每个人的节点运行时间分配 5,000 个 BNC。
 
 
-***日期：2020/5/21-2020/6/6***
+**活动日期：2020/5/21-2020/6/6**
 
 **活动任务**
 - 配置服务器
@@ -39,7 +39,7 @@
 注：剩余未发放 BNC 原因：（1）BNC 地址未填写 （2）BNC 地址不匹配
 
 
-|  BNC 数量   | BNC 地址  |
+|  BNC 数量   | Bifrost 地址  |
 |  ----  | ----  |
 | 11.9201  | 5GBZkEFppLVx9T2UdDNvcvbs6h46pTtebU4feNtccWyNGsvt |
 | 11.79  | 5GTQZKzYX8JAgRXAqNxMLBcTpaUeQCCB75LHeerUXXAkMNcE |
