@@ -1,7 +1,7 @@
 # First Term AMA | Staking + DeFi, how to balance liquidity and high yield?
 As the first AMA, we invited blockchain technology experts and Bifrost co-founder Lurpis as a special guest  to give industry insights on how to combine Polkadot and Defi projects to improve the liquidity of Staking. Below are the details of Bifrost's first online AMA event.
 
-***Date: 2020/4/10***
+**活动日期：2020/4/10**
 
 **Event Tasks**
 - Publish the bonus order in the task group
@@ -16,25 +16,20 @@ As the first AMA, we invited blockchain technology experts and Bifrost co-founde
 
 **Participation Result**
 
-Page View：16,534
+- 活动页 PV：57,534
+- 活动页 UV：14,128
+- 总参与微信：10,718 个
+- 微信群新增：1,800+ 人
 
-Unique View：3,128
+**奖励发放**
 
-Total participants in WeChat：10,718
+- 活动总奖励：4,000 BNC
+- 实际总发放： 3,892.768 BNC
+- 奖励发放时间：2020/4/18
 
-New followers in WeChat：1,800+
+注：剩余未发放 BNC 原因：（1）活动条件未完成 （2）BNC地址未绑定  (3) 绑定地址错误
 
-**Prize Giving**
-
-Total rewards: 4,000 BNC
-
-Actual total distribution: 3,892.768 BNC
-
-Prizes Distribution Date: 2020/4/18
-
-Note: The remaining BNC is not issued reasons: (1) Address of the Bonus is not bound or the binding is wrong. (2) Part of the address of the Answers with prizes is not submitted (3) Wrong binding address
-
-| BNC Amount | Bifrost Address                                  |
+| BNC Amount | Bifrost 地址                                       |
 | ---------- | ------------------------------------------------ |
 | 4.948      | 5Dnc3ZAucvQ9bqh31at9CqQpBomLBZT8CoRKqYHWFHyKBKWv |
 | 123.0812   | 5CkDeGCK3weTH3ntg57nJts1SYtqoJ5bHXh8rS1wrvg7xNwA |
