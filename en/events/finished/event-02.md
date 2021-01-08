@@ -1,7 +1,7 @@
 # New development in Boka ecological Bifrost, POS mining
 Before you know it, Bifrost has already participated in 5 phases of AMA online activities. On May 29, lufpis, co-founder of Bifrost, was invited to participate in the third session of the hotbit Polkadot series dialogue, the new development in Boka ecological Bifrost, POS mining.
 
-***Time: May/29/2020 16: 00（UTC+8)***
+**活动日期：2020/5/29 16：00（UTC+8)**
 
 ***Location: hotbit wechat group and Bifrost wechat group***
 
@@ -20,24 +20,20 @@ Before you know it, Bifrost has already participated in 5 phases of AMA online a
 
 **Participation Result**
 
-Active website visitors: 7903
+- 活动页 PV：7,903
+- 活动页 UV：1,748
+- 公众号新增：145 人
 
-Event Website Unique Vistors: 1,748
+**奖励发放**
 
-WeChat official account number increased: 145
+- 活动总奖励：1,000 BNC
+- 实际总发放：425.2078 BNC
+- 奖励发放时间：2020/6/6
 
-**Prize Giving**
-
-Total Rewards: 1,000 BNC
-
-Actual total distribution: 425.2078 BNC
-
-Date: 2020/6/6
-
-Note: Reasons for the remaining BNC is not issued: (1) The activity condition is not completed (2) The BNC address is not bound
+注：剩余未发放 BNC 原因：（1）活动条件未完成 （2）BNC 地址未绑定
 
 
-| BNC Address                                      | BNC Quant. |
+| Bifrost 地址                                       | BNC Quant. |
 | ------------------------------------------------ | ---------- |
 | 5GHj5DF25uK85M4Uq29cSFVQMRkzHc1RmVXZPW4zf3NXf1c1 | 49.757     |
 | 5EvowXFafBVWCfqtkL2tqjqdVDC2zz2J5YbVQUDeKGHSpPx7 | 33.72      |
