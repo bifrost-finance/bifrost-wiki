@@ -1,68 +1,61 @@
 # MATH & KSM Twitter Airdrop
 Чтобы помочь в запуске тестовой сети Bifrost POC2 и увеличить число нод по всему миру, 24 марта Bifrost провел двухдневный Twitter Airdrop с призовым пулом $250 MATH и недельный Airdrop на платформе Gleam с призовым пулом 120 KSM. Принявшие участие в этих активностях смогут узнать о производительности тестовой сети Bifrost POC2.
 
-***Даты проведения：***
+**活动日期**
 
-***MATH Airdrop：2020/3/24-2020/3/25***
+**MATH 空投：2020/3/24-2020/3/25**
 
-***KSM Airdrop：2020/3/25-2020/4/1***
+**KSM 空投： 2020/3/25-2020/4/1**
 
 
-**MATH Twitter Airdrop：**
+## MATH 推特空投
 
-**Задания:**
-- Подпишитесь на аккаунты [@Bifrost](https://twitter.com/bifrost_network), [@MathWallet](https://twitter.com/MathWallet), [@Polkaworld](https://twitter.com/polkaworld_org) и [@Polkabase](https://twitter.com/Polkabase_com) в Twitter
+**活动任务**
+- 关注 [Bifrost](https://twitter.com/bifrost_finance)、[麦子钱包](https://twitter.com/MathWallet)、[Polkaworld](https://twitter.com/polkaworld_org) 和 [Polkabase](https://twitter.com/Polkabase_com)
 - @отметьте 3х друзей в этом [твите](https://twitter.com/bifrost_network/status/1242405288457564160)
 - Перешлите этот [твит](https://twitter.com/bifrost_network/status/1242405288457564160)
 - Ознакомьтесь со следующим [Airdrop](https://medium.com/@bifrost_network/airdrop-attention-to-celebrate-the-launch-of-bifrosts-poc2-testnet-online-ksm-will-airdrop-913cc2645f11)
 
-**Правила:**
+**活动规则**
 - MATH Twitter Airdrop продлится 2 дня
 - В ходе мероприятия будут случайным образом выбраны 5 победителей
 - Каждый победитель получит по 50 $MATH
 
-**KSM Gleam Airdrop**
+## KSM Gleam 空投
 
-**Задания:**
-- Подпишитесь на аккаунт Bifrost в Twitter
-- Ретвитните запись о KSM Airdrop
+**活动任务**
+- 关注 [Bifrost](https://twitter.com/bifrost_finance) Twitter 账号
+- 转发 [KSM](https://twitter.com/bifrost_finance/status/1242405288457564160) Twitter 空投
 - Напишите твит об активности
-- Присоединитесь к сообществу Bifrost в Telegram
+- 加入 [Bifrost Telegram](https://t.me/bifrost_finance)社区
 - Привяжите кошелек KSM
 
-**Правила:**
+**活动规则**
 - Airdrop KSM на платформе Gleam продлится 7 дней
 - Награды за данную активность будут выданы в соответствии с набранными баллам за выполнение заданий
 - Привяжите корректный кошелек KSM
 
-**Результаты активности:**
+**参与情况**
 
-Просмотры страницы：39,761
-
-Новые подписчики в Twitter：1,700+
-
-Новые подписчики в Telegram：900+
-
-Количество ретвитов：490
-
-Комментарии под твитами：514
-
-Лайки под твитами：466
+- 活动页 PV：39,761
+- 推特新增：1,700+ 人
+- Telegram 新增：900+ 人
+- 推文转发量：490
+- 推文评论量：514
+- 推文点赞量：466
 
 
-**Распределение наград:**
+**奖励发放**
 
-MATH Twitter Airdrop
+MATH 推特空投
 
-Общий призовой пул：$250 MATH
+- 活动总奖励：$250 MATH
+- 实际总发放：$250 MATH
+- 奖励发放时间：2020/3/25
 
-Фактически распределенный призовой пул：$250 MATH
+第三方空投工具：MathGiveaway
 
-Дата распределения призов：2020/3/25
-
-Сторонний инструмент для проведения раздачи：MathGiveaway
-
-Отслеживание & получение призов доступно по [ссылке](https://giveaway.mathwallet.org/#/9Q69AZP28K7RGXHG)
+查询 & 索取空投，[详情](https://giveaway.mathwallet.org/#/9Q69AZP28K7RGXHG)
 
 | Победители     | Кол-во MATH |
 | -------------- | ----------- |
@@ -73,17 +66,15 @@ MATH Twitter Airdrop
 | @stdones       | 50          |
 
 
-KSM Gleam Airdrop
+KSM Gleam 空投
 
-Призовой пул：120 KSM
+- 活动总奖励：120 KSM
+- 实际总发放：120 KSM
+- 奖励发放时间：2020/4/1
 
-Фактически распределенный пул：120 KSM
+第三方空投工具：Gleam
 
-Дата распределения призов：2020/4/1
-
-Сторонний инструмент для проведения раздачи：Gleam
-
-Отслеживание & получение призов доступно по [ссылке](https://gleam.io/competitions/Mpv9R-120-kusama-giveaway)
+查询 & 索取空投，[详情](https://gleam.io/competitions/Mpv9R-120-kusama-giveaway)
 
 | Кол-во KSM  | Кошелек KSM                                     |
 | ----------- | ----------------------------------------------- |
