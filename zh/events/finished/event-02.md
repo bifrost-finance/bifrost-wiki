@@ -1,7 +1,7 @@
 # 波卡生态 Bifrost，POS 挖矿中的新开拓
 不知不觉中，Bifrost 已经参加了 5 期 AMA 线上活动。5月29日，Bifrost 联合创始人 Lurpis 受邀参加了 Hotbit Polkadot 系列对话第三期之波卡生态 Bifrost，POS 挖矿中的新开拓。
 
-***日期：2020/5/29 16：00（UTC+8)***
+**活动日期：2020/5/29 16：00（UTC+8)**
 
 ***地点：Hotbit 微信群 + Bifrost 微信群***
 
@@ -20,24 +20,20 @@
 
 **参与情况**
 
-活动页 PV：7,903
-
-活动页 UV：1,748
-
-公众号新增：145 人
+- 活动页 PV：7,903
+- 活动页 UV：1,748
+- 公众号新增：145 人
 
 **奖励发放**
 
-活动总奖励：1,000 BNC
-
-实际总发放：425.2078 BNC
-
-奖励发放时间：2020/6/6
+- 活动总奖励：1,000 BNC
+- 实际总发放：425.2078 BNC
+- 奖励发放时间：2020/6/6
 
 注：剩余未发放 BNC 原因：（1）活动条件未完成 （2）BNC 地址未绑定
 
 
-|  BNC 地址   | BNC 数量  |
+|  Bifrost 地址   | BNC 数量  |
 |  ----  | ----  |
 | 5GHj5DF25uK85M4Uq29cSFVQMRkzHc1RmVXZPW4zf3NXf1c1 | 49.757|
 | 5EvowXFafBVWCfqtkL2tqjqdVDC2zz2J5YbVQUDeKGHSpPx7  | 33.72 |
