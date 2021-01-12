@@ -2,7 +2,7 @@
 
 One block + developer community and Parity jointly host the first online live video "Substrate China day"! Invited China's high-quality Polkadot ecological projects and technical communities Acala, Bifrost, Crust, Darwinia, Phala, MXC, ChainX, Dipole and PolkaBase to gather top developers for in-depth exchanges and discuss future development directions together.
 
-***Date: 2020/6/19***
+**活动日期：2020/6/19**
 
 **Tasks:**
 - Watch the live video "Substrate China Day"
@@ -15,13 +15,11 @@ One block + developer community and Parity jointly host the first online live vi
 
 **Participation result:**
 
-Video views: 1,597
+- 视频观看次数：1,597 次
+- 参与抽奖者：1,227 人
+- BNC & 周边获奖人数：15 人
 
-Participants in the draw: 1,227
-
-Winners of Bifrost Peripheral Products: 15
-
-**Prize giving:**
+**奖励发放**
 
 活动总奖励：200 BNC & Bifrost、T恤 * 1份
 
