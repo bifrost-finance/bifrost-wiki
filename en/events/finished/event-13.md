@@ -2,7 +2,7 @@
 
 At 4:00 pm on July 10th, Lurpis, the co-founder of Bifrost, was invited to participate in the 22nd AMA of the Liantuan to talk to you about Bifrost & Polkadot ecology & Defi ~
 
-***Date: 2020/7/10***
+**日期：2020/7/10**
 
 **Event Tasks**
 - Watch AMA live on WeChat
@@ -13,17 +13,14 @@ At 4:00 pm on July 10th, Lurpis, the co-founder of Bifrost, was invited to parti
 
 **Participation Result:**
 
-Participants in the draw: 379
-
-Number of BNC winners: 20
+- 参与抽奖者：379 人
+- BNC 获奖人数：20 人
 
 **奖励发放**
 
-活动总奖励：200 BNC
-
-实际总发放： 170 BNC
-
-奖励发放时间：2020/7/20
+- 活动总奖励：200 BNC
+- 实际总发放： 170 BNC
+- 奖励发放时间：2020/7/20
 
 注：剩余未发放 BNC 原因：（1）活动条件未完成 （2）BNC 地址未绑定  (3) 绑定地址错误
 
