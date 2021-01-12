@@ -2,7 +2,7 @@
 
 Bifrost 产品经理 Tyrone 受邀参加了 Hoo Telegram 社区 AMA Speaking，将和海外 Hoo 交易所的小伙伴们分享 Bifrost Staking 流动性以及 vETH MintDrop 等一系列话题。
 
- ***日期：2020/12/10***
+ **日期：2020/12/10**
 
  **活动任务**
 
@@ -14,4 +14,3 @@ Bifrost 产品经理 Tyrone 受邀参加了 Hoo Telegram 社区 AMA Speaking，�
 注：本次 $100 BNC 将由 Hoo 交易所代为发放
 
 虎符地址：fd4Ba6buFUeHeThAwmqL9mBPLJ7gzRPJuLLGf3n18YKJxfH
-BNC 数量：

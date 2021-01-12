@@ -371,6 +371,10 @@ module.exports = {
                         '/zh/events/finished/event-35.md',
                         'ETH 空投第二期',
                       ],
+                      [
+                        '/zh/events/finished/event-35.md',
+                        'vETH 空投第一期',
+                      ],
                     ],
                   },
                   {
@@ -440,10 +444,6 @@ module.exports = {
                       [
                         '/zh/events/finished/event-34.md',
                         'Bifrost vETH MintDrop（第一期）',
-                      ],
-                      [
-                        '/zh/events/finished/event-35.md',
-                        'Loopring × Bifrost（第一期）',
                       ],
                       [
                         '/zh/events/finished/event-36.md',
