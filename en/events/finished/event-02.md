@@ -3,22 +3,20 @@ Before you know it, Bifrost has already participated in 5 phases of AMA online a
 
 **活动日期：2020/5/29 16：00（UTC+8)**
 
-***Location: hotbit wechat group and Bifrost wechat group***
-
-**Event tasks**
+**活动任务**
 - Sending task emojis in wechat groups
 - Send the task list in the wechat official account
 - Bind your Bifrost address
 - Meet the above conditions and wait for the reward to be issued
 
-**Event rules**
+**活动规则**
 - If others open your reward and complete the reward activation task, you will receive 50% of the amount of the reward as a return, and there is no upper limit for the superimposed reward
 - Each WeChat account can only open others' reward once
 - Unlimited number of reward to others
 - The reward will be finally issued only when the reward activation conditions are met
 - If the reward conditions are not met before the event reward is issued, the reward will not be issued
 
-**Participation Result**
+**参与情况**
 
 - 活动页 PV：7,903
 - 活动页 UV：1,748
