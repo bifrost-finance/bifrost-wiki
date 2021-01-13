@@ -1,6 +1,6 @@
 # Bifrost address creation tutorial
 
-**1. Visit: <https://dash.bifrost.finance/#/explorer>**
+**1. 1. Visit address: <https://dash.bifrost.finance/#/explorer>**
 
 **2. Select `Accounts`, click `Accounts`**
 
@@ -36,7 +36,7 @@
 <img :src="$withBase('/zh/bnc-wallet-register/bnc-wallet-tutorials-06.png')" alt="" width="60%" />
 
 
-### Restore BNC address
+### Restore Bifrost address
 
 
 **1. 点击`Add account`在`Mnemonic seed`中输入你的助记词或导入原始种子**
