@@ -782,6 +782,18 @@ module.exports = {
                   ],
                 ],
               },
+
+              {
+                title: '资源',
+                collapsable: false,
+                sidebarDepth: 0,
+                children: [
+                  [
+                    '/zh/help/brand-assets.md',
+                    '品牌资源',
+                  ],
+                ],
+              },
             ],
           },
         ],
