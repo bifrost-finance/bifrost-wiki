@@ -262,6 +262,18 @@ module.exports = {
                   ],
                 ],
               },
+
+              {
+                title: 'Assets',
+                collapsable: false,
+                sidebarDepth: 0,
+                children: [
+                  [
+                    '/en/help/brand-assets.md',
+                    'Brand Assets',
+                  ],
+                ],
+              },
             ],
           },
         ],
