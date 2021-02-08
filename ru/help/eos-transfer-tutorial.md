@@ -1,6 +1,6 @@
 # Инструкция по кросс-чейн отправке EOS
 
-## EOS Jungle Testnet - Asgard CC3 | TokenPocket 钱包跨链转账
+## EOS Jungle Testnet-Asgard CC3 | Межсетевой перевод кошелька TokenPocket
 
 **1. Создайте аккаунт в тестовой сети EOS, [нажмите здесь для просмотра инструкции по регистрации](https://wiki.bifrost.finance/zh/help/eos-testnet-account-register.html)**
 
@@ -10,7 +10,7 @@
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-01.png')" alt="" width="30%" />
 
-**4. 下拉至自定义节点，点击`添加自定义节点` 复制粘贴节点链接：https://api.jungle3.alohaeos.com:443**
+**4. Прокрутите вниз до настраиваемого узла, нажмите ` Добавить настраиваемый узел `, чтобы скопировать и вставить ссылку на узел: https://api.jungle3.alohaeos.com:443**
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-02.png')" alt="" width="30%" />
 
@@ -24,7 +24,7 @@
 
 **7. Нажмите на кнопку `Transfer` и введите bifrostcross в качестве получателя в поле `Receiver`**
 
-**8. 在`备注`内复制粘贴你的 BNC 地址@bifrost 例如：5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY@bifrost:EOS**
+**8. Скопируйте и вставьте свой BNC-адрес @bifrost в примечания. Например: 5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY@bifrost:EOS**
 
 **Примечание: для получения адреса BNC перейдите в раздел [Инструкция по созданию кошелька BNC](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)**
 
@@ -32,9 +32,9 @@
 
 <img :src="$withBase('/zh/tp-cross-transfer/tp-eos-crosschain-transfer-05.png')" alt="" width="30%" />
 
-**以上就是使用 TP 钱包从 EOS Jungle 测试网向 Bifrost Asgard CC3 跨链转账的全部过程啦~此外，大家还可以通过命令方法 Cleos 进行跨链转账操作**
+**Выше представлен весь процесс кросс-цепной передачи из тестовой сети EOS Jungle в Bifrost Asgard CC3 с использованием кошелька TP ~ Кроме того, вы также можете использовать метод команды Cleos для выполнения операций кросс-цепной передачи.**
 
-## Asgard CC3 - EOS Jungle Testnet | 跨链转账
+## Asgard CC3-EOS Jungle Testnet | Межцепочечная передача
 
 **1. Откройте панель мониторинга Bifrost: <https://dash.bifrost.finance/>**
 
