@@ -1,18 +1,18 @@
-# 品牌资源
+# Ресурсы бренда
 
-## Logo资源包
-[下载](https://github.com/bifrost-finance/design-assets/raw/master/brand/Bifrost-Logo-Assets.zip)
+## Пакет ресурсов логотипа
+[Cкачать](https://github.com/bifrost-finance/design-assets/raw/master/brand/Bifrost-Logo-Assets.zip)
 
-## 使用说明
+## Руководство пользователя
 
-### 含义和组成
-Bifrost 的 Logo 由图形和文字两部分组成，图形部分蕴意彩虹桥的抽象意向，文字部分为 Bifrost 的标准字母字体
+### Значение и состав
+Логотип Bifrost состоит из графики и текста. Графическая часть подразумевает абстрактный смысл Радужного моста, а текстовая часть - это стандартный буквенный шрифт Bifrost.
 <img :src="$withBase('/zh/brand-assets/brand-assets-01.png')" alt="" />
 
-### 组合
+### Комбинация
 <img :src="$withBase('/zh/brand-assets/brand-assets-02.png')" alt="" />
 
-### 安全区
+### Безопасная зона
 在 Logo 的使用过程中要时刻保证安全区内没有其他元素的干扰
 <img :src="$withBase('/zh/brand-assets/brand-assets-03.png')" alt="" />
 
