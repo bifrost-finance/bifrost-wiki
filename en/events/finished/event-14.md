@@ -1,32 +1,32 @@
-# Doter × Bifrost × 币乎  一座横跨 PoS 共识和 DeFi 的彩虹桥
+# Doter × Bifrost × Bihu A rainbow bridge spanning PoS consensus and DeFi
 
-随着 DeFi 不断攀升的锁仓量和 Polkadot、ETH 2.0 等市值头部的 PoS 共识网络到来，PoS 和 DeFi 收益竞争的问题越来越明显，在面对 PoS Staking 和 DeFi 质押只能二选一的情况下，持币者更倾向于选择收益率更高的一种方式，Staking 和 DeFi 与共识安全和活跃度息息相关，无论哪种选择都会造成双输局面。
+With the ever-increasing lock-up volume of DeFi and the arrival of PoS consensus networks with market capitalization heads such as Polkadot and ETH 2.0, the problem of revenue competition between PoS and DeFi has become more and more obvious. In the face of PoS staking and DeFi staking, you can only choose one. Under circumstances, token holders are more inclined to choose a method with a higher yield. Staking and DeFi are closely related to consensus security and activity. Either choice will result in a lose-lose situation.
 
-**日期：2020/9/20**
+**Date: 2020/9/20**
 
-**活动任务一：币乎任务**
-- 参与币乎 Bifrost 直播
-- 币乎实名认证
-- 填写 BNC 收币地址
+**Active Tasks 1：Coins**
+- Participant in Bifrost Live Broadcast
+- Bihu real-name authentication
+- Fill in the BNC receiving address
 
-**活动任务二：微信 BNC 红包任务**
-- 在 Bifrost 社群中发送指定表情
-- 在 Bifrost 公众号中发送指定表情
-- 绑定 Bifrost 收币地址（支持 DOT 地址）
+**Activity task 2: WeChat BNC red envelope task**
+- Send the specified emoji in the Bifrost community
+- Send the specified emoji in the Bifrost official account
+- Bind the Bifrost receiving address (support DOT address)
 
-**参与情况**
+**Participation**
 
-- 直播用户参与人数：12617
-- 直播用户参与次数：80023
-- 直播用户参与总时长（小时）：4085.426
-- 视频分享次数：207
-- Web 参与人数：5200
-- Web 参与次数：10581
-- BNC 获奖人数：4270
+- Number of live broadcast users: 12617
+- Number of live broadcast user participation: 80023
+- Total participation time of live broadcast users (hours): 4,085.426
+- Video sharing times: 207
+- Number of Web Participants: 5200
+- Number of Web Participations: 10581
+- Number of BNC winners: 4270
 
-**奖励发放**
+**Reward distribution**
 
-- 活动总奖励：5000 BNC
+- Total activity reward: 5000 BNC
 - 实际总发放：18342.2967 BNC
 - 奖励发放时间：2020/9/29
 
