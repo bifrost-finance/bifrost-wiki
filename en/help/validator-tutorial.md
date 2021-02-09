@@ -1,30 +1,30 @@
 # Validator Tutorial
 ### Overview
-- 创建 Bifrost 地址 查看[教程](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)
-- 运行节点,查看[教程](https://wiki.bifrost.finance/zh/help/node-general-tutorial.html)
+- Create Bifrost address View [Tutorial](https://wiki.bifrost.finance/zh/help/bnc-wallet-register-tutorials.html)
+- Run the node, view [Tutorial](https://wiki.bifrost.finance/zh/help/node-general-tutorial.html)
 - Set up Validator.
 - Generate Session Key and bind it.
 - Staking and  nomination.
 - Elected Validator.
 
 ### Set up Validator
-- 打开 [Bifrost Dash](https://dash.bifrost.finance/#/explorer) 点击 Network / Staking
+- Open [Bifrost Dash](https://dash.bifrost.finance/#/explorer) and click Network / Staking
 
 <img :src="$withBase('/zh/validator-tutorial/validator_1.png')" alt="" width="70%" />
 
-- 进入 Staking 页面 / Account Action
+- Enter Staking page / Account Action
 
 <img :src="$withBase('/zh/validator-tutorial/validator_2.png')" alt="" width="70%" />
 
-- 点击 + Validator
-    - Stash Account (存放 ASG 的地址)
-    - Controller Account (控制节点的地址)
-    - 输入自抵押的 ASG 数量
+- Click + Validator
+    - Stash Account (the address where ASG is stored)
+    - Controller Account (the address of the control node)
+    - Enter the amount of self-collateralized ASG
 
 <img :src="$withBase('/zh/validator-tutorial/validator_3.png')" alt="" width="70%" />
 
 > For Stash and Controller Account, recommend using two different addresses, which is more secure.
-- 下一步
+- Next step
     - 输入 Session Key（如何生成看下方说明）
     - 输入节点佣金费率百分比（目前测试网络 ASG 无价值，随意填写）
 
