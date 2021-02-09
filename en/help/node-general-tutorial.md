@@ -80,36 +80,36 @@ Node reward: <https://rewards.bifrost.finance>
 ##### 2.1 Click "Deploy a Node" to enter the node market.
 ##### 2.2 Select Bifrost Validator Node.
 ##### 2.3 Enter the payment page.
-应用名称填写节点名 | Bifrost 地址前 10 位，运行方式选 Validator
+Fill in the node name of the application name | the first 10 digits of the Bifrost address, and select Validator for the operation mode
 
 ##### 2.4 Wait for the node to automatically complete the deployment after payment.
 ##### 2.5 Check node operation.
 
-节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 节点奖励：<https://rewards.bifrost.finance>
+Node monitoring: <https://telemetry.polkadot.io/#/Bifrost> Asgard CC2 Node reward: <https://rewards.bifrost.finance>
 
 > The above has completed the task of participating in the node running, and then you can view "Validator tutorial"
 
 ## Q & A
 #### 1. Windows Toolbox failed to pull boot2docker.iso
 
-安装 Docker Toolbox 是出现下面的错误，说明拉取 boot2docker.iso 失败了。
+The following error occurred when installing Docker Toolbox, indicating that the boot2docker.iso failed to pull.
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-04.png')" alt="" />
 
-解决方案：
+solution:
 
-Bifrost 社区群里有下载好的镜像，先在群里要；然后复制到上面图中标红的 cache 路径中即可；
+There is a downloaded image in the Bifrost community group, first need it in the group; then copy it to the cache path marked in red in the figure above;
 
-复制好后，再双击启动 Docker Quickstart Terminal
+After copying, double-click to start Docker Quickstart Terminal
 
 > Tips:
 > 
-> - 加客服微信入群：bifrost00
+> - Add customer service WeChat to join the group: bifrost00
 > - boot2docker.iso download https://lanzous.com/iaqdpmb
 
 #### 2. What should I do if I forget the node ID after docker run or docker restart?
 
-执行命令：
+Excuting an order:
 
 ```sh
 $ docker logs 66e31
@@ -119,4 +119,4 @@ $ docker logs 66e31
 
 ### 3. Other questions?
 
-添加微信客服 bifrost00，进入微信群中讨论。
+Add the WeChat customer service bifrost00 and enter the WeChat group for discussion.
