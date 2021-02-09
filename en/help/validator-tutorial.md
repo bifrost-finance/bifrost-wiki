@@ -47,7 +47,7 @@ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method":
 
 - 3. Copy the generated Session Key to the page for setting
 
-- 4. SessionKey 生成完毕，关闭 9933、9944 端口和 RPC 权限（开放 RPC 权限有一定安全风险，不建议公开开放）
+- 4. After SessionKey is generated, close ports 9933, 9944 and RPC permissions (opening RPC permissions has certain security risks, and it is not recommended to open them publicly)
 ```
 docker run -it -p 30333:30333 bifrostnetwork/bifrost:asgard-v0.5.0 --name "NodeName" --validator
 ```
