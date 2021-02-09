@@ -40,14 +40,14 @@ docker run -it -p 30333:30333 -p 9944:9944 bifrostnetwork/bifrost:asgard-v0.5.0 
 
 > Parameter Description:
 > 
-> - `-p 30333:30333 -p 9944:9944` 为节点端口号 
->     - 节点重启可以使用 docker restart container_id
-> - `bifrostnetwork/bifrost:asgard-v0.5.0`：容器依赖的镜像；
-> - `--name "NodeName"`: 其中 NodeName 为节点名称；
+> - `-p 30333:30333 -p 9944:9944` is the node port number 
+>     - Node restart can use docker restart container_id
+> - `bifrostnetwork/bifrost:asgard-v0.5.0`: the image that the container depends on;
+> - `--name "NodeName"`: where NodeName is the node name;
 
 #### 2.2 Run again
 
-先查看之前运行的容器状态：
+First check the status of the previously running container:
 
 ```sh
 $ docker ps -a
@@ -55,7 +55,7 @@ $ docker ps -a
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-02.png')" alt="" />
 
-如果是电脑或服务器重启，造成的容器退出，用下面的命令重新启动：
+If the computer or server restarts and the container exits, restart it with the following command:
 
 ```sh
 $ docker restart 66e31
@@ -68,9 +68,9 @@ $ docker restart 66e31
 
 #### 2.3 Check node operation
 
-节点监控：<https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
+Node monitoring: <https://telemetry.polkadot.io/#/Bifrost> Asgard CC2
 
-节点奖励：<https://rewards.bifrost.finance>
+Node reward: <https://rewards.bifrost.finance>
 
 <img :src="$withBase('/zh/node-tutorials/node-tutorials-03.png')" alt="" />
 
