@@ -1,34 +1,34 @@
-# 品牌资源
+# Brand resources
 
-## Logo资源包
-[下载](https://github.com/bifrost-finance/design-assets/raw/master/brand/Bifrost-Logo-Assets.zip)
+## Logo resource pack
+[download](https://github.com/bifrost-finance/design-assets/raw/master/brand/Bifrost-Logo-Assets.zip)
 
-## 使用说明
+## Instructions for use
 
-### 含义和组成
-Bifrost 的 Logo 由图形和文字两部分组成，图形部分蕴意彩虹桥的抽象意向，文字部分为 Bifrost 的标准字母字体
+### Meaning and composition
+Bifrost’s logo is composed of graphics and text. The graphic part implies the abstract intent of the Rainbow Bridge, and the text part is Bifrost’s standard letter font
 <img :src="$withBase('/zh/brand-assets/brand-assets-01.png')" alt="" />
 
-### 组合
+### combination
 <img :src="$withBase('/zh/brand-assets/brand-assets-02.png')" alt="" />
 
-### 安全区
-在 Logo 的使用过程中要时刻保证安全区内没有其他元素的干扰
+### Safety Zone
+During the use of the Logo, always ensure that there is no interference from other elements in the safety zone
 <img :src="$withBase('/zh/brand-assets/brand-assets-03.png')" alt="" />
 
-### 应用场景
-**关于颜色的选择**
+### Application scenarios
+**About the choice of color**
 
-在白色/浅色背景下，优先使用「彩色图形-黑字」Logo，也可使用纯黑 Logo。在黑色/深色背景下，优先使用「彩色图形-白字」Logo，也可使用纯白 Logo
+On a white/light background, the "color graphics-black text" logo is preferred, and pure black logos can also be used.On a black/dark background, the "color graphics-white text" logo is preferred, and pure white logos can also be used
 <img :src="$withBase('/zh/brand-assets/brand-assets-04.png')" alt="" />
 
-**关于图形的选择**
+**About the choice of graphics**
 
-在正式场合（如官方海报、合作宣传、正式通告等）请务必使用「图形+文字」的完整 Logo
+In formal occasions (such as official posters, cooperative publicity, official announcements, etc.), please be sure to use the complete "graphic + text" logo
 <img :src="$withBase('/zh/brand-assets/brand-assets-05.png')" alt="" />
 
-其他一些场景下（如：项目头像、宣传图片、社交媒体图等），既可以使用完整 Logo 也可根据实际需要使用「单独图形 Logo」。当展示区域为类似 1：1 的方形/圆形区域，展示尺寸相对较小的情况下，如果有明确的文字体现 Bifrost，Logo 部分推荐使用「单独图形 Logo」
+In some other scenarios (such as project avatars, promotional images, social media images, etc.), you can use either the full logo or the "individual graphic logo" according to actual needs.When the display area is a square/circular area similar to 1: 1, and the display size is relatively small, if there is a clear text that reflects Bifrost, it is recommended to use "Single Graphic Logo" in the Logo part
 <img :src="$withBase('/zh/brand-assets/brand-assets-06.png')" alt="" />
 
-### 快速选用
+### Quick selection
 <img :src="$withBase('/zh/brand-assets/brand-assets-07.png')" alt="" />
