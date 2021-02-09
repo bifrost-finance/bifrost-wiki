@@ -32,4 +32,4 @@
 
 <img :src="$withBase('/zh/eos-testnet-account-register/eos-testnet-account-register-08.png')" alt="" width="50%" />
 
-**9. The above are all the tutorials for EOS Jungle test network account registration and test tokens collection.创建过程中如有任何问题，欢迎加 Bifrost 小姐姐 微信号: bifrost00 进群提问** :)
+**9. The above are all the tutorials for EOS Jungle test network account registration and test tokens collection.If you have any questions during the creation process, please add Miss Bifrost WeChat Id: bifrost00 Join the group to ask questions** :)
