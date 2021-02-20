@@ -740,13 +740,13 @@ module.exports = {
             ],
           },
           {
-            title: 'vETH Mint History',
+            title: 'vETH Deposit History',
             collapsable: false,
             sidebarDepth: 0,
             children: [
               [
-                '/zh/vethminthistory/vethminthistory-01',
-                'vETH 铸币说明与历史记录',
+                '/zh/veth/deposit-histroy.md',
+                'vETH 多签 Deposit 记录公示',
               ],
             ],
           },
