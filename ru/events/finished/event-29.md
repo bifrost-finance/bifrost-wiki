@@ -1,4 +1,4 @@
-# Crypto Royals ✖️ Bifrost 海外 Telegram 直播
+# Crypto Royals ✖ Bifrost 海外 Telegram 直播
 
 12 月 16 日，由 Crypto Royals 社区举办的 Bifrost Telegram 社区 AMA ，Bifrost Community Manager 将在直播中面向 Bifrost 社区的小伙伴介绍 Bifrost 以及 Bifrost vETH Mint Drop 活动。
 
