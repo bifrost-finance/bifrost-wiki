@@ -745,7 +745,7 @@ module.exports = {
             sidebarDepth: 0,
             children: [
               [
-                '/zh/veth/deposit-history.md',
+                '/zh/public/veth-deposit-history.md',
                 'vETH 多签 Deposit 记录',
               ],
             ],
