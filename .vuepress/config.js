@@ -383,10 +383,6 @@ module.exports = {
                         '/zh/events/finished/event-35.md',
                         'ETH 空投第二期',
                       ],
-                      [
-                        '/zh/events/finished/event-35.md',
-                        'vETH 空投第一期',
-                      ],
                     ],
                   },
                   {
@@ -741,6 +737,13 @@ module.exports = {
                   ],
                 ],
               },
+            ],
+          },
+          {
+            title: 'vETH Mint History',
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
             ],
           },
           {
