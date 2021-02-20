@@ -1,4 +1,4 @@
-# CRYPTO PAD ✖️ Bifrost 糖果盒子圣诞大放送,DeFi及波卡系列AMA活动
+# CRYPTO PAD ✖ Bifrost 糖果盒子圣诞大放送,DeFi及波卡系列AMA活动
 
 圣诞将至，Bifrost Product Manager Tyrone 受邀出席 Cryptogram 的线上直播活动，为小伙伴们介绍 Bifrost 项目的最新进展以及活动参与方式及奖励
 
