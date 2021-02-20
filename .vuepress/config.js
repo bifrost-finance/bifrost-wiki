@@ -744,6 +744,10 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 0,
             children: [
+              [
+                '/zh/vetminthistory/vethminthistory-01',
+                'vETH 铸币说明与历史记录',
+              ],
             ],
           },
           {
