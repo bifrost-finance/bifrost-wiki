@@ -745,7 +745,7 @@ module.exports = {
             sidebarDepth: 0,
             children: [
               [
-                '/zh/vetminthistory/vethminthistory-01',
+                '/zh/vethminthistory/vethminthistory-01',
                 'vETH 铸币说明与历史记录',
               ],
             ],
