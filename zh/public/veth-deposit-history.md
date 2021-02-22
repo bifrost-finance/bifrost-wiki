@@ -31,21 +31,21 @@ Bifrost 填写的参数目前由 InfStones 和 Ankr 分别提供，并由 InfSto
 
 **vETH铸币历史记录（最后更新于 2021-02-18，Deposit 总量 162 x 32 = 5184 ETH）**
 
-1 笔 Deposit（Infstone首次测试）
+1 笔 Deposit（InfStones首次测试）
 <https://etherscan.io/tx/0xb2387953eb774cfc9744b2fdb92ef4fb59f51df4efeff5ce8f583be5bc223061#eventlog>
-9 笔 Deposit（Infstone）
+9 笔 Deposit（InfStones）
 <https://etherscan.io/tx/0x57b76faf452a57301c6cdbb9fdebd8b549f42cac826cf22d9d1d3b19401f5940#eventlog>
-10 笔 Deposit（Infstone）
+10 笔 Deposit（InfStones）
 <https://etherscan.io/tx/0x8aa70ff63a5a1819a165cb558b3ed2597cd13ee39ef0abf7008386ca78656424#eventlog>
-27 笔 Deposit（Infstone）
+27 笔 Deposit（InfStones）
 <https://etherscan.io/tx/0x8c87a2fce07a98a09a37ded12a460cb2c3868950392b369941c6a8fa63ea4a99#eventlog>
 1 笔 Deposit（Ankr首次测试）
 <https://etherscan.io/tx/0x046647b4e948e5a6a89bdb5da7c40d73564669a61d0b8a516bd2bd42adb46967#eventlog>
 14 笔 Deposit（Ankr）
 <https://etherscan.io/tx/0x9153c1f2db67a650bf1a2c6607311633abac06c5434ae819d864e3b3e1c34acd#eventlog>
-50 笔 Deposit（Infstone）
+50 笔 Deposit（InfStones）
 <https://etherscan.io/tx/0x45f9f2ce3f6f74333b5e6e88fba0f97e315f24473f9218ccd36ebea43e9cc3e0#eventlog>
-50 笔 Deposit（Infstone）
+50 笔 Deposit（InfStones）
 <https://etherscan.io/tx/0x6aa751437e978f1323c75f7c954c8dad5287d9d131cead625e00be3f3f1fe065#eventlog>
 
 Continue to update...
