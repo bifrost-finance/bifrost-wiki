@@ -1,4 +1,4 @@
-# Bifrost vETH MintDrop 铸币空投活动
+# Bifrost 第一期 vETH MintDrop 铸币空投活动
 
 Bifrost Finance 作为波卡生态为质押资产提供流动性的基础协议将为 ETH 2.0 提供 Staking 流动性，使用 Bifrost 协议将会非常简单，只需要将 ETH 兑换成 vETH (Voucher Ethereum) 就成为了协议所服务的用户，持有 vETH 即可获得 Staking 收益，同时不必等待 ETH 2.0 Phase 0 至 Phase 1 长达一年的锁仓期即可卖出 vETH 实现资金回笼。
 

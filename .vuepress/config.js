@@ -454,6 +454,10 @@ module.exports = {
                         'Bifrost vETH MintDrop（第一期）',
                       ],
                       [
+                        '/zh/events/finished/event-38.md',
+                        'Bifrost vETH MintDrop（第二期）',
+                      ],
+                      [
                         '/zh/events/finished/event-36.md',
                         'Bifrost × Zenlink（第十六期）',
                       ],
