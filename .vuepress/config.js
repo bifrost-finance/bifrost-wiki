@@ -264,13 +264,17 @@ module.exports = {
               },
 
               {
-                title: 'Assets',
+                title: 'Design Assets',
                 collapsable: false,
                 sidebarDepth: 0,
                 children: [
                   [
                     '/en/help/brand-assets.md',
-                    'Brand Assets',
+                    'Brand',
+                  ],
+                  [
+                    '/en/help/token-assets.md',
+                    'Token',
                   ],
                 ],
               },
@@ -807,13 +811,17 @@ module.exports = {
               },
 
               {
-                title: '资源',
+                title: '设计资源',
                 collapsable: false,
                 sidebarDepth: 0,
                 children: [
                   [
                     '/zh/help/brand-assets.md',
                     '品牌资源',
+                  ],
+                  [
+                    '/zh/help/token-assets.md',
+                    'Token 资源',
                   ],
                 ],
               },
