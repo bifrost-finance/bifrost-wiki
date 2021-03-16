@@ -1,0 +1,2 @@
+### Glossary
+Some Tech words

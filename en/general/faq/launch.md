@@ -1,0 +1,4 @@
+### Launch
+The Genesis block of the Bifrost network will launch on May 1, 2021, as a Proof of Authority (PoA) network, with governance controlled by the single Sudo (super-user) account. During this time, validators started joining the network and signaling their intention to participate in consensus.
+The network evolved to become a Proof of Stake (PoS) network on May 1, 2022. With the chain secured by the decentralized community of validators, the Sudo module was removed on July 1, 2022, transitioning the governance of the chain into the hands of the token (BNC) holders. This is the point where Bifrost became decentralized.
+The final step of the transition to full-functioning Bifrost was the enabling of transfer functionality, which occurred on Polkadot at block number 1,205,128 on August 18, 2020, at 16:39 UTC.
