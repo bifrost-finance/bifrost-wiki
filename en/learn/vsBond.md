@@ -1,4 +1,4 @@
-### Query BNC Information
+# vsBond
 第一步：复制链接 https://dash.bifrost.finance/ 至浏览器打开  
 
 <img :src="$withBase('/picture/P1.png')" alt="Picture1" />

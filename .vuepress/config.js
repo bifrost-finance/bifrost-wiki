@@ -58,7 +58,7 @@ module.exports = {
                                     {title:'Why should you use Bifrost?', path:'/en/general/start/use.md'}
                                 ],
                             },
-                            {title:'Glossary',path:'/en/general/glossary.md'},
+                            {title:'Glossary', path:'/en/general/glossary.md'},
                             {
                                 title: 'Frequently Asked Questions (FAQs)',
                                 children: [
@@ -79,12 +79,14 @@ module.exports = {
                             {
                                 title: 'Basics',
                                 children: [
-                                    {title:'Participant', path:'/en/learn/participant.md'},
+                                    {title:'Participants', path:'/en/learn/participant.md'},
+                                    {title:'Bifrost Native Token (BNC)', path:'/en/learn/bnc.md'},
                                     {title:'Create BNC Account', path:'/en/learn/create.md'},
                                     {title:'Query BNC Information', path:'/en/learn/query.md'},
                                     {title:'vToken', path:'/en/learn/vtoken.md'},
                                     {title:'vsToken', path:'/en/learn/vstoken.md'},
                                     {title:'vsBond', path:'/en/learn/vsBond.md'},
+                                    {title:'Risk Control', path:'/en/learn/risk.md'},
                                 ],
                             },
                         ],
