@@ -1,9 +1,6 @@
-### Activity  活动、新闻  
+# Activity  活动、新闻  
 
-
-
-
-### General  项目概览与总体介绍  
+## General  项目概览与总体介绍  
 Learn: 普通人继续了解Bifrost需要学习的内容..   
 Develop: 本项目开发者、其他项目开发者需要了解的API与工具等知识...  
 Research: 学术论文、数学模型、经济模型、金融理论、安全研究...  

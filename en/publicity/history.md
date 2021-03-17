@@ -1,4 +1,4 @@
-### BifrostJS
+# BifrostJS
 ```
 hello world ! 
 ```
