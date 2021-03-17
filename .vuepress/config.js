@@ -81,6 +81,10 @@ module.exports = {
                                 children: [
                                     {title:'Create BNC Account', path:'/en/learn/create.md'},
                                     {title:'Query BNC Information', path:'/en/learn/query.md'},
+                                    {title:'vToken', path:'/en/learn/vtoken.md'},
+                                    {title:'vsToken', path:'/en/learn/vstoken.md'},
+                                    {title:'vsBond', path:'/en/learn/vsBond.md'},
+                                    {title:'Participant', path:'/en/learn/participant.md'},
                                 ],
                             },
                         ],
