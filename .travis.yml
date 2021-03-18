@@ -1,0 +1,17 @@
+language: node_js
+os:
+- linux
+node_js:
+- lts/*
+install:
+- yarn install
+script:
+- yarn docs:build
+branchs:
+  only:
+  - master
+before_install:
+- openssl aes-256-cbc -K $encrypted_40bf1b8382bc_key -iv $encrypted_40bf1b8382bc_iv -in deploy.enc -out ~/.ssh/deploy -d
+after_success:
+- chmod 600 ~/.ssh/deploy
+- scp -i ~/.ssh/deploy -o stricthostkeychecking=no -rv .vuepress/dist/* $user@$ip:$webroot
