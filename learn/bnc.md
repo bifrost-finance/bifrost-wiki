@@ -1,4 +1,4 @@
-# Bifrost Native Token \(BNC\)
+# Bifrost Native Coin \(BNC\)
 
 Bifrost Native Token \(BNC\) is the main net Token of Bifrost, the initial total supply is 80000000. Currently, in the Bifrost test network, BNC vouchers that can be exchanged 1:1 in the main network can be received for earlier stages of community distribution. At present, BNC is not available for transfer function, until the time that will be divided into four steps: completion of PoA startup, launching of the main network, deletion of Sudo and transfer proposal approved.
 
