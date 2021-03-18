@@ -28,7 +28,7 @@
 | 2.7 Bifrost | Bifrost 第二期 Mint Drop AMA 回顾 | [https://www.chainnews.com/articles/298118411722.htm](https://www.chainnews.com/articles/298118411722.htm) |
 | 2.9 DFG Official | 波卡投资基金公告 | [https://www.chainnews.com/articles/272858439573.htm](https://www.chainnews.com/articles/272858439573.htm) |
 | 2.6 区块链研习社 | 海量资产引入是波卡 DeFi 爆发的关键，如何引入？有哪些机会？ | [https://www.chainnews.com/articles/995070781522.htm](https://www.chainnews.com/articles/995070781522.htm) |
-| 2.20 Bifrost | vETH 多签 Deposit 记录公示    [https://www.chainnews.com/articles/410052463851.htm](https://www.chainnews.com/articles/410052463851.htm) |  |
+| 2.20 Bifrost | vETH 多签 Deposit 记录公示 | [https://www.chainnews.com/articles/410052463851.htm](https://www.chainnews.com/articles/410052463851.htm) |
 | 2.24 Bifrost | Bifrost 风控系列二：Ethereum 2.0 与 Polkadot 的 Slash 规则简介 | [https://www.chainnews.com/articles/000952546628.htm](https://www.chainnews.com/articles/000952546628.htm) |
 | 3.1 PolkaWarriors | Bifrost x Plasm | [https://dotmarketcap.com/blog-detail/80/ama7-recap-polkawarriors-x-bifrost-plasm-network](https://dotmarketcap.com/blog-detail/80/ama7-recap-polkawarriors-x-bifrost-plasm-network) |
 | 3.3 币世界 | 波卡生态已来，我们该如何抓住机遇！ | [https://iapi.bishijie.com/s/Au5BX2](https://iapi.bishijie.com/s/Au5BX2) |
