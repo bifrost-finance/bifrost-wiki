@@ -21,9 +21,9 @@ yarn update-metadata
 yarn generate-full-definitions
 ```
 
-### Extension
+## Extension
 
-#### Installation
+### Installation
 
 ```bash
 yarn add @polkadot/extension-dapp
@@ -31,9 +31,7 @@ yarn add @polkadot/extension-dapp
 
 Browser extensions are also required: [Download](https://polkadot.js.org/extension/)
 
-
-
-#### Usage
+### Usage
 
 ```javascript
 import {
