@@ -1,4 +1,4 @@
 # PLO Derivative
 
-vsToken & vsBond, coming soon...
+vsToken & vsBond
 
