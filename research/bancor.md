@@ -1,4 +1,4 @@
 # Bancor
 
-对Bancor的研究
+Coming soon...
 
