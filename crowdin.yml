@@ -1,0 +1,3 @@
+files:
+  - source: devops/*
+    translation: devops/%original_file_name%
