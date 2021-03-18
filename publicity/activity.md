@@ -24,17 +24,17 @@
 | 2.3 499 Block | 构建 Web3 还是挑战以太坊？ | [https://www.chainnews.com/articles/885424189205.htm](https://www.chainnews.com/articles/885424189205.htm) |
 | 2.3 金色沙龙 | Polkadot 插槽竞拍，对未来生态有何影响？ | [https://www.jinse.com/blockchain/995619.html](https://www.jinse.com/blockchain/995619.html) |
 | 2.3 DFG CLUB | 畅享 Polkadot 无尽想象 | [https://www.chainnews.com/articles/846765236140.htm](https://www.chainnews.com/articles/846765236140.htm) |
-| 2.5 KuCoin    Joint KuCoin AMA with Bifrost, MXC and Phala for the Polkadot Parachain Slots Auction | [https://medium.com/kucoinexchange/abe3d202fbbf](https://medium.com/kucoinexchange/abe3d202fbbf) |  |
-| 2.7 Bifrost | Bifrost 第二期 Mint Drop AMA 回顾    [https://www.chainnews.com/articles/298118411722.htm](https://www.chainnews.com/articles/298118411722.htm) |  |
-| 2.9 DFG Official | 波卡投资基金公告    [https://www.chainnews.com/articles/272858439573.htm](https://www.chainnews.com/articles/272858439573.htm) |  |
-| 2.6 区块链研习社 | 海量资产引入是波卡 DeFi 爆发的关键，如何引入？有哪些机会？    [https://www.chainnews.com/articles/995070781522.htm](https://www.chainnews.com/articles/995070781522.htm) |  |
+| 2.5 KuCoin | Joint KuCoin AMA with Bifrost, MXC and Phala for the Polkadot Parachain Slots Auction | [https://medium.com/kucoinexchange/abe3d202fbbf](https://medium.com/kucoinexchange/abe3d202fbbf) |
+| 2.7 Bifrost | Bifrost 第二期 Mint Drop AMA 回顾 | [https://www.chainnews.com/articles/298118411722.htm](https://www.chainnews.com/articles/298118411722.htm) |
+| 2.9 DFG Official | 波卡投资基金公告 | [https://www.chainnews.com/articles/272858439573.htm](https://www.chainnews.com/articles/272858439573.htm) |
+| 2.6 区块链研习社 | 海量资产引入是波卡 DeFi 爆发的关键，如何引入？有哪些机会？ | [https://www.chainnews.com/articles/995070781522.htm](https://www.chainnews.com/articles/995070781522.htm) |
 | 2.20 Bifrost | vETH 多签 Deposit 记录公示    [https://www.chainnews.com/articles/410052463851.htm](https://www.chainnews.com/articles/410052463851.htm) |  |
-| 2.24 Bifrost | Bifrost 风控系列二：Ethereum 2.0 与 Polkadot 的 Slash 规则简介    [https://www.chainnews.com/articles/000952546628.htm](https://www.chainnews.com/articles/000952546628.htm) |  |
-| 3.1 PolkaWarriors | Bifrost x Plasm    [https://dotmarketcap.com/blog-detail/80/ama7-recap-polkawarriors-x-bifrost-plasm-network](https://dotmarketcap.com/blog-detail/80/ama7-recap-polkawarriors-x-bifrost-plasm-network) |  |
-| 3.3 币世界 | 波卡生态已来，我们该如何抓住机遇！    [https://iapi.bishijie.com/s/Au5BX2](https://iapi.bishijie.com/s/Au5BX2) |  |
-| 3.10 陀螺财经 | 卡槽拍卖来袭，波卡生态大爆发    [https://www.tuoluocaijing.cn/polkadot/detail-10045449.html](https://www.tuoluocaijing.cn/polkadot/detail-10045449.html) |  |
-| 3.11 PolkaWorld | Bifrost 成为平行链对波卡生态的意义      详见 PolkaWorld 视频号（微信暂不支持视频号中的视频链接） |  |
-| 3.5 Bifrost | Bifrost 第二期 Mint Drop 复盘，总锁仓规模超过 2700 万美元    [https://www.chainnews.com/articles/857228926250.htm](https://www.chainnews.com/articles/857228926250.htm) |  |
-| 3.8 区块链研习社 | 波卡生态近期融资速览，哪些项目最受资本青睐？    [https://www.chainnews.com/articles/110185387461.htm](https://www.chainnews.com/articles/110185387461.htm) |  |
-| 3.15 Cointelegragh | A review of Bifrost’s 2nd mint drop, which locked-up over $27 million    [https://cointelegraph.com/press-releases/a-review-of-bifrosts-2nd-mint-drop-which-locked-up-over-27-million](https://cointelegraph.com/press-releases/a-review-of-bifrosts-2nd-mint-drop-which-locked-up-over-27-million) |  |
+| 2.24 Bifrost | Bifrost 风控系列二：Ethereum 2.0 与 Polkadot 的 Slash 规则简介 | [https://www.chainnews.com/articles/000952546628.htm](https://www.chainnews.com/articles/000952546628.htm) |
+| 3.1 PolkaWarriors | Bifrost x Plasm | [https://dotmarketcap.com/blog-detail/80/ama7-recap-polkawarriors-x-bifrost-plasm-network](https://dotmarketcap.com/blog-detail/80/ama7-recap-polkawarriors-x-bifrost-plasm-network) |
+| 3.3 币世界 | 波卡生态已来，我们该如何抓住机遇！ | [https://iapi.bishijie.com/s/Au5BX2](https://iapi.bishijie.com/s/Au5BX2) |
+| 3.10 陀螺财经 | 卡槽拍卖来袭，波卡生态大爆发 | [https://www.tuoluocaijing.cn/polkadot/detail-10045449.html](https://www.tuoluocaijing.cn/polkadot/detail-10045449.html) |
+| 3.11 PolkaWorld | Bifrost 成为平行链对波卡生态的意义 | 详见 PolkaWorld 视频号（微信暂不支持视频号中的视频链接） |
+| 3.5 Bifrost | Bifrost 第二期 Mint Drop 复盘，总锁仓规模超过 2700 万美元 | [https://www.chainnews.com/articles/857228926250.htm](https://www.chainnews.com/articles/857228926250.htm) |
+| 3.8 区块链研习社 | 波卡生态近期融资速览，哪些项目最受资本青睐？ | [https://www.chainnews.com/articles/110185387461.htm](https://www.chainnews.com/articles/110185387461.htm) |
+| 3.15 Cointelegragh | A review of Bifrost’s 2nd mint drop, which locked-up over $27 million | [https://cointelegraph.com/press-releases/a-review-of-bifrosts-2nd-mint-drop-which-locked-up-over-27-million](https://cointelegraph.com/press-releases/a-review-of-bifrosts-2nd-mint-drop-which-locked-up-over-27-million) |
 
