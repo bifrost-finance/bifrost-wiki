@@ -2,8 +2,6 @@
 
 
 
-
-
 | Address | Partners | URL |
 | :--- | :--- | :--- |
 | 1.1 Happy Block | 理想重要还是赛道重要 | [https://www.bilibili.com/video/BV1PT4y1P78S](https://www.bilibili.com/video/BV1PT4y1P78S) |
@@ -11,18 +9,18 @@
 | 1.12 鲸交所 | 生态发展之波卡专区 | [https://play.yunxi.tv/pages/a6f8614e3b974ca9b378cc96adcfeb48?openId=oY3TsvsaC8fdKpCFXI-DFd0hIKww](https://play.yunxi.tv/pages/a6f8614e3b974ca9b378cc96adcfeb48?openId=oY3TsvsaC8fdKpCFXI-DFd0hIKww) |
 | 1.20 火星财经 | “一键开播”火星视频直播发布会暨2021区块链投资展望 | [https://www.huoxing24.com/live/24309456](https://www.huoxing24.com/live/24309456) |
 | 1.21 Parity & Friends | Introduction to Bifrost’s Vote Bidding System \(VBS\) | [https://cutt.ly/njDFtum](https://cutt.ly/njDFtum) |
-| 1.26 星空财经 | Disruptors 2020:请回答2021    [http://1.blockglobe24.com/disruptors-2020](http://1.blockglobe24.com/disruptors-2020) |  |
+| 1.26 星空财经 | Disruptors 2020:请回答2021 | [http://1.blockglobe24.com/disruptors-2020](http://1.blockglobe24.com/disruptors-2020) |
 | 1.8 499 Block | 波卡生态与以太坊Layer 2首次合作，如何参与Bifrost vETH流动性挖矿？ | [https://mp.weixin.qq.com/s/-o-fB-F7-8vUHmjNSQF-\_g](https://mp.weixin.qq.com/s/-o-fB-F7-8vUHmjNSQF-_g) |
 | 1.21 Hotbit | How Bifrost Can Dominate the Staking Derivative? | [https://hotbit.medium.com/b39e03141e94](https://hotbit.medium.com/b39e03141e94) |
 | 1.22 币世界 | 未来已来，如何下注2021波卡生态圈 | [https://www.bishijie.com/shendu/163816.html](https://www.bishijie.com/shendu/163816.html) |
 | 1.27 BML | 平行链卡槽拍卖为何值得期待 | [https://www.chainnews.com/articles/302535962588.htm](https://www.chainnews.com/articles/302535962588.htm) |
 | 1.27 Crypto Times | 『Bifrost』概要や特徴、AMAの内容をQ＆A形式で解説 | [https://crypto-times.jp/bifrost/](https://crypto-times.jp/bifrost/) |
-| 1.5 Bifrost | 您有一份多签后的 vETH Staking 收益待领取    [https://www.chainnews.com/articles/122005754042.htm](https://www.chainnews.com/articles/122005754042.htm) |  |
+| 1.5 Bifrost | 您有一份多签后的 vETH Staking 收益待领取 | [https://www.chainnews.com/articles/122005754042.htm](https://www.chainnews.com/articles/122005754042.htm) |
 | 1.11 区块链研习社 | Layer2 烈火烹油，了解路印 1 分钱转账、0gas 交易、二层 AMM 及流动性挖矿 | [https://www.chainnews.com/articles/904507669387.htm](https://www.chainnews.com/articles/904507669387.htm) |
 | 1.25 区块链研习社 | 平行链插槽拍卖蓄势待发，一览波卡生态 DeFi 协议进展 | [https://www.chainnews.com/articles/162282550361.htm](https://www.chainnews.com/articles/162282550361.htm) |
 | 1.25 Bifrost | Bifrost 风控系列一：对 Validators 串通作恶的分析 | [https://www.chainnews.com/articles/388873698833.htm](https://www.chainnews.com/articles/388873698833.htm) |
 | 1.28 Bifrost | Bifrost 新获一轮天使融资，数家头部区块链投资机构支持 | [https://www.chainnews.com/articles/201019132055.htm](https://www.chainnews.com/articles/201019132055.htm) |
-| 1.30 Cointelegraph    Bifrost has received a new round of angel financing | [https://cointelegraph.com/press-releases/bifrost-has-received-a-new-round-of-angel-financing](https://cointelegraph.com/press-releases/bifrost-has-received-a-new-round-of-angel-financing) |  |
+| 1.30 Cointelegraph | Bifrost has received a new round of angel financing | [https://cointelegraph.com/press-releases/bifrost-has-received-a-new-round-of-angel-financing](https://cointelegraph.com/press-releases/bifrost-has-received-a-new-round-of-angel-financing) |
 | 2.3 499 Block | 构建 Web3 还是挑战以太坊？ | [https://www.chainnews.com/articles/885424189205.htm](https://www.chainnews.com/articles/885424189205.htm) |
 | 2.3 金色沙龙 | Polkadot 插槽竞拍，对未来生态有何影响？ | [https://www.jinse.com/blockchain/995619.html](https://www.jinse.com/blockchain/995619.html) |
 | 2.3 DFG CLUB | 畅享 Polkadot 无尽想象 | [https://www.chainnews.com/articles/846765236140.htm](https://www.chainnews.com/articles/846765236140.htm) |
