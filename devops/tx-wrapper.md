@@ -2,15 +2,15 @@
 
 Examples for end users of txwrapper-bifrost libraries
 
-### How to use  `txwrapper-bifrost`
+## How to use  `txwrapper-bifrost`
 
 Here's a mini-tutorial on how `txwrapper-bifrost` can interact with a Bifrost chain. We're using a Bifrost dev chain \([https://github.com/bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost)\)
 
-### Get Started
+## Get Started
 
 1. Fetch the latest Bifrost node from the above link. Follow instructions to build it, and start a dev chain.
 
-   `target/release/bifrost --dev` 
+   `target/release/bifrost --dev`
 
 2. Install dependencies and build the JS target
 
@@ -23,9 +23,9 @@ Here's a mini-tutorial on how `txwrapper-bifrost` can interact with a Bifrost ch
 
 3. Run the example script \(see [src/bifrost-poa.ts](https://github.com/bifrost-finance/txwrapper-bifrost/blob/master/src/bifrost-poa.ts). It will interact with your local node.
 
-   `yarn bifrost` 
+   `yarn bifrost`
 
-### Expected Output
+## Expected Output
 
 Here's a sample output of the above script, using a Polkadot node. Your payload to sign and signature will of course differ from this example.
 
