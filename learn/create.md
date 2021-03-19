@@ -16,6 +16,8 @@ Click the button \[Add account\]
 
 Write down \[mnemonic seed\], then click the button \[Next\]
 
+If you have your own \[mnemonic seed\], delete the existing one and input your own one
+
 ![](../.gitbook/assets/create0.png)
 
 ## Step 4
