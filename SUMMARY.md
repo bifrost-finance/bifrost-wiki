@@ -16,7 +16,6 @@
   * [Roles of Participants](learn/participant.md)
   * [Bifrost Native Coin \(BNC\)](learn/bnc.md)
   * [Create BNC Account](learn/create.md)
-  * [Query BNC Information](learn/query.md)
   * [vToken](learn/vtoken/README.md)
     * [Staking Derivative](learn/vtoken/vsbond.md)
     * [PLO Derivative](learn/vtoken/vsbond-1.md)
