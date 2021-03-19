@@ -4,7 +4,7 @@ Examples for end users of txwrapper-bifrost libraries
 
 ### How to use  `txwrapper-bifrost`
 
-Here's a mini-tutorial on how `txwrapper-polkadot` can interact with a Bifrost chain. We're using a Bifrost dev chain \([https://github.com/bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost)\)
+Here's a mini-tutorial on how `txwrapper-bifrost` can interact with a Bifrost chain. We're using a Bifrost dev chain \([https://github.com/bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost)\)
 
 ### Get Started
 
