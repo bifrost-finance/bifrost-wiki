@@ -128,7 +128,7 @@ bifrostnetwork/bifrost:bifrostnetwork/bifrost:bifrost-poa \
 
 
 
-**Archieve Node**
+**Archive Node**
 
 ```text
 docker run \
