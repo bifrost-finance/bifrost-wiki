@@ -34,7 +34,7 @@
   * [Bancor](research/bancor.md)
   * [Balancer](research/balancer.md)
   * [Zenlink](research/zenlink.md)
-* [📢 Publicity](publicity/README.md)
+* [�� Publicity](publicity/README.md)
   * [Token Distribution](publicity/token.md)
   * [Eth2.0 Deposit History](publicity/eth2.0-deposit-history.md)
   * [Activity](publicity/activity.md)
