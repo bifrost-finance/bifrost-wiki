@@ -9,7 +9,7 @@
     * [Why should you use Bifrost?](general/start/use.md)
   * [FAQ](general/faq/README.md)
     * [Launch](general/faq/launch.md)
-    * [Roadmap](general/faq/roadmap.md)
+    * [Roadmap & Milestone](general/faq/roadmap.md)
   * [Glossary](general/glossary.md)
 * [🎓 Learn](learn/README.md)
   * [Launch Phases](learn/launch.md)
