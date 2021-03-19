@@ -4,11 +4,5 @@ Voucher Token, or vToken, is a kind of Polkadot or Substrate Based general-purpo
 
 ![](../../.gitbook/assets/vtoken0.png)
 
-## Staking Derivatives
-
-Coming soon...
-
-## PLO Derivatives
-
-Coming soon...
+Staking Derivatives and PLO Derivatives are typical examples of vToken.
 
