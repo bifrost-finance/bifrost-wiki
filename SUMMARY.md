@@ -20,6 +20,7 @@
     * [Staking Derivative](learn/vtoken/vsbond.md)
     * [PLO Derivative](learn/vtoken/vsbond-1.md)
   * [Risk Control](learn/risk.md)
+  * [EOS Bridge](learn/eos-bridge.md)
 * [🧑‍💻 DevOps](devops/README.md)
   * [Environment](devops/environment.md)
   * [Build](devops/build.md)
