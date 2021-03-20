@@ -21,6 +21,8 @@
     * [PLO Derivative](learn/vtoken/vsbond-1.md)
   * [Risk Control](learn/risk.md)
   * [EOS Bridge](learn/eos-bridge.md)
+    * [Design](learn/eos/eos-bridge.md)
+    * [Build](learn/vtoken/eos-bridge-build.md)
 * [🧑‍💻 DevOps](devops/README.md)
   * [Environment](devops/environment.md)
   * [Build](devops/build.md)
