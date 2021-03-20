@@ -12,7 +12,7 @@ Research \(for individuals who want to learn some math and rationales\)
 
 Publicity \(for people who want to know info & news about the Bifrost Project\)
 
-Governance\(for people who want to know vote over Bifrost platform\)
+Governance\(for people who want to vote over Bifrost platform\)
 
 ## 
 
