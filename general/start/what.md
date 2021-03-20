@@ -10,7 +10,7 @@ As a DeFi project in Polkadot ecosystem, Bifrost launches vToken \(Staking Deriv
 
 Bifrost has acquired Web3 Foundation Grant, it is also a member of Substrate Builders Program under Parity, one of fifteen core members of Web3 Bootcamp incubator that organized by Web3 Foundation and WanXiang Blockchain Lab, supported by Web3 Foundation and WanXiang Blockchain Lab on technology, products, capital, legal affairs, ecological cooperation and other comprehensive aspects.
 
-![&#x56FE;&#x7247;&#x627E;&#x4E0D;&#x5230;&#x4E86;](https://whitepaper.bifrost.finance/zh/Picture4.png)
+![](https://whitepaper.bifrost.finance/zh/Picture4.png)
 
 Bifrost provides an intermediate layer between Staking and application layer, The reward competition between Staking and DeFi is resolved by making the relationship between Staking and the application layer, which is built on the underlying protocol, become top-down compatible instead of parallel to each other. The mechanism allows that users can convert PoS tokens to vToken at any time through Bifrost parachain via Bifrost protocol, and each PoS token will correspond to a different vToken, such as vDOT bridging Polkadot token, vETH bridging Ethereum token, etc. In simple terms, users only need to hold vToken and they can obtain Staking rewards. By providing vToken liquidity, PoS network liquidity and security can be both fulfilled, so that to solve the conflicts between PoS network liquidity and security. Then, according to the cross-chain characteristic of vToken be built on parachain, which enables that Staking rewards can be obtained, in order to solve the problem of obtaining Staking rewards in cross-chain scenarios.
 
