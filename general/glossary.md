@@ -6,9 +6,7 @@ Nominated PoS。权益证明系统，提名人以自己的股份支持验证人�
 
 ## DPoS
 
-The Delegated Proof of Stake \(DPoS\) consensus algorithm was developed by Daniel Larimer, in 2014. Bitshares, Steem, Ark, and Lisk are some of the cryptocurrency projects that make use of DPoS consensus algorithm. A DPoS-based blockchain counts with a voting system where stakeholders outsource their work to a third-party. In other words, they are able to vote for a few delegates that will secure the network on their behalf. The delegates may also be referred to as witnesses and they are responsible for achieving consensus during the generation and validation of new blocks. The voting power is proportional to the number of coins each user holds. The voting system varies from project to project, but in general, each delegate presents an individual proposal when asking for votes. Usually, the rewards collected by the delegates are proportionally shared with their respective electors.
-
-Therefore, the DPoS algorithm creates a voting system that is directly dependent on the delegates’ reputation. If an elected node misbehaves or does not work efficiently, it will be quickly expelled and replaced by another one.
+委托权益证明（DPoS）共识算法由Daniel Larimer在2014年开发。Bitshares，Steem，Ark和Lisk是使用DPoS共识算法的一些加密货币项目。基于DPoS的区块链采用投票系统，在该系统中，利益相关者将其工作外包给第三方。换句话说，他们能够投票给代表自己保护网络的一些代表。代表也可以称为见证人，他们负责在生成和验证新区块期间达成共识。投票权与每个用户持有的硬币数量成正比。投票系统因项目而异，但总的来说，每个代表在投票时都会提出一个单独的提案。通常，代表们收集的奖励与他们各自的选民按比例分享。因此，DPoS算法创建的投票系统直接取决于代表的声誉。如果选举出的节点行为不正常或无法有效工作，则该节点将被迅速驱逐并替换为另一个节点。
 
 ## PLO
 
