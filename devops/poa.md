@@ -1,4 +1,4 @@
-# PoA 主网
+# PoA
 
 ## Build
 

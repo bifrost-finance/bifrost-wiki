@@ -1,6 +1,4 @@
-# BifrostJS 用法
-
-
+# BifrostJS
 
 ```text
 git clone https://github.com/bifrost-finance/bifrost.js.git

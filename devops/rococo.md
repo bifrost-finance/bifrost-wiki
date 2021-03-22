@@ -1,4 +1,4 @@
-# Rococo 测试网
+# Rococo
 
 ## Build
 
