@@ -22,17 +22,39 @@ Bifrost 填写的参数目前由 InfStones 和 Ankr 分别提供，并由 InfSto
 
 目前的参数配置为5个参与方中的任意 3 方签名则 Deposit 操作生效。
 
-**多签公示** [https://gnosis-safe.io/app/\#/safes/0x7c7FCb39BAA90f2FDef625e7B0b0e858D579CD8E/transactions](https://gnosis-safe.io/app/#/safes/0x7c7FCb39BAA90f2FDef625e7B0b0e858D579CD8E/transactions)
+**多签公示**
+
+[https://gnosis-safe.io/app/\#/safes/0x7c7FCb39BAA90f2FDef625e7B0b0e858D579CD8E/transactions](https://gnosis-safe.io/app/#/safes/0x7c7FCb39BAA90f2FDef625e7B0b0e858D579CD8E/transactions)
 
 **MintDrop 合约** [https://etherscan.io/address/0xec1d6163e05b3f5d0fb8f354881f6c8b793ad612](https://etherscan.io/address/0xec1d6163e05b3f5d0fb8f354881f6c8b793ad612)
 
 **vETH 铸币历史记录（更新于 2021-02-18，Deposit 总量 162 x 32 = 5184 ETH）**
 
-1 笔 Deposit（InfStones首次测试） [https://etherscan.io/tx/0xb2387953eb774cfc9744b2fdb92ef4fb59f51df4efeff5ce8f583be5bc223061\#eventlog](https://etherscan.io/tx/0xb2387953eb774cfc9744b2fdb92ef4fb59f51df4efeff5ce8f583be5bc223061#eventlog) 9 笔 Deposit（InfStones） [https://etherscan.io/tx/0x57b76faf452a57301c6cdbb9fdebd8b549f42cac826cf22d9d1d3b19401f5940\#eventlog](https://etherscan.io/tx/0x57b76faf452a57301c6cdbb9fdebd8b549f42cac826cf22d9d1d3b19401f5940#eventlog) 10 笔 Deposit（InfStones） [https://etherscan.io/tx/0x8aa70ff63a5a1819a165cb558b3ed2597cd13ee39ef0abf7008386ca78656424\#eventlog](https://etherscan.io/tx/0x8aa70ff63a5a1819a165cb558b3ed2597cd13ee39ef0abf7008386ca78656424#eventlog) 27 笔 Deposit（InfStones） [https://etherscan.io/tx/0x8c87a2fce07a98a09a37ded12a460cb2c3868950392b369941c6a8fa63ea4a99\#eventlog](https://etherscan.io/tx/0x8c87a2fce07a98a09a37ded12a460cb2c3868950392b369941c6a8fa63ea4a99#eventlog) 1 笔 Deposit（Ankr首次测试） [https://etherscan.io/tx/0x046647b4e948e5a6a89bdb5da7c40d73564669a61d0b8a516bd2bd42adb46967\#eventlog](https://etherscan.io/tx/0x046647b4e948e5a6a89bdb5da7c40d73564669a61d0b8a516bd2bd42adb46967#eventlog) 14 笔 Deposit（Ankr） [https://etherscan.io/tx/0x9153c1f2db67a650bf1a2c6607311633abac06c5434ae819d864e3b3e1c34acd\#eventlog](https://etherscan.io/tx/0x9153c1f2db67a650bf1a2c6607311633abac06c5434ae819d864e3b3e1c34acd#eventlog) 50 笔 Deposit（InfStones） [https://etherscan.io/tx/0x45f9f2ce3f6f74333b5e6e88fba0f97e315f24473f9218ccd36ebea43e9cc3e0\#eventlog](https://etherscan.io/tx/0x45f9f2ce3f6f74333b5e6e88fba0f97e315f24473f9218ccd36ebea43e9cc3e0#eventlog) 50 笔 Deposit（InfStones） [https://etherscan.io/tx/0x6aa751437e978f1323c75f7c954c8dad5287d9d131cead625e00be3f3f1fe065\#eventlog](https://etherscan.io/tx/0x6aa751437e978f1323c75f7c954c8dad5287d9d131cead625e00be3f3f1fe065#eventlog)
+1 笔 Deposit（InfStones首次测试） [https://etherscan.io/tx/0xb2387953eb774cfc9744b2fdb92ef4fb59f51df4efeff5ce8f583be5bc223061\#eventlog](https://etherscan.io/tx/0xb2387953eb774cfc9744b2fdb92ef4fb59f51df4efeff5ce8f583be5bc223061#eventlog) 
+
+9 笔 Deposit（InfStones） [https://etherscan.io/tx/0x57b76faf452a57301c6cdbb9fdebd8b549f42cac826cf22d9d1d3b19401f5940\#eventlog](https://etherscan.io/tx/0x57b76faf452a57301c6cdbb9fdebd8b549f42cac826cf22d9d1d3b19401f5940#eventlog) 
+
+10 笔 Deposit（InfStones） [https://etherscan.io/tx/0x8aa70ff63a5a1819a165cb558b3ed2597cd13ee39ef0abf7008386ca78656424\#eventlog](https://etherscan.io/tx/0x8aa70ff63a5a1819a165cb558b3ed2597cd13ee39ef0abf7008386ca78656424#eventlog) 
+
+27 笔 Deposit（InfStones） [https://etherscan.io/tx/0x8c87a2fce07a98a09a37ded12a460cb2c3868950392b369941c6a8fa63ea4a99\#eventlog](https://etherscan.io/tx/0x8c87a2fce07a98a09a37ded12a460cb2c3868950392b369941c6a8fa63ea4a99#eventlog) 
+
+1 笔 Deposit（Ankr首次测试） [https://etherscan.io/tx/0x046647b4e948e5a6a89bdb5da7c40d73564669a61d0b8a516bd2bd42adb46967\#eventlog](https://etherscan.io/tx/0x046647b4e948e5a6a89bdb5da7c40d73564669a61d0b8a516bd2bd42adb46967#eventlog) 
+
+14 笔 Deposit（Ankr） [https://etherscan.io/tx/0x9153c1f2db67a650bf1a2c6607311633abac06c5434ae819d864e3b3e1c34acd\#eventlog](https://etherscan.io/tx/0x9153c1f2db67a650bf1a2c6607311633abac06c5434ae819d864e3b3e1c34acd#eventlog) 
+
+50 笔 Deposit（InfStones） [https://etherscan.io/tx/0x45f9f2ce3f6f74333b5e6e88fba0f97e315f24473f9218ccd36ebea43e9cc3e0\#eventlog](https://etherscan.io/tx/0x45f9f2ce3f6f74333b5e6e88fba0f97e315f24473f9218ccd36ebea43e9cc3e0#eventlog) 
+
+50 笔 Deposit（InfStones） [https://etherscan.io/tx/0x6aa751437e978f1323c75f7c954c8dad5287d9d131cead625e00be3f3f1fe065\#eventlog](https://etherscan.io/tx/0x6aa751437e978f1323c75f7c954c8dad5287d9d131cead625e00be3f3f1fe065#eventlog)
 
 **更新于 2021-03-11，Deposit 总量 200 x 32 = 6400 ETH**
 
-50 笔 Deposit（Infstone） [https://etherscan.io/tx/0x15db182214e0d88f27953cbddc587aa4b28a191aa6800c8a01366dc5b0aed450\#eventlog](https://etherscan.io/tx/0x15db182214e0d88f27953cbddc587aa4b28a191aa6800c8a01366dc5b0aed450#eventlog) 50 笔 Deposit（Infstone） [https://etherscan.io/tx/0x171683982ddcf4ab1f0a6e2770e46cb0eccf843a9a67fed872127c1ff89f27dd\#eventlog](https://etherscan.io/tx/0x171683982ddcf4ab1f0a6e2770e46cb0eccf843a9a67fed872127c1ff89f27dd#eventlog) 50 笔 Deposit（Ankr） [https://etherscan.io/tx/0x3efacae16c2a95c0be67f202044de7e7706e9c9db69789a9d71490c732091162\#eventlog](https://etherscan.io/tx/0x3efacae16c2a95c0be67f202044de7e7706e9c9db69789a9d71490c732091162#eventlog) 50 笔 Deposit（Ankr） [https://etherscan.io/tx/0xabbf2fc950e384e250479fbcd4837a53b2f1de07a6b1b539b6aca1c979906e3b\#eventlog](https://etherscan.io/tx/0xabbf2fc950e384e250479fbcd4837a53b2f1de07a6b1b539b6aca1c979906e3b#eventlog)
+50 笔 Deposit（Infstone） [https://etherscan.io/tx/0x15db182214e0d88f27953cbddc587aa4b28a191aa6800c8a01366dc5b0aed450\#eventlog](https://etherscan.io/tx/0x15db182214e0d88f27953cbddc587aa4b28a191aa6800c8a01366dc5b0aed450#eventlog) 
+
+50 笔 Deposit（Infstone） [https://etherscan.io/tx/0x171683982ddcf4ab1f0a6e2770e46cb0eccf843a9a67fed872127c1ff89f27dd\#eventlog](https://etherscan.io/tx/0x171683982ddcf4ab1f0a6e2770e46cb0eccf843a9a67fed872127c1ff89f27dd#eventlog) 
+
+50 笔 Deposit（Ankr） [https://etherscan.io/tx/0x3efacae16c2a95c0be67f202044de7e7706e9c9db69789a9d71490c732091162\#eventlog](https://etherscan.io/tx/0x3efacae16c2a95c0be67f202044de7e7706e9c9db69789a9d71490c732091162#eventlog) 
+
+50 笔 Deposit（Ankr） [https://etherscan.io/tx/0xabbf2fc950e384e250479fbcd4837a53b2f1de07a6b1b539b6aca1c979906e3b\#eventlog](https://etherscan.io/tx/0xabbf2fc950e384e250479fbcd4837a53b2f1de07a6b1b539b6aca1c979906e3b#eventlog)
 
 Continue to update...
 
