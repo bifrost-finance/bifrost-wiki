@@ -1,4 +1,4 @@
-# 技术词汇
+# Glossary
 
 ## NPoS
 

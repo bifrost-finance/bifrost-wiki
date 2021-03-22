@@ -1,4 +1,4 @@
-# 创建 BNC 账户
+# Create BNC Account
 
 ## Step 1
 
