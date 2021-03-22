@@ -14,7 +14,7 @@
 * [🎓 学习](learn/README.md)
   * [系统上线各大阶段](learn/launch.md)
   * [参与者与系统角色](learn/participant.md)
-  * [Bifrost Native Coin \(BNC\)](learn/bnc.md)
+  * [系统代币 \(BNC\)](learn/bnc.md)
   * [Create BNC Account](learn/create.md)
   * [Query BNC Information](learn/query.md)
   * [vToken](learn/vtoken/README.md)
