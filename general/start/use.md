@@ -1,4 +1,4 @@
-# Why should you use Bifrost?
+# 为什么你应该使用 Bifrost?
 
 Bifrost uses secure and decentralized asset cross-chain technology to ensure the security of pledged assets and release liquidity through vToken derivatives. By standardizing the interest generation, settlement, and rights retention of pledged assets, it can provide liquidity for all kinds of pledged assets.
 
