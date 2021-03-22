@@ -6,21 +6,17 @@
 
 ## BNC Distribution in Marketing Activities
 
-
+### First quarter of 2020
 
 #### How to balance liquidity and high yield with the new Staking + DeFi play?
 
-#### Staking + DeFi 新玩法 如何兼顾流动性和高收益
+**BNC Award Tracking:** [https://docs.google.com/spreadsheets/d/18VJJBydaWe8hKKFmd4YFWYhozJCGnVrH92j6fl0uQpo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/18VJJBydaWe8hKKFmd4YFWYhozJCGnVrH92j6fl0uQpo/edit?usp=sharing)
 
-Date: 2020/4/10
+#### 
 
+#### Polkadot Ecoproject Bifrost, a new scenario for cross-chain extension Staking
 
-
-#### Boca Ecoproject Bifrost, a new scenario for cross-chain extension Staking
-
-#### 波卡生态 Bifrost，跨链延展 Staking 的新场景
-
-Date: 2020/4/20
+#### 
 
 | Bifrost Address | BNC Amount |
 | :--- | :--- |
