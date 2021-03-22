@@ -16,11 +16,11 @@ Bifrost 是一个完全去中心化的网络，将质押资产生息、结算、
 
 #### 名词说明 <a id="&#x540D;&#x8BCD;&#x8BF4;&#x660E;"></a>
 
-![Picture21](https://whitepaper.bifrost.finance/zh/Picture21.png)
+![](https://whitepaper.bifrost.finance/zh/Picture21.png)
 
 #### [\#](https://whitepaper.bifrost.finance/zh/economic/02_voucher_token_%28vtoken%29.html#%E8%AE%A1%E7%AE%97%E5%85%AC%E5%BC%8F)计算公式 <a id="&#x8BA1;&#x7B97;&#x516C;&#x5F0F;"></a>
 
-![Picture22](https://whitepaper.bifrost.finance/zh/Picture22.png)
+![](https://whitepaper.bifrost.finance/zh/Picture22.png)
 
 _**案例 A**_：A 用户使用 10 DOT 通过 Bifrost 根据铸币价格（0.01 Token）铸造 1000 vDOT，原 DOT 通过 Voucher Notary 和 Voucher Bidder 博弈完成 Staking 操作，一周后原 DOT 通过 Staking 产生 0.5 DOT 收益，而通过 Staking 产生的 DOT 收益不会对应铸造新的 vDOT，所以铸币价格由原先的 0.01 Token 上调至 0.0105，此刻 1000 vDOT 将可以赎回 10.5 DOT，多产生的 0.5 DOT 则为 A 用户持有一周 vDOT 的 Staking 收益。
 
@@ -87,13 +87,21 @@ Bifrost 在 Staking 衍生品不可能三角中，为提供更好的 Staking 衍
 
 Bifrost 经济模型中将预留 12,160,000 BNC（Bifrost Native Coin）占总量 15.2% 的 BNC 作为 vToken 铸币激励，激励期限被设置为线性释放十年，每两年产量减半，根据用户 vToken 铸币价值进行分配，以激励用户更主动的兑换和持有具备权益、同质性和流动性的 vToken。
 
-**定量参数** ![Picture13](https://whitepaper.bifrost.finance/zh/Picture13.png)
+**定量参数**
 
-**计算公式** ![Picture14](https://whitepaper.bifrost.finance/zh/Picture14.png)
+![](../../.gitbook/assets/vtoken4.png)
 
-**铸币挖矿产量** ![Picture15](https://whitepaper.bifrost.finance/zh/Picture15.png)
+**计算公式**
 
-**铸币挖矿产量折线** ![Picture16](https://whitepaper.bifrost.finance/zh/Picture16.png)
+![](../../.gitbook/assets/token-f.png)
+
+**铸币挖矿产量**
+
+![](../../.gitbook/assets/vtoken5.png)
+
+**铸币挖矿产量折线**
+
+![](../../.gitbook/assets/vtoken6.png)
 
 * X 轴：挖矿年份
 * Y轴：BNC 产量
