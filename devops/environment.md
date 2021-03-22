@@ -1,4 +1,4 @@
-# Environment
+# 开发环境
 
 Bifrost development is easiest on Unix-based operating systems like macOS or Linux. This guide uses rustup to help manage the Rust toolchain. First install and configure rustup:
 
