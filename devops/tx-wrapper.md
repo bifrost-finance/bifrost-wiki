@@ -1,4 +1,4 @@
-# Tx Wrapper 用法
+# Tx Wrapper
 
 Examples for end users of txwrapper-bifrost libraries
 
