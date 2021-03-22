@@ -2,7 +2,7 @@
 
 ## NPoS
 
-The Nominated PoS. A Proof-of-Stake system where nominators back validators with their own stake as a show of faith in the good behavior of the validator. Nominated Proof-of-Stake differs from the more generic concept Delegated Proof-of-Stake in that nominators are subject to loss of stake if they nominate a bad validator; delegators are not subject to loss of stake based on the behavior of the validator. Note that some other blockchain technologies may use the term Delegated Proof-of-Stake, even if delegators can be slashed. Polkadot uses the Phragmén method to allocate stake to nominees.
+Nominated PoS。权益证明系统，提名人以自己的股份支持验证人，以表明对验证人良好行为的信心。提名权益证明与更一般的概念“委托权益证明”不同，提名人提名不良验证人将失去股份。委托人不会因验证人的行为而失去本金。请注意，即使可以大幅度减少委托人，其他一些区块链技术也可以使用术语委托权益证明。 Polkadot使用Phragmén方法将Staking分配给被提名人。
 
 ## DPoS
 
