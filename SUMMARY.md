@@ -6,7 +6,7 @@
     * [Bifrost是什么?](general/start/what.md)
     * [Bifrost 是如何工作的?](general/start/how.md)
     * [为什么需要Bifrost?](general/start/why.md)
-    * [为什么你应该使用 Bifrost?](general/start/use.md)
+    * [为什么您应该使用 Bifrost?](general/start/use.md)
   * [常见问答](general/faq/README.md)
     * [系统上线](general/faq/launch.md)
     * [发展路线](general/faq/roadmap.md)
