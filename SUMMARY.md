@@ -42,8 +42,8 @@
   * [Activity](publicity/activity.md)
   * [Contribute](publicity/contribute.md)
   * [Progress](publicity/progress.md)
-  * [Committee](publicity/committee.md)
   * [Resources](publicity/resources.md)
 * [🏛️ Governance](governance/README.md)
+  * [Committee](governance/committee.md)
   * [Vote](governance/vote.md)
 
