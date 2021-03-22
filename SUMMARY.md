@@ -19,7 +19,7 @@
   * [vToken简介](learn/vtoken/README.md)
     * [Staking Derivative](learn/vtoken/vsbond.md)
     * [PLO Derivative](learn/vtoken/vsbond-1.md)
-  * [Risk Control](learn/risk.md)
+  * [风险控制](learn/risk.md)
 * [🧑‍💻 开发运维](devops/README.md)
   * [Environment](devops/environment.md)
   * [Build](devops/build.md)
