@@ -27,41 +27,31 @@ For vToken tradable, the Balancer DEX module and other third-party modules such 
 
 **Project Architecture**
 
-To achieve the mechanism of vsToken and vsBond, the architecture of Bifrost PLO Liquidity includes below eight major components: 1. Contributors contribute for parachains through Bifrost, and the Bounding behavior will separate and decouple two types of tokens: vsToken and vsBonds. 2. The vsBond can be transferred to the corresponding parachain through XCMP, and then the parachain will issue rewards to the holder in a way designed by itself, so the vsBond can be regarded as a special product that contains investment rewards. 3. The system designs two pools: 1:1 exchange pool and 1:x \(x &lt;= 1\) Bancor pool. If the user holds both the vsBond and vsToken, and the parachain has retired, they can redeem their underying KSM/DOT from exchange pool. If the user only has the vsToken, they can participate in the Bancor pool at a rate of 1:x \( x &lt;= 1\) exchange out KSM/DOT at the price. Only when the KSM/DOT is stored in the pool, the user can perform the redemption function normally. 4. When the parachains retire, Bifrost will call the unbond to get funds return, and the system will put all funds into the exchange pool, and then draw 5% of the balance of the exchange pool into the Bancor pool every day. If the system loses vsBonds or some attackers deliberately hoard vsBonds and are unwilling to sell it, vsToken holders can still redeem the Token from the Bancor pool without worrying about the risk that the vsToken cannot be redeemed. 5. The funds injected into the Bancor pool by the system will be released one by one in a linear and smooth mechanism, rather than all in once. This design can prevent unreasonable and large fluctuations in the exchange price of vsToken and Token, which is actually equivalent to the system is continuously purchasing vsTokens held by the user. 6. As long as a 1:x \(x &lt;= 1\) exchange behavior occurs in the Bancor pool, the Bifrost system will inevitably make a profit, and this part of profits will go to the treasury for community development or BNC repurchasing. 7. vsBonds as an equity certificate does not require high-liquidity transactions, it can be easily sold through a buy-in-price form. Therefore, the Bifrost system will design a vsBonds trading senario, which is similar to the C2C commodity trading market in the e-commerce platform, without AMM/DEX-like provides transaction liquidity. 8. The Bancor pool is designed to ensure that the system will inevitably be profitable. If the system uses Tokens to provide liquidity in Uniswap/Balancer, there may be impermanent losses, resulting in the risk that vsToken cannot rigidly redeem the same amount of Token.
+  
+1、投资者用户通过Bifrost参与平行链项目的PLO活动，Bounding行为会分离解耦出两类Token：vsToken与Certificate。
 
-#### Runtime modules
+2、Certificate可通过XCMP转移到对应的平行链上，然后由该平行链按照自己设计的方式发放奖励给持有者，所以可将Certificate看成是蕴含了投资奖励的特殊商品。
 
-To implement the above mechanism, we will add the following modules to Substrate runtime of Bifrost: 1. Prepare PLO module It contains the following features:
+3、系统设计两个池子：1:1承兑池、1:x（x &lt;= 1）Bancor池。用户同时持有Certificate和vsToken，且Certificate所代表的Slot租约已到期，则可参与承兑池以1:1的价格兑换出Token，若用户只有vsToken，则可参与Bancor池，以1:x（x &lt;= 1）的价格兑换出Token。只有当池子中存放有Token时，用户才可正常执行兑换功能。
 
-* Parachain Registration: Registration of the parachain’s information and PLO-related arguments on Polkadot-Relaychain.
-* Investors DOTs Deposit: Investors Give Bifrost the capabitlity of bounding their DOTs to support Parachain PLO, and get vsDOT/vsKSM. 1. Execute PLO module
+4、当Slot租约到期时，Relaychain将返还Token到Bifrost，系统会将所有的Token放入承兑池，然后每天从承兑池的余额中抽取5%放入Bancor池。若系统丢失Certificate或者某些攻击者故意囤聚Certificate而不愿意卖出，vsToken持有者仍然可以从Bancor池中兑换出Token，而不用担心vsToken不能兑付的风险。
 
-  It contains the following features:
+5、系统注入到Bancor池的资金，会以线性平滑的机制逐渐释放,而不是一次性全部释放，这样设计可以防止vsToken与Token兑换价格不合理地大幅度波动。这其实就相当于系统在用一部分Token持续购买用户持有的vsToken。
 
-* Bounding DOTs: Bounding DOTs for parachains on Polkadot relay chain to support their PLO.
-* Redeeming DOTs: When the PLO fails or slot lease expires, contributors will receive the returned DOTs. 1. Asset module
+6、只要在Bancor池中发生1:x（x &lt;= 1）的兑换行为，Bifrost系统必然会盈利，这部分利润将进入国库,用于社区发展或回购BNC。
 
-  It contains the following features:
-
-* Record Certifications: The certifications represent the corresponding quantity of user's contribution, parachains will reward users who hold contributions. Bifrost records these contribution holders, in order that keep their right to redeem 1:1 KSM/DOT after the fund being retirememt.
-* DOT-vsDOT or KSM-vsKSM Conversion: When fund being retirement, vsDOT/vsKSM should be converted to DOT/KSM.
+7、Certificate 作为权益凭证，不需要高流动性交易，通过一口价形式挂单出售即可，因此Bifrost系统设计有挂单售卖Certificate的机制，类似于电商平台中的C2C商品买卖市场，无需通过Uniswap/Balancer这类AMM/DEX提供交易流动性。
 
 #### Workflow
 
 * Investors participate in the parachain slot auction process ![171611737050\_ pic](https://user-images.githubusercontent.com/72777624/105987911-e5880b00-60d9-11eb-8557-0f46c8c7f121.jpg)
 * Investors use Bifrost to participate in the parachain card slot auction process with liquidity ![181611737079\_ pic\_hd](https://user-images.githubusercontent.com/72777624/105987978-ff295280-60d9-11eb-8adc-23058f51b605.jpg)
 
-#### Security
+#### 
 
-Investors use XCMP to transfer DOTs to the Bifrost platform, so the security of user funds is guaranteed by XCMP. Parachain projects that require PLO also use XCMP to deposit rewards asset on the Bifrost platform. For example: Alice transfer her DOT in relay chain to the Bifrost parachain through the XCMP cross-chain function, and then ALice can call the function provided by the Bifrost platform to bind ParachainA. Her rewards will be released linearly in time. The unreleased part is always locked and no one can embezzle it. It is as safe as being locked in the parachain itself. Parachain projects can also choose to release deposit rewards \(contributor rewards\) parachains themselves, it depends on the utility of XCMP at that time.
+### 
 
-### Additional Information
+\*\*\*\*
 
-The code related to the roadmap will be open source in the form of runtime and packaged into docker containers for acceptance. At the same time, this runtime will provide DOT and KSM liquidity for Polkadot and Kusama parachain slot auctions. Bifrost Finance will serve as the first parachain for this feature application. Regarding grant, we are happy to accept DOT.
 
-**What work has been done so far?**
-
-Bifrost has released the third version of the testnet. The mint, redeem and swap of staking derivatives have been completed in the testnet. Currently, the Bifrost testnet supports three types of derivatives: vKSM, vDOT, and vEOS. Holding staking derivatives \(vToken\) can indirectly participate in staking to obtain benefits, and staking derivatives can also trade at any time and transfer staking rights to avoid the loss of opportunity cost due to staking lockup. After research, Polkadot or Kusama auction parachain card slots have decentralized execution, predictable returns, and absolute principal security, which are similar to staking assets. So it can also solve the problems of equity transfer and lock-up opportunity cost for its casting derivatives.
-
-Otherwise, Bifrost considered that Polkadot will bridge-up Ethereum in the future, so we deployed the ETH 2.0 staking derivative vETH, which provides a liquidity solution for users of Ethereum 2.0 who pledge deposit contracts. Our contract received 10,000 ETH of vETH mint on first day online, equivalent to $6 million, the campaign was a great success and far exceeded our expectations. In technical aspect, we removed the Sudo administrator authority before the formal deposit of ETH 2.0, to ensure that the deposit operation of ETH is confirmed by multiple parties and eliminate the unilateral risk of misbehavior by Bifrost team. At present, Bifrost vETH mint contract owner authority has transferred to the multisig contract, and the five parties InfStones, Ankr, DFG, LongHash Ventures and Bifrost jointly did multisig to manage private key for ETH 2.0 deposit operations. All multisig records will be saved on-chain and published in Bifrost Wiki.
 
