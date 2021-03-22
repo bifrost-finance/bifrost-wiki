@@ -1,16 +1,7 @@
-# 🎉 欢迎
+# 🎉 Welcome
 
-欢迎使用Bifrost Wiki！它分为六个主要部分：
-
-通识（对Bifrost项目进行简介的内容，针对所有对Bifrost项目感兴趣的个人与组织）；
-
-学习（针对Bifrost初学者，介绍一些基础知识）；
-
-开发&运维（关于开发、部署Bifrost代码与进程，系统API等内容，主要针对希望基于Bifrost进行开发的研发人员）；
-
- 研究（与Bifrost系统架构、设计、运行等方面的学术研究、数学公式、设计原理等内容，主要针对研究人员撰写）；
-
-宣传（有关Bifrost项目的信息、新闻、活动、运营等公开信息），
-
-治理（面向Bifrost社区，主要有链上治理、社区投票等内容）
+Welcome to the Bifrost Wiki! It has four main sections: Learn \(for learners\),  
+Develop \(for individuals/developers that want to build on Bifrost\),  
+Research \(for individuals that want to learn some math and rationales\),  
+and Publicity \(for people that want to know info & news about the Bifrost Project\).
 
