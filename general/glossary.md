@@ -10,17 +10,17 @@ Nominated PoS。权益证明系统，提名人以自己的股份支持验证人�
 
 ## PLO
 
-Parachain Lease Offering. Polkadot is a blockchain network that scales by spreading transactions across multiple parallel blockchain shards called parachains. Parachains are specialized shards of Polkadot that give projects and their communities agency over their respective goals. Parachain slots are limited, and will be auctioned off in unpermissioned candle auctions. Rather than auction many parachain slots together, it's more likely \(though not yet confirmed\) that they will be auctioned off one-by-one, so that there’s only a single parachain auction occuring at any given time.
+平行链租赁产品。 Polkadot是一个区块链网络，可通过将交易分散在称为平行链的多个并行区块链碎片中进行扩展。平行链是Polkadot的特殊碎片，可为项目及其社区提供实现各自目标的代理。平行链插槽有限，将在未经允许的蜡烛拍卖中拍卖。与其一起拍卖许多平行链插槽，不如将它们一次一地拍卖（尽管尚未确认），因此在任何给定时间仅发生一次平行链拍卖。
 
 ## DeFi
 
-Decentralized Finance. DeFi is an umbrella term for a variety of applications and projects in the public blockchain space geared toward disrupting the traditional finance world. Inspired by blockchain technology, DeFi is referred to as financial applications built on blockchain technologies, typically using smart contracts. Smart contracts are automated enforceable agreements that do not need intermediaries to execute and can be accessed by anyone with an internet connection. DeFi consists of applications and peer-to-peer protocols developed on decentralized blockchain networks that require no access rights for easy lending, borrowing, or trading of financial tools. Most DeFi applications today are built using the Ethereum network, but many alternative public networks are emerging that deliver superior speed, scalability, security, and lower costs.
+DeFi是公共区块链领域中旨在颠覆传统金融世界的各种应用程序和项目的统称。受区块链技术启发，DeFi被称为基于区块链技术构建的金融应用程序，通常使用智能合约。智能合约是自动可执行的协议，不需要中介机构即可执行，任何具有互联网连接的人都可以访问。 DeFi包含在分散的区块链网络上开发的应用程序和对等协议，这些协议不需要访问权限即可轻松进行借贷，借贷或交易金融工具。当今，大多数DeFi应用程序都是使用以太坊网络构建的，但是正在出现许多替代公共网络，它们提供了卓越的速度，可伸缩性，安全性和更低的成本。
 
 ## Dex
 
-Decentralized Exchanges. DEX are a type of cryptocurrency exchange which allows for direct peer-to-peer cryptocurrency transactions to take place online securely and without the need for an intermediary.
+去中心化交易所。 DEX是一种加密货币交换，它允许直接的对等加密货币交易安全地在线进行，而无需中介。
 
 ## DApp
 
-Decentralized Applications. A decentralized application \(DApp, Dapp\) is a computer application that runs on a distributed computing system.DApps have been popularized by distributed ledger technologies \(DLT\) such as the Ethereum Blockchain, where DApps are often referred to as smart contracts.
+去中心化应用程序（DApp，Dapp）是在分布式计算系统上运行的计算机应用程序。DApp已被以太坊区块链等分布式账本技术（DLT）普及，其中DApp通常被称为智能合约。
 
