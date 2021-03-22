@@ -15,7 +15,7 @@
   * [系统上线各大阶段](learn/launch.md)
   * [参与者与系统角色](learn/participant.md)
   * [系统代币 \(BNC\)](learn/bnc.md)
-  * [Create BNC Account](learn/create.md)
+  * [创建 BNC 账户](learn/create.md)
   * [Query BNC Information](learn/query.md)
   * [vToken](learn/vtoken/README.md)
     * [Staking Derivative](learn/vtoken/vsbond.md)
