@@ -1,5 +1,7 @@
 # Token Distribution
 
+## BNC Allocation
+
 ![](../.gitbook/assets/p10.png)
 
 ## BNC Distribution in Marketing Activities
