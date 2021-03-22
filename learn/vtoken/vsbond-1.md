@@ -2,7 +2,7 @@
 
 ### Project Description
 
-Bifrost当前是Polkadot生态的平行链，可为抵押和抵押资产提供流动性，是Polkadot生态中的defi协议。随着Polkadot与Kusama的发展，平行链卡槽拍卖即将开始。抵押是Bifrost释放流动性的第一类资产。通过PoS中mint vToken的Bifrost协议，用户可以享受赌注的回报和流动性。 Bifrost计划为Kusama / Polkadot平行链插槽拍卖提供KSM / DOT流动性，因为平行链插槽数量有限，平行链插槽的初始价格预计昂贵，并且需要租赁平行链的项目将进行平行链租赁。产品（PLO）在老虎机拍卖中获得其资金优势。因此，大量的KSM / DOT将被锁定在旁链老虎机拍卖中，并且将其KSM / DOT贡献给Parachian王冠贷款的用户愿意面对一段时期（如果Parachain获胜，则为6-24个月） / DOT无法赎回，这意味着用户将无法交易资产并承担锁定期的机会成本，而无需获得奖励。 但是，当前用户可以通过此建议通过Bifrost参与Parachain插槽拍卖，并获得相应的vsDOT（凭证插槽DOT）或vsKSM和vsBonds来释放流动性。 vsKSM / vsDOT是可交易的可替代资产，代表所有作为KSM / DOT基础的贡献者，vsBonds可用于在降落伞退役后赎回基础的vsKSM / vsDOT，并且包含对链的PLO奖励。但是，在降落伞项目赢得拍卖之前，vsDOT / vsKSM和vsBonds尚无法交易。如果项目失败，则将自动删除那些vsDOT / vsKSM和vsBonds。当用户希望在降落伞获胜后兑现其锁定的KSM / DOT时，他们可以按市场价格在市场上出售vsDOT或vsKSM。或者，他们可以一直持有直到平行链槽过期，然后使用vsBonds赎回其原始资产。 诸如Balancer，Uniswap或Zenlink之类的贸易模块将事先部署，而vsDOT / vsKSM将是Bifrost Finance支持的第二种衍生产品。
+Bifrost是Polkadot生态的平行链和DeFi协议，可为抵押和抵押资产提供流动性。随着Polkadot与Kusama的发展，即将开始平行链卡槽拍卖活动。因为平行链插槽数量有限，平行链插槽的初始价格预计昂贵，Bifrost计划为Kusama / Polkadot平行链插槽拍卖提供KSM / DOT流动性。
 
 ![131611297852\_ pic\_hd](https://user-images.githubusercontent.com/72777624/105987528-5b3fa700-60d9-11eb-99b0-e46406414389.jpg)
 
@@ -64,8 +64,4 @@ The code related to the roadmap will be open source in the form of runtime and p
 Bifrost has released the third version of the testnet. The mint, redeem and swap of staking derivatives have been completed in the testnet. Currently, the Bifrost testnet supports three types of derivatives: vKSM, vDOT, and vEOS. Holding staking derivatives \(vToken\) can indirectly participate in staking to obtain benefits, and staking derivatives can also trade at any time and transfer staking rights to avoid the loss of opportunity cost due to staking lockup. After research, Polkadot or Kusama auction parachain card slots have decentralized execution, predictable returns, and absolute principal security, which are similar to staking assets. So it can also solve the problems of equity transfer and lock-up opportunity cost for its casting derivatives.
 
 Otherwise, Bifrost considered that Polkadot will bridge-up Ethereum in the future, so we deployed the ETH 2.0 staking derivative vETH, which provides a liquidity solution for users of Ethereum 2.0 who pledge deposit contracts. Our contract received 10,000 ETH of vETH mint on first day online, equivalent to $6 million, the campaign was a great success and far exceeded our expectations. In technical aspect, we removed the Sudo administrator authority before the formal deposit of ETH 2.0, to ensure that the deposit operation of ETH is confirmed by multiple parties and eliminate the unilateral risk of misbehavior by Bifrost team. At present, Bifrost vETH mint contract owner authority has transferred to the multisig contract, and the five parties InfStones, Ankr, DFG, LongHash Ventures and Bifrost jointly did multisig to manage private key for ETH 2.0 deposit operations. All multisig records will be saved on-chain and published in Bifrost Wiki.
-
-**Have you applied for other grants so far?**
-
-We have obtained EOS Bridge Grant and completed the acceptance of the first phase milestone. The second phase milestone has been developed and we are preparing for the delivery of the second phase milestone.
 
