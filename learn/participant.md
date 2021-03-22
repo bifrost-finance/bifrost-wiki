@@ -2,29 +2,29 @@
 
 ## Validator:
 
-> ● Validator randomly assigned through parallel threads or parallel chain card slots. This role is the Validator in the Polkadot or Kusama network. It will execute the Bifrost business code and verify the final state of the block.
+> 通过平行线程或平行链卡槽随机分配的 Validator，该角色为 Polkadot 或 Kusama 网络中的 Validator，将执行 Bifrost 业务代码并进行区块最终态验证。
 
 ## Collator:
 
-> ● Responsible for collecting user call data and transmitting query information. Collator will generate blocks and submit them to the Validator for final verification.
+> 负责收集用户调用数据及传递查询信息，Collator 将产生区块并交由 Validator 做最终验证。
 
 ## Bidder:
 
-> ● Voting bidders are elected through a referendum on the proposal. The account passed by the election becomes Bidder, which can bind the address of the node that needs to be voted, and has the right to bid to obtain votes in the Bifrost voting pool, such as the Slash level or number of times the role occurs If the upper limit is triggered, Bidder permissions will be cancelled.
+> 票权竞价人，通过提案公投选举，选举通过的账号成为Bidder可以将需要被投票的节点地址进行绑定，具备竞价获得Bifrost投票池中投票的权利，如该角色发生Slash级别或次数触发上限，将被取消Bidder权限。
 
 ## Asker:
 
-> ● vToken exchange or holder, who is the auctioneer of the agreement entrusted voting rights.
+> vToken 兑换或持有人，为协议委托票权拍卖方。
 
 ## Council:
 
-> ● The council is mainly required to perform three governance tasks: propose a referendum, cancel an uncontroversial, dangerous or malicious referendum, and elect a technical committee.
+> 理事会主要被要求执行三项治理任务：提出全民公决，取消毫无争议的危险或恶意的全民公决以及选举技术委员会。
 
 ## Technical Committee
 
-> ● When the system is in a critical state and faces serious risks, the technical committee can work with the Bifrost Council to formulate an emergency referendum to quickly vote and implement the system's first aid plan.
+> 当系统处于危急状态，面临严重风险时，技术委员会可与 Bifrost Council 一起制定紧急公投，以快速进行投票和实施系统急救方案。
 
 ## Sudo
 
-> ● Super administrator, in the initial stage of system launch, has the right to set and adjust most system parameters to maintain system development, but after the stable operation of the Bifrost mainnet, Sudo permissions will be removed through a community proposal referendum.
+> 超级管理员，在系统上线最初期阶段，有权设置调整大部分系统参数以维护系统发展，但在 Bifrost 主网稳定运行之后，将通过社区提案公投移除Sudo权限。
 
