@@ -16,7 +16,7 @@
   * [参与者与系统角色](learn/participant.md)
   * [系统代币 \(BNC\)](learn/bnc.md)
   * [创建 BNC 账户](learn/create.md)
-  * [vToken简介](learn/vtoken/README.md)
+  * [vToken 简介](learn/vtoken/README.md)
     * [Staking Derivative](learn/vtoken/vsbond.md)
     * [PLO Derivative](learn/vtoken/vsbond-1.md)
   * [风险控制](learn/risk.md)
