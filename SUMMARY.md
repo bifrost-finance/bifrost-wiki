@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎉 Welcome](README.md)
+* [🎉 欢迎](README.md)
 * [🌈 General](general/README.md)
   * [Getting Started](general/start/README.md)
     * [What is Bifrost?](general/start/what.md)
