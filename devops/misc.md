@@ -1,6 +1,6 @@
-# Substrate API Sidecar
+# Substrate API Sidecar 用法
 
-### Bifrost Node Setup
+#### Bifrost Node Setup
 
 Compile bifrost from source code, either run bifrost by docker container. From source code.
 
@@ -46,13 +46,13 @@ bifrostnetwork/bifrost:bifrostnetwork/bifrost:bifrost-poa \
 --pruning archive
 ```
 
-### Substrate-api-sidecar Setup
+#### Substrate-api-sidecar Setup
 
 **Requirements**:
 
 Ensure Node version 12 or higher installed, and yarn installed.
 
-**Procedures**: 
+**Procedures**:
 
 Step 1. Sync sidecar source code and compile it.
 
@@ -62,7 +62,7 @@ cd substrate-api-sidecar
 yarn
 ```
 
-Step 2. Configure sidecar. 
+Step 2. Configure sidecar.
 
 Find **.env.local**, and replace the content with these sections.
 
@@ -93,7 +93,7 @@ NODE_ENV=local yarn start
 
 It should start without error.
 
-Step 4. Test bifrost endpoints APIs. 
+Step 4. Test bifrost endpoints APIs.
 
 You can find lots of APIs at [Substrate API Sidecar](https://paritytech.github.io/substrate-api-sidecar/dist/)
 

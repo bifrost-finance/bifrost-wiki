@@ -1,10 +1,8 @@
-# Vote
+# 社区投票
 
-Coming soon...
+关于链上治理、社区治理方面的投票，待整理...
 
 ## Grants
 
-Coming soon...
-
-
+关于Grants方面的内容，待整理...
 

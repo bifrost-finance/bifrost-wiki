@@ -1,22 +1,22 @@
-# Launch Phases
+# 系统上线各大阶段
 
-## Asgard Testnet
+## Asgard 测试网
 
-Completed
+已完成
 
 ## Rococo Testnet
 
-Completed
+已完成
 
-## PoA mainnet
+## PoA 主网
 
-In progress
+正在进行中
 
-## Kusama Parachain
+## Kusama 平行链
 
-Not yet started
+还未开始
 
-## Polkadot Parachain
+## Polkadot 平行链
 
-Not yet started
+还未开始
 

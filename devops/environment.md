@@ -1,12 +1,12 @@
-# Environment
+# 开发环境
 
-Bifrost development is easiest on Unix-based operating systems like macOS or Linux. This guide uses rustup to help manage the Rust toolchain. First install and configure rustup:
+在MacOS或Linux等基于Unix的操作系统上，Bifrost开发最容易。本指南使用rustup来帮助管理Rust工具链。首先安装和配置rustup：
 
-## Install
+## 安装
 
 curl [https://sh.rustup.rs](https://sh.rustup.rs) -sSf \| sh
 
-## Configure
+## 配置
 
 source ~/.cargo/env
 

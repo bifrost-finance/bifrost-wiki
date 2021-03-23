@@ -1,4 +1,4 @@
-# Balancer
+# Balancer 算法
 
-Coming soon...
+对Balancer的研究，待整理...
 

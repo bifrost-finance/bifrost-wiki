@@ -1,28 +1,26 @@
-# Glossary
+# 技术词汇
 
 ## NPoS
 
-The Nominated PoS. A Proof-of-Stake system where nominators back validators with their own stake as a show of faith in the good behavior of the validator. Nominated Proof-of-Stake differs from the more generic concept Delegated Proof-of-Stake in that nominators are subject to loss of stake if they nominate a bad validator; delegators are not subject to loss of stake based on the behavior of the validator. Note that some other blockchain technologies may use the term Delegated Proof-of-Stake, even if delegators can be slashed. Polkadot uses the Phragmén method to allocate stake to nominees.
+Nominated PoS。权益证明系统，提名人以自己的股份支持验证人，以表明对验证人良好行为的信心。提名权益证明与更一般的概念“委托权益证明”不同，提名人提名不良验证人将失去股份。委托人不会因验证人的行为而失去本金。请注意，即使可以大幅度减少委托人，其他一些区块链技术也可以使用术语委托权益证明。 Polkadot使用Phragmén方法将Staking分配给被提名人。
 
 ## DPoS
 
-The Delegated Proof of Stake \(DPoS\) consensus algorithm was developed by Daniel Larimer, in 2014. Bitshares, Steem, Ark, and Lisk are some of the cryptocurrency projects that make use of DPoS consensus algorithm. A DPoS-based blockchain counts with a voting system where stakeholders outsource their work to a third-party. In other words, they are able to vote for a few delegates that will secure the network on their behalf. The delegates may also be referred to as witnesses and they are responsible for achieving consensus during the generation and validation of new blocks. The voting power is proportional to the number of coins each user holds. The voting system varies from project to project, but in general, each delegate presents an individual proposal when asking for votes. Usually, the rewards collected by the delegates are proportionally shared with their respective electors.
-
-Therefore, the DPoS algorithm creates a voting system that is directly dependent on the delegates’ reputation. If an elected node misbehaves or does not work efficiently, it will be quickly expelled and replaced by another one.
+委托权益证明（DPoS）共识算法由Daniel Larimer在2014年开发。Bitshares，Steem，Ark和Lisk是使用DPoS共识算法的一些加密货币项目。基于DPoS的区块链采用投票系统，在该系统中，利益相关者将其工作外包给第三方。换句话说，他们能够投票给代表自己保护网络的一些代表。代表也可以称为见证人，他们负责在生成和验证新区块期间达成共识。投票权与每个用户持有的硬币数量成正比。投票系统因项目而异，但总的来说，每个代表在投票时都会提出一个单独的提案。通常，代表们收集的奖励与他们各自的选民按比例分享。因此，DPoS算法创建的投票系统直接取决于代表的声誉。如果选举出的节点行为不正常或无法有效工作，则该节点将被迅速驱逐并替换为另一个节点。
 
 ## PLO
 
-Parachain Lease Offering. Polkadot is a blockchain network that scales by spreading transactions across multiple parallel blockchain shards called parachains. Parachains are specialized shards of Polkadot that give projects and their communities agency over their respective goals. Parachain slots are limited, and will be auctioned off in unpermissioned candle auctions. Rather than auction many parachain slots together, it's more likely \(though not yet confirmed\) that they will be auctioned off one-by-one, so that there’s only a single parachain auction occuring at any given time.
+平行链租赁产品。 Polkadot是一个区块链网络，可通过将交易分散在称为平行链的多个并行区块链碎片中进行扩展。平行链是Polkadot的特殊碎片，可为项目及其社区提供实现各自目标的代理。平行链插槽有限，将在未经允许的蜡烛拍卖中拍卖。与其一起拍卖许多平行链插槽，不如将它们一次一地拍卖（尽管尚未确认），因此在任何给定时间仅发生一次平行链拍卖。
 
 ## DeFi
 
-Decentralized Finance. DeFi is an umbrella term for a variety of applications and projects in the public blockchain space geared toward disrupting the traditional finance world. Inspired by blockchain technology, DeFi is referred to as financial applications built on blockchain technologies, typically using smart contracts. Smart contracts are automated enforceable agreements that do not need intermediaries to execute and can be accessed by anyone with an internet connection. DeFi consists of applications and peer-to-peer protocols developed on decentralized blockchain networks that require no access rights for easy lending, borrowing, or trading of financial tools. Most DeFi applications today are built using the Ethereum network, but many alternative public networks are emerging that deliver superior speed, scalability, security, and lower costs.
+DeFi是公共区块链领域中旨在颠覆传统金融世界的各种应用程序和项目的统称。受区块链技术启发，DeFi被称为基于区块链技术构建的金融应用程序，通常使用智能合约。智能合约是自动可执行的协议，不需要中介机构即可执行，任何具有互联网连接的人都可以访问。 DeFi包含在分散的区块链网络上开发的应用程序和对等协议，这些协议不需要访问权限即可轻松进行借贷，借贷或交易金融工具。当今，大多数DeFi应用程序都是使用以太坊网络构建的，但是正在出现许多替代公共网络，它们提供了卓越的速度，可伸缩性，安全性和更低的成本。
 
 ## Dex
 
-Decentralized Exchanges. DEX are a type of cryptocurrency exchange which allows for direct peer-to-peer cryptocurrency transactions to take place online securely and without the need for an intermediary.
+去中心化交易所。 DEX是一种加密货币交换，它允许直接的对等加密货币交易安全地在线进行，而无需中介。
 
 ## DApp
 
-Decentralized Applications. A decentralized application \(DApp, Dapp\) is a computer application that runs on a distributed computing system.DApps have been popularized by distributed ledger technologies \(DLT\) such as the Ethereum Blockchain, where DApps are often referred to as smart contracts.
+去中心化应用程序（DApp，Dapp）是在分布式计算系统上运行的计算机应用程序。DApp已被以太坊区块链等分布式账本技术（DLT）普及，其中DApp通常被称为智能合约。
 

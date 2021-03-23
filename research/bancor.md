@@ -1,4 +1,4 @@
-# Bancor
+# Bancor 算法
 
-Coming soon...
+对Bancor的研究，待整理...
 

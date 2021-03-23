@@ -1,6 +1,6 @@
-# PoA
+# PoA 主网
 
-### From sources
+#### From sources
 
 Requirements Stable rust: 1.50 Nightly rust: 1.52
 
@@ -68,7 +68,7 @@ Check this [page](https://substrate.dev/docs/en/knowledgebase/getting-started/) 
 --pruning archive
 ```
 
-### Docker Image
+#### Docker Image
 
 Requirements: docker
 
@@ -109,8 +109,6 @@ Requirements: docker
 3. Register as an validator.
 4. Wait an epoch to see whether your validator produces block or not.
 
-
-
 **Full Node**
 
 ```text
@@ -125,8 +123,6 @@ bifrostnetwork/bifrost:bifrostnetwork/bifrost:bifrost-poa \
 --name "Your Node Name" \
 --rpc-cors all
 ```
-
-
 
 **Archive Node**
 

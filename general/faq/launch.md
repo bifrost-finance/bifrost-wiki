@@ -1,6 +1,6 @@
-# Launch
+# 系统上线
 
-The Genesis block of the Bifrost network will launch soon, as a Proof of Authority \(PoA\) network, with governance controlled by the single Sudo \(super-user\) account. During this time, validators can start joining the network and signaling their intention to participate in consensus. The network will evolve to become a Proof of Stake \(PoS\) network. With the chain secured by the decentralized community of validators, the Sudo module will be removed, transitioning the governance of the chain into the hands of the token \(BNC\) holders. This is the point where Bifrost will become decentralized.
+Bifrost网络的Genesis块将作为授权证明（PoA）网络很快启动，其治理由单个Sudo（超级用户）帐户控制。在此期间，验证者可以开始加入网络，并表明他们打算参加共识的意图。该网络将发展成为权益证明（PoS）网络。通过分散的验证者社区来保护链，将删除Sudo模块，从而将链的管理转移到令牌（BNC）持有者的手中。这就是Bifrost分散的地方。
 
-Ref: [https://wiki.bifrost.finance/learn/launch](https://wiki.bifrost.finance/learn/launch)
+参见: [https://wiki.bifrost.finance/learn/launch](https://wiki.bifrost.finance/learn/launch)
 
