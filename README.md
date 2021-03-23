@@ -14,7 +14,7 @@
 
 治理，面向Bifrost社区，主要有链上治理、社区投票等内容。
 
-#链接
+# 🔗 链接
 [Github](https://github.com/bifrost-finance)
 [Telegram](https://t.me/bifrost_finance)
 [Twitter](https://twitter.com/bifrost_finance)
