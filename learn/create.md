@@ -2,25 +2,33 @@
 
 ## Step 1
 
-Open the URL: [https://dash.bifrost.finance/\#/accounts](https://dash.bifrost.finance/#/accounts)
+用Web浏览器访问链接 : [https://dash.bifrost.finance/\#/accounts](https://dash.bifrost.finance/#/accounts)
+
+![](../.gitbook/assets/create1.png)
 
 ## Step 2
 
-Click the button \[Add account\]
+点击按钮 \[Add account\]
+
+![](../.gitbook/assets/create2.png)
 
 ## Step 3
 
-Write down \[mnemonic seed\], then click the button \[Next\]
+抄写 \[mnemonic seed\]，注意秘密保存，切勿遗失或泄露给他人。若您想导入已有的助记词，可删除当前自动生成的内容，并将已有的助记词填写进来。 然后点击按钮 \[Next\]
+
+![](../.gitbook/assets/create0.png)
 
 ## Step 4
 
-Input account \[name\], \[pasword\], \[repeated password\]，then click the button \[Next\]
+输入账户名称与两次密码 ，并点击按钮 \[Next\]
+
+![](../.gitbook/assets/create3.png)
 
 ## Step 5
 
-Click the button \[save\] to complete
+点击按钮 \[save\] 完成账户创建
 
 ## Step 6
 
-Click the \[icon\] of the account, means to copy the \[address\]
+回到账户界面，点击账户所对应的图标，可自动复制出账户地址。
 
