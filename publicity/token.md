@@ -8,208 +8,31 @@
 
 ### First quarter of 2020
 
-#### How to balance liquidity and high yield with the new Staking + DeFi play?
+#### 1. How to balance liquidity and high yield with the new Staking + DeFi play?
 
 **BNC Award Tracking:** [https://docs.google.com/spreadsheets/d/18VJJBydaWe8hKKFmd4YFWYhozJCGnVrH92j6fl0uQpo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/18VJJBydaWe8hKKFmd4YFWYhozJCGnVrH92j6fl0uQpo/edit?usp=sharing)
 
-#### 
 
-#### Polkadot Ecoproject Bifrost, a new scenario for cross-chain extension Staking
 
-#### 
+#### 2. Polkadot Ecoproject Bifrost, a new scenario for cross-chain extension Staking
 
-#### Private Sharing Session of Polkadot Project Parties: Can Polkadot Become the Next Ethereum?
+**BNC Award Tracking:** [https://docs.google.com/spreadsheets/d/19S3FHhz8d\_L0oel1Hf7t3TNDtcog8tQZstrcrBsjUEY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/19S3FHhz8d_L0oel1Hf7t3TNDtcog8tQZstrcrBsjUEY/edit?usp=sharing)
 
 #### 
 
+#### **3.** Private Sharing Session of Polkadot Project Parties: Can Polkadot Become the Next Ethereum?
+
+**BNC Award Tracking:** [https://docs.google.com/spreadsheets/d/1OGBJpud7ebtYcM1xOQw5Ns1yEmgOxDorqu4fUsX1zVk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1OGBJpud7ebtYcM1xOQw5Ns1yEmgOxDorqu4fUsX1zVk/edit?usp=sharing)
+
+\*\*\*\*
+
+#### 4. Polkadot Ecoproject Bifrost, the new pioneer in POS mining   
+
+**BNC Award Tracking:** 
+
+\*\*\*\*
 
 
-#### Polkadot Ecoproject Bifrost, the new pioneer in POS mining   
-
-#### 波卡生态 Bifrost，POS 挖矿中的新开拓
-
-Date: 2020/5/29
-
-| **BNC Amount** |
-| :--- |
-| 49.757 |
-| 33.72 |
-| 30.214 |
-| 29.951 |
-| 29.947 |
-| 12.902 |
-| 12.654 |
-| 12.642 |
-| 12.497 |
-| 12.134 |
-| 8.031 |
-| 7.6861 |
-| 7.556 |
-| 7.5404 |
-| 7.4705 |
-| 3.353 |
-| 3.1875 |
-| 3.1802 |
-| 3.0349 |
-| 2.9845 |
-| 2.9645 |
-| 2.9446 |
-| 2.9068 |
-| 2.8289 |
-| 2.8053 |
-| 2.7489 |
-| 2.7349 |
-| 2.7178 |
-| 2.5426 |
-| 2.4358 |
-| 2.3773 |
-| 2.3592 |
-| 2.2672 |
-| 2.2094 |
-| 2.1999 |
-| 2.1943 |
-| 2.0657 |
-| 1.9839 |
-| 1.9807 |
-| 1.8972 |
-| 1.8886 |
-| 1.8439 |
-| 1.6975 |
-| 1.624 |
-| 1.5778 |
-| 1.5526 |
-| 1.4338 |
-| 1.3877 |
-| 1.3246 |
-| 1.247 |
-| 1.1727 |
-| 1.0437 |
-| 0.9615 |
-| 0.9573 |
-| 0.9447 |
-| 0.9275 |
-| 0.8917 |
-| 0.8142 |
-| 0.7956 |
-| 0.7897 |
-| 0.7848 |
-| 0.7697 |
-| 0.7643 |
-| 0.7598 |
-| 0.749 |
-| 0.7463 |
-| 0.7462 |
-| 0.7429 |
-| 0.7396 |
-| 0.7344 |
-| 0.7326 |
-| 0.7186 |
-| 0.7175 |
-| 0.7162 |
-| 0.7133 |
-| 0.7129 |
-| 0.712 |
-| 0.7084 |
-| 0.7071 |
-| 0.7051 |
-| 0.7041 |
-| 0.7008 |
-| 0.6952 |
-| 0.6909 |
-| 0.6883 |
-| 0.6881 |
-| 0.6876 |
-| 0.6797 |
-| 0.6773 |
-| 0.6758 |
-| 0.6643 |
-| 0.6639 |
-| 0.6602 |
-| 0.6575 |
-| 0.6488 |
-| 0.6461 |
-| 0.6406 |
-| 0.6401 |
-| 0.6332 |
-| 0.6328 |
-| 0.6196 |
-| 0.6189 |
-| 0.6157 |
-| 0.6147 |
-| 0.6063 |
-| 0.5992 |
-| 0.5984 |
-| 0.5963 |
-| 0.589 |
-| 0.5779 |
-| 0.5771 |
-| 0.5712 |
-| 0.5654 |
-| 0.5591 |
-| 0.5566 |
-| 0.5497 |
-| 0.5468 |
-| 0.5408 |
-| 0.5392 |
-| 0.5345 |
-| 0.5329 |
-| 0.5312 |
-| 0.5295 |
-| 0.5213 |
-| 0.5053 |
-| 0.5013 |
-| 0.4944 |
-| 0.4942 |
-| 0.4941 |
-| 0.4925 |
-| 0.4704 |
-| 0.4508 |
-| 0.4479 |
-| 0.4447 |
-| 0.4422 |
-| 0.4305 |
-| 0.4279 |
-| 0.424 |
-| 0.4225 |
-| 0.4056 |
-| 0.4015 |
-| 0.4013 |
-| 0.3882 |
-| 0.3836 |
-| 0.3766 |
-| 0.3685 |
-| 0.3667 |
-| 0.3611 |
-| 0.3496 |
-| 0.3389 |
-| 0.2575 |
-| 0.2532 |
-| 0.2427 |
-| 0.2226 |
-| 0.2224 |
-| 0.2157 |
-| 0.206 |
-| 0.1951 |
-| 0.1872 |
-| 0.1777 |
-| 0.1771 |
-| 0.1732 |
-| 0.1616 |
-| 0.1577 |
-| 0.1553 |
-| 0.1525 |
-| 0.1235 |
-| 0.112 |
-| 0.1107 |
-| 0.0788 |
-| 0.072 |
-| 0.0589 |
-| 0.0585 |
-| 0.05 |
-| 0.0295 |
-| 0.0212 |
-| 0.0165 |
-| 1.0299 |
 
 #### How to implement Defi & Staking with Bifrost?
 
