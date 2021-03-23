@@ -1,4 +1,0 @@
-# Committee
-
-Coming soon...
-
