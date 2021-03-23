@@ -84,5 +84,13 @@
 
 
 
-6. 
+#### 6. Hoo & Bifrost Telegram AMA
+
+**BNC Award Tracking:**
+
+
+
+#### 7. Candy Theme AMA-Polkadot
+
+**BNC Award Tracking:** [https://docs.google.com/spreadsheets/d/1NaycwqBxJqnowfCY9reiKlQWy3Yk-cypI5IJrsO-Tjg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1NaycwqBxJqnowfCY9reiKlQWy3Yk-cypI5IJrsO-Tjg/edit?usp=sharing)
 
