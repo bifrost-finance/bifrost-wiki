@@ -6,6 +6,36 @@
 
 ## BNC Distribution in Marketing Activities
 
+### First Quarter of 2021
+
+#### **1.** How to participate in Bifrost vETH Mint Drop between Polkadot Eco and Ethereum Layer 2?
+
+**BNC Award Tracking:** [https://docs.google.com/spreadsheets/d/1RoffOJmgCyhCT0OEUdYB44Kc9Onn5Gnj61mUqoQzQMM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1RoffOJmgCyhCT0OEUdYB44Kc9Onn5Gnj61mUqoQzQMM/edit?usp=sharing)
+
+
+
+#### 2. Why Parachain Slot Auctions Are Worth the Wait
+
+**BNC Award Tracking:** [https://docs.google.com/spreadsheets/d/1L9dDnT8mDnjcseOaugIHExvUu-GtiEPQrrCnQlZgpWw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1L9dDnT8mDnjcseOaugIHExvUu-GtiEPQrrCnQlZgpWw/edit?usp=sharing)
+
+
+
+3. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Second Quarter of 2020
 
 #### 1. How to balance liquidity and high yield with the new Staking + DeFi play?
