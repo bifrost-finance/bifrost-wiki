@@ -10,7 +10,7 @@ However, currently users can participate in the parachain slot auction through B
 
 The trade modules like Balancer, Uniswap, or Zenlink will be deployed prior, and vsDOT/vsKSM will be the second type of derivative supported by Bifrost Finance.
 
-![131611297852\_ pic\_hd](https://user-images.githubusercontent.com/72777624/105987528-5b3fa700-60d9-11eb-99b0-e46406414389.jpg)
+![](https://user-images.githubusercontent.com/72777624/105987528-5b3fa700-60d9-11eb-99b0-e46406414389.jpg)
 
 ## Technical solutions
 
