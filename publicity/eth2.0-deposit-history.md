@@ -56,5 +56,15 @@ Bifrost 填写的参数目前由 InfStones 和 Ankr 分别提供，并由 InfSto
 
 50 笔 Deposit（Ankr） [https://etherscan.io/tx/0xabbf2fc950e384e250479fbcd4837a53b2f1de07a6b1b539b6aca1c979906e3b\#eventlog](https://etherscan.io/tx/0xabbf2fc950e384e250479fbcd4837a53b2f1de07a6b1b539b6aca1c979906e3b#eventlog)
 
+**更新于 2021-03-25，Deposit 总量 100 x 32 = 3200 ETH**
+
+50笔Deposit（Infstone） [https://etherscan.io/tx/0xcd60dd1daa8b7b6566f7d156a9bc573c85908bb5dd0a3cc6e3e2635beafc17aa\#eventlog](https://etherscan.io/tx/0xcd60dd1daa8b7b6566f7d156a9bc573c85908bb5dd0a3cc6e3e2635beafc17aa#eventlog) 
+
+50笔Deposit（Infstone） [https://etherscan.io/tx/0x61d0f288118d56f1de975609df0850c4c22c0918f03db51af6ea3b7642a512ad\#eventlog](https://etherscan.io/tx/0x61d0f288118d56f1de975609df0850c4c22c0918f03db51af6ea3b7642a512ad#eventlog)
+
+**投入到Deposit合约中的ETH总量：5184 + 6400 + 3200 = 14784 ETH**
+
 Continue to update...
+
+
 
