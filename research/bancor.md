@@ -11,7 +11,7 @@
 
 ![](../.gitbook/assets/bancor.png)
 
-**Supply:**当前已释放出的 **Token 总量;**  **Balance:** 当前已投入的 ETH 总量; 
+**Supply:**当前已释放出的 Token 总量;   **Balance:** 当前已投入的 ETH 总量; 
 
 **Price 或 Quoted Price:** 当前 1 个 Token 对应的 ETH 数量，比如 0.001; 
 
@@ -19,7 +19,7 @@
 
 **Bancor 初始参数设置**
 
-为了避免计算结果为 0，通常会设置初始的虚拟基值，比如 Balance = 33、Supply = 33\*2\*10、 CW = 0.5，带入公式进行计算后，将所得结果减去初始基值，才是目前的真正数值状态。比如: 刚开始时的价格是 1 个 ETH 可以兑换 10 个 Token，累计投入 3 倍 Balance 的 ETH 时\(即: 33\*3=99\)，可以让 Token 的价格翻倍\(即:1 个 ETH 可以兑换 5 个 Token\)。
+为了避免计算结果为 0，通常会设置初始的虚拟基值，比如 Balance = 100、Supply = 100\*2\*10、 CW = 0.5，带入公式进行计算后，将所得结果减去初始基值，才是目前的真正数值状态。比如: 刚开始时的价格是 1 个 ETH 可以兑换 10 个 Token，累计投入 3 倍 Balance 的 ETH 时\(即: 300\)，可以让 Token 的报价翻倍\(即:1 个 ETH 可以兑换 5 个 Token\)。
 
 
 
