@@ -1,4 +1,4 @@
-# Balancer
+# Committee
 
 Coming soon...
 

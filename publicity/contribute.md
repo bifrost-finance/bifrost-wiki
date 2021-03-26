@@ -1,4 +1,13 @@
 # Contribute
 
-谁做了贡献，怎么贡献，贡献什么。
+## Core Team
+
+* Lurpis \(Co-Founder & CEO\)
+* Edwin \(Co-Founder & CTO\)
+* Buffalo \(System Architect\)
+* Jamie \(Lead Developer\)
+* Herry \(Developer\)
+* Carmen \(Developer\)
+* Bonnie \(Research & Marketing\)
+* Tyrone \(Product Manager\)
 
