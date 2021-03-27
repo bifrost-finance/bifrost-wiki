@@ -1,49 +1,39 @@
 # Substrate API Sidecar
 
+### Biforst Properties
+```text
+ExistentialDeposit = 0.01BNC
+SS58Prefix = 6
+BlockLength = 3.75MB
+Transaction Longevity = 64 * 6 second (6s per block)
+Precision = 12
+Token Name = BNC
+```
+
 ### Bifrost Node Setup
 
 Compile bifrost from source code, either run bifrost by docker container. From source code.
 
 ```text
-git clone https://github.com/bifrost-finance/bifrost.gi
+git clone https://github.com/bifrost-finance/bifrost.git
 cd bifrost
-git checkout ark-poa
+git checkout develop
 cargo build --release
 ```
 
 Checkout this link to compile bifrost node.
 
-Run it by the following command:
+Run it on the local by the following command:
 
 ```text
 ./target/release/bifrost \
---chain bin/node/service/res/bifrost-poa.json \
---base-path your_db_path \
---name "Your Node Name" \
---rpc-cors all \
---pruning archive
-```
-
-Run it by docker container
-
-```text
-docker pull bifrostnetwork/bifrost:bifrost-poa
-```
-
-And start it:
-
-```text
-docker run \
--it \
--p 30333:30333 \
--p 9944:9944 \
--p 9933:9933 \
--v /root/disk/bifrost-node:/node \
-bifrostnetwork/bifrost:bifrostnetwork/bifrost:bifrost-poa \
---base-path your_db_path \
---name "Your Node Name" \
---rpc-cors all \
---pruning archive
+--dev \
+--base-path bifrost-poa \
+--name "Bifrost POA" \
+--rpc-cors all --ws-port 9944 \
+--unsafe-ws-external \
+--unsafe-rpc-external \
+--rpc-methods=Unsafe
 ```
 
 ### Substrate-api-sidecar Setup
@@ -57,14 +47,16 @@ Ensure Node version 12 or higher installed, and yarn installed.
 Step 1. Sync sidecar source code and compile it.
 
 ```text
-git clone https://github.com/paritytech/substrate-api-sidecar.git
+git clone https://github.com/bifrost-finance/substrate-api-sidecar.git
 cd substrate-api-sidecar
 yarn
+yarn build
 ```
 
 Step 2. Configure sidecar. 
 
 Find **.env.local**, and replace the content with these sections.
+> If bifrost node is not running on the local, just replace SAS_SUBSTRATE_WS_URL with your own machine ip.
 
 ```text
 SAS_EXPRESS_BIND_HOST=127.0.0.1
@@ -186,4 +178,3 @@ Output shoule be like this:
   }
 }
 ```
-
