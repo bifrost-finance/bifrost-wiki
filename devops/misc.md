@@ -5,7 +5,6 @@
 ExistentialDeposit = 0.01BNC
 SS58Prefix = 6
 BlockLength = 3.75MB
-Transaction Longevity = 64 * 6 second (6s per block)
 Precision = 12
 Token Name = BNC
 ```
@@ -55,26 +54,16 @@ yarn build
 
 Step 2. Configure sidecar. 
 
-Find **.env.local**, and replace the content with these sections.
-> If bifrost node is not running on the local, just replace SAS_SUBSTRATE_WS_URL with your own machine ip.
-
+Find **.env.local**, check these fields **SAS_EXPRESS_BIND_HOST**, **SAS_EXPRESS_PORT**, **SAS_SUBSTRATE_WS_URL**, 
+just replace them with your own setup.
+But if bifrost and sidecar runs on the local, you don't need to change anything, just go to step 3.
 ```text
-SAS_EXPRESS_BIND_HOST=127.0.0.1
+SAS_EXPRESS_BIND_HOST=0.0.0.0
 
 # If this port is occupied, change it to another one.
 SAS_EXPRESS_PORT=8089
 
 SAS_SUBSTRATE_WS_URL=ws://127.0.0.1:9944
-
-# false to disable json format log
-SAS_LOG_JSON=true
-
-# info or debug
-SAS_LOG_LEVEL=debug
-
-# Point this type definition file locating at bifrost project: 
-# bifrost/docs/developer_setting.json
-SAS_SUBSTRATE_TYPES=bifrost/docs/developer_setting.json
 ```
 
 Step 3. Start sidecar.
@@ -148,7 +137,7 @@ curl -s http://127.0.0.1:8089:8089/blocks/0x4cf0f48fb8aebcc26f745049aec4d4ea03c3
 Get version information of the bifrost runtime.
 
 ```text
-curl -s http://127.0.0.1:8089//runtime/spec | jq
+curl -s http://127.0.0.1:8089/runtime/spec | jq
 ```
 
 Output shoule be like this:
