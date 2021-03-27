@@ -1,9 +1,13 @@
+---
+description: >-
+  Parity provides an SDK called TxWrapper to generate and sign transactions
+  offline. We have wrapped up a Bifrost version of TxWrapper at your
+  convenience. See the examples for a guide.
+---
+
 # Tx Wrapper
 
-Parity provides an SDK called [TxWrapper](https://github.com/paritytech/txwrapper) to generate and sign transactions offline. We have wrapped up a [Bifrost version of TxWrapper](https://github.com/bifrost-finance/txwrapper-bifrost) at your convenience. See the [examples](https://github.com/bifrost-finance/txwrapper-bifrost/blob/master/src/bifrost-poa.ts) for a guide.
-
-
-## Understanding Transaction Format
+### Understanding Transaction Format
 
 First we need to know the transaction format so that we can construct a qulified offline transaction.
 
@@ -20,9 +24,9 @@ Polkadot has some basic transaction information that is common to all transactio
 * Tip: Optional, the tip to increase transaction priority.
 * Era Period: Optional, the number of blocks after the checkpoint for which a transaction is valid. If zero, the transaction is immortal.
 
-*The nonce queried from the System module does not account for pending transactions. You must track and increment the nonce manually if you want to submit multiple valid transactions at the same time.
+\*The nonce queried from the System module does not account for pending transactions. You must track and increment the nonce manually if you want to submit multiple valid transactions at the same time.
 
-Each transaction will have its own (or no) parameters to add. For example, the `transfer` function from the Balances pallet will take:
+Each transaction will have its own \(or no\) parameters to add. For example, the `transfer` function from the Balances pallet will take:
 
 * `value` : Number of tokens
 * `dest` : Destination address
@@ -35,52 +39,56 @@ Each transaction will have its own (or no) parameters to add. For example, the `
   4. Serialize the signed payload into a transaction.
   5. Submit the serialized transaction.
 
+### Walking through the [Example](https://github.com/bifrost-finance/txwrapper-bifrost/blob/master/src/bifrost-poa.ts)
 
-## Walking through the [Example](https://github.com/bifrost-finance/txwrapper-bifrost/blob/master/src/bifrost-poa.ts)
+**1.Provide a private key**
 
-1. **Provide a private key**
+You can either create a key ring in the document or import one.
 
-   You can either create a key ring in the document or import one.
+* Direct creation
 
-  * Direct creation
-  ```
-  import { Keyring } from "@polkadot/api";
+```text
+import { Keyring } from "@polkadot/api";
 
-  const keyring = new Keyring(); const alice = keyring.addFromUri("//Alice", { name: "Alice" }, "sr25519");
+const keyring = new Keyring(); const alice = keyring.addFromUri("//Alice", { name: "Alice" }, "sr25519");
 
-  ```
-
-  * import a privateKey
-  ```
-  import { importPrivateKey } from '@substrate/txwrapper';
-
-  const keypair = importPrivateKey(“pulp gaze fuel ... mercy inherit equal”);
-  ```
-
-2. **Construct a transaction offline**
 ```
+
+* import a privateKey
+
+```text
+import { importPrivateKey } from '@substrate/txwrapper';
+
+const keypair = importPrivateKey(“pulp gaze fuel ... mercy inherit equal”);
+```
+
+**2. Construct a transaction offline**
+
+```text
 import { methods } from "@substrate/txwrapper";
 
 const unsigned = methods.balances.transfer( { value: "90071992547409910", dest: "14E5nqKAp3oAJcmzgZhUD2RcptBeUBScxKHgJKU4HPNcKVf3", // Bob }, { address: deriveAddress(alice.publicKey, 6), blockHash, blockNumber: registry.createType("BlockNumber", block.header.number) .toNumber(), eraPeriod: 64, genesisHash, metadataRpc, nonce: 0, // Assuming this is Alice's first tx on the chain specVersion, tip: 0, transactionVersion, }, { metadataRpc, registry, } );
 ```
 
-3. **Construct a signing payload**
-```
+**3. Construct a signing payload**
+
+```text
 import { createSigningPayload } from '@substrate/txwrapper';
 
 const signingPayload = construct.signingPayload(unsigned, { registry });
 ```
 
-4. **Serialize a signed transaction**
-```
+**4. Serialize a signed transaction**
+
+```text
 const signature = signWith(alice, signingPayload, { metadataRpc, registry, });
 
 const tx = construct.signedTx(unsigned, signature, { metadataRpc, registry, });
 ```
 
-5. **Decode payload types** 
-You may want to decode payloads to verify their contents prior to submission.
-```
+**5. Decode payload types** You may want to decode payloads to verify their contents prior to submission.
+
+```text
 const decodedUnsigned = decode(unsigned, { metadataRpc, registry, });
 
 const payloadInfo = decode(signingPayload, { metadataRpc, registry, });
@@ -88,45 +96,46 @@ const payloadInfo = decode(signingPayload, { metadataRpc, registry, });
 const txInfo = decode(tx, { metadataRpc, registry, });
 ```
 
-6. **Check a transaction's hash**
-```
+**6. Check a transaction's hash**
+
+```text
 const expectedTxHash = construct.txHash(tx);
 ```
 
-7.**Submitting a Signed Payload**
-```
+**7. Submitting a Signed Payload**
+
+```text
 const actualTxHash = await rpcToLocalNode("author_submitExtrinsic", [tx]);
 ```
 
+### How to use `txwrapper-bifrost`
 
-## How to use  `txwrapper-bifrost`
+Here's a mini-tutorial on how `txwrapper-bifrost` can interact with a Bifrost chain. We're using a Bifrost dev chain \([https://github.com/bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost)\)
 
-Here's a mini-tutorial on how `txwrapper-bifrost` can interact with a Bifrost chain. We're using a Bifrost dev chain ([https://github.com/bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost))
-
-
-## Run the Example
+### Run the Example
 
 1. Fetch the latest Bifrost node from the above link. Follow instructions to build it, and start a dev chain.
 
    `target/release/bifrost --dev`
+
 2. Install dependencies and build the JS target
 
-   ```
+   ```text
    # from this repos root directory run
    yarn install
    # build the JS target
    yarn build
    ```
+
 3. Run the example script \(see [src/bifrost-poa.ts](https://github.com/bifrost-finance/txwrapper-bifrost/blob/master/src/bifrost-poa.ts). It will interact with your local node.
 
    `yarn bifrost`
 
-
-## Expected Output
+### Expected Output
 
 Here's a sample output of the above script, using a Polkadot node. Your payload to sign and signature will of course differ from this example.
 
-```
+```text
 Alice's SS58-Encoded Address: gXCcrjjFX3RPyhHYgwZDmw8oe4JFpd5anko3nTY8VrmnJpe
 2021-03-17 15:27:03        REGISTRY: Unable to resolve type CurrencyId, it will fail on construction
 
@@ -151,4 +160,4 @@ Decoded Transaction
   To: [object Object]
   Amount: 90071992547409910
 ```
-uuuuuuuuukkkkkk
+
