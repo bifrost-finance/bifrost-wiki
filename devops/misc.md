@@ -1,7 +1,7 @@
 # Substrate API Sidecar
 
 ### Biforst Properties
-```text
+```yaml
 ExistentialDeposit = 0.01BNC
 SS58Prefix = 6
 BlockLength = 3.75MB
@@ -13,7 +13,7 @@ Token Name = BNC
 
 Compile bifrost from source code, either run bifrost by docker container. From source code.
 
-```text
+```shell
 git clone https://github.com/bifrost-finance/bifrost.git
 cd bifrost
 git checkout develop
@@ -24,7 +24,7 @@ Checkout this link to compile bifrost node.
 
 Run it on the local by the following command:
 
-```text
+```shell
 ./target/release/bifrost \
 --dev \
 --base-path bifrost-poa \
@@ -45,7 +45,7 @@ Ensure Node version 12 or higher installed, and yarn installed.
 
 Step 1. Sync sidecar source code and compile it.
 
-```text
+```shell
 git clone https://github.com/bifrost-finance/substrate-api-sidecar.git
 cd substrate-api-sidecar
 yarn
@@ -57,7 +57,7 @@ Step 2. Configure sidecar.
 Find **.env.local**, check these fields **SAS_EXPRESS_BIND_HOST**, **SAS_EXPRESS_PORT**, **SAS_SUBSTRATE_WS_URL**, 
 just replace them with your own setup.
 But if bifrost and sidecar runs on the local, you don't need to change anything, just go to step 3.
-```text
+```yaml
 SAS_EXPRESS_BIND_HOST=0.0.0.0
 
 # If this port is occupied, change it to another one.
@@ -68,7 +68,7 @@ SAS_SUBSTRATE_WS_URL=ws://127.0.0.1:9944
 
 Step 3. Start sidecar.
 
-```text
+```shell
 NODE_ENV=local yarn start
 ```
 
@@ -84,13 +84,13 @@ List some examples here:
 
 Check someone's balance. Take Alice as example
 
-```text
+```shell
 curl -s http://127.0.0.1:8089/accounts/5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY/balance-info | jq
 ```
 
 Output shoule be like this:
 
-```text
+```json
 {
   "at": {
     "hash": "0xbcbc376e74fd71eac9555618856e743aa98053dc1c2fea73f928f16e54789c93",
@@ -108,13 +108,13 @@ Output shoule be like this:
 
 Get vesting information for an account.
 
-```text
+```shell
 curl -s http://127.0.0.1:8089/accounts/5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY/vesting-info | jq
 ```
 
 Output shoule be like this:
 
-```text
+```json
 {
   "at": {
     "hash": "0x030b1f0746937231a7a8a5b41a9afde092a9c4962cd7ff87cdad52711c691467",
@@ -126,7 +126,7 @@ Output shoule be like this:
 
 Get a block by its height or hash.
 
-```text
+```shell
 # By height
 curl -s http://127.0.0.1:8089:8089/blocks/1 | jq
 
@@ -136,13 +136,13 @@ curl -s http://127.0.0.1:8089:8089/blocks/0x4cf0f48fb8aebcc26f745049aec4d4ea03c3
 
 Get version information of the bifrost runtime.
 
-```text
+```shell
 curl -s http://127.0.0.1:8089/runtime/spec | jq
 ```
 
 Output shoule be like this:
 
-```text
+```json
 {
   "at": {
     "height": "1148",
