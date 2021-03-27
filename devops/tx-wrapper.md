@@ -2,6 +2,7 @@
 
 Parity provides an SDK called [TxWrapper](https://github.com/paritytech/txwrapper) to generate and sign transactions offline. We have wrapped up a [Bifrost version of TxWrapper](https://github.com/bifrost-finance/txwrapper-bifrost) at your convenience. See the [examples](https://github.com/bifrost-finance/txwrapper-bifrost/blob/master/src/bifrost-poa.ts) for a guide.
 
+
 ## Understanding Transaction Format
 
 First we need to know the transaction format so that we can construct a qulified offline transaction.
@@ -33,6 +34,7 @@ Each transaction will have its own \(or no\) parameters to add. For example, the
   3. Sign the payload.
   4. Serialize the signed payload into a transaction.
   5. Submit the serialized transaction.
+
 
 ## Walking through the [Example](https://github.com/bifrost-finance/txwrapper-bifrost/blob/master/src/bifrost-poa.ts)
 
