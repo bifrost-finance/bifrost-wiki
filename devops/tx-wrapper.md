@@ -14,15 +14,15 @@ Polkadot has some basic transaction information that is common to all transactio
 * Block Number: The number of the checkpoint block.
 * Genesis Hash: The genesis hash of the chain.
 * Metadata: The SCALE-encoded metadata for the runtime when submitted.
-* Nonce: The nonce for this transaction.\*
+* Nonce: The nonce for this transaction.
 * Spec Version: The current spec version for the runtime.
 * Transaction Version: The current version for transaction format.
 * Tip: Optional, the tip to increase transaction priority.
 * Era Period: Optional, the number of blocks after the checkpoint for which a transaction is valid. If zero, the transaction is immortal.
 
-\*The nonce queried from the System module does not account for pending transactions. You must track and increment the nonce manually if you want to submit multiple valid transactions at the same time.
+*The nonce queried from the System module does not account for pending transactions. You must track and increment the nonce manually if you want to submit multiple valid transactions at the same time.
 
-Each transaction will have its own \(or no\) parameters to add. For example, the `transfer` function from the Balances pallet will take:
+Each transaction will have its own (or no) parameters to add. For example, the `transfer` function from the Balances pallet will take:
 
 * `value` : Number of tokens
 * `dest` : Destination address
@@ -46,7 +46,7 @@ Each transaction will have its own \(or no\) parameters to add. For example, the
 ```
 import { Keyring } from "@polkadot/api";
 
-const keyring = new Keyring\(\); const alice = keyring.addFromUri\("//Alice", { name: "Alice" }, "sr25519"\);
+const keyring = new Keyring(); const alice = keyring.addFromUri("//Alice", { name: "Alice" }, "sr25519");
 
 ```
 
@@ -54,54 +54,54 @@ const keyring = new Keyring\(\); const alice = keyring.addFromUri\("//Alice", { 
 ```
 import { importPrivateKey } from '@substrate/txwrapper';
 
-const keypair = importPrivateKey\(“pulp gaze fuel ... mercy inherit equal”\);
+const keypair = importPrivateKey(“pulp gaze fuel ... mercy inherit equal”);
 ```
 
 2. **Construct a transaction offline**
 ```
 import { methods } from "@substrate/txwrapper";
 
-const unsigned = methods.balances.transfer\( { value: "90071992547409910", dest: "14E5nqKAp3oAJcmzgZhUD2RcptBeUBScxKHgJKU4HPNcKVf3", // Bob }, { address: deriveAddress\(alice.publicKey, 6\), blockHash, blockNumber: registry.createType\("BlockNumber", block.header.number\) .toNumber\(\), eraPeriod: 64, genesisHash, metadataRpc, nonce: 0, // Assuming this is Alice's first tx on the chain specVersion, tip: 0, transactionVersion, }, { metadataRpc, registry, } \);
+const unsigned = methods.balances.transfer( { value: "90071992547409910", dest: "14E5nqKAp3oAJcmzgZhUD2RcptBeUBScxKHgJKU4HPNcKVf3", // Bob }, { address: deriveAddress(alice.publicKey, 6), blockHash, blockNumber: registry.createType("BlockNumber", block.header.number) .toNumber(), eraPeriod: 64, genesisHash, metadataRpc, nonce: 0, // Assuming this is Alice's first tx on the chain specVersion, tip: 0, transactionVersion, }, { metadataRpc, registry, } );
 ```
 
 3. **Construct a signing payload**
 ```
 import { createSigningPayload } from '@substrate/txwrapper';
 
-const signingPayload = construct.signingPayload\(unsigned, { registry }\);
+const signingPayload = construct.signingPayload(unsigned, { registry });
 ```
 
 4. **Serialize a signed transaction**
 ```
-const signature = signWith\(alice, signingPayload, { metadataRpc, registry, }\);
+const signature = signWith(alice, signingPayload, { metadataRpc, registry, });
 
-const tx = construct.signedTx\(unsigned, signature, { \| metadataRpc, registry, }\);
+const tx = construct.signedTx(unsigned, signature, { metadataRpc, registry, });
 ```
 
 5. **Decode payload types** 
 You may want to decode payloads to verify their contents prior to submission.
 ```
-const decodedUnsigned = decode\(unsigned, { metadataRpc, registry, }\);
+const decodedUnsigned = decode(unsigned, { metadataRpc, registry, });
 
-const payloadInfo = decode\(signingPayload, { metadataRpc, registry, }\);
+const payloadInfo = decode(signingPayload, { metadataRpc, registry, });
 
-const txInfo = decode\(tx, { metadataRpc, registry, }\);
+const txInfo = decode(tx, { metadataRpc, registry, });
 ```
 
 6. **Check a transaction's hash**
 ```
-const expectedTxHash = construct.txHash\(tx\);
+const expectedTxHash = construct.txHash(tx);
 ```
 
 7.**Submitting a Signed Payload**
 ```
-const actualTxHash = await rpcToLocalNode\("author\_submitExtrinsic", \[tx\]\);
+const actualTxHash = await rpcToLocalNode("author_submitExtrinsic", [tx]);
 ```
 
 
 ## How to use  `txwrapper-bifrost`
 
-Here's a mini-tutorial on how `txwrapper-bifrost` can interact with a Bifrost chain. We're using a Bifrost dev chain \([https://github.com/bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost)\)
+Here's a mini-tutorial on how `txwrapper-bifrost` can interact with a Bifrost chain. We're using a Bifrost dev chain ([https://github.com/bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost))
 
 
 ## Run the Example
