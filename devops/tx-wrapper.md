@@ -42,20 +42,20 @@ Each transaction will have its own (or no) parameters to add. For example, the `
 
    You can either create a key ring in the document or import one.
 
-*Direct creation
-```
-import { Keyring } from "@polkadot/api";
+  * Direct creation
+  ```
+  import { Keyring } from "@polkadot/api";
 
-const keyring = new Keyring(); const alice = keyring.addFromUri("//Alice", { name: "Alice" }, "sr25519");
+  const keyring = new Keyring(); const alice = keyring.addFromUri("//Alice", { name: "Alice" }, "sr25519");
 
-```
+  ```
 
-*import a privateKey
-```
-import { importPrivateKey } from '@substrate/txwrapper';
+  * import a privateKey
+  ```
+  import { importPrivateKey } from '@substrate/txwrapper';
 
-const keypair = importPrivateKey(“pulp gaze fuel ... mercy inherit equal”);
-```
+  const keypair = importPrivateKey(“pulp gaze fuel ... mercy inherit equal”);
+  ```
 
 2. **Construct a transaction offline**
 ```
