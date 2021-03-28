@@ -47,16 +47,17 @@ You can either create a key ring in the document or import one.
 
 * Direct creation
 
-```text
+```javascript
 import { Keyring } from "@polkadot/api";
 
-const keyring = new Keyring(); const alice = keyring.addFromUri("//Alice", { name: "Alice" }, "sr25519");
+const keyring = new Keyring(); 
+const alice = keyring.addFromUri("//Alice", { name: "Alice" }, "sr25519");
 
 ```
 
 * import a privateKey
 
-```text
+```javascript
 import { importPrivateKey } from '@substrate/txwrapper';
 
 const keypair = importPrivateKey(“pulp gaze fuel ... mercy inherit equal”);
@@ -64,47 +65,88 @@ const keypair = importPrivateKey(“pulp gaze fuel ... mercy inherit equal”);
 
 **2. Construct a transaction offline**
 
-```text
+```javascript
 import { methods } from "@substrate/txwrapper";
 
-const unsigned = methods.balances.transfer( { value: "90071992547409910", dest: "14E5nqKAp3oAJcmzgZhUD2RcptBeUBScxKHgJKU4HPNcKVf3", // Bob }, { address: deriveAddress(alice.publicKey, 6), blockHash, blockNumber: registry.createType("BlockNumber", block.header.number) .toNumber(), eraPeriod: 64, genesisHash, metadataRpc, nonce: 0, // Assuming this is Alice's first tx on the chain specVersion, tip: 0, transactionVersion, }, { metadataRpc, registry, } );
+const unsigned = methods.balances.transfer(
+    {
+      value: "90071992547409910",
+      dest: "14E5nqKAp3oAJcmzgZhUD2RcptBeUBScxKHgJKU4HPNcKVf3", // Bob
+    },
+    {
+      address: deriveAddress(alice.publicKey, 6), // TODO, use correct prefix
+      blockHash,
+      blockNumber: registry
+        .createType("BlockNumber", block.header.number)
+        .toNumber(),
+      eraPeriod: 64,
+      genesisHash,
+      metadataRpc,
+      nonce: 0, // Assuming this is Alice's first tx on the chain
+      specVersion,
+      tip: 0,
+      transactionVersion,
+    },
+    {
+      metadataRpc,
+      registry,
+    }
+  );
 ```
 
 **3. Construct a signing payload**
 
-```text
+```javascript
 import { createSigningPayload } from '@substrate/txwrapper';
-
-const signingPayload = construct.signingPayload(unsigned, { registry });
+  
+const decodedUnsigned = decode(unsigned, {
+    metadataRpc,
+    registry,
+  });
 ```
 
 **4. Serialize a signed transaction**
 
-```text
-const signature = signWith(alice, signingPayload, { metadataRpc, registry, });
+```javascript
+  const signature = signWith(alice, signingPayload, {
+    metadataRpc,
+    registry,
+  });
 
-const tx = construct.signedTx(unsigned, signature, { metadataRpc, registry, });
+  const tx = construct.signedTx(unsigned, signature, {
+    metadataRpc,
+    registry,
+  });
 ```
 
 **5. Decode payload types** You may want to decode payloads to verify their contents prior to submission.
 
-```text
-const decodedUnsigned = decode(unsigned, { metadataRpc, registry, });
-
-const payloadInfo = decode(signingPayload, { metadataRpc, registry, });
-
-const txInfo = decode(tx, { metadataRpc, registry, });
+```javascript
+  const decodedUnsigned = decode(unsigned, {
+    metadataRpc,
+    registry,
+  });
+  
+  const payloadInfo = decode(signingPayload, {
+    metadataRpc,
+    registry,
+  });
+  
+  const txInfo = decode(tx, {
+    metadataRpc,
+    registry,
+  });
 ```
 
 **6. Check a transaction's hash**
 
-```text
+```javascript
 const expectedTxHash = construct.txHash(tx);
 ```
 
 **7. Submitting a Signed Payload**
 
-```text
+```javascript
 const actualTxHash = await rpcToLocalNode("author_submitExtrinsic", [tx]);
 ```
 
@@ -135,7 +177,7 @@ Here's a mini-tutorial on how `txwrapper-bifrost` can interact with a Bifrost ch
 
 Here's a sample output of the above script, using a Polkadot node. Your payload to sign and signature will of course differ from this example.
 
-```text
+```javascript
 Alice's SS58-Encoded Address: gXCcrjjFX3RPyhHYgwZDmw8oe4JFpd5anko3nTY8VrmnJpe
 2021-03-17 15:27:03        REGISTRY: Unable to resolve type CurrencyId, it will fail on construction
 
