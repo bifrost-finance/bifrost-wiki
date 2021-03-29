@@ -1,7 +1,5 @@
 # 🎉 Welcome
 
-## 🎉 Welcome
-
 Welcome to the Bifrost Wiki! It has six main sections:
 
 General \(for people who want to know simple introduction of bifrost\)
