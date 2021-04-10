@@ -8,8 +8,6 @@ Bifrost POA Mainnet 定义为 Bifrost 主网的预发布阶段，可以查询 BN
 
 Bifrsot Asgard Testnet 定义为 Bifrost 测试网，分为 Asgard Relay 测试中继链和 Asgard Parachain 测试平行链，拥有水龙头及测试功能。 
 
-
-
 ### PRC接口
 
 由外部第三方提供。
