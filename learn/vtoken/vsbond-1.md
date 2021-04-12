@@ -20,8 +20,6 @@ Through SALP, it may benefit the following three roles in Polkadot ecosystem: Us
 
 ## Technical solutions
 
-
-
 Contributor conducting SALP through Bifrost is as follows:
 
 1. Original Crowdloan Workflow
