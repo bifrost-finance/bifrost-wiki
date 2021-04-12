@@ -1,6 +1,6 @@
 # Slot Auction Derivative
 
-## Project Description
+## Description
 
 **Bifrost SALP \(Slot Auction Liquidity Protocol\) aims to release liquidity of contributions in Kusama/Polkadot crownloan through the issuance of derivatives.** This will greatly increase asset utilization and attract more prudent investors who do not want to lose opportunity costs to support the parachain slot auction, thereby accumulating more DOT/KSM lock-ups for the Polkadot/Kusama ecosystem.
 
@@ -10,7 +10,7 @@ The latter is a token represents the auction reward and lease period of differen
 
 Bifrost hopes to distinguish between a Token’s utility value and its equity in the simplest way through vsToken and vsBond. At the same time, vsToken will have strong liquidity as a contribution derivative.
 
-![](https://user-images.githubusercontent.com/72777624/105987528-5b3fa700-60d9-11eb-99b0-e46406414389.jpg)
+![](../../.gitbook/assets/plo-111.png)
 
 **UI:Participate in the Crowdloan page in Bifrost** 
 
@@ -18,7 +18,7 @@ Bifrost hopes to distinguish between a Token’s utility value and its equity in
 
 Through SALP, it may benefit the following three roles in Polkadot ecosystem: User: Derivatives enhance the user's control over opportunity costs, while the vsToken/vsBond helps contributors to determine the utility and equity of derivatives. Moreover, the high liquidity from integrating all parachain contributions may reduce the high discount costs by a separated single-parachain derivative pool. Parachain projects: Projects that support the Bifrost SALP will have the advantage of attracting contribution, and will be more competitive in the parachain auction. In addition, the fierce competitive environment will promote the accelerated innovation of parachain projects. Polkadot ecosystem: According to the concept of "flexible lock-up" of liquidity derivatives, more contributors willing to participate in Crowdloan through centralized services will be attracted to on-chain, weakening the controlling ratio of DOT/KSM by centralized institutions, makes parachain auction more decentralized. In addition, a high-locked asset ratio can promote the security of PoS chain, and derivatives will eliminate the negative effect of low circulating.
 
-## Technical solutions
+## Solutions
 
 Contributor conducting SALP through Bifrost is as follows:
 
@@ -29,8 +29,6 @@ Contributor conducting SALP through Bifrost is as follows:
 2 Bifrost SALP Workflow
 
 ![](../../.gitbook/assets/plo2%20%281%29.png)
-
-### Technical solutions
 
 Investor users participating in crowdloan through Bifrost will separate and decouple two types of Token assets: vsToken and vsBond.
 
@@ -61,7 +59,7 @@ The function of vsToken enables contributors to sell the vsToken in exchange for
 5. The acceptance period of vsBond is 3 months to prevent some attackers from deliberately hoarding vsBond and unwilling to sell. If vsBond is lost, vsToken can still be used to redeem Tokens from the Bancor pool without worrying about the risk that vsToken cannot be redeemed.
 6. As long as the exchange behavior of 1:x \(x &lt;= 1\) occurs in the Bancor pool, the system \(Bifrost\) will inevitably make a profit, and this part of the profit will go to the treasury for community development or repurchase of BNC.
 
-### Bancor Algorithm
+## Bancor Algorithm
 
 ![](../../.gitbook/assets/bancor%20%281%29.png)
 
