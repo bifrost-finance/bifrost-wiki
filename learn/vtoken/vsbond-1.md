@@ -61,14 +61,6 @@ The function of vsToken enables contributors to sell the vsToken in exchange for
 5. The acceptance period of vsBond is 3 months to prevent some attackers from deliberately hoarding vsBond and unwilling to sell. If vsBond is lost, vsToken can still be used to redeem Tokens from the Bancor pool without worrying about the risk that vsToken cannot be redeemed.
 6. As long as the exchange behavior of 1:x \(x &lt;= 1\) occurs in the Bancor pool, the system \(Bifrost\) will inevitably make a profit, and this part of the profit will go to the treasury for community development or repurchase of BNC.
 
-#### Bancor algorithm
-
-![](../../.gitbook/assets/bancor%20%281%29.png)
-
-In order to avoid the situation where the divisor is 0 during the calculation process, the system can set the initial virtual base values \(BaseBalance and BaseSupply\) for Balance and Supply. When the user exchanges Tokens, the specific amount is brought into the formula for calculation, and the result is subtracted from the initial base value, then you can get the final result. As shown in the figure below: the initial virtual base value of DOT is BaseSupply, and the price ratio of vsDOT to DOT is 1:1; when 3_BaseSupply \(4_BaseSupply-1\*BaseSupply\) DOT is redeemed from the Bancor pool, The price ratio of vsDOT to DOT reaches 2:1. When the system is implemented, a suitable BaseSupply value can be selected to obtain a suitable price curve.
-
-![](../../.gitbook/assets/bancor-curve.png)
-
 
 
 
