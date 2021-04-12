@@ -8,6 +8,8 @@ Polkadot采取了中继链与平行链协同工作的设计方案。多个平行
 
 在为Staking机制提供流动性的同时，Bifrost也为那些与 Staking 资产质押机制具备较高相似度的经济模型提供流动性释放能力，为更多的DeFi生态应用场景贡献力量。PLO（Parachain Lease Offering）是 Polkadot 生态的关键经济模型之一，与 NPoS 的 Staking 机制有较高的可比性与相似度，是 Bifrost 优先考虑实现的业务之一。投资者直接进行 PLO 与通过 Bifrost 进行 PLO 的流程对比如下：
 
+![](../../.gitbook/assets/plo-111.png)
+
 ![](../../.gitbook/assets/plo1%20%281%29.png)
 
 ![](../../.gitbook/assets/plo2%20%281%29.png)
