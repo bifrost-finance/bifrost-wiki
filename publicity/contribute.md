@@ -4,7 +4,7 @@
 
 ### 👨💻 Bug Submission and Publicity
 
-Welcome to all the technical partners who support Bifrost! You can actively report problems to the administrator email by checking and submitting the Bug of Bifrost on Github or Dapp. Once the problem is checked and resolved, we will contact you as soon as possible to give you the reward you deserve. Administrator Email: [**hello@bifrost.finance**](mailto:hello@bifrost.finance) 
+Welcome to all the technical partners who support Bifrost! You can actively report problems to the Bifrost Github by checking and submitting the Bug of Bifrost on Github or Dapp. Once the problem is checked and resolved, we will contact you as soon as possible to give you the reward you deserve. 
 
 * Bifrost Github link: [https://github.com/bifrost-finance](https://github.com/bifrost-finance) 
 * Bifrost Dapp link: [https://apps.vtoken.io](https://apps.vtoken.io)
