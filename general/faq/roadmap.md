@@ -74,5 +74,5 @@
 > * Staking Liquidity Protocol \(SLP\), Support vDOT/vATOM/vEOS/vIOST
 > * vToken Mint Incentive
 
-
+Update: [https://trello.com/b/KQ5M6Oo2/roadmap](https://trello.com/b/KQ5M6Oo2/roadmap)
 
