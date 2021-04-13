@@ -21,7 +21,6 @@
 ### 2020 Q2
 
 > * Support EOS Jungle Testnet
-> * Parachain on Kusama
 > * Launch Bifrost Asgard CC1
 
 ### 2020 Q3
@@ -37,7 +36,6 @@
 > * Security Audit begin
 > * Internal AMM Swap pool
 > * Launch Bifrost Asgard CC3
-> * Launched Mainnet
 
 ### 2021 Q1
 
