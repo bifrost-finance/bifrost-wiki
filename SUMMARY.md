@@ -39,7 +39,7 @@
   * [活动](publicity/activity.md)
   * [贡献者](publicity/contribute.md)
   * [项目进展情况](publicity/progress.md)
-  * [商标资源](publicity/resources.md)
+  * [设计资源](publicity/resources.md)
 * [🏛️ 治理](governance/README.md)
   * [委员会](governance/committee.md)
   * [社区投票](governance/vote.md)

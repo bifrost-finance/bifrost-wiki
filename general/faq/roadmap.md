@@ -1,37 +1,5 @@
 # 发展路线
 
-#### 
-
-### 2019 Q3
-
-> * First Line Of Code
-> * Launch Official Website
-> * Smart Contract MVP
-
-### 2019 Q4
-
-> * Substrate Hackathon
-> * Whitepaper
-> * Apply Web3 Foundation Grant
-
-### 2020 Q1
-
-> * Launch Bifrost POC-2 Testnet
-> * Delivery Web3 Grant
-> * Dashboard online
-
-### 2020 Q2
-
-> * Support EOS Jungle Testnet
-> * Launch Bifrost Asgard CC1
-
-### 2020 Q3
-
-> * Open Staking bidding beta
-> * Support EOS Cross Chain
-> * Launch Bifrost Asgard CC2
-> * Release Bifrost Dapp Beta
-
 ### 2020 Q4
 
 > * Staking drop
@@ -74,5 +42,5 @@
 > * Staking Liquidity Protocol \(SLP\), Support vDOT/vATOM/vEOS/vIOST
 > * vToken Mint Incentive
 
-
+Update: [https://trello.com/b/KQ5M6Oo2/roadmap](https://trello.com/b/KQ5M6Oo2/roadmap)
 
