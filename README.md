@@ -2,7 +2,13 @@
 
 ## 🎉 欢迎
 
-欢迎使用Bifrost Wiki！它分为六个主要部分：
+欢迎使用Bifrost Wiki！这是一份详细介绍如何与Bifrost进行交互的指南。
+
+Bifrost是连接Polkadot和不同的PoS区块链的DeFi基础协议，以通过XCMP或智能合约提供Staking衍生品服务。
+
+![Bifrost生态定位图](https://raw.githubusercontent.com/bifrost-finance/bifrost/develop/docs/Bifrost%20Infographic_cn.png)
+
+WiKi将分为六个主要部分：
 
 通识，对Bifrost项目进行简介的内容，针对所有对Bifrost项目感兴趣的个人与组织；
 
