@@ -17,7 +17,7 @@
   * [Bifrost Native Coin \(BNC\)](learn/bnc.md)
   * [Create BNC Account](learn/create.md)
   * [vToken](learn/vtoken/README.md)
-    * [Staking Derivative](learn/vtoken/vlp.md)
+    * [Staking Derivative](learn/vtoken/slp.md)
     * [Slot Auction Derivative](learn/vtoken/salp.md)
   * [Risk Control](learn/risk.md)
   * [EOS Bridge](learn/eos-bridge/README.md)
