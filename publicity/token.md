@@ -2,7 +2,7 @@
 
 ## BNC Allocation
 
-![](../.gitbook/assets/p10.png)
+![](../.gitbook/assets/bnc-distribution.png)
 
 ## BNC Distribution in Marketing Activities
 
