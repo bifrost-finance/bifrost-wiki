@@ -6,7 +6,7 @@
 
 Bifrost是连接Polkadot和不同的PoS区块链的DeFi基础协议，以通过XCMP或智能合约提供Staking衍生品服务。
 
-![Bifrost生态定位图](https://raw.githubusercontent.com/bifrost-finance/bifrost/develop/docs/Bifrost%20Infographic_cn.png)
+![Bifrost&#x751F;&#x6001;&#x5B9A;&#x4F4D;&#x56FE;](https://raw.githubusercontent.com/bifrost-finance/bifrost/develop/docs/Bifrost%20Infographic_cn.png)
 
 WiKi将分为六个主要部分：
 
