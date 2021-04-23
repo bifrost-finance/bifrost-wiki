@@ -10,15 +10,15 @@ Polkadot采取了中继链与平行链协同工作的设计方案。多个平行
 
 ![](../../.gitbook/assets/plo-111.png)
 
-![](../../.gitbook/assets/plo1%20%281%29.png)
+![](../../.gitbook/assets/plo-original-users.png)
 
-![](../../.gitbook/assets/plo2%20%281%29.png)
+![](../../.gitbook/assets/plo-users.png)
 
 ## 技术实现方案
 
 从系统设计的顶层视图看，投资者用户通过Bifrost参与平行链项目的PLO众筹活动，Contribute行为会分离解耦出两类Token资产：vsToken（vsDOT/vsKSM）与vsBond。投资者贡献x个DOTs/KSMs，可获得x个vsDOTs/vsKSMs与x个vsBond。vsToken与vsBond持有者与Bifrost的交互时序图如下：
 
-![](../../.gitbook/assets/plo3.png)
+![](../../.gitbook/assets/salp-users.png)
 
 ### vsBond
 
