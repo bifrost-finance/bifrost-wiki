@@ -24,7 +24,7 @@ WiKi将分为六个主要部分：
 
 ## 📄 白皮书
 
-[中文 ](https://github.com/bifrost-finance/bifrost-wiki/raw/master/Bifrost%20Finance%20Whitepaper%20zh-1.2.0.pdf) [English](https://github.com/bifrost-finance/bifrost-wiki/raw/master/Bifrost%20Finance%20Whitepaper%20en-1.1.2.pdf)
+[中文 ](https://github.com/bifrost-finance/bifrost-wiki/raw/master/Bifrost%20Finance%20Whitepaper%20zh-1.2.0.pdf) [English](https://github.com/bifrost-finance/bifrost-wiki/raw/master/Bifrost%20Finance%20Whitepaper%20en-1.2.0.pdf)
 
 ## 🔗 链接
 
