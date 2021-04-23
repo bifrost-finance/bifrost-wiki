@@ -12,7 +12,7 @@ Bifrost hopes to distinguish between a Token’s utility value and its equity in
 
 ![](../../.gitbook/assets/plo-111.png)
 
-**UI:Participate in the Crowdloan page in Bifrost** 
+**UI:Participate in the Crowdloan page in Bifrost**
 
 ![](../../.gitbook/assets/salp-ui.png)
 
@@ -24,15 +24,15 @@ Contributor conducting SALP through Bifrost is as follows:
 
 1. Original Crowdloan Workflow
 
-![](../../.gitbook/assets/plo1%20%281%29.png)
+![](../../.gitbook/assets/plo-original-users.png)
 
 2 Bifrost SALP Workflow
 
-![](../../.gitbook/assets/plo2%20%281%29.png)
+![](../../.gitbook/assets/plo-users.png)
 
 Investor users participating in crowdloan through Bifrost will separate and decouple two types of Token assets: vsToken and vsBond.
 
-#### vsBond: a token represents parachain auction reward and vsToken 1:1 redemption
+### vsBond: a token represents parachain auction reward and vsToken 1:1 redemption
 
 vsBond represents the specific parachain and its successful Lease Period. Therefore, the full name of vsBond is: vsBond+Parachain Project Name+Retirement Date, for example: vsBond-Bifrost-2022-06-01.
 
@@ -46,11 +46,11 @@ vsBond has two main attributes: Contribution Reward: vsBond can be transferred t
 
 ![](../../.gitbook/assets/plo-ui3.png)
 
-#### vsToken: a fungible token that releases contribution liquidity
+### vsToken: a fungible token that releases contribution liquidity
 
-The function of vsToken enables contributors to sell the vsToken in exchange for the original Token before slots retirement, so as to achieve the purpose of releasing liquidity. Unlike vsBond, vsToken is not tied to specific parachains and Slots. To this end, Bifrost designed two exchange pools to achieve the fungible of vsToken: 1-to-1 peg pool and Bancor pool \(1: x, x &lt;= 1\). The specific exchange rules are as follows: 
+The function of vsToken enables contributors to sell the vsToken in exchange for the original Token before slots retirement, so as to achieve the purpose of releasing liquidity. Unlike vsBond, vsToken is not tied to specific parachains and Slots. To this end, Bifrost designed two exchange pools to achieve the fungible of vsToken: 1-to-1 peg pool and Bancor pool \(1: x, x &lt;= 1\). The specific exchange rules are as follows:
 
-![](../../.gitbook/assets/plo3.png)
+![](../../.gitbook/assets/salp-users.png)
 
 1. If the user holds both vsBond and vsToken, and the parachain represented by vsBond has expired, they can participate in 1-to-1 peg pool and redeem Token at a price of 1:1.
 2. If the user only has vsToken, he can participate in the Bancor pool and redeem the Token at a price of 1:x \(x &lt;= 1\) \(the user can only perform the redemption function normally when Bancor pool has remaining Token, or wait until No.3\).
@@ -63,15 +63,7 @@ The function of vsToken enables contributors to sell the vsToken in exchange for
 
 ![](../../.gitbook/assets/bancor%20%281%29.png)
 
-In order to avoid the situation where the divisor is 0 during the calculation process, the system can set the initial virtual base values \(BaseBalance and BaseSupply\) for Balance and Supply. When the user exchanges Tokens, the specific amount is brought into the formula for calculation, and the result is subtracted from the initial base value, then you can get the final result. As shown in the figure below: the initial virtual base value of DOT is BaseSupply, and the price ratio of vsDOT to DOT is 1:1; when 3_BaseSupply \(4_BaseSupply-1\*BaseSupply\) DOT is redeemed from the Bancor pool, The price ratio of vsDOT to DOT reaches 2:1. When the system is implemented, a suitable BaseSupply value can be selected to obtain a suitable price curve.
+In order to avoid the situation where the divisor is 0 during the calculation process, the system can set the initial virtual base values \(BaseBalance and BaseSupply\) for Balance and Supply. When the user exchanges Tokens, the specific amount is brought into the formula for calculation, and the result is subtracted from the initial base value, then you can get the final result. As shown in the figure below: the initial virtual base value of DOT is BaseSupply, and the price ratio of vsDOT to DOT is 1:1; when 3\_BaseSupply \(4\_BaseSupply-1\*BaseSupply\) DOT is redeemed from the Bancor pool, The price ratio of vsDOT to DOT reaches 2:1. When the system is implemented, a suitable BaseSupply value can be selected to obtain a suitable price curve.
 
 ![](../../.gitbook/assets/bancor-curve.png)
-
-
-
-
-
-
-
-
 

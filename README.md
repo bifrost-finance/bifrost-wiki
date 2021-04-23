@@ -1,6 +1,6 @@
 # 🎉 Welcome
 
-Welcome to the Bifrost Wiki! This central source of truth contains guides for interacting with the core functionality. 
+Welcome to the Bifrost Wiki! This central source of truth contains guides for interacting with the core functionality.
 
 Bifrost is a DeFi protocol that connect with Polkadot and different PoS blockchains to provide staking derivative though XCMP or Smart Contract.
 
