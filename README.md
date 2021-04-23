@@ -22,7 +22,7 @@ Governance\(for people who want to vote over Bifrost platform\)
 
 ## 📄 Whitepaper
 
-[English](https://github.com/bifrost-finance/bifrost-wiki/raw/master/Bifrost%20Finance%20Whitepaper%20en-1.1.2.pdf) [中文 ](https://github.com/bifrost-finance/bifrost-wiki/raw/master/Bifrost%20Finance%20Whitepaper%20zh-1.2.0.pdf)
+[English](https://github.com/bifrost-finance/bifrost-wiki/raw/master/Bifrost%20Finance%20Whitepaper%20en-1.2.0.pdf) [中文 ](https://github.com/bifrost-finance/bifrost-wiki/raw/master/Bifrost%20Finance%20Whitepaper%20zh-1.2.0.pdf)
 
 ## 🔗 Link
 
