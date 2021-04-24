@@ -44,7 +44,7 @@ Bifrost Parachain will integrate Zenlink's DEX module to provide a trading marke
 
 Bifrost Parachain provides the purchase function of Staking-Token \(DOT, KSM\). Prepare for Bidder to perform staking operations.
 
-**Deliverable 2:  Polkadot Parachain and XCMP Staking**
+**Deliverable 2:  Polkadot Parachain and Relaychain Staking**
 
 Bifrost will bid for the Polkadot parachain. After the bid is successful, the network state of the Kusama parachain will be migrated to the Polkadot parachain, and the Kusama parachain will be shut down. Bifrost will interact with the Kusama relay chain through a third-party bridge or system-level parachain bridge. Bifrost Parachain will create some Module accounts on the relay chain, and these Module accounts will perform staking-related operations on the relay chain through the XCMP function.
 
