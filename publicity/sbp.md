@@ -34,7 +34,7 @@ Bifrost will bid for Kusama's parachain. After the bid is successful, the PoA ne
 
 Users need to trade the vsBond corresponding to multiple parachains in the Market. Therefore, vsBond needs a market for pending orders, and the Bifrost parachain needs to provide vsBond on-chain trading functions. Deliverable
 
-**Deliverable 3: Zenlink Integration**
+**Deliverable 3: Zenlink Integration Bifrost**
 
 Bifrost Parachain will integrate Zenlink's DEX module to provide a trading market for assets such as vsToken, vToken, BNC, KSM, and DOT.
 
@@ -44,13 +44,13 @@ Bifrost Parachain will integrate Zenlink's DEX module to provide a trading marke
 
 Bifrost Parachain provides the purchase function of Staking-Token \(DOT, KSM\). Prepare for Bidder to perform staking operations.
 
-**Deliverable 2:  Polkadot Parachain and Relaychain Staking**
+**Deliverable 2:  Polkadot Parachain and XCMP Staking**
 
 Bifrost will bid for the Polkadot parachain. After the bid is successful, the network state of the Kusama parachain will be migrated to the Polkadot parachain, and the Kusama parachain will be shut down. Bifrost will interact with the Kusama relay chain through a third-party bridge or system-level parachain bridge. Bifrost Parachain will create some Module accounts on the relay chain, and these Module accounts will perform staking-related operations on the relay chain through the XCMP function.
 
 **Deliverable 3: vToken\(vKSM, vDOT, vETH\) Mint and Cross-Chain Staking**
 
-Bifrost Parachain provides vToken \(vKSM, vDOT,  vETH\) minting and redemption functions. Bifrost Parachain will interact with the ETH 2.0 system through a third-party decentralized bridge or a system-level Parachain bridge to provide the minting function of vETH and staking-related functions for releasing the staking liquidity of ETH 2.0.
+Bifrost Parachain provides vToken \(vKSM, vDOT,  vETH\) minting and redemption functions to prepare for the release of staking liquidity.Bifrost Parachain will interact with the ETH 2.0 system through a third-party bridge or a system-level parachain bridge to provide the minting function of vETH in preparation for releasing the staking liquidity of ETH 2.0.
 
 
 
