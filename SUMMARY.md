@@ -38,7 +38,7 @@
   * [Eth2.0 存款记录](publicity/eth2.0-deposit-history.md)
   * [活动](publicity/activity.md)
   * [贡献者](publicity/contribute.md)
-  * [项目进展情况](publicity/progress.md)
+  * [Substrate Builders Program](publicity/progress.md)
   * [设计资源](publicity/resources.md)
 * [🏛️ 治理](governance/README.md)
   * [委员会](governance/committee.md)
