@@ -45,8 +45,6 @@
 
 
 
-
-
 #### 核心贡献者
 
 * Lurpis \(Co-Founder & CEO\)
