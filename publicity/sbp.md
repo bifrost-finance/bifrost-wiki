@@ -34,7 +34,7 @@ Bifrost will bid for Kusama's parachain. After the bid is successful, the PoA ne
 
 Users need to trade the vsBond corresponding to multiple parachains in the Market. Therefore, vsBond needs a market for pending orders, and the Bifrost parachain needs to provide vsBond on-chain trading functions. Deliverable
 
-**Deliverable 3: Zenlink Integration Bifrost**
+**Deliverable 3: Zenlink Integration**
 
 Bifrost Parachain will integrate Zenlink's DEX module to provide a trading market for assets such as vsToken, vToken, BNC, KSM, and DOT.
 
