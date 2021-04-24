@@ -41,7 +41,7 @@
   * [Eth2.0 Deposit History](publicity/eth2.0-deposit-history.md)
   * [Activity](publicity/activity.md)
   * [Contribute](publicity/contribute.md)
-  * [Progress](publicity/progress.md)
+  * [Substrate Builders Program](publicity/progress.md)
   * [Resources](publicity/resources.md)
 * [🏛️ Governance](governance/README.md)
   * [Committee](governance/committee.md)
