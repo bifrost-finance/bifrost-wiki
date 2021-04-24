@@ -1,6 +1,6 @@
-# Substrate Builders Program
+# Substrate 构建者计划
 
-Parity将项目开发分为4个Milestone阶段，每个Milestone阶段持续时间约为3个月。在每个Milestone阶段，项目方应该提交3个交付物。按照Milestone计划进行开发的项目，Parity会给予对应的一组勋章，用以表示项目当前的进展情况。 
+Parity将项目开发分为4个Milestone阶段，每个Milestone阶段持续时间约为3个月。在每个Milestone阶段，项目方应该提交3个交付物。按照Milestone计划进行开发的项目，Parity会给予对应的一组勋章，用以表示项目当前的进展情况（Substrate Builders Program）。
 
 • Project Accepted: Level 0 
 
