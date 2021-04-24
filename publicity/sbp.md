@@ -46,7 +46,7 @@ Bifrost Parachain provides the purchase function of Staking-Token \(DOT, KSM\). 
 
 **Deliverable 2:  Polkadot Parachain and Relaychain Staking**
 
-Bifrost will bid for the Polkadot parachain. After the bid is successful, the network state of the Kusama parachain will be migrated to the Polkadot parachain, and the Kusama parachain will be shut down. Bifrost will interact with the Kusama relay chain through a third-party bridge or system-level parachain bridge. Bifrost Parachain will create some Module accounts on the relay chain, and these Module accounts will perform staking-related operations on the relay chain through the XCMP function.
+Bifrost will bid for the Polkadot parachain. After the bid is successful, the network state of the Kusama parachain will be migrated to the Polkadot parachain, and the Kusama parachain will be shut down. Bifrost will interact with Relaychain through a third-party bridge or system-level Parachain bridge. Bifrost Parachain will create some Module accounts on the Relaychain, and these Module accounts will perform staking-related operations on the Relaychain through the XCMP function.
 
 **Deliverable 3: vToken\(vKSM, vDOT, vETH\) Mint and Cross-Chain Staking**
 
