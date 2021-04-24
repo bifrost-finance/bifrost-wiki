@@ -12,7 +12,7 @@ Parity将项目开发分为4个Milestone阶段，每个Milestone阶段持续时�
 
 • Project Achieved Milestone 3: Build Complete
 
-### Level 0
+### Level 1
 
 **Deliverable 1: PoA Mainnet \(Genesis State\)**
 
@@ -26,7 +26,7 @@ vsToken和vsBond，是Bifrost为PLO（Crowdloan）提供流动性而设计的两
 
 SALP（Slot Auction Liquidity Protocol）由两类资产（vsToken、vsBond）与两个兑换池（1:1 Pool、Bancor Pool）构成。vsToken配上已到期的vsBond，可以与Token进行1:1兑换，而仅仅持有vsToken，则只能到Bancor池中进行1:x\(x &lt; 1\)的Token兑换。
 
-### Level 1
+### Level 2
 
 **Deliverable 1: Kusama Parachain**
 
@@ -40,31 +40,21 @@ Bifrost会竞拍Kusama的平行链，竞拍成功后，会将PoA网络状态迁�
 
 Bifrost平行链会集成Zenlink的DEX功能，为vsToken、vToken、BNC、KSM、DOT等资产提供交易市场。
 
-### Level 2
+### Level 3
 
-**Deliverable 1: vToken\(vKSM, vDOT\) Mint**
-
-Bifrost平行链提供vToken（vKSM, vDOT）的铸造与赎回功能，为释放Staking流动性做准备。
-
-**Deliverable 2: Bidding Module**
+**Deliverable 1: Bidding Module**
 
 Bifrost平行链提供Staking-Token（DOT、KSM）的购买功能。为Bidder执行Staking操作做准备。
 
-**Deliverable 3: XCMP Staking Module For Kusama**
+**Deliverable 2: Polkadot Parachain and Relaychain Staking**
 
-Bifrost平行链会在中继链上创建一些Module账户，并由这些Module账户通过XCMP协议在中继链上执行Staking相关的操作。
+Bifrost会竞拍Polkadot的平行链，竞拍成功后，会将Kusama平行链的网络状态迁移到Polkadot平行链中，并关停Kusama平行链，通过第三方桥或系统级桥与Kusama中继链进行交互。Bifrost平行链会在中继链上创建一些Module账户，并由这些Module账户通过XCMP协议在中继链上执行Staking相关的操作。
 
-### Level 3
+**Deliverable 3: vToken\(vKSM, vDOT, vETH\) Mint and Cross-Chain Staking**
 
-**Deliverable 1: Polkadot Parachain**
+Bifrost平行链提供vToken（vKSM, vDOT, vETH）的铸造与赎回功能，Bifrost平行链将通过第三方桥或系统级桥与ETH 2.0系统进行交互，并执行ETH 2.0系统上的Staking相关动作，完成对ETH 2.0的Staking支持与流动性释放。
 
-Bifrost会竞拍Polkadot的平行链，竞拍成功后，会将Kusama平行链的网络状态迁移到Polkadot平行链中，并关停Kusama平行链，通过第三方桥或系统级桥与Kusama中继链进行交互。
 
-**Deliverable 2: vToken\(vETH\) Mint**
 
-Bifrost平行链将通过第三方桥或系统级桥与ETH 2.0系统进行交互，提供vETH的铸造功能，为释放ETH 2.0的Staking流动性做准备。
 
-**Deliverable 3: XCMP Staking For ETH 2.0**
-
-Bifrost平行链将通过第三方桥或系统级桥与ETH 2.0系统进行交互，并执行ETH 2.0系统上的Staking相关动作，完成对ETH 2.0的Staking支持与流动性释放。
 
