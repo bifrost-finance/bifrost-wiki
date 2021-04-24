@@ -50,7 +50,7 @@ Bifrost will bid for the Polkadot parachain. After the bid is successful, the ne
 
 **Deliverable 3: vToken\(vKSM, vDOT, vETH\) Mint and Cross-Chain Staking**
 
-Bifrost Parachain provides vToken \(vKSM, vDOT,  vETH\) minting and redemption functions to prepare for the release of staking liquidity.Bifrost Parachain will interact with the ETH 2.0 system through a third-party bridge or a system-level parachain bridge to provide the minting function of vETH in preparation for releasing the staking liquidity of ETH 2.0.
+Bifrost Parachain provides vToken \(vKSM, vDOT,  vETH\) minting and redemption functions. Bifrost Parachain will interact with the ETH 2.0 system through a third-party decentralized bridge or a system-level Parachain bridge to provide the minting function of vETH and staking-related functions for releasing the staking liquidity of ETH 2.0.
 
 
 
