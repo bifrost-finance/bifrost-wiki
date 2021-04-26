@@ -4,23 +4,61 @@
 
 ![](../.gitbook/assets/bnc-distribution.png)
 
-## BNC Distribution in Marketing Activities
+## BNC Distribution in Activities
 
 ### First Quarter of 2021
 
-#### **1.** How to participate in Bifrost vETH Mint Drop between Polkadot Eco and Ethereum Layer 2?
+#### 1.vETH Mint Drop 1
+
+#### BNC Award Tracking: [https://docs.google.com/spreadsheets/d/1ogI2roisjQyKm\_Jh6AV7qpa5l662H-mPtu4URj2zPFw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ogI2roisjQyKm_Jh6AV7qpa5l662H-mPtu4URj2zPFw/edit?usp=sharing)
+
+#### 
+
+#### 2.Zenlink x Bifrost Airdrop
+
+**BNC Award Tracking:**  [https://docs.google.com/spreadsheets/d/1t\_uUxpfLRUDSsgzPvuOv7TChe2-280y4hDrdKA4TZgQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1t_uUxpfLRUDSsgzPvuOv7TChe2-280y4hDrdKA4TZgQ/edit?usp=sharing)
+
+
+
+#### **3.** How to participate in Bifrost vETH Mint Drop between Polkadot Eco and Ethereum Layer 2?
 
 **BNC Award Tracking:** [https://docs.google.com/spreadsheets/d/1RoffOJmgCyhCT0OEUdYB44Kc9Onn5Gnj61mUqoQzQMM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1RoffOJmgCyhCT0OEUdYB44Kc9Onn5Gnj61mUqoQzQMM/edit?usp=sharing)
 
 
 
-#### 2. Why Parachain Slot Auctions Are Worth the Wait
+#### 4.Bifrost Meme Contest
+
+**BNC Award Tracking:** [https://docs.google.com/spreadsheets/d/1t0xn9KLcZtCRxNLf8thJJqAngVcu3u0e6JTvT89nwpk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1t0xn9KLcZtCRxNLf8thJJqAngVcu3u0e6JTvT89nwpk/edit?usp=sharing)
+
+
+
+#### 5.Russian Community New Year Event
+
+**BNC Award Tracking:** [https://docs.google.com/spreadsheets/d/16t92Bl8bcW7pWFHnMnomkAwgukiklBmD2emDWQ1II9M/edit?usp=sharing](https://docs.google.com/spreadsheets/d/16t92Bl8bcW7pWFHnMnomkAwgukiklBmD2emDWQ1II9M/edit?usp=sharing)
+
+
+
+#### 6. Why Parachain Slot Auctions Are Worth the Wait
 
 **BNC Award Tracking:** [https://docs.google.com/spreadsheets/d/1L9dDnT8mDnjcseOaugIHExvUu-GtiEPQrrCnQlZgpWw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1L9dDnT8mDnjcseOaugIHExvUu-GtiEPQrrCnQlZgpWw/edit?usp=sharing)
 
 
 
-3. 
+#### 7.DeFi Go Community AMA
+
+**BNC Award Tracking:**          [https://docs.google.com/spreadsheets/d/1YhHaj2uZ3ALipxVxe-ML5XW70yD7ZZXvbN0NAQg0pCk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1YhHaj2uZ3ALipxVxe-ML5XW70yD7ZZXvbN0NAQg0pCk/edit?usp=sharing)
+
+
+
+#### 8. vETH Mint Drop 2
+
+####  **BNC Award Tracking:**  [https://docs.google.com/spreadsheets/d/1p43e453R9uvVduF\_ROezwjQyHl8r\_7a5WH9e-QdEHK0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1p43e453R9uvVduF_ROezwjQyHl8r_7a5WH9e-QdEHK0/edit?usp=sharing)
+
+
+
+#### 9. Bifrost x Plasm at PolkaWarriors AMA
+
+**BNC Award Tracking:** [https://docs.google.com/spreadsheets/d/1\_CscFJPCDCtvVlSVQf5EWEKt3FGsjbb7BxO9fxmYujc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1_CscFJPCDCtvVlSVQf5EWEKt3FGsjbb7BxO9fxmYujc/edit?usp=sharing)
 
 
 
