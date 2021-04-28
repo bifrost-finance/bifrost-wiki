@@ -24,9 +24,11 @@ WiKi将分为六个主要部分：
 
 ## 📄 白皮书
 
-[中文 ](https://github.com/bifrost-finance/bifrost-wiki/raw/master/bifrost-finance-whitepaper-zh.pdf) [English](https://github.com/bifrost-finance/bifrost-wiki/raw/master/bifrost-finance-whitepaper-en.pdf)
+🇺🇸 [English](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-en.pdf)      🇨🇳 [中文](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-zh.pdf)
 
-## 🔗 链接
+## 🔗 相关链接
 
-[Github](https://github.com/bifrost-finance) [Telegram](https://t.me/bifrost_finance) [Twitter](https://twitter.com/bifrost_finance) [Medium](https://medium.com/bifrost-finance) [Discord](https://discord.gg/XjnjdKBNXj)
+🐙 [Github](https://github.com/bifrost-finance)      🕹 [DApp](https://apps.bifrost.finance/)      🎮 [Dashboard](https://dash.bifrost.finance/)
+
+🚰 [Faucet](https://t.me/bifrost_faucet)      🐦 [Twitter](https://twitter.com/bifrost_finance)    🍶 [Telegram](https://t.me/bifrost_finance)
 
