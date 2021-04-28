@@ -28,5 +28,5 @@ Governance\(for people who want to vote over Bifrost platform\)
 
 🐙 [Github](https://github.com/bifrost-finance)      🕹 [DApp](https://apps.bifrost.finance/)      🎮 [Dashboard](https://dash.bifrost.finance/)
 
-🚰 [Faucet](https://t.me/bifrost_faucet)      🐦 [Twitter](https://twitter.com/bifrost_finance)      🍶 [Telegram](https://t.me/bifrost_finance)
+🚰 [Faucet](https://t.me/bifrost_faucet)      🐦 [Twitter](https://twitter.com/bifrost_finance)    🍶 [Telegram](https://t.me/bifrost_finance)
 
