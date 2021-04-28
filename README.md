@@ -22,11 +22,11 @@ Governance\(for people who want to vote over Bifrost platform\)
 
 ## 📄 White Paper
 
-[🇺🇸 English](https://github.com/bifrost-finance/bifrost-wiki/raw/master/bifrost-finance-whitepaper-en.pdf)      [🇨🇳 中文](https://github.com/bifrost-finance/bifrost-wiki/raw/master/bifrost-finance-whitepaper-zh.pdf)
+🇺🇸 [English](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-en.pdf)      🇨🇳 [中文](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-zh.pdf)
 
 ## 🔗 Link
 
-[🐙 Github](https://github.com/bifrost-finance)      [🕹 DApp](https://apps.bifrost.finance/)       [🎮 Dashboard](https://dash.bifrost.finance/)
+🐙 [Github](https://github.com/bifrost-finance)      🕹 [DApp](https://apps.bifrost.finance/)      🎮 [Dashboard](https://dash.bifrost.finance/)
 
-[🚰 Faucet](https://t.me/bifrost_faucet)      [🐦 Twitter](https://twitter.com/bifrost_finance)      [🍶 Telegram](https://t.me/bifrost_finance)
+🚰 [Faucet](https://t.me/bifrost_faucet)      🐦 [Twitter](https://twitter.com/bifrost_finance)      🍶 [Telegram](https://t.me/bifrost_finance)
 
