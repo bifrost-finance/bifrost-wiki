@@ -1,6 +1,6 @@
 # WebAssembly应用
 
-在Bifrost中，WebAssembly用作运行时和Smart Contract VM的编译目标。 
+在Bifrost系统中，WebAssembly用作运行时（Runtime）和智能合约虚拟机的编译目标。 
 
 ## 什么是WebAssembly? 
 
