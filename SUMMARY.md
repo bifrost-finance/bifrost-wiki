@@ -20,7 +20,7 @@
     * [Staking 衍生品](learn/vtoken/slp.md)
     * [Slot Auction 衍生品](learn/vtoken/salp.md)
   * [风险控制](learn/risk.md)
-  * [WebAssembly应用](learn/webassembly-ying-yong.md)
+  * [WebAssembly](learn/webassembly-ying-yong.md)
 * [🧑‍💻 开发运维](devops/README.md)
   * [开发环境](devops/environment.md)
   * [构建流程](devops/build.md)

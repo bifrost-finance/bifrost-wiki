@@ -1,4 +1,4 @@
-# WebAssembly应用
+# WebAssembly
 
 在Bifrost系统中，WebAssembly用作运行时（Runtime）和智能合约虚拟机的编译目标。 
 
