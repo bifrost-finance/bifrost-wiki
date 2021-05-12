@@ -23,6 +23,7 @@
   * [EOS Bridge](learn/eos-bridge/README.md)
     * [Design](learn/eos-bridge/eos-bridge.md)
     * [Build](learn/eos-bridge/build.md)
+  * [WebAssembly](learn/webassembly.md)
 * [🧑‍💻 DevOps](devops/README.md)
   * [Environment](devops/environment.md)
   * [Build](devops/build.md)
