@@ -45,6 +45,7 @@
   * [Substrate Builders Program](publicity/sbp.md)
   * [Resources](publicity/resources/README.md)
     * [Brand](publicity/resources/brand.md)
+    * [Token](publicity/resources/token.md)
 * [🏛️ Governance](governance/README.md)
   * [Committee](governance/committee.md)
   * [Vote](governance/vote.md)
