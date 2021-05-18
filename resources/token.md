@@ -1,6 +1,6 @@
 # Token
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ### BNC
 
@@ -8,7 +8,7 @@
 
 [Online](https://github.com/bifrost-finance/design-assets/tree/master/token_logo/bnc)
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ### vETH
 
