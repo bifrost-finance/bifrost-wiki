@@ -1,6 +1,6 @@
 # Brand
 
-### Logo Assets
+### Logo Assets 
 
 [Download](https://github.com/bifrost-finance/design-assets/raw/master/brand/Bifrost-Logo-Assets.zip)
 
