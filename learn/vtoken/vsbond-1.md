@@ -1,4 +1,0 @@
-# PLO Derivative
-
-vsToken & vsBond
-

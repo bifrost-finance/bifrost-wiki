@@ -4,3 +4,21 @@ The Genesis block of the Bifrost network will launch soon, as a Proof of Authori
 
 Ref: [https://wiki.bifrost.finance/learn/launch](https://wiki.bifrost.finance/learn/launch)
 
+Bifrost POA Mainnet is defined as the pre-release stage of the Bifrost Mainnet, it has the Genesis block of the future mainnet. You can check the BNC balance.
+
+Bifrsot Asgard Testnet is defined as the Bifrost Testnet, which is divided into Asgard Relaychain and Asgard Parachain, with faucet and test functions.
+
+### RPC API
+
+Rrovided by an external third party.
+
+Mainnet: bifrost-rpc.liebi.com 
+
+Testnet\(Asgard\): bifrost-rpc.testnet.liebi.com
+
+### Service API
+
+Mainnet: api.bifrost.finance / api.vtoken.io 
+
+Testnet\(Asgard\): api-test.bifrost.finance / api-test.vtoken.io
+
