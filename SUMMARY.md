@@ -41,7 +41,6 @@
   * [贡献者](publicity/contribute.md)
   * [Substrate 构建者计划](publicity/sbp.md)
   * [设计资源](publicity/resources/README.md)
-    * [品牌资源](publicity/resources/pin-pai-zi-yuan.md)
     * [品牌资源](publicity/resources/pin-pai-zi-yuan-1.md)
     * [Token 资源](publicity/resources/token-zi-yuan.md)
 * [🏛️ 治理](governance/README.md)
