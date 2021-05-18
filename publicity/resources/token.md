@@ -10,7 +10,7 @@
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
-### BNC
+### vETH
 
 [vETH\_Pack](https://raw.githubusercontent.com/bifrost-finance/design-assets/master/token_logo/veth/vETH_Pack.zip) 
 
