@@ -43,7 +43,7 @@
 * [🏛️ 治理](governance/README.md)
   * [委员会](governance/committee.md)
   * [社区投票](governance/vote.md)
-* [🎨设计资源](resources/README.md)
+* [🎨 设计资源](resources/README.md)
   * [品牌资源](resources/pin-pai-zi-yuan-1.md)
   * [Token 资源](resources/token-zi-yuan.md)
 
