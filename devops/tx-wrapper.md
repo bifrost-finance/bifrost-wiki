@@ -7,7 +7,7 @@ description: >-
 
 # Tx Wrapper
 
-### Understanding Transaction Format
+## Understanding Transaction Format
 
 First we need to know the transaction format so that we can construct a qulified offline transaction.
 
@@ -39,7 +39,7 @@ Each transaction will have its own \(or no\) parameters to add. For example, the
   4. Serialize the signed payload into a transaction.
   5. Submit the serialized transaction.
 
-### Walking through the [Example](https://github.com/bifrost-finance/txwrapper-bifrost/blob/master/src/bifrost-poa.ts)
+## Walking through the [Example](https://github.com/bifrost-finance/txwrapper-bifrost/blob/master/src/bifrost-poa.ts)
 
 **1.Provide a private key**
 
@@ -52,7 +52,6 @@ import { Keyring } from "@polkadot/api";
 
 const keyring = new Keyring(); 
 const alice = keyring.addFromUri("//Alice", { name: "Alice" }, "sr25519");
-
 ```
 
 * import a privateKey
@@ -98,7 +97,7 @@ const unsigned = methods.balances.transfer(
 
 ```javascript
 import { createSigningPayload } from '@substrate/txwrapper';
-  
+
 const decodedUnsigned = decode(unsigned, {
     metadataRpc,
     registry,
@@ -126,12 +125,12 @@ const decodedUnsigned = decode(unsigned, {
     metadataRpc,
     registry,
   });
-  
+
   const payloadInfo = decode(signingPayload, {
     metadataRpc,
     registry,
   });
-  
+
   const txInfo = decode(tx, {
     metadataRpc,
     registry,
@@ -150,11 +149,11 @@ const expectedTxHash = construct.txHash(tx);
 const actualTxHash = await rpcToLocalNode("author_submitExtrinsic", [tx]);
 ```
 
-### How to use `txwrapper-bifrost`
+## How to use `txwrapper-bifrost`
 
 Here's a mini-tutorial on how `txwrapper-polkadot` can interact with a Bifrost chain. We're using a Bifrost dev chain \([https://github.com/bifrost-finance/bifrost](https://github.com/bifrost-finance/bifrost)\)
 
-### Run the Example
+## Run the Example
 
 1. Fetch the latest Bifrost node from the above link. Follow instructions to build it, and start a dev chain.
 
@@ -173,7 +172,7 @@ Here's a mini-tutorial on how `txwrapper-polkadot` can interact with a Bifrost c
 
    `yarn bifrost`
 
-### Expected Output
+## Expected Output
 
 Here's a sample output of the above script, using a Polkadot node. Your payload to sign and signature will of course differ from this example.
 

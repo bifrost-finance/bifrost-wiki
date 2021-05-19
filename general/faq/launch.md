@@ -8,17 +8,17 @@ Bifrost POA Mainnet is defined as the pre-release stage of the Bifrost Mainnet, 
 
 Bifrsot Asgard Testnet is defined as the Bifrost Testnet, which is divided into Asgard Relaychain and Asgard Parachain, with faucet and test functions.
 
-### RPC API
+## RPC API
 
 Rrovided by an external third party.
 
-Mainnet: bifrost-rpc.liebi.com 
+Mainnet: bifrost-rpc.liebi.com
 
 Testnet\(Asgard\): bifrost-rpc.testnet.liebi.com
 
-### Service API
+## Service API
 
-Mainnet: api.bifrost.finance / api.vtoken.io 
+Mainnet: api.bifrost.finance / api.vtoken.io
 
 Testnet\(Asgard\): api-test.bifrost.finance / api-test.vtoken.io
 

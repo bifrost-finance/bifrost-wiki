@@ -21,7 +21,7 @@
     * [Slot Auction Derivative](learn/vtoken/salp.md)
   * [Risk Control](learn/risk.md)
   * [EOS Bridge](learn/eos-bridge/README.md)
-    * [Design](learn/eos-bridge/eos-bridge.md)
+    * [Design](learn/eos-bridge/design.md)
     * [Build](learn/eos-bridge/build.md)
   * [WebAssembly](learn/webassembly.md)
 * [🧑‍💻 DevOps](devops/README.md)
