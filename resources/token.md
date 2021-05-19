@@ -1,8 +1,8 @@
 # Token
 
-![](../.gitbook/assets/image%20%284%29.png)
+### BNC
 
-## BNC
+![](../.gitbook/assets/image%20%284%29.png)
 
 [bnc\_pack](https://raw.githubusercontent.com/bifrost-finance/design-assets/master/token_logo/bnc/BNC_Pack.zip)
 
@@ -10,9 +10,9 @@
 
 
 
-![](../.gitbook/assets/image%20%286%29%20%281%29%20%281%29.png)
+### vETH
 
-## vETH
+![](../.gitbook/assets/image%20%286%29%20%281%29%20%281%29.png)
 
 [veth\_pack](https://raw.githubusercontent.com/bifrost-finance/design-assets/master/token_logo/veth/vETH_Pack.zip)
 
