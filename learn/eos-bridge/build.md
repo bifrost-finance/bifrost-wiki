@@ -191,7 +191,7 @@ It should run without errors.
 
 ### Configure Browser
 
-Go to [polkadot.js.org](https://polkadot.js.org/apps/#/settings/developer), Copy content data from the file `developer_setting.json` to **Deveoper** tab like this, and save it. 
+Go to [polkadot.js.org](https://polkadot.js.org/apps/#/settings/developer), Copy content data from the file `developer_setting.json` to **Deveoper** tab like this, and save it.
 
 ![](../../.gitbook/assets/developer_setting.png)
 
@@ -288,6 +288,4 @@ $ cleos get currency balance eosio.token jim
 # should print 90 EOS
 $ cleos get currency balance eosio.token bifrostcross
 ```
-
-
 

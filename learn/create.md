@@ -30,8 +30,6 @@ Input account \[name\], \[pasword\], \[repeated password\]，then click the butt
 
 Click the button \[save\] to complete
 
-
-
 ## Step 6
 
 Click the \[icon\] of the account, means to copy the \[address\]

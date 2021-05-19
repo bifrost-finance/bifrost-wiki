@@ -1,6 +1,6 @@
 # Design
 
-### Technical solutions
+## Technical solutions
 
 In this solution, the two sides participating in the cross-chain are the the **parent chain** and the **Bifrost sidechain**. The Bifrost sidechain actively collects and synchronizes transactions from the parent chain. The parent chain passively accepts and verifies transactions from users or sidechain.
 

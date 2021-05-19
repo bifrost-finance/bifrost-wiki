@@ -1,6 +1,6 @@
 # BifrostJS
 
-### Github
+## Github
 
 ```text
 git clone https://github.com/bifrost-finance/bifrost.js.git
@@ -23,9 +23,9 @@ yarn
 # yarn generate-full-definitions
 ```
 
-### Extension
+## Extension
 
-#### Installation
+### Installation
 
 ```bash
 yarn add @polkadot/extension-dapp
@@ -33,7 +33,7 @@ yarn add @polkadot/extension-dapp
 
 Browser extensions are also required: [Download](https://polkadot.js.org/extension/)
 
-#### Usage
+### Usage
 
 ```javascript
 import {
@@ -71,9 +71,9 @@ api.tx.balances
 .signAndSend(SENDER, { signer: injector.signer }, (status) => { console.log(status) });
 ```
 
-### API
+## API
 
-#### Installation
+### Installation
 
 ```bash
 yarn add @bifrost-finance/api
@@ -81,7 +81,7 @@ yarn add @bifrost-finance/api
 npm i @bifrost-finance/api
 ```
 
-#### Create an instance
+### Create an instance
 
 A little different from [polkadot.js](https://polkadot.js.org/docs/api/start/create)
 
@@ -99,9 +99,9 @@ const api = await ApiPromise.create(options({ provider: wsProvider, rpc: jsonrpc
 console.log(api.genesisHash.toHex());
 ```
 
-### Keyring & Crypto Utilities
+## Keyring & Crypto Utilities
 
-#### Create mnemonic
+### Create mnemonic
 
 The following example shows how to create and generate mnemonics using BIP39.
 
@@ -134,7 +134,7 @@ async function main () {
 main().catch(console.error).finally(() => process.exit());
 ```
 
-#### Adding a pair & Generic address
+### Adding a pair & Generic address
 
 **ed25519**
 
@@ -189,7 +189,7 @@ console.log(keyring.pairs.length, 'pairs available');
 console.log(pair.meta.name, 'has address', pair.address);
 ```
 
-#### Validate address
+### Validate address
 
 This function will return true if the address is a legitamate Polkadot address and false if it is not Works both with Ed25519 and Sr25519 key types
 
@@ -218,9 +218,9 @@ const isValid = isValidAddressPolkadotAddress();
 console.log(isValid);
 ```
 
-### Extension
+## Extension
 
-#### Installation
+### Installation
 
 ```bash
 yarn add @polkadot/extension-dapp
@@ -228,7 +228,7 @@ yarn add @polkadot/extension-dapp
 
 Browser extensions are also required: [Download](https://polkadot.js.org/extension/)
 
-#### Usage
+### Usage
 
 ```javascript
 import {
@@ -266,7 +266,7 @@ api.tx.balances
 .signAndSend(SENDER, { signer: injector.signer }, (status) => { console.log(status) });
 ```
 
-### Traverse events
+## Traverse events
 
 Query the system events and extract information from them. This example runs until exited via Ctrl-C
 
@@ -309,9 +309,9 @@ main().catch((error) => {
 });
 ```
 
-### Bifrost Metadata
+## Bifrost Metadata
 
-#### Events
+### Events
 
 Events are emitted for certain operations on the runtime. The following sections describe the events that are part of the default Bifrost runtime.
 
