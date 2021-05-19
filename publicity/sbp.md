@@ -44,13 +44,11 @@ Bifrost Parachain will integrate Zenlink's DEX module to provide a trading marke
 
 Bifrost Parachain provides the purchase function of Staking-Token \(DOT, KSM\). Prepare for Bidder to perform staking operations.
 
-**Deliverable 2:  Polkadot Parachain and Relaychain Staking**
+**Deliverable 2: Polkadot Parachain and Relaychain Staking**
 
 Bifrost will bid for the Polkadot parachain. After the bid is successful, the network state of the Kusama parachain will be migrated to the Polkadot parachain, and the Kusama parachain will be shut down. Bifrost will interact with Relaychain through a third-party bridge or system-level Parachain bridge. Bifrost Parachain will create some Module accounts on the Relaychain, and these Module accounts will perform staking-related operations on the Relaychain through the XCMP function.
 
 **Deliverable 3: vToken\(vKSM, vDOT, vETH\) Mint and Cross-Chain Staking**
 
-Bifrost Parachain provides vToken \(vKSM, vDOT,  vETH\) minting and redemption functions. Bifrost Parachain will interact with the ETH 2.0 system through a third-party decentralized bridge or a system-level Parachain bridge to provide the minting function of vETH and staking-related functions for releasing the staking liquidity of ETH 2.0.
-
-
+Bifrost Parachain provides vToken \(vKSM, vDOT, vETH\) minting and redemption functions. Bifrost Parachain will interact with the ETH 2.0 system through a third-party decentralized bridge or a system-level Parachain bridge to provide the minting function of vETH and staking-related functions for releasing the staking liquidity of ETH 2.0.
 
