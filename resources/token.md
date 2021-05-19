@@ -8,6 +8,10 @@
 
 [Online](https://github.com/bifrost-finance/design-assets/tree/master/token_logo/bnc)
 
+
+
+
+
 ![](../.gitbook/assets/image%20%286%29%20%281%29%20%281%29.png)
 
 ## vETH
