@@ -39,7 +39,7 @@ In order to let people from different regions have a certain understanding of Bi
 | Article Link | Address | Amount |
 | :--- | :--- | :--- |
 | [https://cutt.ly/pcC7gaa](https://cutt.ly/pcC7gaa) | 5Hg96xTCugbbFd55F9iBNofie4gpAgmJUVGd8nRL5vqCPCSp | 20 BNC |
-|  |  |  |
+| [https://cutt.ly/Rnm82gn](https://cutt.ly/Rnm82gn) | fzDwWf4j3wKCiasyrdEjHMNYLZWYefyXgCMS7t8jdVcTYEF | 40 BNC |
 
 #### Note: Not all submissions are accepted.
 
