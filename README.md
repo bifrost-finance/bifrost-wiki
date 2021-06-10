@@ -24,6 +24,10 @@ Governance\(for people who want to vote over Bifrost platform\)
 
 🇺🇸 [English](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-en.pdf)      🇨🇳 [中文](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-zh.pdf)
 
+## 📈 Rating Report
+
+🇺🇸 [English](https://image.tokeninsight.com/levelPdf/TI-Bifrost_Rating_Report.pdf)
+
 ## 🔗 Link
 
 🐙 [Github](https://github.com/bifrost-finance)      🕹 [DApp](https://apps.bifrost.finance/)      🎮 [Dashboard](https://dash.bifrost.finance/)
