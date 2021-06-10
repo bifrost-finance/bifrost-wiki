@@ -43,6 +43,7 @@
   * [Activity](publicity/activity.md)
   * [Contribute](publicity/contribute.md)
   * [Substrate Builders Program](publicity/sbp.md)
+  * [Crowdloan Multi-signer](publicity/crowdloan-multi-signer.md)
 * [🏛️ Governance](governance/README.md)
   * [Committee](governance/committee.md)
   * [Vote](governance/vote.md)
