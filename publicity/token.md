@@ -2,8 +2,6 @@
 
 ## BNC Allocation
 
-![](../.gitbook/assets/bnc-fen-pei-bi-li-20210612.png)
-
 ## BNC Distribution in Activities
 
 ### First Quarter of 2021
