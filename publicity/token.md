@@ -1,6 +1,6 @@
 # Token 分配情况
 
-![](../.gitbook/assets/bnc-distribution.png)
+![](../.gitbook/assets/bnc-fen-pei-bi-li-20210612.png)
 
 ## 社区活动分发的BNC 记录
 
