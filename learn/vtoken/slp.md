@@ -85,26 +85,9 @@ Bifrost 在 Staking 衍生品不可能三角中，为提供更好的 Staking 衍
 
 ## vToken铸币挖矿 <a id="vtoken&#x94F8;&#x5E01;&#x6316;&#x77FF;"></a>
 
-Bifrost 经济模型中将预留 12,160,000 BNC（Bifrost Native Coin）占总量 15.2% 的 BNC 作为 vToken 铸币激励，激励期限被设置为线性释放十年，每两年产量减半，根据用户 vToken 铸币价值进行分配，以激励用户更主动的兑换和持有具备权益、同质性和流动性的 vToken。
+Bifrost 经济模型中将预留 9,000,000 BNC（Bifrost Native Coin）占总量 11.25% 的 BNC 作为 vToken 铸币激励，激励期限被设置为线性释放十年，每两年产量减半，根据用户 vToken 铸币价值进行分配，以激励用户更主动的兑换和持有具备权益、同质性和流动性的 vToken。
 
-**定量参数**
-
-![](../../.gitbook/assets/vtoken4.png)
-
-**计算公式**
-
-![](../../.gitbook/assets/token-f.png)
-
-**铸币挖矿产量**
-
-![](../../.gitbook/assets/vtoken5.png)
-
-**铸币挖矿产量折线**
-
-![](../../.gitbook/assets/vtoken6.png)
-
-* X 轴：挖矿年份
-* Y轴：BNC 产量
+![](../../.gitbook/assets/90000.png)
 
 ## vToken铸币渠道金 <a id="vtoken&#x94F8;&#x5E01;&#x6E20;&#x9053;&#x91D1;"></a>
 
