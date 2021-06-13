@@ -79,24 +79,7 @@ In Bifrost Impossible Triangle of Derivatives, In order to provide better liquid
 
 In the Bifrost economic model, 12,160,000 BNC \(Bifrost Native Coin\) account for 15.2% of the total amount, reserved as the vTokenmint incentives. The incentive period is set to be ten years of linear release, with the annual output halved every two years. It is allocated according to the value of users' vTokenmint, so as to encourage users to mint and hold vToken with governance rights, fungible and liquidity.
 
-### Quantitative Parameters
-
-![](../../.gitbook/assets/vtoken4.png)
-
-### Computational Formula
-
-![](../../.gitbook/assets/token-f.png)
-
-### Tokenmint Yield
-
-![](../../.gitbook/assets/vtoken5.png)
-
-### Yield Broken Line
-
-![](../../.gitbook/assets/vtoken6.png)
-
-* X ：MInt Time
-* Y：BNC Yield
+![](../../.gitbook/assets/9000%20%281%29.png)
 
 ## vTokenmint Channel Funds
 
