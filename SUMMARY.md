@@ -28,7 +28,6 @@
   * [Environment](devops/environment.md)
   * [Build](devops/build.md)
   * [Asgard](devops/asgard.md)
-  * [Rococo](devops/rococo.md)
   * [PoA](devops/poa.md)
   * [BifrostJS](devops/bifrostjs.md)
   * [Tx Wrapper](devops/tx-wrapper.md)
