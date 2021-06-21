@@ -28,7 +28,7 @@
 
 1.11 区块链研习社 [Layer2 烈火烹油，了解路印 1 分钱转账、0gas 交易、二层 AMM 及流动性挖矿](https://www.chainnews.com/articles/904507669387.htm)
 
-1.25 区块链研习社 \[[平行链插槽拍卖蓄势待发，一览波卡生态 DeFi 协议进展](https://www.chainnews.com/articles/162282550361.htm)
+1.25 区块链研习社 [平行链插槽拍卖蓄势待发，一览波卡生态 DeFi 协议进展](https://www.chainnews.com/articles/162282550361.htm)
 
 1.25 Bifrost [Bifrost 风控系列一：对 Validators 串通作恶的分析](https://www.chainnews.com/articles/388873698833.htm)
 
