@@ -25,7 +25,6 @@
   * [开发环境](devops/environment.md)
   * [构建流程](devops/build.md)
   * [Asgard 测试网](devops/asgard.md)
-  * [Rococo 测试网](devops/rococo.md)
   * [PoA 主网](devops/poa.md)
   * [BifrostJS 用法](devops/bifrostjs.md)
   * [Tx Wrapper 用法](devops/tx-wrapper.md)
