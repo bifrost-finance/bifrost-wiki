@@ -34,7 +34,6 @@
   * [Substrate API Sidecar](devops/misc.md)
 * [🗒️ Research](research/README.md)
   * [Bancor](research/bancor.md)
-  * [Balancer](research/balancer.md)
   * [Zenlink](research/zenlink.md)
 * [📢 Publicity](publicity/README.md)
   * [Token Distribution](publicity/token.md)
