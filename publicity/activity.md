@@ -70,7 +70,7 @@
 
 4.1 vETH DODO liquidity	[Bifrost 携手 DODO 共建 Staking 衍生资产流动性](https://www.chainnews.com/articles/248011701071.htm)
 
-4.6 MXC 社区	[关于 Kusama 插槽拍卖]	(https://www.chainnews.com/articles/656403902155.htm)
+4.6 MXC 社区	[关于 Kusama 插槽拍卖](https://www.chainnews.com/articles/656403902155.htm)
 
 4.13 Dapp & Asgard CC4	[Bifrost Dapp Beta 版与 Asgard CC4 测试网正式发布](https://www.chainnews.com/articles/301900930164.htm)
 
@@ -92,7 +92,7 @@
 
 4.26 Cointelegraph	[Bifrost SALP: Release crowdloan liquidity for participants](https://cointelegraph.com/press-releases/bifrost-salp-release-crowdloan-liquidity-for-participants)
 
-4.28 Bifrost 	[Bifrost 品牌全新升级，宇宙学元素带来全新体验]	(https://www.chainnews.com/articles/815084897777.htm)
+4.28 Bifrost 	[Bifrost 品牌全新升级，宇宙学元素带来全新体验](https://www.chainnews.com/articles/815084897777.htm)
 
 4.30 Adouble212	[海外 Telegram 社区直播](https://t.me/SPECTRE_GRP)
 
