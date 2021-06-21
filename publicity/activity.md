@@ -1,4 +1,6 @@
-# 活动
+# 活动记录
+
+## 2020 Bifrost Highlight
 
 1.1 Happy Block [理想重要还是赛道重要](https://www.bilibili.com/video/BV1PT4y1P78S)
 
