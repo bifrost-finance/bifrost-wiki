@@ -6,7 +6,7 @@
 
 ## Config
 
-{% embed url="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fasgard-rpc.liebi.com%2Fws\#/settings" %}
+{% embed url="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fasgard-rpc.liebi.com%2Fws\#/settings" caption="" %}
 
 ```text
 {
@@ -89,6 +89,5 @@
         "frozen":"Balance"
     }
 }
-
 ```
 
