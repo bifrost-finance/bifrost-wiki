@@ -31,7 +31,6 @@
   * [Substrate API Sidecar 用法](devops/misc.md)
 * [🗒️ 研究](research/README.md)
   * [Bancor 算法](research/bancor.md)
-  * [Balancer 算法](research/balancer.md)
   * [Zenlink 模块](research/zenlink.md)
 * [📢 公告](publicity/README.md)
   * [Token 分配情况](publicity/token.md)
