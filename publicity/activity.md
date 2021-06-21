@@ -68,3 +68,67 @@
 
 4.1 vETH DODO liquidity	[Bifrost 携手 DODO 共建 Staking 衍生资产流动性](https://www.chainnews.com/articles/248011701071.htm)
 
+4.6 MXC 社区	[关于 Kusama 插槽拍卖]	(https://www.chainnews.com/articles/656403902155.htm)
+
+4.13 Dapp & Asgard CC4	[Bifrost Dapp Beta 版与 Asgard CC4 测试网正式发布](https://www.chainnews.com/articles/301900930164.htm)
+
+4.14 Tokeninsight [TI 评级报告 | Bifrost：BB 展望正面](https://mp.weixin.qq.com/s/lDqIylrM2wMrh68GlnCDUw)
+
+4.15 先知实验室	[一文详解波卡生态发展现状及热门项目](https://www.chainnews.com/articles/777388986525.htm)
+
+4.15 PolkaPet NFT	[Bifrost 与 PolkaPet 达成合作，将在 BondSwap 发售 Bifrost PolkaPet NFT](https://www.chainnews.com/articles/457759520334.htm)
+
+4.19 Subquery	[Bifrost 与 SubQuery 达成合作，为 Dapp 提供链上数据索引支持](https://www.chainnews.com/articles/253063639113.htm)
+
+4.20 Patract	[Bifrost 加入 Patract 开放平台，将计划集成 Wasm 合约功能](https://www.chainnews.com/articles/607690407011.htm)
+
+4.21 SALP	[Bifrost 插槽流动性协议 SALP 解决方案](https://www.chainnews.com/articles/606465751266.htm)
+
+4.23 Statemint	[波卡平行链测试网 Rococo 已上线公益平行链 Statemint](https://www.chainnews.com/news/509723721763.htm)
+
+4.25 区块链研习社	[波卡平行链拍卖临近，如何兼顾收益与流动性？](https://www.chainnews.com/articles/466588940579.htm)
+
+4.26 Cointelegraph	[Bifrost SALP: Release crowdloan liquidity for participants](https://cointelegraph.com/press-releases/bifrost-salp-release-crowdloan-liquidity-for-participants)
+
+4.28 Bifrost 	[Bifrost 品牌全新升级，宇宙学元素带来全新体验]	(https://www.chainnews.com/articles/815084897777.htm)
+
+4.30 Adouble212	[海外 Telegram 社区直播](https://t.me/SPECTRE_GRP)
+
+5.10 DeFi Raccoons	[海外 Telegram 直播]	(https://t.me/DeFiRaccoons)
+
+5.19 CryptoTimes	[『Bifrost』の概要や特徴、AMAの内容をQ＆A形式で解説！【第二弾：Kusama PLO開催間近編】](https://crypto-times.jp/bifrost-ama-2)
+
+5.21 Boxming	[Crypto with Friends: Crypto transfers over 10K to be reported to IRS. Will crypto ever recover?](https://www.youtube.com/watch?v=2i0SS-Nc7uc&ab_channel=Boxmining)
+
+5.24 鹅度	[AMA 回顾 - 波卡 Staking 经济先行者	](https://www.chainnews.com/articles/936368349636.htm)
+
+5.26 BML	[疯狂动物城后的价值回归](https://mp.weixin.qq.com/s/5jFYjW0GdCN5iQT--82fSw)
+
+5.28 火星财经	[前奏响起！平行链插槽竞拍倒计时，波卡蓄势待发！](https://www.huoxing24.com/live/24311434)
+
+5.31 哔哔 News	[哔哔圆桌派- 平行链插槽拍卖在即，波卡这把火能烧多久？](https://m.bitalk.com/news/detail/493768547957346304)
+
+5.12 Bifrost	[Bifrost Kusama 卡槽竞拍预热，vsKSM Mint Drop 来袭](https://www.chainnews.com/articles/273814833929.htm)
+
+5.21 Polkadot Decoded	[Bifrost SALP Liquidity Protocol](https://www.chainnews.com/articles/646230231509.htm)
+
+5.20 TokenInsight	[全景式解读波卡生态应用进展：DeFi、隐私与跨链](https://www.chainnews.com/articles/916915406419.htm)
+
+5.21  OKEx	[解析 Kusama 上值得关注的平行链项目特点与竞拍策略](https://www.chainnews.com/projects/bifrost.htm?page=2)
+
+5.26 Bifrost	[WebAssembly 技术在 Bifrost 网络中的应用](https://www.chainnews.com/articles/828137344167.htm)
+
+5.27 链闻	[Kusama 平行链竞拍指南：基本概念、参与方式与热门项目](https://www.chainnews.com/articles/389742030554.htm)
+
+5.28 Bifrost	[Bifrost x Zenlink 产品深度整合，插槽拍卖首个流动性衍生品挖矿即将诞生](https://www.chainnews.com/articles/227161998515.htm)
+
+5.28 星球日报	[「DeFi 新范式 --暨 Bifrost Kusama 平行链竞拍发布会」即将开始](https://www.odaily.com/post/5168608)
+
+6.1 LBank	[Bifrost slot aution takes new utility to KSM](https://lbank-ama.medium.com/34e5d06053d3)
+
+6.2 CRYPTOVIET 	[CRYPTOVIET AMA](https://cryptoviet.com/ama-bifrost-va-cryptoviet)
+
+6.8 CryptoDiffer	[Bifrost x CryptoDiffer](https://mp.weixin.qq.com/s/z0c1-XzIQ1OwWNfkBQ9tqQ)
+6.2-6.4 波浪峰会	[波浪 2021 区块链影响力峰会 DeFi 日：DeFi 众生相]	(https://www.chainnews.com/articles/062302770540.htm)
+
+
