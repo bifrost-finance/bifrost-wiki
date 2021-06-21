@@ -8,6 +8,7 @@
 
 {% embed url="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fasgard-rpc.liebi.com%2Fws\#/settings" %}
 
+```text
 {
     "TokenSymbol":{
         "_enum":{
@@ -89,12 +90,5 @@
     }
 }
 
-
-
-
-
-
-
-
-
+```
 
