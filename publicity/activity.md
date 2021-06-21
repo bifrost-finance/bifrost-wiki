@@ -66,3 +66,5 @@
 
 3.15 Cointelegragh [A review of Bifrost’s 2nd mint drop, which locked-up over $27 million](https://cointelegraph.com/press-releases/a-review-of-bifrosts-2nd-mint-drop-which-locked-up-over-27-million)
 
+4.1 vETH DODO liquidity	[Bifrost 携手 DODO 共建 Staking 衍生资产流动性](https://www.chainnews.com/articles/248011701071.htm)
+
