@@ -133,7 +133,7 @@
 6.2-6.4 波浪峰会 [波浪 2021 区块链影响力峰会 DeFi 日：DeFi 众生相](https://www.chainnews.com/articles/062302770540.htm)
 
 
-##2020 Bifrost Highlight
+## 2020 Bifrost Highlight
 
 4.10 Bifrost	[Staking + DeFi 新玩法 如何兼顾流动性和高收益](https://www.chainnews.com/articles/397795837288.htm)
 
