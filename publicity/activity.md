@@ -96,7 +96,7 @@
 
 4.30 Adouble212	[海外 Telegram 社区直播](https://t.me/SPECTRE_GRP)
 
-5.10 DeFi Raccoons	[海外 Telegram 直播]	(https://t.me/DeFiRaccoons)
+5.10 DeFi Raccoons	[海外 Telegram 直播](https://t.me/DeFiRaccoons)
 
 5.19 CryptoTimes	[『Bifrost』の概要や特徴、AMAの内容をQ＆A形式で解説！【第二弾：Kusama PLO開催間近編】](https://crypto-times.jp/bifrost-ama-2)
 
