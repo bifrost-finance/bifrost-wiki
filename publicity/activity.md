@@ -151,7 +151,7 @@
 
 5.29 Hotbit	[波卡生态 Bifrost，POS 挖矿中的新开拓](https://www.chainnews.com/articles/078783936034.htm)
 
-6.7 一块Plus社区	[Bifrost 如何实现polkadot 跨链](https://www.bilibili.com/video/BV1C54y1v743?from=search&seid=8832373768650537968
+6.7 一块Plus社区	[Bifrost 如何实现polkadot 跨链](https://www.bilibili.com/video/BV1C54y1v743?from=search&seid=8832373768650537968)
 
 7.10 链团	[如何落实 Defi & Staking 双收益?](https://www.chainnews.com/articles/112163557872.htm)
 
