@@ -129,6 +129,7 @@
 6.2 CRYPTOVIET 	[CRYPTOVIET AMA](https://cryptoviet.com/ama-bifrost-va-cryptoviet)
 
 6.8 CryptoDiffer	[Bifrost x CryptoDiffer](https://mp.weixin.qq.com/s/z0c1-XzIQ1OwWNfkBQ9tqQ)
-6.2-6.4 波浪峰会	[波浪 2021 区块链影响力峰会 DeFi 日：DeFi 众生相]	(https://www.chainnews.com/articles/062302770540.htm)
+
+6.2-6.4 波浪峰会 [波浪 2021 区块链影响力峰会 DeFi 日：DeFi 众生相](https://www.chainnews.com/articles/062302770540.htm)
 
 
