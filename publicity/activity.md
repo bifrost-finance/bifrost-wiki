@@ -96,7 +96,7 @@
 
 4.30 Adouble212	[海外 Telegram 社区直播](https://t.me/SPECTRE_GRP)
 
-5.10 DeFi Raccoons	[海外 Telegram 直播]	(https://t.me/DeFiRaccoons)
+5.10 DeFi Raccoons	[海外 Telegram 直播](https://t.me/DeFiRaccoons)
 
 5.19 CryptoTimes	[『Bifrost』の概要や特徴、AMAの内容をQ＆A形式で解説！【第二弾：Kusama PLO開催間近編】](https://crypto-times.jp/bifrost-ama-2)
 
@@ -215,7 +215,7 @@
 
 10.26 区块链研习社	[一览波卡生态热门 DeFi 项目：Acala、Laminar 与 Stafi 等](https://www.chainnews.com/articles/49649212646.htm)
 
-11.13 币赢共识	[Polkadot 的进化之路，波卡能否掀起 DeFi 的下一轮热潮](https://m.jinse.com/news/blockchain/909265.htm)l?source=m)
+11.13 币赢共识	[Polkadot 的进化之路，波卡能否掀起 DeFi 的下一轮热潮](https://m.jinse.com/news/blockchain/909265.html?source=m)
 
 11.24 DefiGo	[ETH 2.0 存款合约突破最低门槛，Bifrost vETH 将为 ETH 流动性带来哪些惊喜?](https://www.chainnews.com/articles/660746815355.htm)
 
