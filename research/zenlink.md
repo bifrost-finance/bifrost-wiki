@@ -6,7 +6,7 @@
 
 ![](../.gitbook/assets/zenlink-protocol-v0.4.0.png)
 
-Zenlink Protocol mainly consists of two parts: assets and asset operations, namely Zenlink Assets and Zenlink Actions. Through the UAI\(unified asset identifier\) and MultiAssetsHandler interfaces, Zenlink can perform Swap and Transfer By XCM any asset on the chain.
+Zenlink 协议主要由资产和资产操作两部分组成，即 Zenlink Assets 和 Zenlink Actions。通过 UAI（统一资产标识符）和 MultiAssetsHandler 接口，Zenlink 可以对链上的任何资产进行兑换和 XCM转账。
 
 
 
