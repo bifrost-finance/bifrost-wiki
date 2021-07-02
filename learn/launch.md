@@ -14,7 +14,7 @@ In progress
 
 ## Kusama Parachain
 
-Not yet started
+Crowdloan in progress
 
 ## Polkadot Parachain
 
