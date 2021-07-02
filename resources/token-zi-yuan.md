@@ -12,7 +12,7 @@
 
 ### vETH
 
-![](../.gitbook/assets/image%20%286%29%20%281%29%20%282%29%20%282%29%20%285%29%20%282%29.png)
+![](../.gitbook/assets/image%20%286%29%20%281%29%20%282%29%20%282%29%20%285%29%20%282%29%20%282%29.png)
 
 [veth\_pack](https://raw.githubusercontent.com/bifrost-finance/design-assets/master/token_logo/veth/vETH_Pack.zip) 
 
