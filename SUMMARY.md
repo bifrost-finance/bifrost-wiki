@@ -2,6 +2,8 @@
 
 * [🎉 欢迎](README.md)
 * [🌈 概览](general/README.md)
+  * [目标与愿景](general/mu-biao-yu-yuan-jing.md)
+  * [立足于 Polkadot 生态](general/li-zu-yu-polkadot-sheng-tai.md)
   * [开始](general/start/README.md)
     * [Bifrost是什么?](general/start/what.md)
     * [Bifrost 是如何工作的?](general/start/how.md)
