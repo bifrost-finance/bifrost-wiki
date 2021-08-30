@@ -1,6 +1,6 @@
 # 🎉 欢迎
 
-## 🎉 欢迎
+## 📖 WIKI
 
 欢迎使用Bifrost Wiki！这是一份详细介绍如何与Bifrost进行交互的指南。
 
@@ -24,11 +24,11 @@ WiKi将分为六个主要部分：
 
 ## 📄 白皮书
 
-🇺🇸 [English](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-en.pdf)      🇨🇳 [中文](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-zh.pdf)
+🇺🇸 [English](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-en.pdf) 🇨🇳 [中文](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-zh.pdf)
 
 ## 🔗 相关链接
 
-🐙 [Github](https://github.com/bifrost-finance)      🕹 [DApp](https://apps.bifrost.finance/)      🎮 [Dashboard](https://dash.bifrost.finance/)
+🐙 [Github](https://github.com/bifrost-finance) 🕹 [DApp](https://apps.bifrost.finance/) 🎮 [Dashboard](https://dash.bifrost.finance/)
 
-🚰 [Faucet](https://t.me/bifrost_faucet)      🐦 [Twitter](https://twitter.com/bifrost_finance)    🍶 [Telegram](https://t.me/bifrost_finance)
+🚰 [Faucet](https://t.me/bifrost_faucet) 🐦 [Twitter](https://twitter.com/bifrost_finance) 🍶 [Telegram](https://t.me/bifrost_finance)
 
