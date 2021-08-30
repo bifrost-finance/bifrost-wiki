@@ -1,6 +1,6 @@
 # 🎉 欢迎
 
-## 📖 WIKI
+## 📖 WiKi
 
 欢迎使用Bifrost Wiki！这是一份详细介绍如何与Bifrost进行交互的指南。
 
