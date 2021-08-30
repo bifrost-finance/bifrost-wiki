@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🎉 欢迎](README.md)
-* [🌈 通识](general/README.md)
+* [🌈 概览](general/README.md)
   * [开始](general/start/README.md)
     * [Bifrost是什么?](general/start/what.md)
     * [Bifrost 是如何工作的?](general/start/how.md)
@@ -41,7 +41,7 @@
 * [🏛️ 治理](governance/README.md)
   * [委员会](governance/committee.md)
   * [社区投票](governance/vote.md)
-* [🎨 设计资源](resources/README.md)
+* [🎨 资源](resources/README.md)
   * [品牌资源](resources/pin-pai-zi-yuan-1.md)
   * [Token 资源](resources/token-zi-yuan.md)
 
