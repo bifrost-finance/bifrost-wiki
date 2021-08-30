@@ -2,7 +2,7 @@
 
 Welcome to the Bifrost Wiki! This central source of truth contains guides for interacting with the core functionality.
 
-Bifrost is a DeFi protocol that connect with Polkadot and different PoS blockchains to provide staking derivative though XCMP or Smart Contract. 
+Bifrost is a DeFi protocol that connect with Polkadot and different PoS blockchains to provide staking derivative though XCMP or Smart Contract.
 
 ![Bifrost Infographic](https://cdn.liebi.com/images/wikibifrost_infographic_en.png)
 
@@ -22,7 +22,7 @@ Governance\(for people who want to vote over Bifrost platform\)
 
 ## 📄 White Paper
 
-🇺🇸 [English](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-en.pdf)      🇨🇳 [中文](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-zh.pdf)
+🇺🇸 [English](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-en.pdf) 🇨🇳 [中文](https://github.com/bifrost-finance/bifrost-wiki/blob/master/bifrost-finance-whitepaper-zh.pdf)
 
 ## 📈 Rating Report
 
@@ -30,7 +30,7 @@ Governance\(for people who want to vote over Bifrost platform\)
 
 ## 🔗 Link
 
-🐙 [Github](https://github.com/bifrost-finance)      🕹 [DApp](https://apps.bifrost.finance/)      🎮 [Dashboard](https://dash.bifrost.finance/)
+🐙 [Github](https://github.com/bifrost-finance) 🕹 [DApp](https://apps.bifrost.finance/) 🎮 [Dashboard](https://dash.bifrost.finance/)
 
-🚰 [Faucet](https://t.me/bifrost_faucet)      🐦 [Twitter](https://twitter.com/bifrost_finance)    🍶 [Telegram](https://t.me/bifrost_finance)
+🚰 [Faucet](https://t.me/bifrost_faucet) 🐦 [Twitter](https://twitter.com/bifrost_finance) 🍶 [Telegram](https://t.me/bifrost_finance)
 
