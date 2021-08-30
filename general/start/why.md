@@ -1,4 +1,0 @@
-# 为什么需要Bifrost?
-
-Bifrost 项目是专门为了解决Staking问题而创立的，其使命和愿景是为尽可能多的链上质押资产（Staking、Collateral、PLO、跨链锁定...）提供流动性，并成为多链之间的连接器。项目首先以Staking场景为切入点，通过发行资产衍生品的形式提供流动性，经过持续迭代研发，未来将适配所有涉及链上质押资产的场景。Bifrost 项目已获得 Web3 Foundation Grant，是Substrate Builders Program 的一员，Web3 Bootcamp 孵化器的 15 个核心成员之一，获得了 Web3 基金会和万向区块链实验室在技术、产品、资本、法务、生态合作等领域全方位的支持。
-
