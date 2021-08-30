@@ -2,15 +2,19 @@
 
 ## 📖 WiKi
 
-欢迎使用Bifrost Wiki！这是一份详细介绍如何与Bifrost进行交互的指南。
+欢迎使用Bifrost Wiki！这是一份详细且全面介绍如何与 Bifrost 网络进行交互的参考指南。
 
-Bifrost是连接Polkadot和不同的PoS区块链的DeFi基础协议，以通过XCMP或智能合约提供Staking衍生品服务。
+Bifrost（彩虹桥）是波卡生态 DeFi 基础协议，致力成为质押资产提供流动性的基础设施，推出面向 Staking 和波卡平行链卡槽（Crowdloan）的衍生品vToken。目前已获得 NGC、SNZ、DFG、CMS 等机构数百万美金融资和 Web3 基金会 Grant，同时也是 Substrate Builders Program、Web3 Bootcamp 成员。
+
+vToken 可在 DeFi、DApp、DEX、CEX 等多场景下优化 Trading，通过 vToken 实现 Staking、Crowdloan 等质押权益的转让通道，实现质押资产风险对冲，扩充场景如 vToken 作为抵押物进行借贷时，其 Staking 收益可抵销部分利息，实现低息借贷。
+
+Bifrost作为 Polkadot/Kusama 网络的平行链,不仅能从中继链中获得共享安全性，还能同时与其他平行链进行高效的交互，并通过Polkadot生态的去中心化桥系统，通过XCMP跨链方式，为其他PoS公链的质押资产提供流动性。
 
 ![Bifrost&#x751F;&#x6001;&#x5B9A;&#x4F4D;&#x56FE;](https://cdn.liebi.com/images/wikibifrost_infographic_cn.png)
 
 WiKi将分为六个主要部分：
 
-通识，对Bifrost项目进行简介的内容，针对所有对Bifrost项目感兴趣的个人与组织；
+概览，对Bifrost项目进行简介的内容，针对所有对Bifrost项目感兴趣的个人与组织；
 
 学习，针对Bifrost初学者，介绍一些基础知识；
 
