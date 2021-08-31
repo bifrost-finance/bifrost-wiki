@@ -9,7 +9,7 @@
   * [参与者角色](learn/participant.md)
   * [系统代币 \(BNC\)](learn/bnc.md)
   * [创建 BNC 账户](learn/create.md)
-  * [vToken 简介](learn/vtoken/README.md)
+  * [vToken](learn/vtoken/README.md)
     * [Staking 衍生品](learn/vtoken/slp.md)
     * [Slot Auction 衍生品](learn/vtoken/salp.md)
   * [风险控制](learn/risk.md)
