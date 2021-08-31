@@ -1,4 +1,4 @@
-# Substrate API Sidecar 用法
+# Substrate API Sidecar
 
 #### Bifrost Node Setup
 

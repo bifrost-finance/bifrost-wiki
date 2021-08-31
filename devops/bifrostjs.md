@@ -1,4 +1,4 @@
-# BifrostJS 用法
+# BifrostJS
 
 
 
