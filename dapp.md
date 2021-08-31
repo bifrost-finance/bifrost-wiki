@@ -1,4 +1,4 @@
-# 📈 DApp
+# 📈 DApps
 
 Coming Soon...
 

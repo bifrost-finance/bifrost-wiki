@@ -17,7 +17,7 @@
 * [🕸️ 网络](wang-luo/README.md)
   * [系统上线各大阶段](wang-luo/launch.md)
 * [🔐 质押](zhi-ya.md)
-* [📈 DApp](dapp.md)
+* [📈 DApps](dapp.md)
 * [🧑‍💻 集成](devops/README.md)
   * [应用接口](devops/launch-1.md)
   * [开发环境](devops/environment.md)
