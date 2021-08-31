@@ -16,6 +16,7 @@
 * [🖥️ 节点](jie-dian.md)
 * [🕸️ 网络](wang-luo/README.md)
   * [系统上线各大阶段](wang-luo/launch.md)
+* [🔐 质押](zhi-ya.md)
 * [📈 DApp](dapp.md)
 * [🧑‍💻 集成](devops/README.md)
   * [应用接口](devops/launch-1.md)
