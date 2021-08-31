@@ -6,7 +6,7 @@
   * [立足于 Polkadot 生态](general/li-zu-yu-polkadot-sheng-tai.md)
   * [发展路线](general/roadmap.md)
 * [🎓 开始](learn/README.md)
-  * [参与者与系统角色](learn/participant.md)
+  * [参与者角色](learn/participant.md)
   * [系统代币 \(BNC\)](learn/bnc.md)
   * [创建 BNC 账户](learn/create.md)
   * [vToken 简介](learn/vtoken/README.md)
