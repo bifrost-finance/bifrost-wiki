@@ -4,7 +4,6 @@
 * [🌈 Overview](general/README.md)
   * [What is Bifrost?](general/what.md)
   * [Roadmap & Milestone](general/roadmap.md)
-  * [FAQ](general/faq.md)
 * [📖 Getting Started](start/README.md)
   * [Roles of Participants](start/participant.md)
   * [Bifrost Native Coin \(BNC\)](start/bnc.md)
