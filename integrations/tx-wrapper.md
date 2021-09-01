@@ -5,7 +5,7 @@ description: >-
   convenience. See the examples for a guide.
 ---
 
-# Tx Wrapper
+# TxWrapper
 
 ### Understanding Transaction Format
 
