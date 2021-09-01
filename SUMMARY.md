@@ -12,6 +12,7 @@
   * [Why should you use Bifrost?](start/use.md)
 * [🖥️ Collator](node.md)
 * [🕸️ Network](network/README.md)
+  * [Untitled](network/untitled.md)
   * [Launch](network/launch.md)
 * [🔐 Staking](staking.md)
 * [📈 DApps](dapps.md)
