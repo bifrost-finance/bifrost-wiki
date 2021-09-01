@@ -8,7 +8,6 @@
   * [Roles of Participants](start/participant.md)
   * [Bifrost Native Coin \(BNC\)](start/bnc.md)
   * [Create BNC Account](start/create.md)
-  * [How does Bifrost work?](start/how.md)
   * [vToken](start/vtoken/README.md)
     * [Staking Derivative](start/vtoken/slp.md)
     * [Slot Auction Derivative](start/vtoken/salp.md)
