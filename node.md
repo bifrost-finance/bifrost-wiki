@@ -1,4 +1,4 @@
-# 🖥️ Node
+# 🖥️ Collator
 
 Coming Soon...
 

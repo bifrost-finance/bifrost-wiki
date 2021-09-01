@@ -10,7 +10,7 @@
   * [How does Bifrost work?](start/how.md)
   * [Why Bifrost?](start/why.md)
   * [Why should you use Bifrost?](start/use.md)
-* [🖥️ Node](node.md)
+* [🖥️ Collator](node.md)
 * [🕸️ Network](network/README.md)
   * [Launch](network/launch.md)
 * [🔐 Staking](staking.md)
