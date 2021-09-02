@@ -3,6 +3,7 @@
 * [🎉 Welcome](README.md)
 * [🌈 Overview](general/README.md)
   * [Vision](general/what.md)
+  * [Grow in Polkadot Environment](general/grow-in-polkadot-environment.md)
   * [Roadmap & Milestone](general/roadmap.md)
 * [📖 Getting Started](start/README.md)
   * [Roles of Participants](start/participant.md)
