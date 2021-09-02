@@ -8,13 +8,9 @@ Completed
 
 Completed
 
-## PoA mainnet
-
-In progress
-
 ## Kusama Parachain
 
-Crowdloan in progress
+Completed
 
 ## Polkadot Parachain
 
