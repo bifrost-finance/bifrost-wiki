@@ -2,7 +2,7 @@
 
 * [🎉 Welcome](README.md)
 * [🌈 Overview](general/README.md)
-  * [What is Bifrost?](general/what.md)
+  * [Vision](general/what.md)
   * [Roadmap & Milestone](general/roadmap.md)
 * [📖 Getting Started](start/README.md)
   * [Roles of Participants](start/participant.md)

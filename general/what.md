@@ -1,4 +1,4 @@
-# What is Bifrost?
+# Vision
 
 Bifrost is a cross-chain network which provides liquidity to bonding assets.
 
