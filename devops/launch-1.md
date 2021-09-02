@@ -16,7 +16,7 @@ Testnet\(Asgard\): api-test.bifrost.finance / api-test.vtoken.io
 
 ### 资产 API 接口
 
-api.query.system.account(AccountId)
+BNC: api.query.system.account(AccountId)
 
 vsKSM: api.query.tokens.accounts('address', {VSToken:"KSM"})
 
