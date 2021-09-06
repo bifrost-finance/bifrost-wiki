@@ -1,4 +1,4 @@
-# 💵 Treasury
+# Treasury
 
 Coming Soon...
 
