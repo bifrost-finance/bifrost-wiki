@@ -1,6 +1,6 @@
 # Bifrost Native Coin \(BNC\)
 
-Bifrost Native Coin \(BNC\) is the main net Token of Bifrost, the initial total supply is 80000000. Currently, in the Bifrost test network, BNC vouchers that can be exchanged 1:1 in the main network can be received for earlier stages of community distribution. At present, BNC is not available for transfer function, until the time that will be divided into four steps: completion of PoA startup, launching of the main network, deletion of Sudo and transfer proposal approved.
+Bifrost Native Coin \(BNC\) is the main net Token of Bifrost, the initial total supply is 80000000. The goal of BNC distribution is to make the Bifrost network more decentralized, build the market size of staking derivatives vToken, and incentivize the liquidity market of staking derivatives vToken. Every aspect of BNC distribution is critical to the healthy development of the Bifrost Agreement and its ecosystem.
 
 ## Value Capture
 
@@ -11,8 +11,14 @@ Bifrost Native Coin \(BNC\) is the main net Token of Bifrost, the initial total 
 
 ## Incentive Model
 
-Reserved part and funds may be adjustable with the development of Bifrost, but Bifrost will not make a zero-cost airdrop and any incentive will satisfy the principle of fundamental value capture.
+Reserved part and funds may be adjustable with the development of Bifrost, but Bifrost will not make a zero-cost airdrop and any incentive will satisfy the principle of fundamental value capture.  50% of the tokens are reserved as incentives for the entire ecosystem to ensure that the Bifrost network can be implemented and can continue to operate in a healthy manner. Including vToken minting \(incentive\), PLO slot auctions, Collator incentive, Slash insurance.
 
 * **vToken Minting Incentive:** vToken liquidity is the most significant value that Bifrost can offer, 22.5% of the TOTAL BNC being used to reward users who mint vToken.
 * **PLO \(Parachain Lease Offering\):** Successful IPO symbolizes measureless value to Bifrost network. Bifrost will release 17.5% Token in total to reward the group that helps Bifrost to participate in the IPO.
+
+## Distribution and Unlocking
+
+In order to ensure the development of Bifrost's function, launch and ecosystem development, different parts of the BNC allocation will have different proportions of lock-up time, and the allocation for the BNC team will also be linearly unlocked 180 days \(half a year\) after Day0 \(circulation day\), and continue Unlocked in two years.
+
+![](../.gitbook/assets/bnc-fen-pei-bi-li-20210612.png)
 
