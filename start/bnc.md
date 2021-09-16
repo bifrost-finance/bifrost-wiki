@@ -14,7 +14,7 @@ Bifrost Native Coin \(BNC\) is the main net Token of Bifrost, the initial total 
 Reserved part and funds may be adjustable with the development of Bifrost, but Bifrost will not make a zero-cost airdrop and any incentive will satisfy the principle of fundamental value capture.  50% of the tokens are reserved as incentives for the entire ecosystem to ensure that the Bifrost network can be implemented and can continue to operate in a healthy manner. Including vToken minting \(incentive\), PLO slot auctions, Collator incentive, Slash insurance.
 
 * **vToken Minting Incentive:** vToken liquidity is the most significant value that Bifrost can offer, 22.5% of the TOTAL BNC being used to reward users who mint vToken.
-* **PLO \(Parachain Lease Offering\):** Successful IPO symbolizes measureless value to Bifrost network. Bifrost will release 17.5% Token in total to reward the group that helps Bifrost to participate in the IPO.
+* **PLO \(Parachain Lease Offering\):** Successful PLO symbolizes measureless value to Bifrost network. Bifrost will release 17.5% Token in total to reward the group that helps Bifrost to participate in the PLO.
 
 ## Distribution and Unlocking
 
