@@ -1,17 +1,45 @@
 # 开发环境
 
-在MacOS或Linux等基于Unix的操作系统上，Bifrost开发最容易。本指南使用rustup来帮助管理Rust工具链。首先安装和配置rustup：
+在 MacOS、Linux 等 Unix 操作系统上开发 Bifrost，使用 rustup 管理 rust 工具链。
 
-## 安装
+## 安装 rustup
 
-curl [https://sh.rustup.rs](https://sh.rustup.rs) -sSf \| sh
+```text
+curl https://sh.rustup.rs -sSf | sh
+```
 
-## 配置
+## 配置 rustup
 
+```text
 source ~/.cargo/env
+```
 
-Configure the Rust toolchain to default to the latest stable version  
-rustup default stable  
-rustup default 1.49.0  
-rustup toolchain install nightly-2020-09-08
+## 配置 rust-toolchain
+
+目前采取 rustc 1.55.0-nightly 进行代码编译。
+
+```text
+rustup install nightly-2021-06-16
+rustup default nightly-2021-06-16
+rustup override set nightly-2021-06-16
+rustup target add wasm32-unknown-unknown
+```
+
+
+
+## 检验开发环境
+
+```text
+mkdir workspace
+cd workspace
+git clone https://github.com/bifrost-finance/bifrost.git 
+cd bifrost
+git checkout bifrost-v0.9.0 
+rustup show
+make run-dev
+```
+
+
+
+
 
