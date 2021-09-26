@@ -4,7 +4,7 @@
 
 
 
-git clone https://github.com/paritytech/polkadot.git
+git clone [https://github.com/paritytech/polkadot.git](https://github.com/paritytech/polkadot.git)
 
 cd polkadot
 
@@ -16,13 +16,13 @@ cargo build --release -p test-parachain-adder-collator
 
 ## Compile Cumulus  Parachain
 
-git clone [https://github.com/paritytech/cumulus.git](https://github.com/paritytech/cumulus.git) 
+git clone [https://github.com/paritytech/cumulus.git](https://github.com/paritytech/cumulus.git)
 
 cargo build --release
 
 ## Compile Bifrost Parachain
 
-git clone https://github.com/bifrost-finance/bifrost.git
+git clone [https://github.com/bifrost-finance/bifrost.git](https://github.com/bifrost-finance/bifrost.git)
 
 cd bifrost
 
@@ -56,7 +56,7 @@ yarn start config.json
 
 nmp is another option，but version might be old:
 
- [https://www.npmjs.com/package/polkadot-launch](https://www.npmjs.com/package/polkadot-launch) 
+{% embed url="https://www.npmjs.com/package/polkadot-launch" %}
 
 npm i polkadot-launch -g 
 
