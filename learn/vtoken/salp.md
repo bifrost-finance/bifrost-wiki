@@ -21,8 +21,10 @@ Polkadot采取了中继链与平行链协同工作的设计方案。多个平行
 ![](../../.gitbook/assets/salp-users.png)
 
 ### vsBond
-
-vsBond代表具体的平行链及其成功竞拍到的Slot。所以vsBond在命名时（vsBond-ID），会加上平行链ID与Slot租约到期日，比如：vsBond-Bifrost-2022-06-01，vsBond-ID1与vsBond-ID2是不同的数字资产。平行链可与Bifrost进行交互，查询获取 vsBond铸造者/持有者的信息，vsBond也可通过XCMP转移到对应的平行链上，由平行链自行决定采取什么样的策略与算法发放奖励给vsBond铸造者/持有者。vsBond作为权益凭证（或将vsBond看成是蕴含了投资奖励的特殊商品），并不需要高流动性交易，可通过一口价形式挂单出售，因此Bifrost系统设计有挂单售卖vsBond的机制，类似于电商平台中的C2C商品买卖市场，无需通过Uniswap/Balancer这类AMM/DEX提供交易流动性。vsBond的另一个作用是与vsToken（vsDOT/vsKSM）再结合，可以1:1的价格赎回Token（KSM/DOT） 。
+vsBond 代表具体的平行链及其竞拍成功的 Lease Period 。所以 vsBond 的全名为：vsBond + 平行链名称 + Slot 租约到期日，比如：vsBond-Bifrost-2022-06-01。
+vsBond 拥有两个主要属性：
+1.平行链竞拍成功奖励：在 Bifrost 链上铸造出 vsBond 的地址 （而非交易获得），将被 SALP 记入 Contributor 名单，名单中所有地址将在平行链竞拍成功后获得由项目方发放的众贷奖励。
+2.与 vsToken 结合可在平行链租期到期后进行 1:1 赎回。因此，vsBond 作为权益凭证，并不需要高流动性交易，可通过一口价形式挂单出售，因此 Bifrost 系统设计有挂单售卖vsBond 的机制，类似于 NFT 买卖市场，无需创建流动性池。
 
 ### vs**Token**
 
