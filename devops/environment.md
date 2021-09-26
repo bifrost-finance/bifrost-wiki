@@ -22,3 +22,15 @@ rustup override set nightly-2021-06-16
 
 rustup target add wasm32-unknown-unknown
 
+## 检验开发环境
+
+git clone [https://github.com/bifrost-finance/bifrost.git](https://github.com/bifrost-finance/bifrost.git) 
+
+git checkout bifrost-v0.9.0 
+
+cargo build 
+
+cargo run -- --dev
+
+
+
