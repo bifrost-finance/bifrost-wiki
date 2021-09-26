@@ -24,7 +24,13 @@ rustup target add wasm32-unknown-unknown
 
 ## 检验开发环境
 
+mkdir workspace
+
+cd workspace
+
 git clone [https://github.com/bifrost-finance/bifrost.git](https://github.com/bifrost-finance/bifrost.git) 
+
+cd bifrost
 
 git checkout bifrost-v0.9.0 
 
