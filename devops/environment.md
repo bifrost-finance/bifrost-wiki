@@ -25,9 +25,7 @@ rustup override set nightly-2021-06-16
 rustup target add wasm32-unknown-unknown
 ```
 
-
-
-## 检验开发环境
+## 检验开发环境
 
 ```text
 mkdir workspace
