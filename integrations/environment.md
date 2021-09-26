@@ -22,7 +22,7 @@ rustup override set nightly-2021-06-16
 
 rustup target add wasm32-unknown-unknown
 
-## Verify and Check Develop Environment
+## Check Develop Environment
 
 mkdir workspace
 
