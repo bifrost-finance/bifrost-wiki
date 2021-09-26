@@ -1,4 +1,4 @@
-# Slot Auction 衍生品
+# SALP 与 Slot Auction 衍生品
 
 ## PLO 概述
 

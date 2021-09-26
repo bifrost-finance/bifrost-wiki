@@ -1,4 +1,4 @@
-# Staking 衍生品
+# SLP 与 Staking 衍生品
 
 ## Staking 衍生品 <a id="staking-&#x884D;&#x751F;&#x54C1;"></a>
 
