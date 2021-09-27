@@ -13,7 +13,6 @@
     * [SLP 与 Staking 衍生品](learn/vtoken/slp.md)
     * [SALP 与 Slot Auction 衍生品](learn/vtoken/salp.md)
   * [风险控制](learn/risk.md)
-* [🖥️ 节点](jie-dian.md)
 * [🕸️ 网络](wang-luo/README.md)
   * [系统上线各大阶段](wang-luo/launch.md)
   * [Asgard 测试网](wang-luo/asgard.md)
