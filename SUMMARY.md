@@ -18,7 +18,7 @@
   * [Launch Phases](network/launch-1.md)
   * [Asgard](network/asgard.md)
 * [🔐 Staking](staking.md)
-* [📈 DApps](dapps.md)
+* [📈 Ecosystem](dapps.md)
 * [🧑‍💻 Integrations](integrations/README.md)
   * [Environment](integrations/environment.md)
   * [Build](integrations/build.md)
