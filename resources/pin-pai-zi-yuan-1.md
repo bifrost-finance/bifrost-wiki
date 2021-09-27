@@ -10,17 +10,17 @@
 
 Bifrost 的 Logo 由图形和文字两部分组成，图形部分蕴意彩虹桥的抽象意向，文字部分为 Bifrost 的标准字母字体
 
-![](../.gitbook/assets/brand-assets-01%20%282%29.png)
+![](../.gitbook/assets/brand-assets-01%20%282%29%20%281%29.png)
 
 **组合**
 
-![](../.gitbook/assets/brand-assets-02%20%281%29%20%282%29.png)
+![](../.gitbook/assets/brand-assets-02%20%281%29%20%282%29%20%282%29.png)
 
 **安全区**
 
 在 Logo 的使用过程中要时刻保证安全区内没有其他元素的干扰
 
-![](../.gitbook/assets/brand-assets-03%20%281%29.png)
+![](../.gitbook/assets/brand-assets-03%20%281%29%20%282%29.png)
 
 **应用场景**
 
@@ -28,7 +28,7 @@ Bifrost 的 Logo 由图形和文字两部分组成，图形部分蕴意彩虹桥
 
 在白色/浅色背景下，优先使用「彩色图形-黑字」Logo，也可使用纯黑 Logo。在黑色/深色背景下，优先使用「彩色图形-白字」Logo，也可使用纯白 Logo
 
-![](../.gitbook/assets/brand-assets-04%20%282%29%20%281%29.png)
+![](../.gitbook/assets/brand-assets-04%20%282%29%20%281%29%20%281%29.png)
 
 **关于图形的选择**
 
