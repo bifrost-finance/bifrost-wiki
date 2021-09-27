@@ -1,22 +1,22 @@
 # Roles of Participants
 
-## Validator
+## Validator:
 
 > Validator randomly assigned through parallel threads or parallel chain card slots. This role is the Validator in the Polkadot or Kusama network. It will execute the Bifrost business code and verify the final state of the block.
 
-## Collator
+## Collator:
 
 > Responsible for collecting user call data and transmitting query information. Collator will generate blocks and submit them to the Validator for final verification.
 
-## Bidder
+## Bidder:
 
 > Voting bidders are elected through a referendum on the proposal. The account passed by the election becomes Bidder, which can bind the address of the node that needs to be voted, and has the right to bid to obtain votes in the Bifrost voting pool, such as the Slash level or number of times the role occurs If the upper limit is triggered, Bidder permissions will be cancelled.
 
-## Asker
+## Asker:
 
 > vToken exchange or holder, who is the auctioneer of the agreement entrusted voting rights.
 
-## Council
+## Council:
 
 > The council is mainly required to perform three governance tasks: propose a referendum, cancel an uncontroversial, dangerous or malicious referendum, and elect a technical committee.
 
