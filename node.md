@@ -1,4 +1,0 @@
-# 🖥️ Collator
-
-Coming Soon...
-

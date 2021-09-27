@@ -13,7 +13,6 @@
     * [SLP and Staking Derivative](start/vtoken/slp.md)
     * [SALP and Slot Auction Derivative](start/vtoken/salp.md)
   * [Risk Control](start/risk.md)
-* [🖥️ Collator](node.md)
 * [🕸️ Network](network/README.md)
   * [Launch Phases](network/launch-1.md)
   * [Asgard](network/asgard.md)
