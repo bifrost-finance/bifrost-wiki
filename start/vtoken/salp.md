@@ -1,4 +1,4 @@
-# Slot Auction Derivative
+# SALP and Slot Auction Derivative
 
 ## Description
 
@@ -14,7 +14,7 @@ Bifrost hopes to distinguish between a Token’s utility value and its equity in
 
 **UI:Participate in the Crowdloan page in Bifrost**
 
-![](../../.gitbook/assets/salp-ui.png)
+![](../../.gitbook/assets/z1.png)
 
 Through SALP, it may benefit the following three roles in Polkadot ecosystem: User: Derivatives enhance the user's control over opportunity costs, while the vsToken/vsBond helps contributors to determine the utility and equity of derivatives. Moreover, the high liquidity from integrating all parachain contributions may reduce the high discount costs by a separated single-parachain derivative pool. Parachain projects: Projects that support the Bifrost SALP will have the advantage of attracting contribution, and will be more competitive in the parachain auction. In addition, the fierce competitive environment will promote the accelerated innovation of parachain projects. Polkadot ecosystem: According to the concept of "flexible lock-up" of liquidity derivatives, more contributors willing to participate in Crowdloan through centralized services will be attracted to on-chain, weakening the controlling ratio of DOT/KSM by centralized institutions, makes parachain auction more decentralized. In addition, a high-locked asset ratio can promote the security of PoS chain, and derivatives will eliminate the negative effect of low circulating.
 
@@ -36,17 +36,15 @@ Investor users participating in crowdloan through Bifrost will separate and deco
 
 vsBond represents the specific parachain and its successful Lease Period. Therefore, the full name of vsBond is: vsBond+Parachain Project Name+Retirement Date, for example: vsBond-Bifrost-2022-06-01.
 
-vsBond has two main attributes: 
-1. Contributing Reward: The addresses that minted vsBond on Bifrost parachain (not obtained through a transaction) will be included in the Contributor list by SALP and will receive Crowdloan rewards from the parachain project. 
-2. Combined with vsToken, vsToken can be redeemed 1:1 after slots retirement. Therefore, as an equity certificate, vsBond does not require high-liquidity transactions and can be sold through a buy-in-price form of pending orders in Bifrost vsBond market, without creating liquidity pools.
+vsBond has two main attributes: 1. Contributing Reward: The addresses that minted vsBond on Bifrost parachain \(not obtained through a transaction\) will be included in the Contributor list by SALP and will receive Crowdloan rewards from the parachain project. 2. Combined with vsToken, vsToken can be redeemed 1:1 after slots retirement. Therefore, as an equity certificate, vsBond does not require high-liquidity transactions and can be sold through a buy-in-price form of pending orders in Bifrost vsBond market, without creating liquidity pools.
 
 **UI:vsBond+vsToken 1:1 redemption interface**
 
-![](../../.gitbook/assets/plo-ui2.png)
+![](../../.gitbook/assets/z2.png)
 
 **UI:vsBond market**
 
-![](../../.gitbook/assets/plo-ui3.png)
+![](../../.gitbook/assets/z3.png)
 
 ### vsToken: a fungible token that releases contribution liquidity
 
