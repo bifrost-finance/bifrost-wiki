@@ -6,6 +6,8 @@
 
 {% embed url="https://dash.bifrost.finance" caption="Bifrost Dashboard" %}
 
+
+
 {% embed url="https://bifrost.subscan.io/" caption="Bifrost Subscan" %}
 
 {% embed url="https://forum.bifrost.finance/" caption="Bifrost Forum" %}
