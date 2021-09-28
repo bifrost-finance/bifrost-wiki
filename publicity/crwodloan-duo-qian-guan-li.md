@@ -1,6 +1,6 @@
 # Crwodloan 多签管理
 
-Bifrost 正在准备开启 Kusama 插槽竞拍，竞拍成功后，将正式启动平行链网络，同时 Bifrost 将推出 Kusama 插槽竞拍衍生品 vsKSM，用户则可以通过 Bifrost Kusama 插槽竞拍 Dapp \([https://ksm.vtoken.io\)进行铸造](https://ksm.vtoken.io%29进行铸造) vsKSM 和 vsBOND 以帮助 Bifrost 完成平行链竞拍。
+Bifrost 正在准备开启 Kusama 插槽竞拍，竞拍成功后，将正式启动平行链网络，同时 Bifrost 将推出 Kusama 插槽竞拍衍生品 vsKSM，用户则可以通过 Bifrost Kusama 插槽竞拍 Dapp \([https://ksm.vtoken.io](https://ksm.vtoken.io)\)进行铸造 vsKSM 和 vsBOND 以帮助 Bifrost 完成平行链竞拍。
 
 ## SALP 分两个阶段上线
 
