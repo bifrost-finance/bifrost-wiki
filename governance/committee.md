@@ -1,4 +1,4 @@
-# Committee
+# Voting Details
 
 Coming soon...
 

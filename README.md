@@ -6,19 +6,21 @@ Bifrost is a DeFi protocol that connect with Polkadot and different PoS blockcha
 
 ![Bifrost Infographic](https://cdn.liebi.com/images/wikibifrost_infographic_en.png)
 
-You will learn Bifrost from general concepts to meticulous details from six main sections:
+WiKi is divided into the following main parts: 
 
-General \(for people who want to know simple introduction of bifrost\)
+Overview, the content of the introduction to the Bifrost project, aimed at all individuals and organizations interested in the Bifrost project; 
 
-Learn \(for learners\)
+Getting Started, introduce some basic knowledge for Bifrost beginners; 
 
-DevOps \(for individuals/developers that want to build on Bifrost\)
+Integration, about development, deployment, operation and maintenance, system integration, system API, Bifrost code and processes, etc., mainly for engineering and technical personnel who want to develop based on Bifrost; 
 
-Research \(for individuals who want to learn some math and rationales\)
+Learn, academic research, mathematical formulas, design principles and other aspects of Bifrost system architecture, design, operation, etc., mainly written for researchers; 
 
-Publicity \(for people who want to know info & news about the Bifrost Project\)
+Publicity, public information about Bifrost project information, news, events, operations, etc.; 
 
-Governance\(for people who want to vote over Bifrost platform\)
+Governance, for the Bifrost community, mainly includes on-chain governance, community voting and other content. 
+
+Resources, to provide everyone with Logo image resources, which is convenient for partners to write articles, design posters, etc.
 
 ## 📄 White Paper
 
