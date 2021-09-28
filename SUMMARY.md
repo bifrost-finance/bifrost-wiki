@@ -36,6 +36,7 @@
   * [活动](publicity/activity.md)
   * [贡献者](publicity/contribute.md)
   * [Substrate 构建者计划](publicity/sbp.md)
+  * [Crwodloan 多签管理](publicity/crwodloan-duo-qian-guan-li.md)
 * [🏛️ 治理](governance/README.md)
   * [财库](governance/cai-ku.md)
   * [委员会](governance/committee.md)
