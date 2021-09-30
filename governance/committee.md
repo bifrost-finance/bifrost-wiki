@@ -1,6 +1,6 @@
 # Voting Details
 
-Example 1: Zenlink-Asgard Governance
+## Example 1: Zenlink-Asgard Governance
 
 Step1: Create and Submit Preimage
 
