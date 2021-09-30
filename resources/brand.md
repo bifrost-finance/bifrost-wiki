@@ -14,13 +14,13 @@ Bifrost’s logo is composed of graphics and text. The graphic part implies the 
 
 ### Logos
 
-![](../.gitbook/assets/brand-assets-02%20%281%29.png)
+![](../.gitbook/assets/brand-assets-02%20%281%29%20%282%29%20%282%29.png)
 
 ### Safety area
 
 During the use of the Logo, always ensure that there is no interference from other elements in the safety area
 
-![](../.gitbook/assets/brand-assets-03%20%281%29.png)
+![](../.gitbook/assets/brand-assets-03%20%281%29%20%282%29%20%282%29%20%281%29.png)
 
 ### Scenes
 
