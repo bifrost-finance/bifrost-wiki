@@ -40,7 +40,7 @@ VotingPeriod (7 \* DAYS): How often will a referendum be held.
 
 FastTrackVotingPeriod (3 \* HOURS): The shortest voting period for an emergency referendum that requires quick follow-up.
 
-MinimumDeposit (100 \* DOLLARS): The minimum amount of pledge deposit for the referendum proposal.
+MinimumDeposit (100 \* BNCS): The minimum amount of pledge deposit for the referendum proposal.
 
 EnactmentPeriod (2 \* DAYS): The minimum period for locking up funds, and the time between approval and promulgation of the bill.
 
