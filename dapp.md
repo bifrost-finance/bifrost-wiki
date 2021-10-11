@@ -17,7 +17,7 @@ Bifrost Forum
 {% endembed %}
 
 {% embed url="https://slotvault.zenlink.pro/#/auctions" %}
-Bifrost Forum
+Zenlink Slotvault
 {% endembed %}
 
 {% embed url="https://pool.liebi.com/eth" %}
