@@ -44,7 +44,7 @@ Treasury
 
 * RejectOrigin 
 
-membership
+Membership
 
 * AddOrigin 
 * PrimeOrigin 
