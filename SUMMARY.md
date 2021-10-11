@@ -39,7 +39,7 @@
   * [Crwodloan 多签管理](publicity/crwodloan-duo-qian-guan-li.md)
 * [🏛 治理](governance/README.md)
   * [链上治理方案](governance/cai-ku.md)
-  * [投票与治理细则](governance/committee.md)
+  * [投票治理示例](governance/committee.md)
 * [🎨 资源](resources/README.md)
   * [品牌资源](resources/pin-pai-zi-yuan-1.md)
   * [Token 资源](resources/token-zi-yuan.md)
