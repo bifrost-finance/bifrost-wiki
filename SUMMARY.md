@@ -42,7 +42,7 @@
   * [Crowdloan Multi-signer](publicity/crowdloan-multi-signer.md)
 * [🏛 Governance](governance/README.md)
   * [On-chain Governance](governance/treasury.md)
-  * [Voting Details](governance/committee.md)
+  * [Voting Examples](governance/committee.md)
 * [🎨 Resources](resources/README.md)
   * [Brand](resources/brand.md)
   * [Token](resources/token.md)
