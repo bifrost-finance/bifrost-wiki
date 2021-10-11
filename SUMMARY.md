@@ -22,6 +22,7 @@
   * [开发环境](devops/environment.md)
   * [构建流程](devops/build.md)
   * [应用接口](devops/launch-1.md)
+  * [SALP-API](devops/salp-api.md)
   * [BifrostJS](devops/bifrostjs.md)
   * [TxWrapper](devops/tx-wrapper.md)
   * [Substrate API Sidecar](devops/misc.md)
