@@ -2,8 +2,6 @@
 
 {% embed url="https://bifrost.app/" caption="Bifrost DApp" %}
 
-{% embed url="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fbifrost-parachain.api.onfinality.io%2Fpublic-ws\#/explorer" caption="Bifrost Explorer" %}
-
 {% embed url="https://dash.bifrost.finance" caption="Bifrost Dashboard" %}
 
 {% embed url="https://bifrost.subscan.io/" caption="Bifrost Subscan" %}
