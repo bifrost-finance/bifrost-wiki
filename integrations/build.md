@@ -1,8 +1,9 @@
 # Build
 
-## Complie Relaychain
+Complie Relaychain
 
-```text
+
+```
 git clone https://github.com/paritytech/polkadot.git
 cd polkadot
 git checkout v0.9.9-1
@@ -12,14 +13,15 @@ cargo build --release -p test-parachain-adder-collator
 
 ## Compile Cumulus  Parachain
 
-```text
+```
 git clone https://github.com/paritytech/cumulus.git 
 cargo build --release
 ```
 
-## Compile Bifrost Parachain
+Compile Bifrost Parachain
 
-```text
+
+```
 git clone https://github.com/bifrost-finance/bifrost.git
 cd bifrost
 git checkout bifrost-v0.9.0
@@ -32,7 +34,7 @@ The version of Bifrost on Kusama is  bifrost-v0.9.0：
 
 ## Use  Polkadot-Launch  to Deploy
 
-```text
+```
 git clone https://github.com/paritytech/polkadot-launch.git 
 cd polkadot-launch 
 mkdir bin 
@@ -46,7 +48,7 @@ yarn start config.json  ## cumulus parachain
 
 If  Cumulus Parachain succesfully completed，kill related process and to deploy Bifrost Parachain.
 
-```text
+```
 yarn start asgard.json ## bifrost parachain
 ```
 
@@ -136,7 +138,7 @@ nmp is another option，but the version of polkadot-lunnch  might be old:
 
 {% embed url="https://www.npmjs.com/package/polkadot-launch" %}
 
-```text
+```
 npm i polkadot-launch -g 
 polkadot-launch config.json
 ```
@@ -144,6 +146,4 @@ polkadot-launch config.json
 bifrost-launch is a clone of polkadot-launch with some modifications:
 
 {% embed url="https://github.com/bifrost-finance/bifrost-launch.git" %}
-
-
 

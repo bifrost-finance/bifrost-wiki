@@ -1,4 +1,10 @@
-# Asgard
+# Bifrost-Asgard Test Network
+
+## Dashboard & Explorer
+
+[https://dash.bifrost.finance/?rpc=wss%3A%2F%2Fasgard-rpc.liebi.com%2Fws#/explorer](https://dash.bifrost.finance/?rpc=wss%3A%2F%2Fasgard-rpc.liebi.com%2Fws#/explorer)
+
+[https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fasgard-rpc.liebi.com%2Fws#/explorer](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fasgard-rpc.liebi.com%2Fws#/explorer)
 
 ## Endpoint
 
@@ -6,9 +12,7 @@
 
 ## Config
 
-{% embed url="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fasgard-rpc.liebi.com%2Fws\#/settings" caption="" %}
-
-```text
+```
 {
     "TokenSymbol":{
         "_enum":{
@@ -90,4 +94,3 @@
     }
 }
 ```
-
