@@ -2,7 +2,7 @@
 
 ## 下载编译中继链
 
-```text
+```
 git clone https://github.com/paritytech/polkadot.git
 cd polkadot
 git checkout v0.9.9-1
@@ -10,16 +10,18 @@ cargo build --release
 cargo build --release -p test-parachain-adder-collator
 ```
 
-## 下载编译 Cumulus  平行链
+下载编译 Cumulus  平行链
+-----------------
 
-```text
+```
 git clone https://github.com/paritytech/cumulus.git 
 cargo build --release
 ```
 
-## 下载编译 Bifrost 平行链
+下载编译 Bifrost 平行链
+----------------
 
-```text
+```
 git clone https://github.com/bifrost-finance/bifrost.git
 cd bifrost
 git checkout bifrost-v0.9.0
@@ -32,7 +34,7 @@ make build-all-release
 
 ## 利用  Polkadot-Launch  快速部署
 
-```text
+```
 git clone https://github.com/paritytech/polkadot-launch.git 
 cd polkadot-launch 
 mkdir bin 
@@ -46,7 +48,7 @@ yarn start config.json  ## cumulus parachain
 
 用以上方式完成 Cumulus Parachain 部署运行成功后，终结掉相关进程，然后开始部署运行Bifrost Parachain。
 
-```text
+```
 yarn start asgard.json ## bifrost parachain
 ```
 
@@ -136,16 +138,14 @@ asgard.json 文件内容如下：
 
 {% embed url="https://www.npmjs.com/package/polkadot-launch" %}
 
-```text
+```
 npm i polkadot-launch -g 
 polkadot-launch config.json
 ```
 
-也可利用 bifrost-launch 脚本程序快速部署，过程和 polkadot-launch 一样。 
+也可利用 bifrost-launch 脚本程序快速部署，过程和 polkadot-launch 一样。&#x20;
 
 {% embed url="https://github.com/bifrost-finance/bifrost-launch.git" %}
-
-
 
 
 

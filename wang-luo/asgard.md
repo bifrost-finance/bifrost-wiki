@@ -1,14 +1,18 @@
-# Asgard 测试网
+# Bifrost-Asgard 测试网络
 
-## Endpoint
+## 操作面板与区块浏览器
+
+[https://dash.bifrost.finance/?rpc=wss%3A%2F%2Fasgard-rpc.liebi.com%2Fws#/explorer](https://dash.bifrost.finance/?rpc=wss%3A%2F%2Fasgard-rpc.liebi.com%2Fws#/explorer)
+
+[https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fasgard-rpc.liebi.com%2Fws#/explorer](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fasgard-rpc.liebi.com%2Fws#/explorer)
+
+## 端点
 
 [wss://asgard-rpc.liebi.com/ws](wss://asgard-rpc.liebi.com/ws)
 
-## Config
+## 配置
 
-{% embed url="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fasgard-rpc.liebi.com%2Fws\#/settings" %}
-
-```text
+```
 {
     "TokenSymbol":{
         "_enum":{
@@ -91,4 +95,3 @@
 }
 
 ```
-

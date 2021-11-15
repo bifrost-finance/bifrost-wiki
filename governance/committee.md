@@ -1,36 +1,46 @@
-# 投票与治理细则
+# 投票治理示例
 
-## 示例1：Zenlink-Asgard 治理 <a id="Zenlink-Asgard-&#x6CBB;&#x7406;&#x6D4B;&#x8BD5;&#x6587;&#x6863;"></a>
+## 公投提案：删除 Sudo 权限 <a href="1-gong-tou-ti-an-salp-zheng-shi-shang-xian-bifrost-sheng-ji-v090" id="1-gong-tou-ti-an-salp-zheng-shi-shang-xian-bifrost-sheng-ji-v090"></a>
 
-Step1: 创建原像
+在前几个版本的 Runtime 升级中，Bifrost 均使用 Sudo（超级管理员权限）完成中心化的治理升级。而本次的 v0.8.5 版本升级中，Bifrost 首次开启民主公投移除 Sudo（超级管理员权限），所有 BNC 持有人均可参与此次投票以表决自己的态度。
 
-![](../.gitbook/assets/zenlink-asgard1.png)
+移除 Sudo 是 Bifrost 主网走向去中心化路径的重要里程碑事件。移除 Sudo 后，任何人均可通过质押 BNC 来提交提案，对 Bifrost 网络提出链上升级，由所有 BNC 持有人投票做出决定。
 
-Step2: 填入参数保存原像的 hash
+在下次升级中，Bifrost 将发起 v0.9.0 SALP 升级提案，升级内容将包括上线 SALP 模块与开启 vsKSM 和 vsBond 的转账。届时，用户即可通过 Bifrost Dapp 参与 Kusama 平行链竞拍的流动性质押，铸造 vsKSM & vsBond。
 
-![](../.gitbook/assets/zenlink-asgard2.png)
+### 公投内容 <a href="gong-tou-nei-rong" id="gong-tou-nei-rong"></a>
 
-Step3: 进入 council 提交 motion
+* 公投名称：删除 Sudo
+* 结束块高：#360,612
+* 投票期：48 小时
+* 执行期：即时执行
+* 提案哈希：0xb1c70d9475138dbba5631169582bca42ce18e3ca99830d4d9af7c44b7da62976
 
-![](../.gitbook/assets/zenlink-asgard3.png)
+### 如何参与投票 <a href="ru-he-can-yu-tou-piao" id="ru-he-can-yu-tou-piao"></a>
 
-Step4: 阈值请填入3人，调用 demoncracy-external proposal Majority （请注意一定是 majority，外部提案才能被技术委员会加速），提交
+1、进入 Bifrost 主网民主治理链接：[https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fbifrost-rpc.liebi.com%2Fws#/democracy](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fbifrost-rpc.liebi.com%2Fws#/democracy)
 
-![](../.gitbook/assets/zenlink-asgard4.png)
+2、在 referenda 中对 0 号提案进行投票，点击 Vote。
 
-Step5: 全票通过该 motion
+![](../.gitbook/assets/vote1.png)
 
-Step6: 在 demoncracy 中可找到外部提案，点击 fast track 加速
+3、 选择你要进行投票的地址
 
-![](../.gitbook/assets/zenlink-asgard5.png)
+![](../.gitbook/assets/vote2.png)
 
-Step7: voting period 为加速后需要多少区块的投票时间，delay 为投票通过后需要等待多少区块执行。填入相应参数后点击 fast track
+4、填入投票数量
 
-![](../.gitbook/assets/zenlink-asgard6.png)
+![](../.gitbook/assets/vote3.png)
 
-Step8: 在技术委员会中全票通过外部提案的加速
+5、选择投票的权重（锁定期越长，投票权重越大。例如：锁定 1 BNC 选择 ‘0.1x voting balance，no lockup period’ 即为 1BNC x 0.1 系数的投票量，无需锁定；每个 enactment 的锁定期为 2 天。）
 
-Step9: 等待 delay 时间结束，即可升级完成
+![](../.gitbook/assets/vote4.png)
+
+6、表决，Aye 为支持，Nay 为反对，签名并提交
+
+![](../.gitbook/assets/vote5.png)
+
+### &#x20;<a href="next-step" id="next-step"></a>
 
 
 

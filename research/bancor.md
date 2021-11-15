@@ -1,6 +1,6 @@
 # Bancor 算法
 
-  
+\
 **Bancor算法的历史**
 
 在上个世纪40年代，英国经济学家凯恩斯提出采用约30种有代表性的商品作为价值锚定发行国际货币Bancor的构想,其他国家或机构再以Bancor为价值锚定发行各自的货币。由于当时并没有去中心化的区块链系统，这一方案很难得到实际推行与实施，取而代之的是美元成为国际货币。在以太坊系统出现之后，Bancor算法才得到技术实现方面的强力支撑。
@@ -11,17 +11,15 @@
 
 ![](../.gitbook/assets/bancor.png)
 
-**Supply:**当前已释放出的 Token 总量;   **Balance:** 当前已投入的 ETH 总量; 
+**Supply:**当前已释放出的 Token 总量;   **Balance: **当前已投入的 ETH 总量;&#x20;
 
-**Price 或 Quoted Price:** 当前 1 个 Token 对应的 ETH 数量，比如 0.001; 
+**Price 或 Quoted Price: **当前 1 个 Token 对应的 ETH 数量，比如 0.001;&#x20;
 
-**CW:** 固定参数，Balance / \(Price \* Supply\)，比如 0.5; **Price \* Supply:** Token 的当前总市值。
+**CW: **固定参数，Balance / (Price \* Supply)，比如 0.5; **Price \* Supply: **Token 的当前总市值。
 
 **Bancor 初始参数设置**
 
-为了避免计算过程中出现除数为 0的情况，可以设置初始虚拟基值，比如 baseBalance = 100、baseSupply = 100\*2\*10、 CW = 0.5，将ETH = 300带入公式进行计算后，所得结果减去初始基值，可获得目前真正的数值状态。即：刚开始时的价格是 1  ETH 可兑换 10 Token，累计投入 3 倍 baseBalance 的 ETH 时，可让 Token 报价翻倍\(即:1  ETH 可兑换  5  Token\)。
-
-
+为了避免计算过程中出现除数为 0的情况，可以设置初始虚拟基值，比如 baseBalance = 100、baseSupply = 100\*2\*10、 CW = 0.5，将ETH = 300带入公式进行计算后，所得结果减去初始基值，可获得目前真正的数值状态。即：刚开始时的价格是 1  ETH 可兑换 10 Token，累计投入 3 倍 baseBalance 的 ETH 时，可让 Token 报价翻倍(即:1  ETH 可兑换  5  Token)。
 
 
 

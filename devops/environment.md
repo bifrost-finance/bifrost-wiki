@@ -4,13 +4,13 @@
 
 ## 安装 rustup
 
-```text
+```
 curl https://sh.rustup.rs -sSf | sh
 ```
 
 ## 配置 rustup
 
-```text
+```
 source ~/.cargo/env
 ```
 
@@ -18,16 +18,17 @@ source ~/.cargo/env
 
 目前采取 rustc 1.55.0-nightly 进行代码编译。
 
-```text
+```
 rustup install nightly-2021-06-16
 rustup default nightly-2021-06-16
 rustup override set nightly-2021-06-16
 rustup target add wasm32-unknown-unknown
 ```
 
-## 检验开发环境
+检验开发环境
+------
 
-```text
+```
 mkdir workspace
 cd workspace
 git clone https://github.com/bifrost-finance/bifrost.git 
@@ -36,8 +37,6 @@ git checkout bifrost-v0.9.0
 rustup show
 make run-dev
 ```
-
-
 
 
 

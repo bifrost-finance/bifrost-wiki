@@ -2,19 +2,18 @@
 
 ### BNC
 
-![](../.gitbook/assets/image%20%284%29%20%281%29.png)
+![](<../.gitbook/assets/image (4).png>)
 
-[bnc\_pack](https://raw.githubusercontent.com/bifrost-finance/design-assets/master/token_logo/bnc/BNC_Pack.zip) 
+[bnc\_pack](https://raw.githubusercontent.com/bifrost-finance/design-assets/master/token\_logo/bnc/BNC\_Pack.zip)&#x20;
 
-[在线资源](https://github.com/bifrost-finance/design-assets/tree/master/token_logo/bnc)
+[在线资源](https://github.com/bifrost-finance/design-assets/tree/master/token\_logo/bnc)
 
 
 
 ### vETH
 
-![](../.gitbook/assets/image%20%286%29%20%281%29%20%282%29%20%282%29%20%285%29%20%282%29%20%282%29.png)
+![](<../.gitbook/assets/image (6) (1) (2) (2) (5) (2).png>)
 
-[veth\_pack](https://raw.githubusercontent.com/bifrost-finance/design-assets/master/token_logo/veth/vETH_Pack.zip) 
+[veth\_pack](https://raw.githubusercontent.com/bifrost-finance/design-assets/master/token\_logo/veth/vETH\_Pack.zip)&#x20;
 
-[在线资源](https://github.com/bifrost-finance/design-assets/tree/master/token_logo/veth)
-
+[在线资源](https://github.com/bifrost-finance/design-assets/tree/master/token\_logo/veth)
