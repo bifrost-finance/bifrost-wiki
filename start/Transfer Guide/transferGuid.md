@@ -9,7 +9,7 @@ This guide assumes the user is familiar with sending tokens to the Kusama / Polk
 >* From Kusama/Polkadot, the token is **sent-to/received-from** Bifrost
 
 <div style="display:flex; justify-content:center;padding:2rem 0;">
-    <img src="/Transfer.png">
+    <img src="Transfer.png">
 </div>
 
 
@@ -26,7 +26,7 @@ This guide assumes the user is familiar with sending tokens to the Kusama / Polk
 >* Upon a successful withdrawal, the user will be able to check the balance via the Polkadot App - Kusama Accounts.
 
 <div style="display:flex; justify-content:center;padding:2rem 0;">
-    <img src="/ksm.png">
+    <img src="/Transfer Guide/ksm.png">
 </div>
 
 ---
