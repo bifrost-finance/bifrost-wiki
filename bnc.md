@@ -42,5 +42,5 @@ Bifrost Native Token（BNC）是 Bifrost 网络中的主网代币，初始总供
 
 ## 解锁
 
-![12 个月解锁图表](.gitbook/assets/WX20211103-150006@2x.png)
+![](.gitbook/assets/circulation\_update.png)
 
