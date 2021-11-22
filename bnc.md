@@ -1,6 +1,6 @@
 # 🪙 Allocation
 
-Bifrost Native Coin (BNC) is the main net Token of Bifrost, the initial total supply is 80000000.&#x20;The goal of BNC distribution is to make the Bifrost network more decentralized, build the market size of staking derivatives vToken, and incentivize the liquidity market of staking derivatives vToken. Every aspect of BNC distribution is critical to the healthy development of the Bifrost Agreement and its ecosystem.
+Bifrost Native Coin (BNC) is the main net Token of Bifrost, the initial total supply is 80000000. The goal of BNC distribution is to make the Bifrost network more decentralized, build the market size of staking derivatives vToken, and incentivize the liquidity market of staking derivatives vToken. Every aspect of BNC distribution is critical to the healthy development of the Bifrost Agreement and its ecosystem.
 
 ## Value Capture
 
@@ -11,7 +11,7 @@ Bifrost Native Coin (BNC) is the main net Token of Bifrost, the initial total su
 
 ## Incentive Model
 
-Reserved part and funds may be adjustable with the development of Bifrost, but Bifrost will not make a zero-cost airdrop and any incentive will satisfy the principle of fundamental value capture.&#x20; 50% of the tokens are reserved as incentives for the entire ecosystem to ensure that the Bifrost network can be implemented and can continue to operate in a healthy manner. Including vToken minting (incentive), PLO slot auctions, Collator incentive, Slash insurance.
+Reserved part and funds may be adjustable with the development of Bifrost, but Bifrost will not make a zero-cost airdrop and any incentive will satisfy the principle of fundamental value capture. 50% of the tokens are reserved as incentives for the entire ecosystem to ensure that the Bifrost network can be implemented and can continue to operate in a healthy manner. Including vToken minting (incentive), PLO slot auctions, Collator incentive, Slash insurance.
 
 * **vToken Minting Incentive:** vToken liquidity is the most significant value that Bifrost can offer, 22.5% of the TOTAL BNC being used to reward users who mint vToken.
 * **PLO (Parachain Lease Offering):** Successful PLO symbolizes measureless value to Bifrost network. Bifrost will release 17.5% Token in total to reward the group that helps Bifrost to participate in the PLO.
@@ -42,7 +42,4 @@ The total supply is 80,000,000 BNC, there is 50% share distributed to the **Ecos
 
 ## Unlocking
 
-![12 Months Unlock Chart](.gitbook/assets/WX20211103-150006@2x.png)
-
-
-
+![](.gitbook/assets/circulation\_update.png)
