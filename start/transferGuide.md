@@ -9,7 +9,7 @@ This guide assumes the user is familiar with sending tokens to the Kusama / Polk
 >* From Kusama/Polkadot, the token is **sent-to/received-from** Bifrost
 
 <div style="display:flex; justify-content:center;padding:2rem 0;">
-    <img src="Transfer.png">
+    <img src="../.gitbook/assets/Transfer.png">
 </div>
 
 
@@ -26,7 +26,7 @@ This guide assumes the user is familiar with sending tokens to the Kusama / Polk
 >* Upon a successful withdrawal, the user will be able to check the balance via the Polkadot App - Kusama Accounts.
 
 <div style="display:flex; justify-content:center;padding:2rem 0;">
-    <img src="ksm.png">
+    <img src="../.gitbook/assets/ksm.png">
 </div>
 
 ---
@@ -36,7 +36,7 @@ This guide assumes the user is familiar with sending tokens to the Kusama / Polk
 > 1. Use the ‘Transfer’ function in your <a href="https://bifrost.app/" style="color:blue">Bifrost.app/wallet</a>
 > 2. Input a Bifrost address and confirm the transaction.
 
- ![](transfer_tokens_1.gif)
+ ![](../.gitbook/assets/transfer_tokens_1.gif)
  
  ---
 
@@ -46,7 +46,7 @@ This guide assumes the user is familiar with sending tokens to the Kusama / Polk
 > 2. Cross-In your <b>KSM from Kusama, DOT from Polkadot, vsKSM, KUSD, KAR, BNC from Karura</b>, to your \<Bifrost address>.
 > 3. Select the token and confirm the transaction.
 
- ![](receive_token.gif)
+ ![](../.gitbook/assets/receive_token.gif)
 
 ---
 
@@ -57,4 +57,4 @@ This guide assumes the user is familiar with sending tokens to the Kusama / Polk
 > 3. Select the Kusama address for Kusama, Polkadot address for Polkadot, or Karura address for Karura
 > 4. Select token and confirm the transaction
 
- ![](send_tokens.gif)
+ ![](../.gitbook/assets/send_tokens.gif)
