@@ -1,4 +1,4 @@
-# Crowdloan Multi-signer
+# Kusama Crowdloan Multi-sig
 
 Bifrost has started the Kusama slot auction. After the bid is successful, the parachain mainnet will be officially launched. At the same time, Bifrost will launch the Kusama slot auction derivative vsKSM. Users can bid for Dapp through the Bifrost Kusama slot ([https://ksm.vtoken.io](https://ksm.vtoken.io)) minting vsKSM and vsBOND to help Bifrost complete the parachain auction.
 

@@ -1,4 +1,4 @@
-# Create BNC Account1
+# Create BNC Account
 
 ## Step 1
 

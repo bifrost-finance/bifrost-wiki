@@ -1,4 +1,4 @@
-# SALP supports Polkadot Slot Auction
+# Polkadot Crowdloan Multi-sig
 
 The deployment of SALP on Kusama is divided into two stages: before Bifrost became the Kusama parachain, the **multi-signature mode** was adopted, and after Bifrost became the Kusama parachain, the **XCM mode** was adopted. The former needs to trust that the multi-signature group is honest, and the latter is implemented through decentralized on-chain code logic, without trust assumptions. SALP on Polkadot also goes through two stages:
 
@@ -33,10 +33,62 @@ The Redeem process is divided into two situations, namely, failure of the auctio
   1. Multisig parties manually confirm the `Retire` status
   2. Execute `retire`, refund DOT to multisig address
   3. Multisig execute `batch.transfer` to Contributors’ address
+
 * Auction succeed, parachain lease expired
   1. Multisig parties manually confirm the `Retire` status
   2. Execute `retire`, withdraw DOT to multisig address
   3. Multisig execute `batch.transfer` to Bifrost (Polkadot parachain) SALP redeem pool.
+
+#### Polkadot SALP Multisig
+> **Multisig**
+**Polkadot SALP Multi-sig**
+14AMZ3gw4tRsrdp78i4MmHZ8EFbXTMfuXGQMEC3t1GoqLboH
+
+> **Polkadot SALP Auction Proxy (Only has access to execute contribute)**
+157rWWew2npLEV6Ry9jWYRsQ8hLUGHa2rWNUvYhibvUiQQ9X
+
+##### 9/14 Multisig Parties
+>**Litentry**
+12EhrWGTAEEjETcQhwvus22bYMoDC7iDsnyroD2gSdM9EsK7
+
+>**Astar**
+13pkWw1WuWj4uuKJvKBx4x5NohAPmgK8viHvZdBCzBJmgtiJ
+
+>**Polkaworld**
+12mP4sjCfKbDyMRAEyLpkeHeoYtS5USY4x34n9NMwQrcEyoh
+
+>**Subscan**
+14RYaXRSqb9rPqMaAVp1UZW2czQ6dMNGMbvukwfifi6m8ZgZ
+
+>**Manta**
+13zFC33GPqhtjAJ5VQQQJ19TDmKDZoKmev2bUBTeYnK6X8md
+
+>**Zenlink**
+14SfG4xbpjDEfsaVxGC5HmAxc4x6wcAgD9wpqqm7BzQ75h6d
+
+>**Moonbeam**
+1EXzxoEbZf6KXzBhKSfcBbtQCfoyZfZRF3EoKF3hEuvUQX8
+
+>**Qinwen-Web3 Foundation**
+167rjWHghVwBJ52mz8sNkqr5bKu5vpchbc9CBoieBhVX714h
+
+>**Yaoqi**
+14mwSGdhdrAA3pGoKSX1tWguFREswWucAsr7kcHbdsf7fU7Q
+
+>**Bifrost Multi-sig 1**
+12RFJKR4yuB9ADfgBvFu1JWZeCeNtiDy6i5BMrUMoWymPRPa
+
+>**Bifrost Multi-sig 2**
+131Tfsnu6vTEUubHkEPmTdATLW3NvPbNkEyvDUZw6PzabSiS
+
+>**Bifrost Multi-sig 3**
+14fYYSybeH5NM9s28YymdLc25ZWmvv9dFqdvjZ4jJrMfwgMG
+
+>**Bifrost Multi-sig 4**
+1QwHULKdy5e5WoXFMuDYvMF2xJbHi9PHjFrRpdytdrJ2DPX
+
+>**Bifrost Multi-sig 5**
+12vSr9oTeyQ4rgGNEejwaBJKeWmp7TuFsFeBGwgcFkNhaVNW
 
 ## Stage 2: XCM mode
 
@@ -51,6 +103,3 @@ Although multi-signature accounts are no longer required, a multi-signature team
 ![](../.gitbook/assets/salp-xcm.png)
 
 After Polkadot's XCM version supports DMP, the multi-signature confirmation service will no longer be needed, and a totally decentralized and trustless SALP on the Bifrost-Polkadot Parachain will be realized. In short, in the development process of SALP on Polkadot, Bifrost will implement the core functions as soon as possible and gradually move towards the strategy of decentralized, step by step, to provide more parachain candidate projects and users participating in Crowdloan with safe and decentralized Liquidity release service.
-
-
-
