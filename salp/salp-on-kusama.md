@@ -5,9 +5,9 @@ Bifrost 之前已进行了 Kusama 网络的平行链插槽拍卖，中标成功�
 ### Bifrost SALP 分两大阶段实施
 
 * 阶段 1：在 Bifrost 成为 Kusama 平行链之前
-  * Realize the Crowdloan Contribute transfer of KSM through the multi-signature method, count the number of KSM votes of users on the multi-signature account on the chain, and issue vsKSM + vsBOND to the user address according to the SALP logic when the Bifrost parachain goes online.
+  * 通过多签方式实现用于 Crowdloan Contribute 的 KSM 转账，等到Bifrost平行链上线之后，发行 vsKSM + vsBOND 到对应的用户账户。
 * 阶段 2：在 Bifrost 成为 Kusama 平行链之后
-  * Realizing the Crowdloan Contribute transfer of KSM through XCMP can help other parachains to achieve fully decentralized vsKSM + vsBOND minting.
+  * 通过 XCMP 实现用于 Crowdloan Contribute 的 KSM 转账，帮助其他平行链项目方实现完全去中心化的vsKSM + vsBOND铸造过程。
 
 在 Bifrost SALP 处于阶段 1 时，用于 Crowdloan Contribute 的 KSM 是通过多签账户进行管理的。为了保障用户权益，Bifrost 联合了生态中起步较早、知名度较高的 6 个实体创建多签账户，他们分别为：MathWallet，Polkaworld，Qinwen，Subscan，Zenlink ， Bifrost Foundation （排名不分先后），以4/6签名生效的方式管理多签账户。为了避免频繁的 Crowdloan Contribute 多签操作，由多签管理方共同签名设置了代理账户，此代理账户并不具备转账权限，只用于 Crowdloan Contribute，相关信息如下：
 
