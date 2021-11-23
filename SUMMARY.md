@@ -12,6 +12,7 @@
   * [vToken](learn/vtoken.md)
   * [SLP 与 Staking 衍生品](learn/slp.md)
   * [SALP 与 Slot Auction 衍生品](learn/salp.md)
+  * [Getting supported on Bifrost SALP](learn/getting-supported-on-bifrost-salp.md)
   * [SALP on Polkadot](learn/salp-on-polkadot.md)
   * [风险控制](learn/risk.md)
   * [生态应用](learn/dapp.md)
