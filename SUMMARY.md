@@ -19,7 +19,7 @@
   * [Bifrost-Asgard 测试网络](wang-luo/asgard.md)
 * [🪙 经济](bnc.md)
 * [💸 SALP](salp/README.md)
-  * [SALP 与 Slot Auction 衍生品](salp/salp.md)
+  * [SALP 与插槽竞拍](salp/salp.md)
   * [SALP on Kusama](salp/salp-on-kusama.md)
   * [SALP on Polkadot](salp/salp-on-polkadot.md)
   * [SALP 操作流程](salp/salp-cao-zuo-liu-cheng.md)
