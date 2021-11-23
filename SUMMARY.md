@@ -20,6 +20,7 @@
 * [🪙 经济](bnc.md)
 * [💸 SALP](salp/README.md)
   * [SALP 与 Slot Auction 衍生品](salp/salp.md)
+  * [SALP on Kusama](salp/salp-on-kusama.md)
   * [SALP on Polkadot](salp/salp-on-polkadot.md)
   * [SALP 操作流程](salp/salp-cao-zuo-liu-cheng.md)
 * [🔐 质押](zhi-ya.md)
