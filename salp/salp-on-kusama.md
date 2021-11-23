@@ -29,7 +29,7 @@ Bifrost Foundation: EcpCHPVabccG59mVG21JkdJR5LHfmdf5BTR88t525wX9VBb
 
 ### 多签管理方的职责
 
-1. Confirm that the Proxy added by the multi-signature address is Bifrost Crowdloan Proxy.
-2. Ensure that the multi-signature address complies with the vsKSM business logic for Crowdloan `contribute` and `withdraw`
-3. Ensure that the transfer amount of the multi-signature address is taken over by SALP pallet account
-4. When the Kusama slot bid is unsuccessful, the multi-signature address is guaranteed to successfully unlock KSM, and the multi-signature or newly set up transferable proxy will return the KSM to the voting user.
+1. 确认多签操作添加的代理账户确实为 Bifrost Crowdloan Proxy 账户；
+2. 确认多签账户遵照 vsKSM 业务逻辑 （Crowdloan `contribute` and `withdraw` ）；
+3. 确认多签账户转移的资金由SALP pallet account 接管；
+4. 竞拍插槽失败时，需确保多签账户可以回退资金到用户。
