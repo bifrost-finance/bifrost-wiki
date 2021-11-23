@@ -4,7 +4,7 @@
 
 ### 1. 通过 Web 浏览器进入到 [Bifrost Democracy](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fbifrost-rpc.liebi.com%2Fws#/democracy) <a href="1-go-to-bifrost-democracy" id="1-go-to-bifrost-democracy"></a>
 
-### 2. 递交 reimage <a href="2-submit-preimage" id="2-submit-preimage"></a>
+### 2. 递交 Preimage <a href="2-submit-preimage" id="2-submit-preimage"></a>
 
 ![](https://hackmd.io/\_uploads/r1uF1WhSF.png)
 
@@ -22,7 +22,7 @@
 8. Submit preimage
 ```
 
-### 4. 递交 roposal <a href="4-submit-proposal" id="4-submit-proposal"></a>
+### 4. 递交 Proposal <a href="4-submit-proposal" id="4-submit-proposal"></a>
 
 ![](https://hackmd.io/\_uploads/BJaAY-nBt.png)
 
