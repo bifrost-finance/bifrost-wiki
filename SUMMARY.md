@@ -13,6 +13,7 @@
   * [Cross-chain Bifrost & Karura](start/send-tokens-from-bifrost-to-karura.md)
   * [Staking Liquid Protocol (SLP)](start/slp.md)
   * [Slot Auction Liquid Protocol (SALP)](start/salp.md)
+  * [Getting supported on Bifrost SALP](start/getting-supported-on-bifrost-salp.md)
   * [Risk Control](start/risk.md)
   * [Ecosystem](start/dapps.md)
 * [🎆 Networks](network/README.md)
