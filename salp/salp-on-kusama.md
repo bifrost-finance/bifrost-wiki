@@ -1,15 +1,15 @@
 # SALP on Kusama
 
-Bifrost has started the Kusama slot auction. After the bid is successful, the parachain mainnet will be officially launched. At the same time, Bifrost will launch the Kusama slot auction derivative vsKSM. Users can bid for Dapp through the Bifrost Kusama slot ([https://ksm.vtoken.io](https://ksm.vtoken.io)) minting vsKSM and vsBOND to help Bifrost complete the parachain auction.
+Bifrost 之前已进行了 Kusama 网络的平行链插槽拍卖，中标成功后，Bifrost 平行链主网正式上线。同时 Bifrost 推出了 Kusama 插槽拍卖衍生品 vsKSM。用户通过 Bifrost Kusama 插槽（[https://ksm.vtoken.io](https://ksm.vtoken.io)）铸造 vsKSM 和 vsBOND 来竞标，并帮助 Bifrost 完成了平行链拍卖。
 
-### Bifrost SALP will be launched in two phases
+### Bifrost SALP 分两大阶段实施
 
-* \*\*Phase 1: Before Bifrost become a Kusama Parachain \*\*
+* 阶段 1：在 Bifrost 成为 Kusama 平行链之前
   * Realize the Crowdloan Contribute transfer of KSM through the multi-signature method, count the number of KSM votes of users on the multi-signature account on the chain, and issue vsKSM + vsBOND to the user address according to the SALP logic when the Bifrost parachain goes online.
-* \*\*Phase 2: After Bifrost became a Kusama Parachain \*\*
+* 阶段 2：在 Bifrost 成为 Kusama 平行链之后
   * Realizing the Crowdloan Contribute transfer of KSM through XCMP can help other parachains to achieve fully decentralized vsKSM + vsBOND minting.
 
-At present, Bifrost has not yet become a Kusama parachain, so it is in the\*\* Phase 1\*\* of SALP. KSM's Crowdloan Contribute transfer is realized through multi-signature. In order to protect the rights and interests of users, Bifrost has joined five ecological early builders as multi-sign parties,There are 6 members of MathWallet, Polkaworld, Qinwen, Subscan, Zenlink and Bifrost Foundation (in no particular order), use the 4/6 signature method to manage the multi-signature address Bifrost Foundation-Crowdloan. In order to avoid frequent operations of Crowdloan Contribute, multi-signature addresses Contribute will be completed through a proxy address without transfer permission.
+在 Bifrost SALP 处于阶段 1 时，用于 Crowdloan Contribute 的 KSM 是通过多签账户进行管理的。为了保障用户权益，Bifrost 联合了生态中起步较早、知名度较高的 6 个实体创建多签账户，他们分别为：MathWallet，Polkaworld，Qinwen，Subscan，Zenlink ， Bifrost Foundation （排名不分先后），以4/6签名生效的方式管理多签账户。为了避免频繁的 Crowdloan Contribute 多签操作，由多签管理方共同签名设置了代理账户，此代理账户并不具备转账权限，只用于 Crowdloan Contribute，相关信息如下：
 
 ```
 Bifrost Foundation
@@ -27,7 +27,7 @@ MathWallet: FFdDXFK1VKG5QgjvqwxdVjo8hGrBveaBFfHnWyz1MAmLL82
 Bifrost Foundation: EcpCHPVabccG59mVG21JkdJR5LHfmdf5BTR88t525wX9VBb
 ```
 
-### Responsibilities of multi-signer
+### 多签管理方的职责
 
 1. Confirm that the Proxy added by the multi-signature address is Bifrost Crowdloan Proxy.
 2. Ensure that the multi-signature address complies with the vsKSM business logic for Crowdloan `contribute` and `withdraw`
