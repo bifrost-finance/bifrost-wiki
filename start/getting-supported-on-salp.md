@@ -1,4 +1,4 @@
-# Getting supported on Bifrost SALP
+# Getting Supported On SALP
 
 If you want to offer your contributor with liquidity crowdloan, please follow the necessary steps below, pass though a democracy and get suppot from Bifrost SALP.
 
