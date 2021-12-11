@@ -20,7 +20,7 @@
   * [Summary](network/launch-1.md)
 * [🪙 Allocation](bnc.md)
 * [🔐 Staking](staking.md)
-* [💸 SALP](salp/README.md)
+* [🐋 SALP](salp/README.md)
   * [Slot Auction Liquid Protocol (SALP)](salp/salp.md)
   * [SALP for Kusama Multi-sig](salp/kusama-crowdloan-multi-sig.md)
   * [SALP for Polkadot Multi-sig](salp/polkadot-crowdloan-multi-sig.md)
