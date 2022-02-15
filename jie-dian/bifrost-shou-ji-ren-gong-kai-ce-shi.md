@@ -18,6 +18,8 @@
 
 ### 硬件要求
 
+**System: Ubuntu 20.04**
+
 * **CPU** - 4 core (3.2GHZ 以上)
 * **Memory** - 16GB
 * **Storage** - 200GB SSD
@@ -30,11 +32,11 @@
 * **委托人（Delegator）**
   1. 在 Bifrost 预生产环境 （wss://bifrost-rpc.testnet.liebi.com/ws）下创建 BNC Address
   2. 领取水龙头测试币: https://t.me/bifrost\_collator\_faucet\_bot
-  3. 进入 Bifrost Dapp 选择一个收集人进行质押
+  3. 进入 [Bifrost Dapp](https://bifrost.app) 选择一个收集人进行质押
 * **收集人（Collator）**:
   1. 在 Bifrost 预生产环境 （wss://bifrost-rpc.testnet.liebi.com/ws）下创建 BNC 地址
   2. 领取水龙头测试币: https://t.me/bifrost\_collator\_faucet\_bot
-  3. 运行收集人节点并上线：[教程](https://app.gitbook.com/o/-MVtRo-kzNuQsjkFSWnT/s/-MVzXa22j6fsQEjpS4Ht-1995411665/\~/changes/PRyAzFyPEXpb1IOcAMAO/jie-dian/yun-hang-shou-ji-ren-jie-dian)
+  3. 运行收集人节点并上线：[教程](https://wiki.bifrost.finance/v/zh/jie-dian/yun-hang-shou-ji-ren-jie-dian)
   4. 可在 [Bifrost Dapp](https://bifrost.app) / [Telemetry](https://telemetry.polkadot.io/#list/) 查看
   5. 获得委托人质押
   6. 成功出块并进入活跃收集人集，获得 Commission 奖励
