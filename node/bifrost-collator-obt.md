@@ -55,12 +55,12 @@ The Collator system has its own running cycle, **150 blocks in a round**, each r
 
 #### Glossary
 
-* **Collator** Collator runs a full node on Bifrost parachain and Kusama relay-chain, and produce the state transition proof for relay chain validators.
-* **Active set** A set of Collators who can receive commission by producing blocks, choosen by the ranking of delegating amount.
-* **Candidates** Collators who out of Active set.
-* **Collator Self-bond** Self-bond as least 50 BNC to be a Collator, continue self-bond same as delegating.
-* **Delegator** Bifrost token holders who stake tokens, vouching for specific collator candidates on the parachain.
-* **Delegate** Bond BNC Token for Bifrost Collators, receiving delegating rewards depends on the rank of Collator and delegating amount.
+* **Collator:** Collator runs a full node on Bifrost parachain and Kusama relay-chain, and produce the state transition proof for relay chain validators.
+* **Active set:** A set of Collators who can receive commission by producing blocks, choosen by the ranking of delegating amount.
+* **Candidates:** Collators who out of Active set.
+* **Collator Self-bond:** Self-bond as least 50 BNC to be a Collator, continue self-bond same as delegating.
+* **Delegator:** Bifrost token holders who stake tokens, vouching for specific collator candidates on the parachain.
+* **Delegate:** Bond BNC Token for Bifrost Collators, receiving delegating rewards depends on the rank of Collator and delegating amount.
 
 #### Collator
 
