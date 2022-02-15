@@ -16,7 +16,7 @@ The Collator Pre test facing all node service operators, individual node operato
 * **Total Rewards**: **20,000 BNC (Mainnet Token)** Divide the mainnet BNC rewards according to the number of test BNC obtained in this event.
 * **Reward Query**: **Reward Leaderboard** Publicize on Telegram Group, interact with the faucet, enter `/top` to query the top 30 rankings, `/rank` to query your own rewards.
 
-### Hareward Requirements
+### Hareware Requirements
 
 * **CPU** - 4 core (3.2GHZ above)
 * **Memory** - 16GB
