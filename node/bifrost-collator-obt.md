@@ -1,21 +1,5 @@
 # Bifrost Collator OBT
 
-### Objective
-
-The Collator Pre test facing all node service operators, individual node operators and Delegators, to prepare for the official launch of the decentralized Bifrost Collator. Therefore, Bifrost Fundation is offering a total of 20,000 BNC rewards for this event, which will be shared among all Collators and Delegators, and the event will last for 2 weeks.
-
-### OBT overview
-
-* **Duration** 14 days (starts from February 15th)
-* **Test BNC Faucet**: [TG Faucet](https://t.me/bifrost\_collator\_faucet\_bot) Each TG account can claim 25 BNC in every 12 hours.
-
-\***Please note that all "BNC" mentioned in this article are under Bifrost Pre environment, not formal mainnet Token, except for the 20,000 BNC in the "Rewards" section.**
-
-### Event Rewards
-
-* **Total Rewards**: **20,000 BNC (Mainnet Token)** Divide the mainnet BNC rewards according to the number of test BNC obtained in this event.
-* **Reward Query**: **Reward Leaderboard** Publicize on Telegram Group, interact with the faucet, enter `/top` to query the top 30 rankings, `/rank` to query your own rewards.
-
 ### Hareware Requirements
 
 **System: Ubuntu 20.04**
