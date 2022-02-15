@@ -1,0 +1,31 @@
+---
+description: This tutorial will guide you to delegate for collators.
+---
+
+# Bifrost Staking Tutorial
+
+## Delegating and Staking <a href="#bifrost-staking-tutorial-delegate-to-collator" id="bifrost-staking-tutorial-delegate-to-collator"></a>
+
+The following steps will guide any BNC holder to do Staking on Bifrost, delegate BNCs for Collators and receive Staking rewards. Learn more about the [Collator System and parameters](https://hackmd.io/sRRZ0-TVSuOn\_1XPSGjd7Q). (\*This tutorial was capturing under the testnet, ASG equals to Bifrost BNC on mainnet.)
+
+**Step 1**: Make sure you have BNC (claim test-BNC on [Bifrost Faucet](https://t.me/bifrost\_collator\_faucet\_bot)), go to https://bifrost.app/collator, check all Collators.
+
+**Active**: Active Collators, producing blocks and releasing Staking rewards. (The more stake a Collator has, the less reward the delegator gets, and vice versa)
+
+**Waiting**: Collator candidates, producing blocks but not releasing Staking rewards.&#x20;
+
+_Tip: For each Collator, only top 100 delegators can receive Staking rewards, the ranking relates to delegating amount._
+
+![](https://hackmd.io/\_uploads/Bkj1Rowy5.png)
+
+**Step 2**: Choose one Collator and click "delegate", confirm the minimum bonding amount and start delegating.
+
+![](https://hackmd.io/\_uploads/rkPhg3D1c.png)
+
+**Step 3**: Check your Staking data & status.
+
+![](https://hackmd.io/\_uploads/SyyrEnw19.png)
+
+**Step 4**: Unbond, revoke delegating. Click "unbond" and redeem your bondings, wait 24 rounds then you can receive it (no reward during the revoking period).
+
+![](https://hackmd.io/\_uploads/HyjId3vkq.png)

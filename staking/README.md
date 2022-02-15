@@ -1,4 +1,2 @@
 # 🔐 Staking
 
-Coming Soon...
-
