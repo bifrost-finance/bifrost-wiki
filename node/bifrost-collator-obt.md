@@ -1,5 +1,7 @@
 # Bifrost Collator OBT
 
+\*Please note that "BNC" included in this article is BNC test Token for pre-production environments.
+
 ### Hareware Requirements
 
 **System: Ubuntu 20.04**
