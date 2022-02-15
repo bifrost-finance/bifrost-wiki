@@ -18,6 +18,8 @@ The Collator Pre test facing all node service operators, individual node operato
 
 ### Hareware Requirements
 
+**System: Ubuntu 20.04**
+
 * **CPU** - 4 core (3.2GHZ above)
 * **Memory** - 16GB
 * **Storage** - 200GB SSD
@@ -34,7 +36,7 @@ The Collator Pre test facing all node service operators, individual node operato
 * **Collator**:
   1. Create a [BNC Address](../start/create.md) in the Bifrost pre-production environment (wss://bifrost-rpc.testnet.liebi.com/ws)
   2. Receive faucet test BNC: https://t.me/bifrost\_collator\_faucet\_bot
-  3. Run Collator Node & Map SessionKey: [Guidance](https://app.gitbook.com/o/-MVtRo-kzNuQsjkFSWnT/s/-MVzXa22j6fsQEjpS4Ht-887967055/\~/changes/zXrNXnVQbloUkltiwPMh/node/run-a-collator-node)
+  3. Run Collator Node & Map SessionKey: [Guidance](https://wiki.bifrost.finance/node/run-a-collator-node)
   4. Check your Collator at [Bifrost Dapp](https://bifrost.app/collator) / [Telemetry](https://telemetry.polkadot.io/#list/0x9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed)
   5. Get Delegating
   6. Successfully generate blocks and enter the active Collator set to get Commission rewards
