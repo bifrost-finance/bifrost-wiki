@@ -11,11 +11,11 @@
 
 ![](../.gitbook/assets/bancor.png)
 
-**Supply:**当前已释放出的 Token 总量;   **Balance: **当前已投入的 ETH 总量;&#x20;
+**Supply:**当前已释放出的 Token 总量;   **Balance:** 当前已投入的 ETH 总量;&#x20;
 
-**Price 或 Quoted Price: **当前 1 个 Token 对应的 ETH 数量，比如 0.001;&#x20;
+**Price 或 Quoted Price:** 当前 1 个 Token 对应的 ETH 数量，比如 0.001;&#x20;
 
-**CW: **固定参数，Balance / (Price \* Supply)，比如 0.5; **Price \* Supply: **Token 的当前总市值。
+**CW:** 固定参数，Balance / (Price \* Supply)，比如 0.5; **Price \* Supply:** Token 的当前总市值。
 
 **Bancor 初始参数设置**
 

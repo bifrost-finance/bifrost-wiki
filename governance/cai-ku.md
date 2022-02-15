@@ -14,9 +14,9 @@ Bifrost 将整体延续Polkadot 和 Kusama 一致的治理机制：三院制（T
 
 实施链上治理的目标是确保大多数利益相关者始终可以控制网络。公众和议会都可以给出提案，经过全民公投，让所有 BNC 持有者按 Staking 比例决定权重做出决定。
 
-## **公共财库 **
+## **公共财库**&#x20;
 
-Bifrost 采取和 Polkadot/Kusama 类似的公共财库 (Treasury)** **机制，收归 Treasury 的费用主要包括：
+Bifrost 采取和 Polkadot/Kusama 类似的公共财库 (Treasury) **** 机制，收归 Treasury 的费用主要包括：
 
 * 交易手续费分成；
 * 各类不良行为触发的罚没金额；&#x20;
