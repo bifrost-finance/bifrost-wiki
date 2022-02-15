@@ -16,16 +16,16 @@ The following steps will guide any BNC holder to do Staking on Bifrost, delegate
 
 _Tip: For each Collator, only top 100 delegators can receive Staking rewards, the ranking relates to delegating amount._
 
-![](https://hackmd.io/\_uploads/Bkj1Rowy5.png)
+![](<../.gitbook/assets/image (8).png>)
 
-**Step 2**: Choose one Collator and click "delegate", confirm the minimum bonding amount and start delegating.
+**Step 2**: Choose one Collator and click “delegate”, confirm the minimum bonding amount and start delegating.
 
-![](https://hackmd.io/\_uploads/rkPhg3D1c.png)
+![](<../.gitbook/assets/image (6).png>)
 
 **Step 3**: Check your Staking data & status.
 
-![](https://hackmd.io/\_uploads/SyyrEnw19.png)
+![](<../.gitbook/assets/image (5).png>)
 
-**Step 4**: Unbond, revoke delegating. Click "unbond" and redeem your bondings, wait 24 rounds then you can receive it (no reward during the revoking period).
+**Step 4**: Unbond, revoke delegating. Click “unbond” and redeem your bondings, wait 24 rounds then you can receive it (no reward during the revoking period).
 
-![](https://hackmd.io/\_uploads/HyjId3vkq.png)
+![](<../.gitbook/assets/image (7).png>)
