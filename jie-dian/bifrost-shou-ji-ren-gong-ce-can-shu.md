@@ -1,4 +1,4 @@
-# Bifrost 收集人公开测试
+# Bifrost 收集人公测参数
 
 \***请注意，本文中包含 “BNC” 均为预生产环境的 BNC 测试币。**
 
@@ -23,7 +23,7 @@
   1. 在 Bifrost 预生产环境 （wss://bifrost-rpc.testnet.liebi.com/ws）下创建 BNC 地址
   2. 领取水龙头测试币: https://t.me/bifrost\_collator\_faucet\_bot
   3. 运行收集人节点并上线：[教程](https://wiki.bifrost.finance/v/zh/jie-dian/yun-hang-shou-ji-ren-jie-dian)
-  4. 可在 [Bifrost Dapp](https://bifrost.app) / [Telemetry](https://telemetry.polkadot.io/#list/) 查看
+  4. 可在 [Bifrost Dapp](https://bifrost.app) / [Telemetry](https://telemetry.polkadot.io/#list/0x9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed) 查看
   5. 获得委托人质押
   6. 成功出块并进入活跃收集人集，获得 Commission 奖励
 

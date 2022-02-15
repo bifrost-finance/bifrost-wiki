@@ -25,7 +25,7 @@
   * [SALP 操作流程](salp/salp-cao-zuo-liu-cheng.md)
 * [📍 节点](jie-dian/README.md)
   * [运行收集人节点](jie-dian/yun-hang-shou-ji-ren-jie-dian.md)
-  * [Bifrost 收集人公开测试](jie-dian/bifrost-shou-ji-ren-gong-kai-ce-shi.md)
+  * [Bifrost 收集人公测参数](jie-dian/bifrost-shou-ji-ren-gong-ce-can-shu.md)
 * [🔐 质押](zhi-ya.md)
   * [质押教程](zhi-ya/zhi-ya-jiao-cheng.md)
 * [🏗 集成](devops/README.md)
