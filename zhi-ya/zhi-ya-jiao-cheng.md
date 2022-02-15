@@ -6,7 +6,7 @@ description: 该教程旨在帮助用户熟悉 Collator 质押流程
 
 ## 委托与质押 <a href="#bifrost-staking-tutorial-delegate-to-collator" id="bifrost-staking-tutorial-delegate-to-collator"></a>
 
-以下步骤适用于任何 BNC 持有人，将你的 BNC 委托质押给收集人并获得质押奖励。了解更多关于[收集人系统和相关参数](https://hackmd.io/sRRZ0-TVSuOn\_1XPSGjd7Q)。（\*此教程截图为测试网，ASG 等同于主网 BNC）
+以下步骤适用于任何 BNC 持有人，将你的 BNC 委托质押给收集人并获得质押奖励。了解更多关于[收集人及相关参数](https://app.gitbook.com/o/-MVtRo-kzNuQsjkFSWnT/s/-MVzXa22j6fsQEjpS4Ht-1995411665/\~/changes/PRyAzFyPEXpb1IOcAMAO/jie-dian/bifrost-shou-ji-ren-gong-kai-ce-shi)。（\*此教程截图为测试网，ASG 等同于主网 BNC）
 
 **步骤 1**: 确认你拥有测试版 BNC （在 Bifrost [水龙头](https://t.me/bifrost\_collator\_faucet\_bot)领取），进入 https://bifrost.app/collator 预览所有收集人。
 
