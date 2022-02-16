@@ -8,7 +8,7 @@ description: This tutorial will guide you to delegate for collators.
 
 The following steps will guide any BNC holder to do Staking on Bifrost, delegate BNCs for Collators and receive Staking rewards. Learn more about the [Collator System and parameters](https://wiki.bifrost.finance/node/bifrost-collator-obt). (\*This tutorial was capturing under the testnet, ASG equals to Bifrost BNC on mainnet.)
 
-**Step 1**: Make sure you have BNC (claim test-BNC on [Bifrost Faucet](https://t.me/bifrost\_collator\_faucet\_bot)), go to https://bifrost.app/collator, check all Collators.
+**Step 1**: Make sure you have BNC (claim test-BNC on [Bifrost Faucet](https://t.me/bifrost\_faucet)), go to https://bifrost.app, check all Collators.
 
 **Active**: Active Collators, producing blocks and releasing Staking rewards. (The more stake a Collator has, the less reward the delegator gets, and vice versa)
 
