@@ -67,14 +67,14 @@ The Collator system has its own running cycle, **150 blocks in a round**, each r
 
 * Others
 
-| Variable                     | Parameter                                                                                |
-| ---------------------------- | ---------------------------------------------------------------------------------------- |
-| Collator entry/exit          | Entry/exit every 24 rounds                                                               |
-| Maximum Number of Delegators | Unlimited                                                                                |
-| Add Self-bond                | Effective immediately                                                                    |
-| Reduce Self-bond             | 24 rounds                                                                                |
-| Reward Distribution          | Collectors receive rewards for the first 24 rounds at the end of each round (150 blocks) |
-| Punishment                   | No Penalty                                                                               |
+| Variable                     | Parameter                                                                               |
+| ---------------------------- | --------------------------------------------------------------------------------------- |
+| Collator entry/exit          | Entry/exit every 24 rounds                                                              |
+| Maximum Number of Delegators | Unlimited                                                                               |
+| Add Self-bond                | Effective immediately                                                                   |
+| Reduce Self-bond             | 24 rounds                                                                               |
+| Reward Distribution          | Collectors receive rewards for the first 2 rounds at the end of each round (150 blocks) |
+| Punishment                   | No Penalty                                                                              |
 
 #### Delegator
 
