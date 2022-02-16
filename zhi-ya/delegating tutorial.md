@@ -8,7 +8,7 @@ description: 该教程旨在帮助用户熟悉 Collator 质押流程
 
 以下步骤适用于任何 BNC 持有人，将你的 BNC 委托质押给收集人并获得质押奖励。了解更多关于[收集人及相关参数](https://wiki.bifrost.finance/v/zh/jie-dian/bifrost-shou-ji-ren-gong-kai-ce-shi)。（\*此教程截图为测试网，ASG 等同于主网 BNC）
 
-**步骤 1**: 确认你拥有测试版 BNC （在 Bifrost [水龙头](https://t.me/bifrost\_faucet)领取），进入 https://bifrost.app/collator 预览所有收集人。
+**步骤 1**: 确认你拥有测试版 BNC （在 Bifrost [水龙头](https://t.me/bifrost\_faucet)领取），进入 https://bifrost.app **切换到 Bifrost Stage Network，** 预览所有收集人。
 
 **活跃收集人**：参与出块并释放质押奖励。（当某个活跃收集人的质押量越多，其委托人可获得的平均奖励越少，反之亦然）
 
