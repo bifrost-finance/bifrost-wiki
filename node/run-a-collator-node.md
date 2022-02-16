@@ -1,48 +1,63 @@
 # Run a Collator node
 
-### 1. Apply as Candidate
+### Download Chain Spec
 
-Extrinsic
+* Relay chain spec: [rococo-local.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/24e1cb70721c311d2d57a20757a2d8c5a7f2011e/node/service/res/stage/rococo-local.json)
+* Bifrost chain spec: [bifrost-stage.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/24e1cb70721c311d2d57a20757a2d8c5a7f2011e/node/service/res/stage/bifrost-stage.json)
 
-![](https://i.imgur.com/RqEb2kZ.png)
-
-Event
-
-![](https://i.imgur.com/Vwg6zOi.png)
-
-### 2. Run Collator Node & Map SessionKey
+### Run a Collator Node
 
 ```
-./bifrost --collator \
---chain ./bifrost-stage.json \
---keystore-path <MY_KEYSTORE_PATH> \
---base-path <MY_DATA_PATH> \
+/path/to/bifrost \
+--collator \
+--force-authoring \
+--chain </path/to/bifrost-stage.json> \
+--base-path <DATA_PATH> \
 --ws-port=9944 \
 --port=30333 \
---bootnodes /ip4/127.0.0.1/tcp/30333/p2p/12D3KooWAL7vuWmVxsqTTTMgudUbPx5txENA1VDWZvWuaEvcCE6u \
+--prometheus-external \
 --state-cache-size 0 \
 -- \
---chain ./rococo.json \
---execution wasm \
---bootnodes /ip4/127.0.0.1/tcp/30333/p2p/12D3KooWSLcgkaqd2Qvm148g6KRk7ewZ8gSHV9C27Voob6sg4wZR 
+--chain </path/to/rococo-local.json> \
+--execution wasm
 ```
 
-![](https://i.imgur.com/i9Zyphq.png)
+### Set SessionKey
 
-![](https://i.imgur.com/AMGQnJM.png)
+* **Generate SessionKey**
 
+![](https://hackmd.io/\_uploads/BktmlB9J5.png)
 
+* **Set SessionKey**
 
-### 3. Bond more by self
+![](https://hackmd.io/\_uploads/rkq8xHqyq.png)
 
-Extrinsic
+### Apply for Candidate
+
+* **extrinsic**
+
+parameters:
+
+bond: candidate bonding amount 100,000,000,000,000 (100 BNCs)
+
+candidateCount: existing candidate amount
+
+* **event**
+
+![](https://hackmd.io/\_uploads/BkL9lr91q.png)
+
+![](https://hackmd.io/\_uploads/S1fxZHqJ5.png)
+
+### Bondmore
+
+* **extrinsic**
 
 ![](https://i.imgur.com/UJzYnlO.png)
 
-Event
+* **event**
 
 ![](https://i.imgur.com/mopdIaG.png)
 
-after 2 rounds the new collator begin produce blocks and receive Rewards
+After 2 rounds the new collator begin produce blocks and receive Rewards
 
 ![](https://i.imgur.com/II2bzsn.png)
