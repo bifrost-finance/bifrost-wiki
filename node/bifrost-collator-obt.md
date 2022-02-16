@@ -18,12 +18,12 @@
 * **Delegator**
   1. Create a [BNC Address](https://wiki.bifrost.finance/start/create)
   2. Receive faucet test BNC: [https://t.me/bifrost\_faucet](https://t.me/bifrost\_faucet)
-  3. Enter Bifrost Dapp and delegate a Collator
+  3. Enter Bifrost Dapp (switch to **Bifrost Stage Network**) and delegate a Collator
 * **Collator**:
   1. Create a [BNC Address](https://wiki.bifrost.finance/start/create)
   2. Receive faucet test BNC: [https://t.me/bifrost\_faucet](https://t.me/bifrost\_faucet)
   3. Run Collator Node & Map SessionKey in the Bifrost pre-production environment (wss://bifrost-rpc.testnet.liebi.com/ws): [Guidance](https://wiki.bifrost.finance/node/run-a-collator-node)
-  4. Check your Collator at [Bifrost Dapp](https://bifrost.app/collator) / [Telemetry](https://telemetry.polkadot.io/#list/0x9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed)
+  4. Check your Collator at [Bifrost Dapp](https://bifrost.app/collator) (switch to **Bifrost Stage Network**)/ [Telemetry](https://telemetry.polkadot.io/#list/0x9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed)
   5. Get Delegating
   6. Successfully generate blocks and enter the active Collator set to get Commission rewards
 
