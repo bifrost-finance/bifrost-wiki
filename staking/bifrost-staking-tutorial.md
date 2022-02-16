@@ -12,7 +12,7 @@ The following steps will guide any BNC holder to do Staking on Bifrost, delegate
 
 **Active**: Active Collators, producing blocks and releasing Staking rewards. (The more stake a Collator has, the less reward the delegator gets, and vice versa)
 
-**Waiting**: Collator candidates, producing blocks but not releasing Staking rewards.&#x20;
+**Waiting**: Collator candidates, no Staking rewards.&#x20;
 
 _Tip: For each Collator, only top 100 delegators can receive Staking rewards, the ranking relates to delegating amount._
 
