@@ -42,11 +42,11 @@ Secret phrase:       accident lava reject dynamic good true eager ladder volume 
 
 **导入 SessionKey**
 
-![](https://hackmd.io/\_uploads/HJyohUs19.png)
+![](<../.gitbook/assets/image (14).png>)
 
 **设置 SessionKey**
 
-![](https://hackmd.io/\_uploads/r1KR38o1c.png)
+![](<../.gitbook/assets/image (12).png>)
 
 ### 申请候选收集人
 
@@ -54,25 +54,25 @@ Secret phrase:       accident lava reject dynamic good true eager ladder volume 
 
 参数:
 
-bond: 候选人质押 BNC 数量, 100,000,000,000,000 (100 BNCs)
+bond: 候选人质押 BNC 数量, 50000000000000 (50 BNCs)
 
 candidateCount: 已有候选人数量&#x20;
 
+![](<../.gitbook/assets/image (10).png>)
+
 * **event**
 
-![](https://hackmd.io/\_uploads/BkL9lr91q.png)
-
-![](https://hackmd.io/\_uploads/S1fxZHqJ5.png)
+![](<../.gitbook/assets/image (5).png>)
 
 ### 增加自质押（BondMore）
 
 * **extrinsic**
 
-![](https://i.imgur.com/UJzYnlO.png)
+![](<../.gitbook/assets/image (9).png>)
 
 * **event**
 
-![](https://i.imgur.com/mopdIaG.png)
+![](<../.gitbook/assets/image (13).png>)
 
 等待两轮后新的 Collator 将开始出块并收到奖励
 
