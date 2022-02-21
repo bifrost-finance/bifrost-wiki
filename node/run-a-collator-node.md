@@ -42,11 +42,11 @@ Secret phrase:       accident lava reject dynamic good true eager ladder volume 
 
 **Insert SessionKey**
 
-![](https://hackmd.io/\_uploads/HJyohUs19.png)
+![](<../.gitbook/assets/image (5).png>)
 
 **Set SessionKey**&#x20;
 
-![](https://hackmd.io/\_uploads/r1KR38o1c.png)
+![](<../.gitbook/assets/image (8).png>)
 
 ### Apply for Candidate
 
@@ -54,25 +54,25 @@ Secret phrase:       accident lava reject dynamic good true eager ladder volume 
 
 parameters:
 
-bond: candidate bonding amount 100,000,000,000,000 (100 BNCs)
+bond: candidate bonding amount 50,000,000,000,000 (50 BNCs)
 
 candidateCount: existing candidate amount
 
+![](<../.gitbook/assets/image (9).png>)
+
 * **event**
 
-![](https://hackmd.io/\_uploads/BkL9lr91q.png)
-
-![](https://hackmd.io/\_uploads/S1fxZHqJ5.png)
+![](<../.gitbook/assets/image (10).png>)
 
 ### Bondmore
 
 * **extrinsic**
 
-![](https://i.imgur.com/UJzYnlO.png)
+![](<../.gitbook/assets/image (7).png>)
 
 * **event**
 
-![](https://i.imgur.com/mopdIaG.png)
+![](<../.gitbook/assets/image (6).png>)
 
 After 2 rounds the new collator begin produce blocks and receive Rewards
 
