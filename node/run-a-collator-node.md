@@ -34,7 +34,7 @@ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method":
 
 **Set SessionKey**&#x20;
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 ### Apply for Candidate
 
@@ -46,22 +46,12 @@ bond: candidate bonding amount 100,000,000,000,000 (100 BNCs)
 
 candidateCount: existing candidate amount
 
-![](<../.gitbook/assets/image (9).png>)
-
-* **event**
-
-![](<../.gitbook/assets/image (10).png>)
-
-### Bondmore
-
-* **extrinsic**
-
 ![](<../.gitbook/assets/image (7).png>)
 
 * **event**
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (8).png>)
 
-After 2 rounds the new collator begin produce blocks and receive Rewards
+If the total amount of Total Bonded is in the top 16, after 2 rounds, the new Collator can start to generate blocks and receive rewards.
 
 ![](https://i.imgur.com/II2bzsn.png)
