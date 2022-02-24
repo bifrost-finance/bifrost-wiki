@@ -40,6 +40,18 @@ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method":
 
 ![](<../.gitbook/assets/image (11).png>)
 
+### Receive test-BNC
+
+* Bifrost Faucet: [https://t.me/bifrost\_faucet](https://t.me/bifrost\_faucet)
+
+!drip \<address>- Send 110 BNC to your address.
+
+!top - Top 30 with the most delegate or collator rewards.&#x20;
+
+!rank \<address>- Rank and rewards obtained by.&#x20;
+
+!help - show all commends
+
 ### Apply for Candidate
 
 * **extrinsic**
