@@ -13,6 +13,10 @@
 
 **Tip**: CPU frequency lower than 3.2GHZ may affect the normal block generation of collator. Storage recommends using an SSD that supports the NVMe protocol.
 
+### Operating System
+
+`Ubuntu 20.04.3 LTS`
+
 ### Operating Procedures
 
 * **Delegator**
