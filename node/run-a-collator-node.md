@@ -2,8 +2,10 @@
 
 ### Download Chain Spec
 
-* Relay chain spec: [rococo-local.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/24e1cb70721c311d2d57a20757a2d8c5a7f2011e/node/service/res/stage/rococo-local.json)
-* Bifrost chain spec: [bifrost-stage.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/24e1cb70721c311d2d57a20757a2d8c5a7f2011e/node/service/res/stage/bifrost-stage.json)
+* Relay chain spec: [rococo-local.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/2d0e2535752c886f8afe3bfd62ed847e8b3f5493/node/service/res/stage/rococo-local.json)
+* Bifrost chain spec: [bifrost-stage.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/2d0e2535752c886f8afe3bfd62ed847e8b3f5493/node/service/res/stage/bifrost-stage.json)
+* [Bifrost Binary](https://github.com/bifrost-finance/bifrost/releases/download/v0.9.30-rc5/bifrost)
+* [Bifrost Source Code](https://github.com/bifrost-finance/bifrost/releases/download/v0.9.30-rc5/bifrost)
 
 ### Run a Collator Node
 
