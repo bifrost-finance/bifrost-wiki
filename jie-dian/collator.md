@@ -39,6 +39,18 @@ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method":
 
 ![](<../.gitbook/assets/image (14).png>)
 
+### 获得测试 BNC
+
+* Bifrost 水龙头: [https://t.me/bifrost\_faucet](https://t.me/bifrost\_faucet)
+
+!drip \<address>- 发送 110 BNC 到对应地址。
+
+!top - 查询奖励排名前 30 的收集和委托。
+
+!rank \<address>- 查询地址的排名和奖励。
+
+!help - 展示所有命令。
+
 ### 申请候选收集人
 
 * **extrinsic**
