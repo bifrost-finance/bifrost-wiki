@@ -1,5 +1,9 @@
 # Run a Collator node
 
+### Bifrost Pre-production Environment:
+
+rpc：wss://bifrost-rpc.testnet.liebi.com/ws
+
 ### Download Chain Spec
 
 * Relay chain spec: [rococo-local.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/2d0e2535752c886f8afe3bfd62ed847e8b3f5493/node/service/res/stage/rococo-local.json)
