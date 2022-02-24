@@ -24,20 +24,10 @@
 
 ### Set SessionKey
 
-#### Launch subkey
-
-[https://github.com/paritytech/substrate/tree/master/bin/utils/subkey](https://github.com/paritytech/substrate/tree/master/bin/utils/subkey)
-
 #### Generate SessionKey
 
 ```
-$ subkey generate
-Secret phrase:       accident lava reject dynamic good true eager ladder volume domain about scorpion
-  Secret seed:       0xa54547f46f3b258dd136ef596d596a6ef15595b34eb37b21f409adaabbed7842
-  Public key (hex):  0xb89a4363e5b90ca10ac01dbfa081d9fd0d9fdcc9a5fdb5bb9eb6e4ba08613c1c
-  Account ID:        0xb89a4363e5b90ca10ac01dbfa081d9fd0d9fdcc9a5fdb5bb9eb6e4ba08613c1c
-  Public key (SS58): 5GEkVb4gg5C3HvCK61djnHwiVxoiLpM4gbou8VygpRSwathr
-  SS58 Address:      5GEkVb4gg5C3HvCK61djnHwiVxoiLpM4gbou8VygpRSwathr
+curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://COLLATOR_IP:9933
 ```
 
 **Insert SessionKey**
