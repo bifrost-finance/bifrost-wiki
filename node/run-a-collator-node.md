@@ -32,10 +32,6 @@
 curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://COLLATOR_IP:9933
 ```
 
-**Insert SessionKey**
-
-![](<../.gitbook/assets/image (5).png>)
-
 **Set SessionKey**&#x20;
 
 ![](<../.gitbook/assets/image (8).png>)
@@ -46,7 +42,7 @@ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method":
 
 parameters:
 
-bond: candidate bonding amount 50,000,000,000,000 (50 BNCs)
+bond: candidate bonding amount 100,000,000,000,000 (100 BNCs)
 
 candidateCount: existing candidate amount
 
