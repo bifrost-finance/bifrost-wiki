@@ -2,15 +2,16 @@
 
 ### 下载 Chain Spec
 
-* Relay chain spec: [rococo-local.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/24e1cb70721c311d2d57a20757a2d8c5a7f2011e/node/service/res/stage/rococo-local.json)
-* Bifrost chain spec: [bifrost-stage.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/24e1cb70721c311d2d57a20757a2d8c5a7f2011e/node/service/res/stage/bifrost-stage.json)
+* Relay chain spec: [rococo-local.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/2d0e2535752c886f8afe3bfd62ed847e8b3f5493/node/service/res/stage/rococo-local.json)
+* Bifrost chain spec: [bifrost-stage.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/2d0e2535752c886f8afe3bfd62ed847e8b3f5493/node/service/res/stage/bifrost-stage.json)
+* [Bifrost Binary](https://github.com/bifrost-finance/bifrost/releases/download/v0.9.30-rc5/bifrost)
+* [Bifrost Source Code](https://github.com/bifrost-finance/bifrost/releases/download/v0.9.30-rc5/bifrost)
 
 ### 运行收集人节点
 
 ```
 /path/to/bifrost \
 --collator \
---force-authoring \
 --chain </path/to/bifrost-stage.json> \
 --base-path <DATA_PATH> \
 --ws-port=9944 \
@@ -24,29 +25,15 @@
 
 ### 设置 SessionKey
 
-#### 安装 subkey
-
-[https://github.com/paritytech/substrate/tree/master/bin/utils/subkey](https://github.com/paritytech/substrate/tree/master/bin/utils/subkey)
-
-#### 生成 SessionKey
+**生成 SessionKey**
 
 ```
-$ subkey generate
-Secret phrase:       accident lava reject dynamic good true eager ladder volume domain about scorpion
-  Secret seed:       0xa54547f46f3b258dd136ef596d596a6ef15595b34eb37b21f409adaabbed7842
-  Public key (hex):  0xb89a4363e5b90ca10ac01dbfa081d9fd0d9fdcc9a5fdb5bb9eb6e4ba08613c1c
-  Account ID:        0xb89a4363e5b90ca10ac01dbfa081d9fd0d9fdcc9a5fdb5bb9eb6e4ba08613c1c
-  Public key (SS58): 5GEkVb4gg5C3HvCK61djnHwiVxoiLpM4gbou8VygpRSwathr
-  SS58 Address:      5GEkVb4gg5C3HvCK61djnHwiVxoiLpM4gbou8VygpRSwathr
+curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://COLLATOR_IP:9933
 ```
-
-**导入 SessionKey**
-
-![](<../.gitbook/assets/image (14).png>)
 
 **设置 SessionKey**
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (14).png>)
 
 ### 申请候选收集人
 
@@ -54,7 +41,7 @@ Secret phrase:       accident lava reject dynamic good true eager ladder volume 
 
 参数:
 
-bond: 候选人质押 BNC 数量, 50000000000000 (50 BNCs)
+bond: 候选人质押 BNC 数量, 100000000000000 (100 BNCs)
 
 candidateCount: 已有候选人数量&#x20;
 
@@ -62,18 +49,8 @@ candidateCount: 已有候选人数量&#x20;
 
 * **event**
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (3).png>)
 
-### 增加自质押（BondMore）
-
-* **extrinsic**
-
-![](<../.gitbook/assets/image (9).png>)
-
-* **event**
-
-![](<../.gitbook/assets/image (13).png>)
-
-等待两轮后新的 Collator 将开始出块并收到奖励
+如果 Total Bonded 总量在前 16 名，经过 2 个 Round 后，新 Collator 即可开始产生区块并收到奖励
 
 ![](https://i.imgur.com/II2bzsn.png)
