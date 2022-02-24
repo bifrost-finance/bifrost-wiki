@@ -1,5 +1,9 @@
 # 运行收集人节点
 
+### Bifrost 预生产环境
+
+rpc：wss://bifrost-rpc.testnet.liebi.com/ws
+
 ### 下载 Chain Spec
 
 * Relay chain spec: [rococo-local.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/2d0e2535752c886f8afe3bfd62ed847e8b3f5493/node/service/res/stage/rococo-local.json)
