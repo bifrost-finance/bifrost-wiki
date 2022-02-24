@@ -61,7 +61,7 @@ The Collator system has its own running cycle, **150 blocks in a round**, each r
 
 | BNC Staking Conditions                                           | Quantity  |
 | ---------------------------------------------------------------- | --------- |
-| Candidate minimum bond (self bond)                               | 50 BNC    |
+| Candidate minimum bond (self bond)                               | 100 BNC   |
 | Collator maximum bond (self bond)                                | Unlimited |
 | Minimum Total Delegating Amount for Active Collator (Delegating) | 100 BNC   |
 
