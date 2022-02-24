@@ -13,6 +13,10 @@
 
 提示：CPU 频率低于 3.2GHZ 可能会对 collator 正常出块造成影响. Storage 推荐使用支持 NVMe 协议的 SSD。
 
+### 操作系统
+
+`Ubuntu 20.04.3 LTS`
+
 ### 操作流程
 
 * **委托人（Delegator）**
