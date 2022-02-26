@@ -9,7 +9,7 @@ rpc：wss://bifrost-rpc.testnet.liebi.com/ws
 * Relay chain spec: [rococo-local.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/2d0e2535752c886f8afe3bfd62ed847e8b3f5493/node/service/res/stage/rococo-local.json)
 * Bifrost chain spec: [bifrost-stage.json](https://raw.githubusercontent.com/bifrost-finance/bifrost/2d0e2535752c886f8afe3bfd62ed847e8b3f5493/node/service/res/stage/bifrost-stage.json)
 * [Bifrost Binary](https://github.com/bifrost-finance/bifrost/releases/download/v0.9.30-rc5/bifrost)
-* [Bifrost Source Code](https://github.com/bifrost-finance/bifrost/releases/download/v0.9.30-rc5/bifrost)
+* [Bifrost Source Code](https://github.com/bifrost-finance/bifrost)
 
 ### Run a Collator Node
 
