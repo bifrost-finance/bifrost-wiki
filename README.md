@@ -10,7 +10,7 @@ vToken 可在 DeFi、DApp、DEX、CEX 等多场景下优化 Trading，通过 vTo
 
 Bifrost 作为 Polkadot/Kusama 网络的平行链,不仅能从中继链中获得共享安全性，还能同时与其他平行链进行高效的交互，并通过 Polkadot 生态的去中心化桥系统与 XCMP 跨链协议，为其他 PoS 公链上的质押资产提供流动性。
 
-![Bifrost&#x751F;&#x6001;&#x5B9A;&#x4F4D;&#x56FE;](https://cdn.liebi.com/images/wikibifrost_infographic_cn.png)
+![](.gitbook/assets/overview\_zh.png)
 
 WiKi 分为以下几个主要部分：
 
@@ -34,7 +34,6 @@ WiKi 分为以下几个主要部分：
 
 ## 🔗 相关链接
 
-🐙 [Github](https://github.com/bifrost-finance) 🕹 [DApp](https://apps.bifrost.finance/) 🎮 [Dashboard](https://dash.bifrost.finance/)
+🐙 [Github](https://github.com/bifrost-finance) 🕹 [DApp](https://apps.bifrost.finance) 🎮 [Dashboard](https://dash.bifrost.finance)
 
-🚰 [Faucet](https://t.me/bifrost_faucet) 🐦 [Twitter](https://twitter.com/bifrost_finance) 🍶 [Telegram](https://t.me/bifrost_finance)
-
+🚰 [Faucet](https://t.me/bifrost\_faucet) 🐦 [Twitter](https://twitter.com/bifrost\_finance) 🍶 [Telegram](https://t.me/bifrost\_finance)
