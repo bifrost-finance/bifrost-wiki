@@ -43,7 +43,7 @@
   * [Zenlink 模块](research/zenlink.md)
   * [WebAssembly](research/webassembly.md)
   * [问题解决教程](research/wen-ti-jie-jue-jiao-cheng/README.md)
-    * [Dapp](research/wen-ti-jie-jue-jiao-cheng/dapp.md)
+    * [Dapp 钱包连接](research/wen-ti-jie-jue-jiao-cheng/dapp-qian-bao-lian-jie.md)
 * [📢 公告](publicity/README.md)
   * [Token 分配情况](publicity/token.md)
   * [Eth2.0 存款记录](publicity/eth2.0-deposit-history.md)
