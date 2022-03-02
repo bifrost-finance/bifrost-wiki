@@ -46,6 +46,8 @@
   * [Bancor](research/bancor.md)
   * [Zenlink](research/zenlink.md)
   * [WebAssembly](research/webassembly.md)
+  * [Problem Solving Tutorial](research/problem-solving-tutorial/README.md)
+    * [Dapp wallet connection](research/problem-solving-tutorial/dapp-wallet-connection.md)
 * [📢 Publicity](publicity/README.md)
   * [Activity](publicity/activity.md)
   * [Contribute](publicity/contribute.md)
