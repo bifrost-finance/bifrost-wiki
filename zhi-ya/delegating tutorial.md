@@ -16,16 +16,16 @@ description: 该教程旨在帮助用户熟悉 Collator 质押流程
 
 _提示：对每个收集人来说，仅前 100 个委托人可以获得质押奖励，排名与质押量相关。_
 
-![](<../.gitbook/assets/image (13) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 **步骤 2**：选择一个收集人并点击 "委托"，确认最小质押量并参与委托。
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (10) (1) (1) (1).png>)
 
 **步骤 3**：检查你的质押信息和状态。
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 **步骤 4**：解绑，撤销委托。点击 “unbond” 并等待 24 轮即可收到赎回委托 （赎回期间无质押奖励）。
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (11).png>)

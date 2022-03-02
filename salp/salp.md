@@ -1,4 +1,4 @@
-# SALP 与 Slot Auction 衍生品
+# SALP 与插槽竞拍
 
 ## PLO 概述
 
@@ -8,7 +8,7 @@ Polkadot采取了中继链与平行链协同工作的设计方案。多个平行
 
 在为Staking机制提供流动性的同时，Bifrost也为那些与 Staking 资产质押机制具备较高相似度的经济模型提供流动性释放能力，为更多的DeFi生态应用场景贡献力量。PLO（Parachain Lease Offering）是 Polkadot 生态的关键经济模型之一，与 NPoS 的 Staking 机制有较高的可比性与相似度，是 Bifrost 优先考虑实现的业务之一。投资者直接进行 PLO 与通过 Bifrost 进行 PLO 的流程对比如下：
 
-![](../.gitbook/assets/PLO-111.png)
+![](../.gitbook/assets/plo-111.png)
 
 **UI: 参与 Crowdloan（竞拍平行链Slot）**
 
@@ -16,15 +16,15 @@ Polkadot采取了中继链与平行链协同工作的设计方案。多个平行
 
 
 
-![](../.gitbook/assets/PLO-Original-Users.png)
+![](../.gitbook/assets/plo-original-users.png)
 
-![](../.gitbook/assets/PLO-users.png)
+![](../.gitbook/assets/plo-users.png)
 
 ## 技术实现方案
 
 从系统设计的顶层视图看，投资者用户通过Bifrost参与平行链项目的PLO众筹活动，Contribute行为会分离解耦出两类Token资产：vsToken（vsDOT/vsKSM）与vsBond。投资者贡献x个DOTs/KSMs，可获得x个vsDOTs/vsKSMs与x个vsBond。vsToken与vsBond持有者与Bifrost的交互时序图如下：
 
-![](../.gitbook/assets/SALP-Users.png)
+![](../.gitbook/assets/salp-users.png)
 
 ### vsBond
 
@@ -48,4 +48,4 @@ vsBond 代表具体的平行链及其竞拍成功的 Lease Period 。所以 vsBo
 
 为了避免计算过程中出现除数为0的情况，系统可对Balance与Supply设置初始的虚拟基值BaseBalance与BaseSupply，用户进行兑换时，将具体数额带入公式进行计算，并将所得结果减去初始基值，即可获得最终结果。如下图所示：初始的DOT虚拟基值为BaseSupply，vsDOT与DOT的价格比例为1:1；当有3\*BaseSupply（4\*BaseSupply - 1\*BaseSupply）的DOT从Bancor池中兑换掉时，vsDOT与DOT的价格比例达到2:1。系统实现时，可选取合适的BaseSupply值，以获得合适的价格曲线。
 
-![](<../.gitbook/assets/bancor curve.png>)
+![](../.gitbook/assets/bancor-curve.png)

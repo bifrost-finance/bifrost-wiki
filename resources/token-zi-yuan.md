@@ -2,7 +2,7 @@
 
 ### BNC
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 [bnc\_pack](https://raw.githubusercontent.com/bifrost-finance/design-assets/master/token\_logo/bnc/BNC\_Pack.zip)&#x20;
 
@@ -12,7 +12,7 @@
 
 ### vETH
 
-![](<../.gitbook/assets/image (6) (1) (2) (2) (5) (2).png>)
+![](<../.gitbook/assets/image (6) (1) (2) (2) (5) (2) (1).png>)
 
 [veth\_pack](https://raw.githubusercontent.com/bifrost-finance/design-assets/master/token\_logo/veth/vETH\_Pack.zip)&#x20;
 
