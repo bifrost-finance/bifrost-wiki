@@ -20,7 +20,7 @@ _Tip: For each Collator, only top 100 delegators can receive Staking rewards, th
 
 **Step 2**: Choose one Collator and click “delegate”, confirm the minimum bonding amount and start delegating.
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
 **Step 3**: Check your Staking data & status.
 
@@ -28,4 +28,4 @@ _Tip: For each Collator, only top 100 delegators can receive Staking rewards, th
 
 **Step 4**: Unbond, revoke delegating. Click “unbond” and redeem your bondings, wait 24 rounds then you can receive it (no reward during the revoking period).
 
-![](<../.gitbook/assets/image (7) (1) (2).png>)
+![](<../.gitbook/assets/image (7) (1) (2) (1).png>)

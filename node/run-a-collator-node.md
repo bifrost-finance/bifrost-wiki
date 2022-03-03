@@ -38,7 +38,7 @@ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method":
 
 **Set SessionKey**&#x20;
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 ### Receive test-BNC
 
@@ -62,7 +62,7 @@ bond: candidate bonding amount 100,000,000,000,000 (100 BNCs)
 
 candidateCount: existing candidate amount
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 * **event**
 
