@@ -22,6 +22,7 @@
 * [📍 Node](node/README.md)
   * [Run a Collator node](node/run-a-collator-node.md)
   * [Bifrost Collator OBT](node/bifrost-collator-obt.md)
+  * [Bifrost Collator Mainnet](node/bifrost-collator-mainnet.md)
 * [🔐 Staking](staking/README.md)
   * [Bifrost Staking Tutorial](staking/bifrost-staking-tutorial.md)
 * [🐋 SALP](salp/README.md)
