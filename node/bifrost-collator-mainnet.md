@@ -74,7 +74,7 @@ The Collator system has its own running cycle, **600 blocks in a round**, each r
 | Add Self-bond                | Effective immediately                                                                   |
 | Reduce Self-bond             | 84 rounds                                                                               |
 | Reward Distribution          | Collectors receive rewards for the first 2 rounds at the end of each round (600 blocks) |
-| Punishment                   | No Penalty                                                                              |
+| Punishment                   | No Penalty, reward deduction if there is missing for effective block producing.         |
 
 #### Delegator
 
@@ -96,9 +96,9 @@ The Collator system has its own running cycle, **600 blocks in a round**, each r
 | Revoke Delegating                             | 84 rounds, no minimum revoke limit (no reward during the revoking period)                                         |
 | Reward automatic re-delegating                | Not available yet                                                                                                 |
 
-#### Collator Pre incentive ratio (test Token)
+#### Collator Pre incentive ratio
 
-| Total 800,000 test BNC/Year | Proportion |
-| --------------------------- | ---------- |
-| Collator Commission         | 10%        |
-| Delegator                   | 90%        |
+| Total 800,000 BNC/Year | Proportion |
+| ---------------------- | ---------- |
+| Collator Commission    | 10%        |
+| Delegator              | 90%        |
