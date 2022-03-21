@@ -22,11 +22,11 @@
 
 2.在设置中点击管理网站授权按钮
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (2).png>)
 
 3.找到 bifrost.app 把禁用修改为允许
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 4.刷新 Bifrost Dapp 页面重新尝试连接
 
@@ -44,7 +44,7 @@
 
 2.在弹出的设置面板将地址类型修改为允许所有链使用
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 #### 根据以下步骤取消隐藏地址设置：
 
