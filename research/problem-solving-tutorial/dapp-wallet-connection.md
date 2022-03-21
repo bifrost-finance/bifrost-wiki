@@ -1,7 +1,3 @@
----
-description: app
----
-
 # Dapp wallet connection
 
 
@@ -24,7 +20,7 @@ description: app
 
 1. Click the browser wallet extension icon to call up the panel, and click the settings icon in the upper right corner
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 &#x20;2\. Click the "Manage Website Access" button in the settings
 
@@ -46,7 +42,7 @@ description: app
 
 1. Click the browser wallet plugin icon to call up the panel and click the option button to the right of the address
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 &#x20;2\. In the entension settings panel, change the address type to allow all chains to use
 
