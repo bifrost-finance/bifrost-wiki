@@ -96,9 +96,29 @@ The Collator system has its own running cycle, **600 blocks in a round**, each r
 | Revoke Delegating                             | 84 rounds, no minimum revoke limit (no reward during the revoking period)                                         |
 | Reward automatic re-delegating                | Not available yet                                                                                                 |
 
-#### Collator Pre incentive ratio
+#### Collator incentive ratio
 
 | Total 800,000 BNC/Year | Proportion |
 | ---------------------- | ---------- |
 | Collator Commission    | 10%        |
 | Delegator              | 90%        |
+
+#### Reward Calculation
+
+Bifrost network reserved 5% (4,000,000 BNC) of total issurance to incentivize Collator mechanism for 5 years (800,000 BNC/year), with no inflation. The reward for each Round is a fixed 180 BNC. The reward calculation method is as follows.
+
+According to the incentive ratio, the reward for each block is:
+
+`Collator:`` `<mark style="color:blue;">`180/600*10% = 0.03 BNC`</mark>
+
+`Delegator:`` `<mark style="color:blue;">`180/600*90% = 0.27 BNC`</mark>
+
+If a collector's total delegating amount is 100,000 BNC and it is in the 64 Active Collator set for the whole year, the average revenue of the Collator is:
+
+`Collating Reward:`` `<mark style="color:blue;">`800,000 x 10% / 64 = 1,250 BNC`</mark>
+
+`Self-bond delegating Reward:`` `<mark style="color:blue;">`800,000 x 90% / 64 x 5,000/100,000 = 562.5 BNC`</mark>
+
+`Total Revenue:`` `<mark style="color:blue;">`1,250 + 562.5 = 1,812.5 BNC`</mark>
+
+`APR:`` `<mark style="color:blue;">`1,812.5/5,000 = 36.25%`</mark>
