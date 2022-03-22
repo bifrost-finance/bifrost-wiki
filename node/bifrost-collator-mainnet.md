@@ -69,7 +69,7 @@ The Collator system has its own running cycle, **600 blocks in a round**, each r
 
 | Variable                     | Parameter                                                                               |
 | ---------------------------- | --------------------------------------------------------------------------------------- |
-| Collator entry/exit          | Entry/exit every 84 rounds                                                              |
+| Collator exit                | 84 rounds                                                                               |
 | Maximum Number of Delegators | Unlimited                                                                               |
 | Add Self-bond                | Effective immediately                                                                   |
 | Reduce Self-bond             | 84 rounds                                                                               |
