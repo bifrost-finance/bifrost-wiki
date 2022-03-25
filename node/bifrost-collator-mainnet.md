@@ -93,7 +93,7 @@ The Collator system has its own running cycle, **600 blocks in a round**, each r
 | Maximum number to delegate Collators          | 350                                                                                                               |
 | Add Delegating                                | Effective immediately                                                                                             |
 | Reduce Delegating                             | 84 rounds                                                                                                         |
-| Revoke Delegating                             | 84 rounds, no minimum revoke limit (no reward during the revoking period)                                         |
+| Revoke Delegating                             | 84 rounds, no minimum revoke limit ((staking rewards continue to be received during unbonding period)             |
 | Reward automatic re-delegating                | Not available yet                                                                                                 |
 
 #### Collator incentive ratio
