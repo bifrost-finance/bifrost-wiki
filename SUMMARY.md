@@ -50,6 +50,7 @@
   * [Problem Solving Tutorial](research/problem-solving-tutorial/README.md)
     * [Dapp wallet connection](research/problem-solving-tutorial/dapp-wallet-connection.md)
 * [📢 Publicity](publicity/README.md)
+  * [Bifrost Grant Program](publicity/bifrost-grant-program.md)
   * [Activity](publicity/activity.md)
   * [Contribute](publicity/contribute.md)
   * [Token Distribution](publicity/token.md)
