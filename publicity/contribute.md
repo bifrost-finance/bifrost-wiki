@@ -8,7 +8,7 @@
 
 * Bifrost Github link: [https://github.com/bifrost-finance](https://github.com/bifrost-finance)&#x20;
 * Bifrost Dapp link: [https://apps.vtoken.io](https://apps.vtoken.io)
-* Bifrost Dashboard: [https://dash.bifrost.finance/](https://dash.bifrost.finance)
+* Bifrost Dashboard: [https://dash.bifrost.finance/](https://dash.bifrost.finance/)
 
 #### Address & Rewards
 

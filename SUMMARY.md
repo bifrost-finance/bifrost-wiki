@@ -44,6 +44,7 @@
   * [WebAssembly](research/webassembly.md)
   * [问题解决教程](research/problem-solving-tutorial/README.md)
     * [Dapp 钱包连接](research/problem-solving-tutorial/dapp-wallet-connection.md)
+  * [System Staking](research/system-staking.md)
 * [📢 公告](publicity/README.md)
   * [Token 分配情况](publicity/token.md)
   * [Eth2.0 存款记录](publicity/eth2.0-deposit-history.md)

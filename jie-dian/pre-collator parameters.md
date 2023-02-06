@@ -22,12 +22,12 @@
 * **委托人（Delegator）**
   1. 创建 BNC Address：[教程](https://wiki.bifrost.finance/v/zh/learn/create)
   2. 领取水龙头测试币: [https://t.me/bifrost\_faucet](https://t.me/bifrost\_faucet)
-  3. 进入 [Bifrost Dapp](https://bifrost.app) 并切换到 Bifrost Stage Network 选择一个收集人进行质押
+  3. 进入 [Bifrost Dapp](https://bifrost.app/) 并切换到 Bifrost Stage Network 选择一个收集人进行质押
 * **收集人（Collator）**:
   1. 创建 BNC 地址：[教程](https://wiki.bifrost.finance/v/zh/learn/create)
   2. 领取水龙头测试币: [https://t.me/bifrost\_faucet](https://t.me/bifrost\_faucet)
   3. 在 Bifrost 预生产环境（wss://bifrost-rpc.testnet.liebi.com/ws）中运行收集人节点并上线：[教程](https://wiki.bifrost.finance/v/zh/jie-dian/collator)
-  4. 在 [Bifrost Dapp](https://bifrost.app) 切换至 Bifrost Stage Network 或 [Telemetry](https://telemetry.polkadot.io/#list/0x9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed) 查看你的 Collator
+  4. 在 [Bifrost Dapp](https://bifrost.app/) 切换至 Bifrost Stage Network 或 [Telemetry](https://telemetry.polkadot.io/#list/0x9f28c6a68e0fc9646eff64935684f6eeeece527e37bbe1f213d22caa1d9d6bed) 查看你的 Collator
   5. 获得委托人质押
   6. 成功出块并进入活跃收集人集，获得 Commission 奖励
 

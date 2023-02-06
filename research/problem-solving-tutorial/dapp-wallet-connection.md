@@ -52,4 +52,4 @@
 
 2.点击地址右侧标红的小眼睛取消地址隐藏设置
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (2).png>)

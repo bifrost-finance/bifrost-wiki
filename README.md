@@ -34,6 +34,6 @@ WiKi 分为以下几个主要部分：
 
 ## 🔗 相关链接
 
-🐙 [Github](https://github.com/bifrost-finance) 🕹 [DApp](https://apps.bifrost.finance) 🎮 [Dashboard](https://dash.bifrost.finance)
+🐙 [Github](https://github.com/bifrost-finance) 🕹 [DApp](https://apps.bifrost.finance/) 🎮 [Dashboard](https://dash.bifrost.finance/)
 
 🚰 [Faucet](https://t.me/bifrost\_faucet) 🐦 [Twitter](https://twitter.com/bifrost\_finance) 🍶 [Telegram](https://t.me/bifrost\_finance)
