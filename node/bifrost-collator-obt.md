@@ -15,7 +15,7 @@
 
 ### Operating System
 
-`Ubuntu 20.04.3 LTS`
+`Ubuntu 24.04 LTS`
 
 ### Operating Procedures
 
