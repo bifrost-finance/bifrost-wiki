@@ -2,7 +2,7 @@
 
 ### Hareware Requirements
 
-**System: Ubuntu 20.04**
+**System: Ubuntu 22.04**
 
 * **CPU** - 4 core (3.2GHZ above)
 * **Memory** - 16GB
@@ -13,7 +13,7 @@
 
 ### Operating System
 
-`Ubuntu 20.04 LTS`
+`Ubuntu 22.04 LTS`
 
 ### Operating Procedures
 
