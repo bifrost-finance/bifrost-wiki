@@ -15,7 +15,7 @@
 
 ### Operating System
 
-`Ubuntu 24.04 LTS`
+`Ubuntu 22.04 LTS`
 
 ### Operating Procedures
 
