@@ -5,6 +5,7 @@
   * [目标与愿景](general/mu-biao-yu-yuan-jing.md)
   * [立足于 Polkadot 生态](general/li-zu-yu-polkadot-sheng-tai.md)
   * [发展路线](general/roadmap.md)
+  * [vToken 开发者计划](general/vtoken-kai-fa-zhe-ji-hua.md)
 * [📖 开始](learn/README.md)
   * [参与者角色](learn/participant.md)
   * [创建 BNC 账户](learn/create.md)
