@@ -70,6 +70,8 @@ Check all ETH deposit rewards at [here](https://wiki.bifrost.finance/learn/libra
 
 ### vETH 2.0 (price appreciating mechanism)
 
+vETH 2.0 contract address: [https://etherscan.io/token/0x4Bc3263Eb5bb2Ef7Ad9aB6FB68be80E43b43801F](https://etherscan.io/token/0x4Bc3263Eb5bb2Ef7Ad9aB6FB68be80E43b43801F)
+
 Since Ethereum Shanghai/Capella upgrade launched in Ethereum Beason Chain, this Ethereum Improvement Proposal enables rewards to be automatically withdrawn to the execution layer, and also provides a way for exited validators to unlock their entire balance.
 
 vETH 2.0 is a new contract which includes some major functions:
