@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224.242431640625 245.45452880859375" width="224.242431640625" height="245.45452880859375">
+  <!-- svg-source:excalidraw -->
+  <!-- payload-type:application/vnd.excalidraw+json --><!-- payload-version:2 --><!-- payload-start -->eyJ2ZXJzaW9uIjoiMSIsImVuY29kaW5nIjoiYnN0cmluZyIsImNvbXByZXNzZWQiOnRydWUsImVuY29kZWQiOiJ4nGVSTY/bIFx1MDAxNLznV1jea+XFNtg4x2576KFRpVx1MDAxY9qq6oE1xEZmXHUwMDAxXHUwMDAx3iRd5b9cdTAwMTdIarwpXHUwMDA3JGbex7zHvG2yLHdnzfJtlrNTT1x1MDAwNKeGXHUwMDFj81x1MDAwZlx1MDAwMX9lxnIlPVXFt1Wz6WPk6Jy228dHonUxcPes1FT06uWaxlx1MDAwNHth0llcdTAwMWb4y7+z7C3eq0aG9Y7IQbCYXHUwMDEwqVUvdFx1MDAwZu6UjG0xxrCtK4CXXHUwMDAwbj/5bo5Rz1x1MDAxZYiwLDFcdTAwMDHKj+M3M1L59eduot2O/IBP+qRT01x1MDAwM1x1MDAxN2LvzuI6XHUwMDEz6cfZrCRZZ9TEvnPqRs+Xd/iSZ5XfWcoyalx1MDAxZUbJrH2XozTpuTtcdTAwMDdcZoBcdTAwMDW97mCbJeTkX6iFXHUwMDA1glxilnXXgs5PvLAhv+raXHUwMDAylbirmqZcdTAwMDJcdTAwMTDX8E7Xk1x1MDAxMspcdTAwMDRdXHUwMDBmIJ6k7Jn00+DlSbrEOEOk1cT470pxx9vEvnxRwVxu1mVcdTAwMDNBs/qWkfFhdCGiQoVcdTAwMTeKKoxcdTAwMDFGXd2mXHUwMDE4y+KnlCVCTVx1MDAwM+Dqz4JcdTAwMDT9hUZ7/F6vTdLb2v75JTmmviGXNEyI/7xyWio1a0quliibXHUwMDE2l21cdTAwMDdcdTAwMWHg74VcdTAwMTdcXE6elLNcdTAwMTBcdFP9lFxcXHUwMDE00Yu/Y9Hcu3zvfMlFmp+B0z3/w96VyV85O378f8lcdTAwMGaHePLNTX+wXHUwMDFki3NeNpe/XHUwMDBmZuWgIn0=<!-- payload-end -->
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@0.14.2/dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@0.14.2/dist/excalidraw-assets/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="224.242431640625" height="245.45452880859375" fill="#ffffff"/><g stroke-linecap="round" transform="translate(10 10) rotate(0 102.1212158203125 112.72726440429688)"><path d="M32 0 M32 0 C83.94 1.04, 135.9 -1.39, 172.24 0 M32 0 C83.29 -1.57, 134.7 -1.48, 172.24 0 M172.24 0 C192.72 -1.25, 204.35 8.98, 204.24 32 M172.24 0 C191.54 -1.74, 204.84 11.49, 204.24 32 M204.24 32 C203.67 70.91, 203.46 112.96, 204.24 193.45 M204.24 32 C202.42 83.48, 203.3 134.76, 204.24 193.45 M204.24 193.45 C205.18 212.96, 191.86 225.3, 172.24 225.45 M204.24 193.45 C203.26 215.09, 191.52 227.67, 172.24 225.45 M172.24 225.45 C119.82 225.51, 64.49 222.86, 32 225.45 M172.24 225.45 C120.31 224.6, 69.06 225.26, 32 225.45 M32 225.45 C10 223.92, 1.41 215.19, 0 193.45 M32 225.45 C9.81 227.24, -1.48 212.51, 0 193.45 M0 193.45 C0.41 148.34, 0.15 103.96, 0 32 M0 193.45 C-1.69 133.78, -1.37 74.65, 0 32 M0 32 C-0.37 10.16, 10.76 1.28, 32 0 M0 32 C1.09 9.09, 9.2 1.96, 32 0" stroke="#000000" stroke-width="1" fill="none"/></g></svg>
