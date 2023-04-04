@@ -10,7 +10,7 @@ Read more about [Polkadot Technical Committee](https://wiki.polkadot.network/doc
 
 During the POA stage of BIfrost council, there are currently 3 Technical Committee members from Bifrost team:
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ### **Technical Committee Parameter**
 

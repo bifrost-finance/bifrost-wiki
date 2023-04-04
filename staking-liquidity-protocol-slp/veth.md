@@ -58,6 +58,9 @@ Since Bifrost is a decentralised cross chain Liquid Staking Derivative (LSD) hub
 
 ### vETH 1.0 (rebasing mechanism)
 
+vETH 1.0 contract address:\
+[https://etherscan.io/token/0xc3d088842dcf02c13699f936bb83dfbbc6f721ab](https://etherscan.io/token/0xc3d088842dcf02c13699f936bb83dfbbc6f721ab)
+
 vETH 1.0 was launched when the ETH 2.0 concept was initiated. However, it has since been replaced by ETH-PoS. At that time, the Ethereum mainnet did not support principle or reward withdrawals for staking. Therefore, the Bifrost foundation provided claimable staking rewards in advance as payment for vETH staking rewards. Thus, vETH 1.0 used a rebasing mechanism.
 
 #### vETH 1.0 Workflow:

@@ -90,7 +90,7 @@ After account bindding, a user can interact with the Bifrost network now.  The f
 1. The user calls FIL wallet to transfer certain amount of FIL to the designated account, which represents the owner account of miners.
 2. Relayer relays the cross-in info into Bifrost cross-in-out module, and the module will issue same amount of FIL to user’s bound Bifrost account.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Mint vFIL
 
