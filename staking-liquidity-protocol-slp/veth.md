@@ -49,7 +49,7 @@ Minting ETH to vETH which represents holding a representation in-locking ETH wit
 vETH represents staked ETH, but simultaneously is also a yield bearing liquid-derivative, which means it can be used in various DeFi scenarios such as liquidity provision and farming on DEXs, as well as in borrowing and lending use cases. Specifically, vETH can be deposited as a collateral asset for yield leveraging on money markets.
 
 {% hint style="success" %}
-### Cross-chain
+### Cross-chain (future development)
 {% endhint %}
 
 Since Bifrost is a decentralised cross chain Liquid Staking Derivative (LSD) hub which connects with many different chains, vETH can be crossed back to Bifrost Substrate (with [Snowfork bridge solution](https://github.com/Snowfork/snowbridge)), and it has furthermore potential to be crossed to different networks such as Ethereum, Polkadot, Kusama, Moonbeam, Astar and many other parachains. Thus, paving the way for various cross chain DeFi utility opportunities for vETH.
@@ -124,3 +124,15 @@ However, Ethereum's redemption process cannot be canceled during the redemption 
 #### Ethereum and Polkadot Bridge
 
 Bridge is a crucial link connecting Ethereum and Polkadot. This means that vETH will be able to benefit from the shared consensus security of Polkadot and interact with the numerous parallel chain ecosystems in Polkadot. To achieve this goal, we need a decentralized bridge that is compatible with both Ethereum and Polkadot consensus. Snowbridge will be our preferred solution.
+
+### vETH 2.0 Contract Address
+
+| Contract        | Address                                    |
+| --------------- | ------------------------------------------ |
+| MevVault        | 0x6b2BB0F47cB73b15F7EF421F7B4736f1c174D5b5 |
+| SLPCore         | 0x74bAA141B18D5D1eeF1591abf37167FbeCE23B72 |
+| SLPDeposit      | 0xB959Ab725D012e64D2EBDFB841e9fD9734bB0F27 |
+| vETH2           | 0x4Bc3263Eb5bb2Ef7Ad9aB6FB68be80E43b43801F |
+| vETH2Claim      | 0x8B741CacC856dadab5A2444AEB6C1ceeBd801636 |
+| WithdrawalVault | 0xFCC2ECEd3C050A1F4D9c4611dD78c9c618191d43 |
+
