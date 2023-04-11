@@ -14,6 +14,8 @@
 
 [Further Improvements](veth.md#further-improvements)
 
+[vETH 2.0 Contracts](veth.md#veth-2.0-contracts)
+
 ## What is vETH?
 
 Bifrost non-custodial liquid staking solution will let users **stake their ETH and receive vETH (voucher ETH) in exchange** . vETH is one of the voucher tokens in the Bifrost [vToken set](https://wiki.bifrost.finance/learn/mechanism/slp/vksm) , which represents the **liquid-staking derivative of staked ETH** . By using the bridge between Ethereum and Polkadot, vETH can exist in both EVM and Substrate asset formats, making it easy to move between the Polkadot and EVM ecosystems. The underlying mechanism behind vETH is run by the Bifrost Staking Liquidity Protocol (SLP) contract on Ethereum.
@@ -125,7 +127,7 @@ However, Ethereum's redemption process cannot be canceled during the redemption 
 
 Bridge is a crucial link connecting Ethereum and Polkadot. This means that vETH will be able to benefit from the shared consensus security of Polkadot and interact with the numerous parallel chain ecosystems in Polkadot. To achieve this goal, we need a decentralized bridge that is compatible with both Ethereum and Polkadot consensus. Snowbridge will be our preferred solution.
 
-### vETH 2.0 Contract Address
+## vETH 2.0 Contracts
 
 | Contract        | Address                                    |
 | --------------- | ------------------------------------------ |
