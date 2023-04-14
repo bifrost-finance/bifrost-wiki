@@ -13,4 +13,3 @@ Welcome to all the technical partners who support Bifrost! You can actively repo
 * Immunefi: [https://immunefi.com/bounty/bifrostfinance/](https://immunefi.com/bounty/bifrostfinance/)
 * BugRap: [https://bugrap.io/projects/Bifrost](https://bugrap.io/projects/Bifrost)
 
-****

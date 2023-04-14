@@ -71,6 +71,7 @@
       * [vsToken Redeem](learn/guides/dapp/vstoken-redeem.md)
     * [Ledger](learn/guides/ledger.md)
   * [Libraries](learn/libraries/README.md)
+    * [vFIL worker TX records](learn/libraries/vfil-worker-tx-records.md)
     * [XCM V3 in Bifrost](learn/libraries/xcm-v3-in-bifrost.md)
     * [ETH2.0 Deposit Records](learn/libraries/eth2.0-deposit-records.md)
     * [Substrate Builders Program](learn/libraries/substrate-builders-program.md)

@@ -170,7 +170,7 @@ In the Filecoin network, when a user transfers FIL into the vFIL contract, they 
 
 <figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
-****
+
 
 ### 2. Redeem vFIL
 

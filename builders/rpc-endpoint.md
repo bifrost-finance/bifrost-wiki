@@ -32,7 +32,7 @@ Bifrost parachain pre-production testnet
 * Kusama Relaychain Endpoint
   * Liebi: `wss://kusama-rpc.testnet.liebi.com/ws`
 * Faucet
-  * Telegram: [`https://t.me/bifrost_faucet`](https://t.me/bifrost\_faucet)``
+  * Telegram: [`https://t.me/bifrost_faucet`](https://t.me/bifrost\_faucet)
 {% endtab %}
 {% endtabs %}
 
