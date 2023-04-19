@@ -4,7 +4,7 @@
 vMOVR and vGLMR are implemented by the same logic and the same functions, but deploy in BIfrost Kusama and Polkadot parachain. Thus, this mechanism explanation takes vMOVR and vGLMR as totally the same thing to demonstrate.
 {% endhint %}
 
-## **What is vMOVR?**
+## **What is vGLMR & vMOVR?**
 
 vMOVR (voucher MOVR) is a shadow token of staked MOVR, with fully underlying MOVR reserve and yield-bearing feature of MOVR staking reward. Users can deposit MOVR into Bifrost SLP protocol and get vMOVR as return, vMOVR can be traded in the open market or be redeemed back to MOVR. Holding vMOVR equals to holding the MOVR staking position, delegating rewards appreciate the exchange price of vMOVR.
 
@@ -12,7 +12,7 @@ vMOVR (voucher MOVR) is a shadow token of staked MOVR, with fully underlying MOV
 Delegating rewards automatically add to the vMOVR exchange price, no manual claim. The longer vMOVR postion holding, the greater amount of MOVR will be exchanged back for redemption.
 {% endhint %}
 
-## Why vMOVR?
+## Why vGLMR or vMOVR?
 
 {% hint style="success" %}
 **Liquid Staking**
@@ -27,7 +27,7 @@ The product allows users to delegate MOVR for liquid vToken, (vMOVR). vMOVR will
 SLP will issue Staking rewards to vMOVR by adjusting the price of vMOVR / MOVR upwards. vMOVR Rate = SLP Staking MOVR (SUM) / vMOVR Total Issuance.
 
 {% hint style="success" %}
-**Floating redemption period, vMOVR redemption ≤ 48 hours**
+**Floating redemption period, vGLMR ≤ 168 hours, vMOVR ≤ 48 hours**
 {% endhint %}
 
 While Moonriver’s original chain Staking has a fixed 24 rounds (about 48 hours) revoke period, Bifrost SLP helps users to realize the possibility of **early vMOVR redemption** by matching the real-time vMOVR minting quantity with the redemption quantity at the protocol layer in the form of a queue.
