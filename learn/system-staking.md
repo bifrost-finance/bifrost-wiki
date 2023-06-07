@@ -44,11 +44,7 @@ The chain-level functional modules and decentralized governance DAO jointly form
 
 #### Income Distribution
 
-| Item            | Raio | Info                                                                                                                                                                                                                     |
-| --------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Treasury        | 60%  | This portion of the revenue will be entered into the Bifrost Treasury and homogenized with other treasury assets, and subsequent secondary distribution will be more reasonable and flexible through treasury governance |
-| vToken MEV      | 20%  | This portion of the revenue will be shared with all vToken holders by directly increasing the exchange rate of vToken-Token through the direct destruction of the corresponding revenue vToken                           |
-| veBNC Incentive | 20%  | This part of the profits will be directly entered into the veBNC incentive pool, following the veBNC incentive distribution principle, and incentivizing long-term holders of BNC.                                       |
+<table><thead><tr><th width="191">Item</th><th width="94.33333333333331">Raio</th><th>Info</th></tr></thead><tbody><tr><td>Treasury</td><td>60%</td><td>This portion of the revenue will be entered into the Bifrost Treasury and homogenized with other treasury assets, and subsequent secondary distribution will be more reasonable and flexible through treasury governance</td></tr><tr><td>vToken MEV</td><td>20%</td><td>This portion of the revenue will be shared with all vToken holders by directly increasing the exchange rate of vToken-Token through the direct destruction of the corresponding revenue vToken</td></tr><tr><td>veBNC Incentive</td><td>20%</td><td>This part of the profits will be directly entered into the veBNC incentive pool, following the veBNC incentive distribution principle, and incentivizing long-term holders of BNC.</td></tr></tbody></table>
 
 ## Risk assessment
 

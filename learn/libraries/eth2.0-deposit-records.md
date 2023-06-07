@@ -12,13 +12,7 @@ The parameters filled in by Bifrost are currently provided by [InfStones](https:
 
 **Multisig Parties**
 
-| Address                                    | Parties   |
-| ------------------------------------------ | --------- |
-| 0x4882328c14bb1a9a5c4F5E2B21bE345A72A1f638 | InfStones |
-| 0x0620Ca0ca30c917aB62d119E5d91A9a954d31604 | LongHash  |
-| 0x146eE71e057e6B10eFB93AEdf631Fde6CbAED5E2 | Ankr      |
-| 0x4f62839ccD37c9a41999ceDB71cc9B4E8B2eBB97 | DFG       |
-| 0xdd4bB59E9088987CbEe31cC5a8e63cD8FEC12065 | Bifrost   |
+<table data-header-hidden><thead><tr><th width="568">地址</th><th>参与方</th></tr></thead><tbody><tr><td>Address</td><td>Parties</td></tr><tr><td>0x4882328c14bb1a9a5c4F5E2B21bE345A72A1f638</td><td>InfStones</td></tr><tr><td>0x0620Ca0ca30c917aB62d119E5d91A9a954d31604</td><td>LongHash</td></tr><tr><td>0x146eE71e057e6B10eFB93AEdf631Fde6CbAED5E2</td><td>Ankr</td></tr><tr><td>0x4f62839ccD37c9a41999ceDB71cc9B4E8B2eBB97</td><td>DFG</td></tr><tr><td>0xdd4bB59E9088987CbEe31cC5a8e63cD8FEC12065</td><td>Bifrost</td></tr></tbody></table>
 
 The current parameter configuration is that any 3 of the 5 participants sign the Deposit operation to take effect.
 

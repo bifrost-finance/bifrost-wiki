@@ -51,11 +51,7 @@ The Collator system has its own running cycle, **600 blocks in a round**, each r
 
 {% tabs %}
 {% tab title="Kusama Mainnet" %}
-| Variable                                      | Parameter             |
-| --------------------------------------------- | --------------------- |
-| Leave Candidate Pool                          | 84 rounds (168 hours) |
-| Remove Nominations                            | 84 rounds (168 hours) |
-| Reward distribution (after the current round) | 2 rounds (4 hour)     |
+<table><thead><tr><th width="150">Variable</th><th>Parameter</th></tr></thead><tbody><tr><td>Leave Candidate Pool</td><td>84 rounds (168 hours)</td></tr><tr><td>Remove Nominations</td><td>84 rounds (168 hours)</td></tr><tr><td>Reward distribution (after the current round)</td><td>2 rounds (4 hour)</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Stagenet" %}

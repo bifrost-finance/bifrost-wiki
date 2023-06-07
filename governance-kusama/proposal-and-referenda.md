@@ -24,13 +24,5 @@ Some of the key parameters for this guide are the following:
 
 ### Referendum Parameter
 
-| Variable              | Value                  |
-| --------------------- | ---------------------- |
-| LaunchPeriod          | 50,400 blocks (7 days) |
-| VotingPeriod          | 50,400 blocks (7 days) |
-| EnactmentPeriod       | 14,400 blocks (2 days) |
-| CooloffPeriod         | 50,400 blocks (7 days) |
-| FastTrackVotingPeriod | 900 blocks (3 hours)   |
-| PreimageMinDeposit    | 0.0001 BNC             |
-| ProposalMinDeposit    | 100 BNC                |
+<table><thead><tr><th width="222.2541308385321">Variable</th><th>Value</th></tr></thead><tbody><tr><td>LaunchPeriod</td><td>50,400 blocks (7 days)</td></tr><tr><td>VotingPeriod</td><td>50,400 blocks (7 days)</td></tr><tr><td>EnactmentPeriod</td><td>14,400 blocks (2 days)</td></tr><tr><td>CooloffPeriod</td><td>50,400 blocks (7 days)</td></tr><tr><td>FastTrackVotingPeriod</td><td>900 blocks (3 hours)</td></tr><tr><td>PreimageMinDeposit</td><td>0.0001 BNC</td></tr><tr><td>ProposalMinDeposit</td><td>100 BNC</td></tr></tbody></table>
 

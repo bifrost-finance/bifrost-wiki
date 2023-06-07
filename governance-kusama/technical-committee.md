@@ -14,7 +14,5 @@ During the POA stage of BIfrost council, there are currently 3 Technical Committ
 
 ### **Technical Committee Parameter**
 
-| Parameters              | Value  | Description                                            |
-| ----------------------- | ------ | ------------------------------------------------------ |
-| TechnicalMotionDuration | 2 Days | The duration for Technical Committee vote on a motion. |
+<table><thead><tr><th width="258.66666666666663">Parameters</th><th>Value</th><th>Description</th></tr></thead><tbody><tr><td>TechnicalMotionDuration</td><td>2 Days</td><td>The duration for Technical Committee vote on a motion.</td></tr></tbody></table>
 

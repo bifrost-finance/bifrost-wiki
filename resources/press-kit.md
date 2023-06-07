@@ -61,3 +61,9 @@ In some other scenarios (such as project avatars, promotional pictures, social m
 [veth\_pack](https://raw.githubusercontent.com/bifrost-finance/design-assets/master/token\_logo/veth/vETH\_Pack.zip)
 
 [Online](https://github.com/bifrost-finance/design-assets/tree/master/token\_logo/veth)
+
+#### Substrate vToken
+
+<figure><img src="../.gitbook/assets/Substrate vToken.png" alt=""><figcaption></figcaption></figure>
+
+[vToken\_pack](https://cdn.liebi.com/resource/vToken\_pack.zip)

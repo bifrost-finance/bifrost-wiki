@@ -12,8 +12,6 @@ During the POA stage of BIfrost council, there are currently 3 Councillors from 
 
 ### **Council Parameter**
 
-| Variable              | Value  | Description                                     |
-| --------------------- | ------ | ----------------------------------------------- |
-| CouncilMotionDuration | 2 Days | The duration for Councillors vote on a  motion. |
+<table><thead><tr><th width="259">Variable</th><th width="189.33333333333326">Value</th><th>Description</th></tr></thead><tbody><tr><td>CouncilMotionDuration</td><td>2 Days</td><td>The duration for Councillors vote on a  motion.</td></tr></tbody></table>
 
 The council election will open at the end of 2022.

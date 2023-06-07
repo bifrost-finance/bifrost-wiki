@@ -129,12 +129,5 @@ Bridge is a crucial link connecting Ethereum and Polkadot. This means that vETH 
 
 ## vETH 2.0 Contracts
 
-| Contract        | Address                                    |
-| --------------- | ------------------------------------------ |
-| MevVault        | 0x6b2BB0F47cB73b15F7EF421F7B4736f1c174D5b5 |
-| SLPCore         | 0x74bAA141B18D5D1eeF1591abf37167FbeCE23B72 |
-| SLPDeposit      | 0xB959Ab725D012e64D2EBDFB841e9fD9734bB0F27 |
-| vETH2           | 0x4Bc3263Eb5bb2Ef7Ad9aB6FB68be80E43b43801F |
-| vETH2Claim      | 0x8B741CacC856dadab5A2444AEB6C1ceeBd801636 |
-| WithdrawalVault | 0xFCC2ECEd3C050A1F4D9c4611dD78c9c618191d43 |
+<table><thead><tr><th width="273">Contract</th><th>Address</th></tr></thead><tbody><tr><td>MevVault</td><td>0x6b2BB0F47cB73b15F7EF421F7B4736f1c174D5b5</td></tr><tr><td>SLPCore</td><td>0x74bAA141B18D5D1eeF1591abf37167FbeCE23B72</td></tr><tr><td>SLPDeposit</td><td>0xB959Ab725D012e64D2EBDFB841e9fD9734bB0F27</td></tr><tr><td>vETH2</td><td>0x4Bc3263Eb5bb2Ef7Ad9aB6FB68be80E43b43801F</td></tr><tr><td>vETH2Claim</td><td>0x8B741CacC856dadab5A2444AEB6C1ceeBd801636</td></tr><tr><td>WithdrawalVault</td><td>0xFCC2ECEd3C050A1F4D9c4611dD78c9c618191d43</td></tr></tbody></table>
 
