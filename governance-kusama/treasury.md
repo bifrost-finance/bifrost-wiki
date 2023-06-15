@@ -19,7 +19,7 @@ As the Bifrost network grows, Treasury's available balance will increase. Any co
 * software development, such as wallet, client, etc.
 
 {% hint style="info" %}
-Before submit a Treasury Proposal, we suggest the proposer create an off-chain discusstion at [Open Discusstion](open-discussion.md).
+Before submit a Treasury Proposal, we suggest the proposer create an off-chain discusstion at [Open Discusstion](https://bifrost.subsquare.io/discussions).
 {% endhint %}
 
 ### Tips
