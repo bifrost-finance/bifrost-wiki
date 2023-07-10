@@ -56,9 +56,9 @@ In some other scenarios (such as project avatars, promotional pictures, social m
 
 #### vETH
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MVzXa22j6fsQEjpS4Ht-887967055%2Fuploads%2Fgit-blob-7614bbd253e7da8bfb4cb56b08da1e91b560dc63%2Fimage%20\(6\)%20\(1\)%20\(2\)%20\(2\)%20\(5\)%20\(2\).png?alt=media)
+<figure><img src="../.gitbook/assets/vETH_64.png" alt=""><figcaption></figcaption></figure>
 
-[veth\_pack](https://raw.githubusercontent.com/bifrost-finance/design-assets/master/token\_logo/veth/vETH\_Pack.zip)
+[veth\_pack](https://cdn.liebi.com/resource/vETH\_Pack.zip)
 
 [Online](https://github.com/bifrost-finance/design-assets/tree/master/token\_logo/veth)
 

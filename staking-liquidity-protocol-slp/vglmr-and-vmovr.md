@@ -76,7 +76,7 @@ $$
 
 💡 Read more detailed info in the following sections.
 
-***
+
 
 ## SLP-vMOVR Technology Implementation
 

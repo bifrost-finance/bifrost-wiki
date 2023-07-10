@@ -12,7 +12,7 @@ This guide assumes the user is familiar with sending tokens to the Kusama / Polk
 
 ![](<../../../.gitbook/assets/image (8).png>) WARNING! Do NOT attempt direct transactions between Bifrost and other exchanges. This is not currently supported and WILL result in lost tokens.
 
-***
+
 
 How to send KSM from an exchange TO the Kusama/Polkadot relay chain
 
@@ -28,7 +28,7 @@ How to send KSM from an exchange TO the Kusama/Polkadot relay chain
 
 ![](<../../../.gitbook/assets/image (47).png>)
 
-***
+
 
 How to send tokens to another Bifrost wallet
 
@@ -45,7 +45,7 @@ How to receive tokens in Bifrost from Karura or the Kusama/Polkadot relay chain
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MVzXa22j6fsQEjpS4Ht-887967055%2Fuploads%2Fgit-blob-443aced9035617484239a2adc0b9e7812f679dfc%2Freceive\_token.gif?alt=media)
 
-***
+
 
 How to send tokens out of Bifrost to Karura or to the Kusama/Polkadot relay chain
 

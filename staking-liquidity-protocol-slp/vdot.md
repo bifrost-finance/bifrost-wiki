@@ -70,7 +70,7 @@ $$
 
 💡 Read more detailed info in the following sections.
 
-***
+
 
 ## SLP-vDOT Architecture
 
@@ -190,9 +190,9 @@ The selecting organization will evolute in 3 stages:
 
 Validator selecting or replacement is a automatic process, it depends on a score ranking which is socred by a script:
 
-****[**Validator Score Ranking**](https://docs.google.com/spreadsheets/d/13YdCMc\_bVdmy5My22mWRTC5ITwVEaRZQi4fIZGr8tSw/edit#gid=628365504)****
+[**Validator Score Ranking**](https://docs.google.com/spreadsheets/d/13YdCMc\_bVdmy5My22mWRTC5ITwVEaRZQi4fIZGr8tSw/edit#gid=628365504)
 
-****[**The Script**](https://bifrost-api-test.vercel.app/api/dapp/staking/\_refresh)****
+[**The Script**](https://bifrost-api-test.vercel.app/api/dapp/staking/\_refresh)
 
 ## Current Validator Set
 
