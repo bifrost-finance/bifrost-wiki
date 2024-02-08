@@ -43,6 +43,8 @@
     * [SLP Solidity SDK](builders/sdks/slp-solidity-sdk.md)
     * [SLP JavaScript SDK](builders/sdks/slp-javascript-sdk.md)
     * [SALP JavaScript SDK](builders/sdks/salp-javascript-sdk.md)
+  * [Indexers](builders/indexers/README.md)
+    * [SubQuery](builders/indexers/subquery.md)
 * [🦸♂ Community](community/README.md)
   * [Asgardians Onboarding Campaign](community/asgardians-onboarding-campaign.md)
   * [Asgardian Tasks](community/asgardian-tasks.md)
